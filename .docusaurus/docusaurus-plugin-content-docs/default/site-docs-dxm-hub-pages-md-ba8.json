@@ -1,0 +1,27 @@
+{
+  "unversionedId": "DXM Hub/pages",
+  "id": "DXM Hub/pages",
+  "isDocsHomePage": false,
+  "title": "Pages",
+  "description": "<meta",
+  "source": "@site/docs/DXM Hub/pages.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/pages",
+  "permalink": "/developer/docs/DXM Hub/pages",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/pages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pages",
+    "idebar_label": "Pages"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Experience",
+    "permalink": "/developer/docs/DXM Hub/exp"
+  },
+  "next": {
+    "title": "Module",
+    "permalink": "/developer/docs/DXM Hub/Module"
+  }
+}

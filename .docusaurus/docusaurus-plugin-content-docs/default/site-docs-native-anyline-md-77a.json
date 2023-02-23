@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/anyline",
+  "id": "native/anyline",
+  "isDocsHomePage": false,
+  "title": "Anyline",
+  "description": "Anyline provides an easy-to-use SDK for applications to enable Optical Character Recognition (OCR) on mobile devices.",
+  "source": "@site/docs/native/anyline.md",
+  "sourceDirName": "native",
+  "slug": "/native/anyline",
+  "permalink": "/developer/docs/native/anyline",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/anyline/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Anyline"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Android Permissions",
+    "permalink": "/developer/docs/native/android-permissions"
+  },
+  "next": {
+    "title": "App Availability",
+    "permalink": "/developer/docs/native/app-availability"
+  }
+}

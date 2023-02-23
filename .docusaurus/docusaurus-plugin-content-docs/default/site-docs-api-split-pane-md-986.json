@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/split-pane",
+  "id": "api/split-pane",
+  "isDocsHomePage": false,
+  "title": "ion-split-pane",
+  "description": "ion-split-pane: Split Plane View for Menus and Multi-View Layouts",
+  "source": "@site/docs/api/split-pane.md",
+  "sourceDirName": "api",
+  "slug": "/api/split-pane",
+  "permalink": "/developer/docs/api/split-pane",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/split-pane.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-split-pane"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-menu-toggle",
+    "permalink": "/developer/docs/api/menu-toggle"
+  },
+  "next": {
+    "title": "ion-modal",
+    "permalink": "/developer/docs/api/modal"
+  }
+}

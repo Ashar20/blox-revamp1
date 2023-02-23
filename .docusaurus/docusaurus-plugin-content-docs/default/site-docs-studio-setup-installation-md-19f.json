@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/setup/installation",
+  "id": "studio/setup/installation",
+  "isDocsHomePage": false,
+  "title": "Installing Studio",
+  "description": "The latest downloads for Ionic Studio are available in the Ionic Dashboard.",
+  "source": "@site/docs/studio/setup/installation.md",
+  "sourceDirName": "studio/setup",
+  "slug": "/studio/setup/installation",
+  "permalink": "/developer/docs/studio/setup/installation",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/setup/installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

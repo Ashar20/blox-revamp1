@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/mlkit-translate",
+  "id": "version-v5/native/mlkit-translate",
+  "isDocsHomePage": false,
+  "title": "MLKitTranslate",
+  "description": "Plugin that implements MLKit Translation and Language Identification features.",
+  "source": "@site/versioned_docs/version-v5/native/mlkit-translate.md",
+  "sourceDirName": "native",
+  "slug": "/native/mlkit-translate",
+  "permalink": "/developer/docs/v5/native/mlkit-translate",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/mlkit-translate/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "MLKitTranslate"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Mixpanel",
+    "permalink": "/developer/docs/v5/native/mixpanel"
+  },
+  "next": {
+    "title": "Mobile Messaging",
+    "permalink": "/developer/docs/v5/native/mobile-messaging"
+  }
+}

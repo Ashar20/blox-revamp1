@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/theming",
+  "id": "version-v5/studio/theming",
+  "isDocsHomePage": false,
+  "title": "Theming",
+  "description": "Manage app themes to tweak look and feel.",
+  "source": "@site/versioned_docs/version-v5/studio/theming.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/theming",
+  "permalink": "/developer/docs/v5/studio/theming",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/studio/theming.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "layout/structure",
+  "id": "version-v5/layout/structure",
+  "isDocsHomePage": false,
+  "title": "Structure",
+  "description": "Ionic Framework provides several different layouts that can be used to structure an app. From single page layouts, to split pane views and modals.",
+  "source": "@site/versioned_docs/version-v5/layout/structure.md",
+  "sourceDirName": "layout",
+  "slug": "/layout/structure",
+  "permalink": "/developer/docs/v5/layout/structure",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/layout/structure.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "initialTab": "preview"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/developer/docs/v5/developing/keyboard"
+  },
+  "next": {
+    "title": "Responsive Grid",
+    "permalink": "/developer/docs/v5/layout/grid"
+  }
+}

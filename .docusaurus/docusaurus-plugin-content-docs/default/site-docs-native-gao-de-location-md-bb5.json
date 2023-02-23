@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/gao-de-location",
+  "id": "native/gao-de-location",
+  "isDocsHomePage": false,
+  "title": "Gao De Location",
+  "description": "Because the original GPS positioning uses Google Browser positioning, and Google withdraws from China, resulting in GPS Android positioning can not be positioned.",
+  "source": "@site/docs/native/gao-de-location.md",
+  "sourceDirName": "native",
+  "slug": "/native/gao-de-location",
+  "permalink": "/developer/docs/native/gao-de-location",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/gao-de-location/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gao De Location"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "FTP",
+    "permalink": "/developer/docs/native/ftp"
+  },
+  "next": {
+    "title": "Ge Tui Sdk Plugin",
+    "permalink": "/developer/docs/native/ge-tui-sdk-plugin"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/refresher",
+  "id": "api/refresher",
+  "isDocsHomePage": false,
+  "title": "ion-refresher",
+  "description": "ion-refresher: Pull-to-Refresh Page Content on Ionic Apps",
+  "source": "@site/docs/api/refresher.md",
+  "sourceDirName": "api",
+  "slug": "/api/refresher",
+  "permalink": "/developer/docs/api/refresher",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/refresher.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-refresher"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-range",
+    "permalink": "/developer/docs/api/range"
+  },
+  "next": {
+    "title": "ion-refresher-content",
+    "permalink": "/developer/docs/api/refresher-content"
+  }
+}

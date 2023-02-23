@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/foreground-service",
+  "id": "native/foreground-service",
+  "isDocsHomePage": false,
+  "title": "Foreground Service",
+  "description": "Android Foreground Service Plugin Using Ongoing Notification",
+  "source": "@site/docs/native/foreground-service.md",
+  "sourceDirName": "native",
+  "slug": "/native/foreground-service",
+  "permalink": "/developer/docs/native/foreground-service",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/foreground-service/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Foreground Service"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Flashlight",
+    "permalink": "/developer/docs/native/flashlight"
+  },
+  "next": {
+    "title": "FTP",
+    "permalink": "/developer/docs/native/ftp"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/tab",
+  "id": "api/tab",
+  "isDocsHomePage": false,
+  "title": "ion-tab",
+  "description": "ion-tab - Ionic Framework Application Component",
+  "source": "@site/docs/api/tab.md",
+  "sourceDirName": "api",
+  "slug": "/api/tab",
+  "permalink": "/developer/docs/api/tab",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/tab.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-tab",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-tabs",
+    "permalink": "/developer/docs/api/tabs"
+  },
+  "next": {
+    "title": "ion-tab-bar",
+    "permalink": "/developer/docs/api/tab-bar"
+  }
+}

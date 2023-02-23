@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/release-notes",
+  "id": "version-v5/reference/release-notes",
+  "isDocsHomePage": false,
+  "title": "Release Notes",
+  "description": "",
+  "source": "@site/versioned_docs/version-v5/reference/release-notes.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/release-notes",
+  "permalink": "/developer/docs/v5/reference/release-notes",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/reference/release-notes.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Release Notes"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Versioning",
+    "permalink": "/developer/docs/v5/reference/versioning"
+  },
+  "next": {
+    "title": "Support Policy",
+    "permalink": "/developer/docs/v5/reference/support"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/config-get",
+  "id": "cli/commands/config-get",
+  "isDocsHomePage": false,
+  "title": "ionic config get",
+  "description": "Print config values",
+  "source": "@site/docs/cli/commands/config-get.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/config-get",
+  "permalink": "/developer/docs/cli/commands/config-get",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/config/get.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic config get",
+    "sidebar_label": "config get"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "completion",
+    "permalink": "/developer/docs/cli/commands/completion"
+  },
+  "next": {
+    "title": "config set",
+    "permalink": "/developer/docs/cli/commands/config-set"
+  }
+}

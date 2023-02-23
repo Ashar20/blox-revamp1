@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/card",
+  "id": "version-v5/api/card",
+  "isDocsHomePage": false,
+  "title": "ion-card",
+  "description": "Cards are a standard piece of UI that serves as an entry point to more detailed",
+  "source": "@site/versioned_docs/version-v5/api/card.md",
+  "sourceDirName": "api",
+  "slug": "/api/card",
+  "permalink": "/developer/docs/v5/api/card",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-card",
+    "demoUrl": "/docs/demos/api/card/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/card/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-ripple-effect",
+    "permalink": "/developer/docs/v5/api/ripple-effect"
+  },
+  "next": {
+    "title": "ion-card-content",
+    "permalink": "/developer/docs/v5/api/card-content"
+  }
+}

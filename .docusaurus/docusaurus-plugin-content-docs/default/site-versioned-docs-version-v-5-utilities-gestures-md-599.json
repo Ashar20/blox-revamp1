@@ -1,0 +1,24 @@
+{
+  "unversionedId": "utilities/gestures",
+  "id": "version-v5/utilities/gestures",
+  "isDocsHomePage": false,
+  "title": "Gestures",
+  "description": "Overview",
+  "source": "@site/versioned_docs/version-v5/utilities/gestures.md",
+  "sourceDirName": "utilities",
+  "slug": "/utilities/gestures",
+  "permalink": "/developer/docs/v5/utilities/gestures",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/utilities/gestures.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Animations",
+    "permalink": "/developer/docs/v5/utilities/animations"
+  },
+  "next": {
+    "title": "iOS App Store",
+    "permalink": "/developer/docs/v5/deployment/app-store"
+  }
+}

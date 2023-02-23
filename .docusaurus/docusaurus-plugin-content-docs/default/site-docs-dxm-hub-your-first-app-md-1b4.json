@@ -1,0 +1,18 @@
+{
+  "unversionedId": "DXM Hub/your-first-app",
+  "id": "DXM Hub/your-first-app",
+  "isDocsHomePage": false,
+  "title": "Your First Ionic App: Angular",
+  "description": "Build Your First Ionic Mobile App: Angular Development Tutorial",
+  "source": "@site/docs/DXM Hub/your-first-app.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/your-first-app",
+  "permalink": "/developer/docs/DXM Hub/your-first-app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/your-first-app.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Your First Ionic App: Angular",
+    "sidebar_label": "Enrich a catalog"
+  }
+}

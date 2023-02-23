@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Content Hub/Explore-a-catalog",
+  "id": "Content Hub/Explore-a-catalog",
+  "isDocsHomePage": false,
+  "title": "Explore a catalog",
+  "description": "<meta",
+  "source": "@site/docs/Content Hub/Explore-a-catalog.md",
+  "sourceDirName": "Content Hub",
+  "slug": "/Content Hub/Explore-a-catalog",
+  "permalink": "/developer/docs/Content Hub/Explore-a-catalog",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Explore-a-catalog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Explore a catalog",
+    "sidebar_label": "Explore a catalog"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Update a catalog",
+    "permalink": "/developer/docs/Content Hub/update-a-catalog"
+  },
+  "next": {
+    "title": "Metrics",
+    "permalink": "/developer/docs/Content Hub/Enrich/metrics"
+  }
+}

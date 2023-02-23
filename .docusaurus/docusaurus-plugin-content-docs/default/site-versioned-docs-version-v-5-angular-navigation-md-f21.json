@@ -1,0 +1,26 @@
+{
+  "unversionedId": "angular/navigation",
+  "id": "version-v5/angular/navigation",
+  "isDocsHomePage": false,
+  "title": "Angular Navigation",
+  "description": "This guide covers how routing works in an app built with Ionic and Angular.",
+  "source": "@site/versioned_docs/version-v5/angular/navigation.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/navigation",
+  "permalink": "/developer/docs/v5/angular/navigation",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/navigation.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Navigation/Routing"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Lifecycle",
+    "permalink": "/developer/docs/v5/angular/lifecycle"
+  },
+  "next": {
+    "title": "Config",
+    "permalink": "/developer/docs/v5/angular/config"
+  }
+}

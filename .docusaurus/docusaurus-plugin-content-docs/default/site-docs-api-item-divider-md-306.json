@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/item-divider",
+  "id": "api/item-divider",
+  "isDocsHomePage": false,
+  "title": "ion-item-divider",
+  "description": "Item Divider | List Item Divider Block Element for Ionic Apps",
+  "source": "@site/docs/api/item-divider.md",
+  "sourceDirName": "api",
+  "slug": "/api/item-divider",
+  "permalink": "/developer/docs/api/item-divider",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-divider.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-item-divider"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-item",
+    "permalink": "/developer/docs/api/item"
+  },
+  "next": {
+    "title": "ion-item-group",
+    "permalink": "/developer/docs/api/item-group"
+  }
+}

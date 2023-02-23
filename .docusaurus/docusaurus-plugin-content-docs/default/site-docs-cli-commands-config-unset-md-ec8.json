@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/config-unset",
+  "id": "cli/commands/config-unset",
+  "isDocsHomePage": false,
+  "title": "ionic config unset",
+  "description": "Delete config values",
+  "source": "@site/docs/cli/commands/config-unset.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/config-unset",
+  "permalink": "/developer/docs/cli/commands/config-unset",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/config/unset.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic config unset",
+    "sidebar_label": "config unset"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "config set",
+    "permalink": "/developer/docs/cli/commands/config-set"
+  },
+  "next": {
+    "title": "cordova build",
+    "permalink": "/developer/docs/cli/commands/cordova-build"
+  }
+}

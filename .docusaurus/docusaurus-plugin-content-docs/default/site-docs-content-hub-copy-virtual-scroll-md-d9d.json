@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Content Hub copy/virtual-scroll",
+  "id": "Content Hub copy/virtual-scroll",
+  "isDocsHomePage": false,
+  "title": "Virtual Scroll",
+  "description": "In the past, we have provided an ion-virtual-scroll component in Ionic Framework to help with list virtualization. At the time this was not available in Angular, but recently Angular has provided its own solution via the @angular/cdk package.",
+  "source": "@site/docs/Content Hub copy/virtual-scroll.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/virtual-scroll",
+  "permalink": "/docs/Content Hub copy/virtual-scroll",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/virtual-scroll.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

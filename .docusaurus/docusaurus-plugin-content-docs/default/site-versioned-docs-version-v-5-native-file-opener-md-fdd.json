@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/file-opener",
+  "id": "version-v5/native/file-opener",
+  "isDocsHomePage": false,
+  "title": "File Opener",
+  "description": "This plugin will open a file on your device file system with its default application.",
+  "source": "@site/versioned_docs/version-v5/native/file-opener.md",
+  "sourceDirName": "native",
+  "slug": "/native/file-opener",
+  "permalink": "/developer/docs/v5/native/file-opener",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file-opener/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "File Opener"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "FCM",
+    "permalink": "/developer/docs/v5/native/fcm"
+  },
+  "next": {
+    "title": "File Path",
+    "permalink": "/developer/docs/v5/native/file-path"
+  }
+}

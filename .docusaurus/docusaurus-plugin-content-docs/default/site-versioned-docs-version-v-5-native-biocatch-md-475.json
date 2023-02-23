@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/biocatch",
+  "id": "version-v5/native/biocatch",
+  "isDocsHomePage": false,
+  "title": "BioCatch",
+  "description": "BioCatch SDK Cordova support",
+  "source": "@site/versioned_docs/version-v5/native/biocatch.md",
+  "sourceDirName": "native",
+  "slug": "/native/biocatch",
+  "permalink": "/developer/docs/v5/native/biocatch",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/biocatch/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "BioCatch"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Battery Status",
+    "permalink": "/developer/docs/v5/native/battery-status"
+  },
+  "next": {
+    "title": "BiometricWrapper",
+    "permalink": "/developer/docs/v5/native/biometric-wrapper"
+  }
+}

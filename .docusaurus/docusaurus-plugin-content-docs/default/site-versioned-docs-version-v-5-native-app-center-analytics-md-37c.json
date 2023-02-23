@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-center-analytics",
+  "id": "version-v5/native/app-center-analytics",
+  "isDocsHomePage": false,
+  "title": "App Center Analytics",
+  "description": "App Center Analytics helps you understand user behavior and customer engagement to improve your app.",
+  "source": "@site/versioned_docs/version-v5/native/app-center-analytics.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-center-analytics",
+  "permalink": "/developer/docs/v5/native/app-center-analytics",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-center-analytics/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "App Center Analytics"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "App Availability",
+    "permalink": "/developer/docs/v5/native/app-availability"
+  },
+  "next": {
+    "title": "App Center Crashes",
+    "permalink": "/developer/docs/v5/native/app-center-crashes"
+  }
+}

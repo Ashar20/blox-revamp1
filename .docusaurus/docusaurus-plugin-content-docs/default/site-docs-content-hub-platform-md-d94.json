@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Content Hub/platform",
+  "id": "Content Hub/platform",
+  "isDocsHomePage": false,
+  "title": "Platform",
+  "description": "Platform | Ionic Platform to Customize Apps to Fit Any Device",
+  "source": "@site/docs/Content Hub/platform.md",
+  "sourceDirName": "Content Hub",
+  "slug": "/Content Hub/platform",
+  "permalink": "/developer/docs/Content Hub/platform",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/platform.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Platform"
+  }
+}

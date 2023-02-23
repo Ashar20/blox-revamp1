@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/facebook",
+  "id": "native/facebook",
+  "isDocsHomePage": false,
+  "title": "Facebook",
+  "description": "Facebook Connect Plugin | Facebook Docs in Ionic Documentation",
+  "source": "@site/docs/native/facebook.md",
+  "sourceDirName": "native",
+  "slug": "/native/facebook",
+  "permalink": "/developer/docs/native/facebook",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/facebook/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Facebook"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Answers",
+    "permalink": "/developer/docs/native/fabric"
+  },
+  "next": {
+    "title": "FCM",
+    "permalink": "/developer/docs/native/fcm"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/admob",
+  "id": "native/admob",
+  "isDocsHomePage": false,
+  "title": "AdMob",
+  "description": "AdMob Plugin: Monetize Apps and Games Using Google AdMob SDK",
+  "source": "@site/docs/native/admob.md",
+  "sourceDirName": "native",
+  "slug": "/native/admob",
+  "permalink": "/developer/docs/native/admob",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/admob/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AdMob"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "AdMob Plus",
+    "permalink": "/developer/docs/native/admob-plus"
+  },
+  "next": {
+    "title": "AES256",
+    "permalink": "/developer/docs/native/aes-256"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/completion",
+  "id": "cli/commands/completion",
+  "isDocsHomePage": false,
+  "title": "ionic completion",
+  "description": "Enables tab-completion for Ionic CLI commands.",
+  "source": "@site/docs/cli/commands/completion.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/completion",
+  "permalink": "/developer/docs/cli/commands/completion",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/completion.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic completion",
+    "sidebar_label": "completion"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "capacitor update",
+    "permalink": "/developer/docs/cli/commands/capacitor-update"
+  },
+  "next": {
+    "title": "config get",
+    "permalink": "/developer/docs/cli/commands/config-get"
+  }
+}

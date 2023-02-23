@@ -1,0 +1,28 @@
+{
+  "unversionedId": "angular/overview",
+  "id": "version-v5/angular/overview",
+  "isDocsHomePage": false,
+  "title": "Ionic Angular Overview | Angular Version Support and Tooling",
+  "description": "@ionic/angular combines the Ionic experience with the tooling and APIs tailored to Angular Developers. Learn more about version support in our Angular Overview.",
+  "source": "@site/versioned_docs/version-v5/angular/overview.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/overview",
+  "permalink": "/developer/docs/v5/angular/overview",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/overview.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Ionic Angular Overview | Angular Version Support and Tooling",
+    "description": "@ionic/angular combines the Ionic experience with the tooling and APIs tailored to Angular Developers. Learn more about version support in our Angular Overview.",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Color Generator",
+    "permalink": "/developer/docs/v5/theming/color-generator"
+  },
+  "next": {
+    "title": "Build Your First App",
+    "permalink": "/developer/docs/v5/angular/your-first-app"
+  }
+}

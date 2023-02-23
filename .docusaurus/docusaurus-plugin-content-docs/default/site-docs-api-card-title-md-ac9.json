@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/card-title",
+  "id": "api/card-title",
+  "isDocsHomePage": false,
+  "title": "ion-card-title",
+  "description": "ion-card-title | Ionic App Card Title Component and Properties",
+  "source": "@site/docs/api/card-title.md",
+  "sourceDirName": "api",
+  "slug": "/api/card-title",
+  "permalink": "/developer/docs/api/card-title",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card-title.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-card-title"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-card-subtitle",
+    "permalink": "/developer/docs/api/card-subtitle"
+  },
+  "next": {
+    "title": "ion-checkbox",
+    "permalink": "/developer/docs/api/checkbox"
+  }
+}

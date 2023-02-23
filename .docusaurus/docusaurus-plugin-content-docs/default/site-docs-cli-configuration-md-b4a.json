@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/configuration",
+  "id": "cli/configuration",
+  "isDocsHomePage": false,
+  "title": "Configuration",
+  "description": "Capacitor Configuration | Maintain a Global Configuration File",
+  "source": "@site/docs/cli/configuration.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/configuration",
+  "permalink": "/developer/docs/cli/configuration",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/cli/configuration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Configuration"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/developer/docs/cli"
+  },
+  "next": {
+    "title": "Live Reload",
+    "permalink": "/developer/docs/cli/livereload"
+  }
+}

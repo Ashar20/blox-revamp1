@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/tabs",
+  "id": "version-v5/api/tabs",
+  "isDocsHomePage": false,
+  "title": "Ion-Tabs: Tab-Based Component for App Top-Level Navigation",
+  "description": "Tabs are top-level components to implement tab-based navigation. Ion-tabs have no styling & work as router outlets for navigation that behaves like native apps.",
+  "source": "@site/versioned_docs/version-v5/api/tabs.md",
+  "sourceDirName": "api",
+  "slug": "/api/tabs",
+  "permalink": "/developer/docs/v5/api/tabs",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/tabs.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Ion-Tabs: Tab-Based Component for App Top-Level Navigation",
+    "description": "Tabs are top-level components to implement tab-based navigation. Ion-tabs have no styling & work as router outlets for navigation that behaves like native apps.",
+    "sidebar_label": "ion-tabs",
+    "demoUrl": "/docs/demos/api/tabs/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/tabs/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-slide",
+    "permalink": "/developer/docs/v5/api/slide"
+  },
+  "next": {
+    "title": "ion-tab",
+    "permalink": "/developer/docs/v5/api/tab"
+  }
+}

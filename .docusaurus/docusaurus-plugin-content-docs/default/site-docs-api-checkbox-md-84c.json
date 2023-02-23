@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/checkbox",
+  "id": "api/checkbox",
+  "isDocsHomePage": false,
+  "title": "ion-checkbox",
+  "description": "ion-checkboxes: Ionic App Component to Select Multiple Options",
+  "source": "@site/docs/api/checkbox.md",
+  "sourceDirName": "api",
+  "slug": "/api/checkbox",
+  "permalink": "/developer/docs/api/checkbox",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/checkbox.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-checkbox"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-card-title",
+    "permalink": "/developer/docs/api/card-title"
+  },
+  "next": {
+    "title": "ion-chip",
+    "permalink": "/developer/docs/api/chip"
+  }
+}

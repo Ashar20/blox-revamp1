@@ -1,0 +1,26 @@
+{
+  "unversionedId": "react/performance",
+  "id": "version-v5/react/performance",
+  "isDocsHomePage": false,
+  "title": "React Performance",
+  "description": "Loops with Ionic Components",
+  "source": "@site/versioned_docs/version-v5/react/performance.md",
+  "sourceDirName": "react",
+  "slug": "/react/performance",
+  "permalink": "/developer/docs/v5/react/performance",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/performance.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Performance"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/developer/docs/v5/react/testing"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/developer/docs/v5/vue/overview"
+  }
+}

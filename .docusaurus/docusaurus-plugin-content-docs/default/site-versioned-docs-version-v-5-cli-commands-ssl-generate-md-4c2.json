@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/ssl-generate",
+  "id": "version-v5/cli/commands/ssl-generate",
+  "isDocsHomePage": false,
+  "title": "ionic ssl generate",
+  "description": "Generates an SSL key & certificate",
+  "source": "@site/versioned_docs/version-v5/cli/commands/ssl-generate.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/ssl-generate",
+  "permalink": "/developer/docs/v5/cli/commands/ssl-generate",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssl/generate.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ssl generate"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "ssh use",
+    "permalink": "/developer/docs/v5/cli/commands/ssh-use"
+  },
+  "next": {
+    "title": "start",
+    "permalink": "/developer/docs/v5/cli/commands/start"
+  }
+}

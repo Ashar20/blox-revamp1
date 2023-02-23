@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/doctor-check",
+  "id": "version-v5/cli/commands/doctor-check",
+  "isDocsHomePage": false,
+  "title": "ionic doctor check",
+  "description": "Check the health of your Ionic project",
+  "source": "@site/versioned_docs/version-v5/cli/commands/doctor-check.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/doctor-check",
+  "permalink": "/developer/docs/v5/cli/commands/doctor-check",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/doctor/check.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "doctor check"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "docs",
+    "permalink": "/developer/docs/v5/cli/commands/docs"
+  },
+  "next": {
+    "title": "doctor list",
+    "permalink": "/developer/docs/v5/cli/commands/doctor-list"
+  }
+}

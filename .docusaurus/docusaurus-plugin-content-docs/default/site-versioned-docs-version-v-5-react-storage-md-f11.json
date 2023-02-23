@@ -1,0 +1,26 @@
+{
+  "unversionedId": "react/storage",
+  "id": "version-v5/react/storage",
+  "isDocsHomePage": false,
+  "title": "Data Storage",
+  "description": "There are variety of options available for storing data within an Ionic app.",
+  "source": "@site/versioned_docs/version-v5/react/storage.md",
+  "sourceDirName": "react",
+  "slug": "/react/storage",
+  "permalink": "/developer/docs/v5/react/storage",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/storage.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Storage"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Overlays",
+    "permalink": "/developer/docs/v5/react/overlays"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/developer/docs/v5/react/testing"
+  }
+}

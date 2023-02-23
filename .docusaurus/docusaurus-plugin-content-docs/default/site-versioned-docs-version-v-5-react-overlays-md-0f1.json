@@ -1,0 +1,26 @@
+{
+  "unversionedId": "react/overlays",
+  "id": "version-v5/react/overlays",
+  "isDocsHomePage": false,
+  "title": "Using Overlay Components in React",
+  "description": "For Ionic React, there are two techniques you can use to display overlay components like modals, alerts, action sheets, etc. In this guide, we will go over both of them.",
+  "source": "@site/versioned_docs/version-v5/react/overlays.md",
+  "sourceDirName": "react",
+  "slug": "/react/overlays",
+  "permalink": "/developer/docs/v5/react/overlays",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/overlays.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Overlays"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Progressive Web Apps",
+    "permalink": "/developer/docs/v5/react/pwa"
+  },
+  "next": {
+    "title": "Storage",
+    "permalink": "/developer/docs/v5/react/storage"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/accordion-group",
+  "id": "api/accordion-group",
+  "isDocsHomePage": false,
+  "title": "ion-accordion-group",
+  "description": "Accordion group is a container for accordion instances. It manages the state of the accordions and provides keyboard navigation.",
+  "source": "@site/docs/api/accordion-group.md",
+  "sourceDirName": "api",
+  "slug": "/api/accordion-group",
+  "permalink": "/developer/docs/api/accordion-group",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/accordion-group.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-accordion-group"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-accordion",
+    "permalink": "/developer/docs/api/accordion"
+  },
+  "next": {
+    "title": "ion-alert",
+    "permalink": "/developer/docs/api/alert"
+  }
+}

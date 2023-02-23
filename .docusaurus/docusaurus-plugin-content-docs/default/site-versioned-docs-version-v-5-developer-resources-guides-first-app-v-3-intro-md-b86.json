@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/guides/first-app-v3/intro",
+  "id": "version-v5/developer-resources/guides/first-app-v3/intro",
+  "isDocsHomePage": false,
+  "title": "Your First Ionic App - Framework v3",
+  "description": "The great thing about Ionic is that with one codebase, you can build for any platform using familiar web tools and languages. Follow along as we create a working Photo Gallery. Here’s the before and after:",
+  "source": "@site/versioned_docs/version-v5/developer-resources/guides/first-app-v3/intro.md",
+  "sourceDirName": "developer-resources/guides/first-app-v3",
+  "slug": "/developer-resources/guides/first-app-v3/intro",
+  "permalink": "/developer/docs/v5/developer-resources/guides/first-app-v3/intro",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developer-resources/guides/first-app-v3/intro.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/select-option",
+  "id": "version-v5/api/select-option",
+  "isDocsHomePage": false,
+  "title": "Select Option | What Is An Option Select on Ionic Framework Apps",
+  "description": "What is an option select? Select Options are child element components of a Select—each option defined is passed and displayed in the Select dialog.",
+  "source": "@site/versioned_docs/version-v5/api/select-option.md",
+  "sourceDirName": "api",
+  "slug": "/api/select-option",
+  "permalink": "/developer/docs/v5/api/select-option",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/select-option.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Select Option | What Is An Option Select on Ionic Framework Apps",
+    "description": "What is an option select? Select Options are child element components of a Select—each option defined is passed and displayed in the Select dialog.",
+    "sidebar_label": "ion-select-option"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-select",
+    "permalink": "/developer/docs/v5/api/select"
+  },
+  "next": {
+    "title": "ion-slides",
+    "permalink": "/developer/docs/v5/api/slides"
+  }
+}

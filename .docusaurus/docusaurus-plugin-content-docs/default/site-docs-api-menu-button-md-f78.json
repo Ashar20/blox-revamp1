@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/menu-button",
+  "id": "api/menu-button",
+  "isDocsHomePage": false,
+  "title": "ion-menu-button",
+  "description": "Menu Button | ion-menu-button to Open an App Menu on A Page",
+  "source": "@site/docs/api/menu-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/menu-button",
+  "permalink": "/developer/docs/api/menu-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu-button.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-menu-button"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-menu",
+    "permalink": "/developer/docs/api/menu"
+  },
+  "next": {
+    "title": "ion-menu-toggle",
+    "permalink": "/developer/docs/api/menu-toggle"
+  }
+}

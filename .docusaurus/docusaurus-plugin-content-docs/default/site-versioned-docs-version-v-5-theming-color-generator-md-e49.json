@@ -1,0 +1,27 @@
+{
+  "unversionedId": "theming/color-generator",
+  "id": "version-v5/theming/color-generator",
+  "isDocsHomePage": false,
+  "title": "Color Generator",
+  "description": "Create custom color palettes for your app’s UI. Update a color’s hex values, check the demo app on the right to confirm, then copy and paste the generated code directly into your Ionic project.",
+  "source": "@site/versioned_docs/version-v5/theming/color-generator.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/color-generator",
+  "permalink": "/developer/docs/v5/theming/color-generator",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/color-generator.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "hide_table_of_contents": true,
+    "demoUrl": "/docs/demos/color-generator/index.html"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Advanced",
+    "permalink": "/developer/docs/v5/theming/advanced"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/developer/docs/v5/angular/overview"
+  }
+}

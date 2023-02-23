@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/smartlook",
+  "id": "native/smartlook",
+  "isDocsHomePage": false,
+  "title": "Smartlook",
+  "description": "Official Smartlook SDK plugin.",
+  "source": "@site/docs/native/smartlook.md",
+  "sourceDirName": "native",
+  "slug": "/native/smartlook",
+  "permalink": "/developer/docs/native/smartlook",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/smartlook/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Smartlook"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Sign In With Apple",
+    "permalink": "/developer/docs/native/sign-in-with-apple"
+  },
+  "next": {
+    "title": "Sms Retriever",
+    "permalink": "/developer/docs/native/sms-retriever"
+  }
+}

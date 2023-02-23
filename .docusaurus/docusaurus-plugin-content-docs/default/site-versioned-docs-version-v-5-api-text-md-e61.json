@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/text",
+  "id": "version-v5/api/text",
+  "isDocsHomePage": false,
+  "title": "ion-text",
+  "description": "The text component is a simple component that can be used to style the text color of any element. The ion-text element should wrap the element in order to change the text color of that element.",
+  "source": "@site/versioned_docs/version-v5/api/text.md",
+  "sourceDirName": "api",
+  "slug": "/api/text",
+  "permalink": "/developer/docs/v5/api/text",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/text.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-text",
+    "demoUrl": "/docs/demos/api/text/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/text/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-back-button",
+    "permalink": "/developer/docs/v5/api/back-button"
+  },
+  "next": {
+    "title": "API Index",
+    "permalink": "/developer/docs/v5/api"
+  }
+}

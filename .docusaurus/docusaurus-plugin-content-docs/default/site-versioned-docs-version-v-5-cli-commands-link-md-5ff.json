@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/link",
+  "id": "version-v5/cli/commands/link",
+  "isDocsHomePage": false,
+  "title": "ionic link",
+  "description": "Connect local apps to Ionic",
+  "source": "@site/versioned_docs/version-v5/cli/commands/link.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/link",
+  "permalink": "/developer/docs/v5/cli/commands/link",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/link.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "link"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "integrations list",
+    "permalink": "/developer/docs/v5/cli/commands/integrations-list"
+  },
+  "next": {
+    "title": "login",
+    "permalink": "/developer/docs/v5/cli/commands/login"
+  }
+}

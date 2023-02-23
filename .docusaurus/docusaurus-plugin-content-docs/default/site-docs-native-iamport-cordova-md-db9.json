@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/iamport-cordova",
+  "id": "native/iamport-cordova",
+  "isDocsHomePage": false,
+  "title": "Iamport Cordova",
+  "description": "Cordova plugin that integrates with and handles multiple payment gateways.",
+  "source": "@site/docs/native/iamport-cordova.md",
+  "sourceDirName": "native",
+  "slug": "/native/iamport-cordova",
+  "permalink": "/developer/docs/native/iamport-cordova",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/iamport-cordova/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Iamport Cordova"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "HTTP",
+    "permalink": "/developer/docs/native/http"
+  },
+  "next": {
+    "title": "IBeacon",
+    "permalink": "/developer/docs/native/ibeacon"
+  }
+}

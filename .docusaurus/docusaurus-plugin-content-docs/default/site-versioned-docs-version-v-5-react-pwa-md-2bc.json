@@ -1,0 +1,26 @@
+{
+  "unversionedId": "react/pwa",
+  "id": "version-v5/react/pwa",
+  "isDocsHomePage": false,
+  "title": "Progressive Web Apps in React",
+  "description": "Making your React app a PWA",
+  "source": "@site/versioned_docs/version-v5/react/pwa.md",
+  "sourceDirName": "react",
+  "slug": "/react/pwa",
+  "permalink": "/developer/docs/v5/react/pwa",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/pwa.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Progressive Web Apps"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Platform",
+    "permalink": "/developer/docs/v5/react/platform"
+  },
+  "next": {
+    "title": "Overlays",
+    "permalink": "/developer/docs/v5/react/overlays"
+  }
+}

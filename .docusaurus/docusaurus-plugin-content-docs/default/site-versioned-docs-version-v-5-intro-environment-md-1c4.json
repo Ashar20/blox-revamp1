@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro/environment",
+  "id": "version-v5/intro/environment",
+  "isDocsHomePage": false,
+  "title": "Environment Setup",
+  "description": "To get started with Ionic Framework, the only requirement is a Node & npm environment.",
+  "source": "@site/versioned_docs/version-v5/intro/environment.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/environment",
+  "permalink": "/developer/docs/v5/intro/environment",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/intro/environment.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/developer/docs/v5/"
+  },
+  "next": {
+    "title": "CLI Installation",
+    "permalink": "/developer/docs/v5/intro/cli"
+  }
+}

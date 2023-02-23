@@ -1,0 +1,26 @@
+{
+  "unversionedId": "react/testing",
+  "id": "version-v5/react/testing",
+  "isDocsHomePage": false,
+  "title": "Testing Ionic React",
+  "description": "When an @ionic/react application is generated using the Ionic CLI, it is automatically set up for unit testing and integration testing with Jest and React Testing Library. The combo provides a great way to test your React components in isolation as well integrated together. For more information on how to get started testing an Ionic React app, see our article Testing Ionic React Apps with Jest and React Testing Library.",
+  "source": "@site/versioned_docs/version-v5/react/testing.md",
+  "sourceDirName": "react",
+  "slug": "/react/testing",
+  "permalink": "/developer/docs/v5/react/testing",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/testing.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Testing"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Storage",
+    "permalink": "/developer/docs/v5/react/storage"
+  },
+  "next": {
+    "title": "Performance",
+    "permalink": "/developer/docs/v5/react/performance"
+  }
+}

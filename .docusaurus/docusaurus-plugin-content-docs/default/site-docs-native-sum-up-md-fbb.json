@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/sum-up",
+  "id": "native/sum-up",
+  "isDocsHomePage": false,
+  "title": "SumUp",
+  "description": "Plugin to communicate with a SumUp payment terminal",
+  "source": "@site/docs/native/sum-up.md",
+  "sourceDirName": "native",
+  "slug": "/native/sum-up",
+  "permalink": "/developer/docs/native/sum-up",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sum-up/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SumUp"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Stripe",
+    "permalink": "/developer/docs/native/stripe"
+  },
+  "next": {
+    "title": "System Alert Window Permission",
+    "permalink": "/developer/docs/native/system-alert-window-permission"
+  }
+}

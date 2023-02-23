@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/web-server",
+  "id": "version-v5/native/web-server",
+  "isDocsHomePage": false,
+  "title": "Web Server",
+  "description": "This plugin allows you to start a local dynamic content web server for android and iOS devices.",
+  "source": "@site/versioned_docs/version-v5/native/web-server.md",
+  "sourceDirName": "native",
+  "slug": "/native/web-server",
+  "permalink": "/developer/docs/v5/native/web-server",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/web-server/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Web Server"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Web Intent",
+    "permalink": "/developer/docs/v5/native/web-intent"
+  },
+  "next": {
+    "title": "WebSocket Server",
+    "permalink": "/developer/docs/v5/native/web-socket-server"
+  }
+}

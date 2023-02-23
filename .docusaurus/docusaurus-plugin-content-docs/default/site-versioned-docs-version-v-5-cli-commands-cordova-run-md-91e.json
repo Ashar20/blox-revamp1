@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cli/commands/cordova-run",
+  "id": "version-v5/cli/commands/cordova-run",
+  "isDocsHomePage": false,
+  "title": "ionic cordova run: native-run Android and iOS Apps in Browsers",
+  "description": "Build your app and deploy it to devices and emulators using ionic cordova run. Use the native-run utility to run your app in an Android or iOS device browser.",
+  "source": "@site/versioned_docs/version-v5/cli/commands/cordova-run.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-run",
+  "permalink": "/developer/docs/v5/cli/commands/cordova-run",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/run.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ionic cordova run: native-run Android and iOS Apps in Browsers",
+    "description": "Build your app and deploy it to devices and emulators using ionic cordova run. Use the native-run utility to run your app in an Android or iOS device browser.",
+    "sidebar_label": "cordova run"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "cordova resources",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-resources"
+  },
+  "next": {
+    "title": "deploy add",
+    "permalink": "/developer/docs/v5/cli/commands/deploy-add"
+  }
+}

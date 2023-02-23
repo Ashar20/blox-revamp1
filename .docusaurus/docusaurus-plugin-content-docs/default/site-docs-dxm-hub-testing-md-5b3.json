@@ -1,0 +1,18 @@
+{
+  "unversionedId": "DXM Hub/testing",
+  "id": "DXM Hub/testing",
+  "isDocsHomePage": false,
+  "title": "Template",
+  "description": "Angular Unit and End-to-End Testing for Ionic App Components",
+  "source": "@site/docs/DXM Hub/testing.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/testing",
+  "permalink": "/docs/DXM Hub/testing",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Template",
+    "idebar_label": "Template"
+  }
+}

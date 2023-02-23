@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/ssh-delete",
+  "id": "cli/commands/ssh-delete",
+  "isDocsHomePage": false,
+  "title": "ionic ssh delete",
+  "description": "Delete an SSH public key from Ionic",
+  "source": "@site/docs/cli/commands/ssh-delete.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/ssh-delete",
+  "permalink": "/developer/docs/cli/commands/ssh-delete",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssh/delete.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic ssh delete",
+    "sidebar_label": "ssh delete"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "ssh add",
+    "permalink": "/developer/docs/cli/commands/ssh-add"
+  },
+  "next": {
+    "title": "ssh generate",
+    "permalink": "/developer/docs/cli/commands/ssh-generate"
+  }
+}

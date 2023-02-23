@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/document-viewer",
+  "id": "version-v5/native/document-viewer",
+  "isDocsHomePage": false,
+  "title": "Document Viewer | Cordova Plugin Document Viewer for PDF Files",
+  "description": "Cordova plugin document viewer offers a slim API to view PDF files either stored in the apps assets folder or in any other file system directory available.",
+  "source": "@site/versioned_docs/version-v5/native/document-viewer.md",
+  "sourceDirName": "native",
+  "slug": "/native/document-viewer",
+  "permalink": "/developer/docs/v5/native/document-viewer",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/document-viewer/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Document Viewer | Cordova Plugin Document Viewer for PDF Files",
+    "description": "Cordova plugin document viewer offers a slim API to view PDF files either stored in the apps assets folder or in any other file system directory available.",
+    "sidebar_label": "Document Viewer"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Document Scanner",
+    "permalink": "/developer/docs/v5/native/document-scanner"
+  },
+  "next": {
+    "title": "Email Composer",
+    "permalink": "/developer/docs/v5/native/email-composer"
+  }
+}

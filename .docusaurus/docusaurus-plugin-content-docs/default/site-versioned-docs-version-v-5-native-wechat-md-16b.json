@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/wechat",
+  "id": "version-v5/native/wechat",
+  "isDocsHomePage": false,
+  "title": "Wechat",
+  "description": "A cordova plugin, a JS version of Wechat SDK",
+  "source": "@site/versioned_docs/version-v5/native/wechat.md",
+  "sourceDirName": "native",
+  "slug": "/native/wechat",
+  "permalink": "/developer/docs/v5/native/wechat",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/wechat/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Wechat"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Webengage",
+    "permalink": "/developer/docs/v5/native/webengage"
+  },
+  "next": {
+    "title": "WheelSelector Plugin",
+    "permalink": "/developer/docs/v5/native/wheel-selector"
+  }
+}

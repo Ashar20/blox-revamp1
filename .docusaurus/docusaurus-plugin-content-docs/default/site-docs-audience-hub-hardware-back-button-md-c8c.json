@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Audience Hub/hardware-back-button",
+  "id": "Audience Hub/hardware-back-button",
+  "isDocsHomePage": false,
+  "title": "Hardware Back Button",
+  "description": "Hardware Back Button for Capacitor & Cordova on Android Devices",
+  "source": "@site/docs/Audience Hub/hardware-back-button.md",
+  "sourceDirName": "Audience Hub",
+  "slug": "/Audience Hub/hardware-back-button",
+  "permalink": "/developer/docs/Audience Hub/hardware-back-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/hardware-back-button.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Hardware Back Button"
+  }
+}

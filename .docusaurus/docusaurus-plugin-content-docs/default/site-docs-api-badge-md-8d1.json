@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/badge",
+  "id": "api/badge",
+  "isDocsHomePage": false,
+  "title": "ion-badge",
+  "description": "Badges | ion-badge: iOS & Android App Notification Badge Icons",
+  "source": "@site/docs/api/badge.md",
+  "sourceDirName": "api",
+  "slug": "/api/badge",
+  "permalink": "/developer/docs/api/badge",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/badge.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-badge"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-alert",
+    "permalink": "/developer/docs/api/alert"
+  },
+  "next": {
+    "title": "ion-breadcrumb",
+    "permalink": "/developer/docs/api/breadcrumb"
+  }
+}

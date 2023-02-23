@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/segment",
+  "id": "version-v5/api/segment",
+  "isDocsHomePage": false,
+  "title": "ion-segment",
+  "description": "Segments display a group of related buttons, sometimes known as segmented controls, in a horizontal row. They can be displayed inside of a toolbar or the main content.",
+  "source": "@site/versioned_docs/version-v5/api/segment.md",
+  "sourceDirName": "api",
+  "slug": "/api/segment",
+  "permalink": "/developer/docs/v5/api/segment",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/segment.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-segment",
+    "demoUrl": "/docs/demos/api/segment/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/segment/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-searchbar",
+    "permalink": "/developer/docs/v5/api/searchbar"
+  },
+  "next": {
+    "title": "ion-segment-button",
+    "permalink": "/developer/docs/v5/api/segment-button"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/custom-uisdk",
+  "id": "native/custom-uisdk",
+  "isDocsHomePage": false,
+  "title": "CustomUISDK",
+  "description": "This plugin is used to access Paytm's native CustomUISDK framework's apis.",
+  "source": "@site/docs/native/custom-uisdk.md",
+  "sourceDirName": "native",
+  "slug": "/native/custom-uisdk",
+  "permalink": "/developer/docs/native/custom-uisdk",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/custom-uisdk/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CustomUISDK"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Code Push",
+    "permalink": "/developer/docs/native/code-push"
+  },
+  "next": {
+    "title": "Deeplinks",
+    "permalink": "/developer/docs/native/deeplinks"
+  }
+}

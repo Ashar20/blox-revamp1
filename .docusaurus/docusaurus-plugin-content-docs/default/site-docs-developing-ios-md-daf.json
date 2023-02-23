@@ -1,0 +1,28 @@
+{
+  "unversionedId": "developing/ios",
+  "id": "developing/ios",
+  "isDocsHomePage": false,
+  "title": "iOS Development",
+  "description": "iOS App Development Guide: Xcode Setup to Build and Run iOS Apps",
+  "source": "@site/docs/developing/ios.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/ios",
+  "permalink": "/docs/developing/ios",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developing/ios.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "iOS Development",
+    "sidebar_label": "Developing for iOS",
+    "skipIntros": true
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/developing/scaffolding"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/developing/android"
+  }
+}

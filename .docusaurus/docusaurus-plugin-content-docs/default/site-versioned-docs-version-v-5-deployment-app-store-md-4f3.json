@@ -1,0 +1,26 @@
+{
+  "unversionedId": "deployment/app-store",
+  "id": "version-v5/deployment/app-store",
+  "isDocsHomePage": false,
+  "title": "iOS App Store Deployment",
+  "description": "Requirements",
+  "source": "@site/versioned_docs/version-v5/deployment/app-store.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/app-store",
+  "permalink": "/developer/docs/v5/deployment/app-store",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/deployment/app-store.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "iOS App Store"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Gestures",
+    "permalink": "/developer/docs/v5/utilities/gestures"
+  },
+  "next": {
+    "title": "Android Play Store",
+    "permalink": "/developer/docs/v5/deployment/play-store"
+  }
+}

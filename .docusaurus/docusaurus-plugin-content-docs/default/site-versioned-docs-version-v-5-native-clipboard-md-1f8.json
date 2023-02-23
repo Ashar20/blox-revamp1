@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/clipboard",
+  "id": "version-v5/native/clipboard",
+  "isDocsHomePage": false,
+  "title": "Clipboard",
+  "description": "Clipboard management plugin for Cordova that supports iOS, Android, and Windows Phone 8.",
+  "source": "@site/versioned_docs/version-v5/native/clipboard.md",
+  "sourceDirName": "native",
+  "slug": "/native/clipboard",
+  "permalink": "/developer/docs/v5/native/clipboard",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/clipboard/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Clipboard"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "CleverTap",
+    "permalink": "/developer/docs/v5/native/clevertap"
+  },
+  "next": {
+    "title": "Cloud Settings",
+    "permalink": "/developer/docs/v5/native/cloud-settings"
+  }
+}

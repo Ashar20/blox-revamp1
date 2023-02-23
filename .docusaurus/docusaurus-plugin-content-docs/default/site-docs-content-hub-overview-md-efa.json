@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Content Hub/overview",
+  "id": "Content Hub/overview",
+  "isDocsHomePage": false,
+  "title": "Create a Catalog",
+  "description": "I",
+  "source": "@site/docs/Content Hub/overview.md",
+  "sourceDirName": "Content Hub",
+  "slug": "/Content Hub/overview",
+  "permalink": "/developer/docs/Content Hub/overview",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create a Catalog",
+    "sidebar_label": "Create a catalog"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Blox integration",
+    "permalink": "/developer/docs/intro/upgrading-to-ionic-6"
+  },
+  "next": {
+    "title": "Update a catalog",
+    "permalink": "/developer/docs/Content Hub/update-a-catalog"
+  }
+}

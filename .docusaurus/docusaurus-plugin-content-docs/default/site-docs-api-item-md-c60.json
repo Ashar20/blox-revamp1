@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/item",
+  "id": "api/item",
+  "isDocsHomePage": false,
+  "title": "ion-item",
+  "description": "ion-item: Input, Edit, or Delete iOS and Android Item Elements",
+  "source": "@site/docs/api/item.md",
+  "sourceDirName": "api",
+  "slug": "/api/item",
+  "permalink": "/developer/docs/api/item",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-item"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-textarea",
+    "permalink": "/developer/docs/api/textarea"
+  },
+  "next": {
+    "title": "ion-item-divider",
+    "permalink": "/developer/docs/api/item-divider"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/zbar",
+  "id": "native/zbar",
+  "isDocsHomePage": false,
+  "title": "ZBar",
+  "description": "Zbar Scanner Plugin for 2D Barcodes - Install on iOS and Android",
+  "source": "@site/docs/native/zbar.md",
+  "sourceDirName": "native",
+  "slug": "/native/zbar",
+  "permalink": "/developer/docs/native/zbar",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/zbar/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ZBar"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Youtube Video Player",
+    "permalink": "/developer/docs/native/youtube-video-player"
+  },
+  "next": {
+    "title": "Zeroconf",
+    "permalink": "/developer/docs/native/zeroconf"
+  }
+}

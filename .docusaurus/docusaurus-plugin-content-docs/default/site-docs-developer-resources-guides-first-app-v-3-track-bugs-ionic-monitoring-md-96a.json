@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/guides/first-app-v3/track-bugs-ionic-monitoring",
+  "id": "developer-resources/guides/first-app-v3/track-bugs-ionic-monitoring",
+  "isDocsHomePage": false,
+  "title": "Track Bugs in Realtime with Ionic Monitoring",
+  "description": "Bugs happen, and can be hard to track down - especially with hundreds of possible combinations of mobile devices and operating systems. Appflow Monitoring allows you to track errors in your app on users’ phones and it sends them directly to you instantly, even if your code is minified!",
+  "source": "@site/docs/developer-resources/guides/first-app-v3/track-bugs-ionic-monitoring.md",
+  "sourceDirName": "developer-resources/guides/first-app-v3",
+  "slug": "/developer-resources/guides/first-app-v3/track-bugs-ionic-monitoring",
+  "permalink": "/developer/docs/developer-resources/guides/first-app-v3/track-bugs-ionic-monitoring",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/guides/first-app-v3/track-bugs-ionic-monitoring.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

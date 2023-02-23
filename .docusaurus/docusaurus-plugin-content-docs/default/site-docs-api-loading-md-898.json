@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/loading",
+  "id": "api/loading",
+  "isDocsHomePage": false,
+  "title": "ion-loading",
+  "description": "Loading | Application Loading Indicator Overlay | ion-loading",
+  "source": "@site/docs/api/loading.md",
+  "sourceDirName": "api",
+  "slug": "/api/loading",
+  "permalink": "/developer/docs/api/loading",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/loading.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-loading"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-popover",
+    "permalink": "/developer/docs/api/popover"
+  },
+  "next": {
+    "title": "ion-progress-bar",
+    "permalink": "/developer/docs/api/progress-bar"
+  }
+}

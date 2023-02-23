@@ -1,0 +1,26 @@
+{
+  "unversionedId": "core-concepts/what-are-progressive-web-apps",
+  "id": "version-v5/core-concepts/what-are-progressive-web-apps",
+  "isDocsHomePage": false,
+  "title": "Progressive Web Apps",
+  "description": "The web...but better",
+  "source": "@site/versioned_docs/version-v5/core-concepts/what-are-progressive-web-apps.md",
+  "sourceDirName": "core-concepts",
+  "slug": "/core-concepts/what-are-progressive-web-apps",
+  "permalink": "/developer/docs/v5/core-concepts/what-are-progressive-web-apps",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/core-concepts/what-are-progressive-web-apps.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "What are PWAs?"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Web View",
+    "permalink": "/developer/docs/v5/core-concepts/webview"
+  },
+  "next": {
+    "title": "How to Contribute",
+    "permalink": "/developer/docs/v5/contributing/how-to-contribute"
+  }
+}

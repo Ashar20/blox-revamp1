@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/label",
+  "id": "api/label",
+  "isDocsHomePage": false,
+  "title": "ion-label",
+  "description": "Item Label Color and Properties for Applications | ion-label",
+  "source": "@site/docs/api/label.md",
+  "sourceDirName": "api",
+  "slug": "/api/label",
+  "permalink": "/developer/docs/api/label",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/label.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-label"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-item-option",
+    "permalink": "/developer/docs/api/item-option"
+  },
+  "next": {
+    "title": "ion-note",
+    "permalink": "/developer/docs/api/note"
+  }
+}

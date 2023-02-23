@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/badge",
+  "id": "native/badge",
+  "isDocsHomePage": false,
+  "title": "Badge",
+  "description": "Badge Number Plugin for Android, iOS, Windows, and Browser Apps",
+  "source": "@site/docs/native/badge.md",
+  "sourceDirName": "native",
+  "slug": "/native/badge",
+  "permalink": "/developer/docs/native/badge",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/badge/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Badge"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "BackgroundUpload",
+    "permalink": "/developer/docs/native/background-upload"
+  },
+  "next": {
+    "title": "Barcode Scanner",
+    "permalink": "/developer/docs/native/barcode-scanner"
+  }
+}

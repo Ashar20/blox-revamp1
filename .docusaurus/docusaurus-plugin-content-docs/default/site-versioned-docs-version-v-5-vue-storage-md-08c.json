@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vue/storage",
+  "id": "version-v5/vue/storage",
+  "isDocsHomePage": false,
+  "title": "Data Storage",
+  "description": "There are variety of options available for storing data within an Ionic app.",
+  "source": "@site/versioned_docs/version-v5/vue/storage.md",
+  "sourceDirName": "vue",
+  "slug": "/vue/storage",
+  "permalink": "/developer/docs/v5/vue/storage",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/storage.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Storage"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Progressive Web Apps",
+    "permalink": "/developer/docs/v5/vue/pwa"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/developer/docs/v5/vue/testing"
+  }
+}

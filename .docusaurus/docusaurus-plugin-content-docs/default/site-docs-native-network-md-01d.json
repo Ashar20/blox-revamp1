@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/network",
+  "id": "native/network",
+  "isDocsHomePage": false,
+  "title": "Network",
+  "description": "Ionic Native Network Plugin: Cordova Plugin Network Information",
+  "source": "@site/docs/native/network.md",
+  "sourceDirName": "native",
+  "slug": "/native/network",
+  "permalink": "/developer/docs/native/network",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/network/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Network"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Network Interface",
+    "permalink": "/developer/docs/native/network-interface"
+  },
+  "next": {
+    "title": "NFC",
+    "permalink": "/developer/docs/native/nfc"
+  }
+}

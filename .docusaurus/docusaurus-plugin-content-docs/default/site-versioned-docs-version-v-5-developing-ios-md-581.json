@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developing/ios",
+  "id": "version-v5/developing/ios",
+  "isDocsHomePage": false,
+  "title": "iOS Development",
+  "description": "This guide covers how to run and debug Ionic apps on iOS simulators and devices using Capacitor or Cordova. iOS apps can only be developed on macOS with Xcode installed.",
+  "source": "@site/versioned_docs/version-v5/developing/ios.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/ios",
+  "permalink": "/developer/docs/v5/developing/ios",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/ios.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Developing for iOS",
+    "skipIntros": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Scaffolding",
+    "permalink": "/developer/docs/v5/developing/scaffolding"
+  },
+  "next": {
+    "title": "Developing for Android",
+    "permalink": "/developer/docs/v5/developing/android"
+  }
+}

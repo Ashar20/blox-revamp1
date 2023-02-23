@@ -1,0 +1,15 @@
+{
+  "unversionedId": "DXM Hub/virtual-scroll",
+  "id": "DXM Hub/virtual-scroll",
+  "isDocsHomePage": false,
+  "title": "Virtual Scroll",
+  "description": "In the past, we have provided an ion-virtual-scroll component in Ionic Framework to help with list virtualization. At the time this was not available in Angular, but recently Angular has provided its own solution via the @angular/cdk package.",
+  "source": "@site/docs/DXM Hub/virtual-scroll.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/virtual-scroll",
+  "permalink": "/developer/docs/DXM Hub/virtual-scroll",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/virtual-scroll.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

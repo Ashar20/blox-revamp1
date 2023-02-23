@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/flashlight",
+  "id": "version-v5/native/flashlight",
+  "isDocsHomePage": false,
+  "title": "Flashlight",
+  "description": "This plugin allows you to switch the flashlight / torch of the device on and off.",
+  "source": "@site/versioned_docs/version-v5/native/flashlight.md",
+  "sourceDirName": "native",
+  "slug": "/native/flashlight",
+  "permalink": "/developer/docs/v5/native/flashlight",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/flashlight/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Flashlight"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Firebase",
+    "permalink": "/developer/docs/v5/native/firebase"
+  },
+  "next": {
+    "title": "Foreground Service",
+    "permalink": "/developer/docs/v5/native/foreground-service"
+  }
+}

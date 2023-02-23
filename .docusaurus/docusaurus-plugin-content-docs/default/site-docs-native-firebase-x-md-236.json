@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/firebase-x",
+  "id": "native/firebase-x",
+  "isDocsHomePage": false,
+  "title": "Firebase X",
+  "description": "Firebase X | Cordova Firebase X Ionic Native App Plugin",
+  "source": "@site/docs/native/firebase-x.md",
+  "sourceDirName": "native",
+  "slug": "/native/firebase-x",
+  "permalink": "/developer/docs/native/firebase-x",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-x/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Firebase X"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Firebase Vision",
+    "permalink": "/developer/docs/native/firebase-vision"
+  },
+  "next": {
+    "title": "Firebase",
+    "permalink": "/developer/docs/native/firebase"
+  }
+}

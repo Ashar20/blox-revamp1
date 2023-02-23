@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/bluetooth-serial",
+  "id": "native/bluetooth-serial",
+  "isDocsHomePage": false,
+  "title": "Bluetooth Serial",
+  "description": "Bluetooth Serial: Install Plugin for iOS & Android Communication",
+  "source": "@site/docs/native/bluetooth-serial.md",
+  "sourceDirName": "native",
+  "slug": "/native/bluetooth-serial",
+  "permalink": "/developer/docs/native/bluetooth-serial",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/bluetooth-serial/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bluetooth Serial"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "BluetoothLE",
+    "permalink": "/developer/docs/native/bluetooth-le"
+  },
+  "next": {
+    "title": "BranchIo",
+    "permalink": "/developer/docs/native/branch-io"
+  }
+}

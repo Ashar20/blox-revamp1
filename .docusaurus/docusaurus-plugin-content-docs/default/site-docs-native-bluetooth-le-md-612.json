@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/bluetooth-le",
+  "id": "native/bluetooth-le",
+  "isDocsHomePage": false,
+  "title": "BluetoothLE",
+  "description": "BluetoothLE | Bluetooth LE Plugin for iOS and Android API Methods",
+  "source": "@site/docs/native/bluetooth-le.md",
+  "sourceDirName": "native",
+  "slug": "/native/bluetooth-le",
+  "permalink": "/developer/docs/native/bluetooth-le",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/bluetooth-le/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "BluetoothLE"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Bluetooth Classic Serial Port",
+    "permalink": "/developer/docs/native/bluetooth-classic-serial-port"
+  },
+  "next": {
+    "title": "Bluetooth Serial",
+    "permalink": "/developer/docs/native/bluetooth-serial"
+  }
+}

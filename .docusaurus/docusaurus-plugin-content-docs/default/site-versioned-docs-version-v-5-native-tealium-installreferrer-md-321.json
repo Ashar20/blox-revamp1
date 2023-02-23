@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/tealium-installreferrer",
+  "id": "version-v5/native/tealium-installreferrer",
+  "isDocsHomePage": false,
+  "title": "TealiumInstallReferrer",
+  "description": "This module depends on the Tealium Cordova Plugin. Without it, this module will not do anything.",
+  "source": "@site/versioned_docs/version-v5/native/tealium-installreferrer.md",
+  "sourceDirName": "native",
+  "slug": "/native/tealium-installreferrer",
+  "permalink": "/developer/docs/v5/native/tealium-installreferrer",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/tealium-installreferrer/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "TealiumInstallReferrer"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "TealiumAdIdentifier",
+    "permalink": "/developer/docs/v5/native/tealium-adidentifier"
+  },
+  "next": {
+    "title": "Tealium",
+    "permalink": "/developer/docs/v5/native/tealium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "api/router-link",
+  "id": "api/router-link",
+  "isDocsHomePage": false,
+  "title": "ion-router-link",
+  "description": "Router Link | Navigating The ion-router-link Component",
+  "source": "@site/docs/api/router-link.md",
+  "sourceDirName": "api",
+  "slug": "/api/router-link",
+  "permalink": "/developer/docs/api/router-link",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/router-link.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-router-link",
+    "hide_table_of_contents": true,
+    "demoUrl": "/docs/demos/api/router-link/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/router-link/index.html"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-router",
+    "permalink": "/developer/docs/api/router"
+  },
+  "next": {
+    "title": "ion-router-outlet",
+    "permalink": "/developer/docs/api/router-outlet"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/row",
+  "id": "api/row",
+  "isDocsHomePage": false,
+  "title": "ion-row",
+  "description": "ion-row: Horizontal Row Components and Alignment | Ionic API Docs",
+  "source": "@site/docs/api/row.md",
+  "sourceDirName": "api",
+  "slug": "/api/row",
+  "permalink": "/developer/docs/api/row",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/row.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-row"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-col",
+    "permalink": "/developer/docs/api/col"
+  },
+  "next": {
+    "title": "ion-infinite-scroll",
+    "permalink": "/developer/docs/api/infinite-scroll"
+  }
+}

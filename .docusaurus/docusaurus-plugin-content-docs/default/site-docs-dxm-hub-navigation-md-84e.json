@@ -1,0 +1,18 @@
+{
+  "unversionedId": "DXM Hub/navigation",
+  "id": "DXM Hub/navigation",
+  "isDocsHomePage": false,
+  "title": "Angular Navigation",
+  "description": "Angular Navigation: How Routing & Redirects Work in Angular Apps",
+  "source": "@site/docs/DXM Hub/navigation.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/navigation",
+  "permalink": "/docs/DXM Hub/navigation",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/navigation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Angular Navigation",
+    "sidebar_label": "Navigation/Routing"
+  }
+}

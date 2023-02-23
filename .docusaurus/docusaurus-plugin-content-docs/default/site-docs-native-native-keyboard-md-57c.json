@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/native-keyboard",
+  "id": "native/native-keyboard",
+  "isDocsHomePage": false,
+  "title": "Native Keyboard",
+  "description": "Native Keyboard: Cordova Plugin for iOS and Android | Ionic",
+  "source": "@site/docs/native/native-keyboard.md",
+  "sourceDirName": "native",
+  "slug": "/native/native-keyboard",
+  "permalink": "/developer/docs/native/native-keyboard",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-keyboard/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Native Keyboard"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Native Geocoder",
+    "permalink": "/developer/docs/native/native-geocoder"
+  },
+  "next": {
+    "title": "Native Page Transitions",
+    "permalink": "/developer/docs/native/native-page-transitions"
+  }
+}

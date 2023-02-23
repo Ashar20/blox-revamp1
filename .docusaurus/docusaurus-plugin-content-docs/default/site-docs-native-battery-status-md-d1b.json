@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/battery-status",
+  "id": "native/battery-status",
+  "isDocsHomePage": false,
+  "title": "Battery Status",
+  "description": "Battery Status Plugin for Android, iOS, Windows, and Browser",
+  "source": "@site/docs/native/battery-status.md",
+  "sourceDirName": "native",
+  "slug": "/native/battery-status",
+  "permalink": "/developer/docs/native/battery-status",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/battery-status/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Battery Status"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Barcode Scanner",
+    "permalink": "/developer/docs/native/barcode-scanner"
+  },
+  "next": {
+    "title": "BioCatch",
+    "permalink": "/developer/docs/native/biocatch"
+  }
+}

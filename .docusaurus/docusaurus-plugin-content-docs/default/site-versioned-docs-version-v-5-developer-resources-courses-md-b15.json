@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/courses",
+  "id": "version-v5/developer-resources/courses",
+  "isDocsHomePage": false,
+  "title": "Courses",
+  "description": "Elite Ionic",
+  "source": "@site/versioned_docs/version-v5/developer-resources/courses.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-resources/courses",
+  "permalink": "/developer/docs/v5/developer-resources/courses",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developer-resources/courses.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/fab-list",
+  "id": "version-v5/api/fab-list",
+  "isDocsHomePage": false,
+  "title": "ion-fab-list",
+  "description": "The ion-fab-list element is a container for multiple fab buttons. This collection of fab buttons contains actions related to the main fab button and is flung out on click. To specify what side the buttons should appear on, set the side property to 'start', 'end', 'top', 'bottom'",
+  "source": "@site/versioned_docs/version-v5/api/fab-list.md",
+  "sourceDirName": "api",
+  "slug": "/api/fab-list",
+  "permalink": "/developer/docs/v5/api/fab-list",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/fab-list.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-fab-list"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-fab-button",
+    "permalink": "/developer/docs/v5/api/fab-button"
+  },
+  "next": {
+    "title": "ion-grid",
+    "permalink": "/developer/docs/v5/api/grid"
+  }
+}

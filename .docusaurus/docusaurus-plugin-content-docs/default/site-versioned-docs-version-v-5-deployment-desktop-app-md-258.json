@@ -1,0 +1,26 @@
+{
+  "unversionedId": "deployment/desktop-app",
+  "id": "version-v5/deployment/desktop-app",
+  "isDocsHomePage": false,
+  "title": "Deploying a Desktop App",
+  "description": "Building a desktop app with Ionic allows developers to reuse 100% of their code and ship a traditional desktop app while still having access to all the native device features, like push notifications. This guide assumes familiarity with Electron, and does not go into \"how\" to build an electron app. For that, check out the official Electron guide.",
+  "source": "@site/versioned_docs/version-v5/deployment/desktop-app.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/desktop-app",
+  "permalink": "/developer/docs/v5/deployment/desktop-app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/deployment/desktop-app.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Electron Desktop App"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Progressive Web App (PWA)",
+    "permalink": "/developer/docs/v5/deployment/progressive-web-app"
+  },
+  "next": {
+    "title": "Security",
+    "permalink": "/developer/docs/v5/techniques/security"
+  }
+}

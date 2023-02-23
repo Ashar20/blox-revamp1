@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-rate",
+  "id": "native/app-rate",
+  "isDocsHomePage": false,
+  "title": "App Rate",
+  "description": "The AppRate plugin makes it easy to prompt the user to rate your app, either now, later, or never.",
+  "source": "@site/docs/native/app-rate.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-rate",
+  "permalink": "/developer/docs/native/app-rate",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-rate/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "App Rate"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "App Preferences",
+    "permalink": "/developer/docs/native/app-preferences"
+  },
+  "next": {
+    "title": "App Version",
+    "permalink": "/developer/docs/native/app-version"
+  }
+}

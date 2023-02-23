@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/nav-link",
+  "id": "version-v5/api/nav-link",
+  "isDocsHomePage": false,
+  "title": "ion-nav-link",
+  "description": "A navigation link is used to navigate to a specified component. The component can be navigated to by going forward, back or as a root component.",
+  "source": "@site/versioned_docs/version-v5/api/nav-link.md",
+  "sourceDirName": "api",
+  "slug": "/api/nav-link",
+  "permalink": "/developer/docs/v5/api/nav-link",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/nav-link.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-nav-link"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-nav",
+    "permalink": "/developer/docs/v5/api/nav"
+  },
+  "next": {
+    "title": "ion-popover",
+    "permalink": "/developer/docs/v5/api/popover"
+  }
+}

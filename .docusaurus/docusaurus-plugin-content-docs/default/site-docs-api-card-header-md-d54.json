@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/card-header",
+  "id": "api/card-header",
+  "isDocsHomePage": false,
+  "title": "ion-card-header",
+  "description": "Card header is a child component of card that should be placed before the card content. It can contain a card title and a card subtitle.",
+  "source": "@site/docs/api/card-header.md",
+  "sourceDirName": "api",
+  "slug": "/api/card-header",
+  "permalink": "/developer/docs/api/card-header",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card-header.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-card-header"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-card-content",
+    "permalink": "/developer/docs/api/card-content"
+  },
+  "next": {
+    "title": "ion-card-subtitle",
+    "permalink": "/developer/docs/api/card-subtitle"
+  }
+}

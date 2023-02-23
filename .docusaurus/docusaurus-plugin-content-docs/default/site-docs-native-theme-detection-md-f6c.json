@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/theme-detection",
+  "id": "native/theme-detection",
+  "isDocsHomePage": false,
+  "title": "Theme Detection",
+  "description": "Cordova plugin to detect whether dark mode is enabled or not",
+  "source": "@site/docs/native/theme-detection.md",
+  "sourceDirName": "native",
+  "slug": "/native/theme-detection",
+  "permalink": "/developer/docs/native/theme-detection",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/theme-detection/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Theme Detection"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Text To Speech Advanced",
+    "permalink": "/developer/docs/native/text-to-speech-advanced"
+  },
+  "next": {
+    "title": "3D Touch",
+    "permalink": "/developer/docs/native/three-dee-touch"
+  }
+}

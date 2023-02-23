@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/is-debug",
+  "id": "native/is-debug",
+  "isDocsHomePage": false,
+  "title": "Is Debug",
+  "description": "Detect if the app is running in debug mode or not.",
+  "source": "@site/docs/native/is-debug.md",
+  "sourceDirName": "native",
+  "slug": "/native/is-debug",
+  "permalink": "/developer/docs/native/is-debug",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/is-debug/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Is Debug"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "ios-aswebauthenticationsession-api",
+    "permalink": "/developer/docs/native/ios-aswebauthenticationsession-api"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/developer/docs/native/keyboard"
+  }
+}

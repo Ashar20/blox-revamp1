@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/sqlite-db-copy",
+  "id": "version-v5/native/sqlite-db-copy",
+  "isDocsHomePage": false,
+  "title": "Sqlite Db Copy",
+  "description": "This plugin does something",
+  "source": "@site/versioned_docs/version-v5/native/sqlite-db-copy.md",
+  "sourceDirName": "native",
+  "slug": "/native/sqlite-db-copy",
+  "permalink": "/developer/docs/v5/native/sqlite-db-copy",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sqlite-db-copy/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Sqlite Db Copy"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Spotify Auth",
+    "permalink": "/developer/docs/v5/native/spotify-auth"
+  },
+  "next": {
+    "title": "SQLite Porter",
+    "permalink": "/developer/docs/v5/native/sqlite-porter"
+  }
+}

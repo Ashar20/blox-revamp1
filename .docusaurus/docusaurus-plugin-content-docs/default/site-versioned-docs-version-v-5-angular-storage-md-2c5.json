@@ -1,0 +1,26 @@
+{
+  "unversionedId": "angular/storage",
+  "id": "version-v5/angular/storage",
+  "isDocsHomePage": false,
+  "title": "Data Storage",
+  "description": "There are variety of options available for storing data within an Ionic app.",
+  "source": "@site/versioned_docs/version-v5/angular/storage.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/storage",
+  "permalink": "/developer/docs/v5/angular/storage",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/storage.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Storage"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/developer/docs/v5/angular/testing"
+  },
+  "next": {
+    "title": "Performance",
+    "permalink": "/developer/docs/v5/angular/performance"
+  }
+}

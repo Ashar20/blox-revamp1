@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/ssh-generate",
+  "id": "cli/commands/ssh-generate",
+  "isDocsHomePage": false,
+  "title": "ionic ssh generate",
+  "description": "Generates a private and public SSH key pair",
+  "source": "@site/docs/cli/commands/ssh-generate.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/ssh-generate",
+  "permalink": "/developer/docs/cli/commands/ssh-generate",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssh/generate.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic ssh generate",
+    "sidebar_label": "ssh generate"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "ssh delete",
+    "permalink": "/developer/docs/cli/commands/ssh-delete"
+  },
+  "next": {
+    "title": "ssh list",
+    "permalink": "/developer/docs/cli/commands/ssh-list"
+  }
+}

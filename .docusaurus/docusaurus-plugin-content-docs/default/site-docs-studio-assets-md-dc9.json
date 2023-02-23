@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/assets",
+  "id": "studio/assets",
+  "isDocsHomePage": false,
+  "title": "Asset Management",
+  "description": "The Assets section is a quick and easy way to add images or other media to Ionic apps.",
+  "source": "@site/docs/studio/assets.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/assets",
+  "permalink": "/developer/docs/studio/assets",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/assets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

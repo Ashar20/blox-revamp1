@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/diagnostic",
+  "id": "version-v5/native/diagnostic",
+  "isDocsHomePage": false,
+  "title": "Diagnostic",
+  "description": "Checks whether device hardware features are enabled or available to the app, e.g. camera, GPS, wifi",
+  "source": "@site/versioned_docs/version-v5/native/diagnostic.md",
+  "sourceDirName": "native",
+  "slug": "/native/diagnostic",
+  "permalink": "/developer/docs/v5/native/diagnostic",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/diagnostic/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Diagnostic"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Dfu Update",
+    "permalink": "/developer/docs/v5/native/dfu-update"
+  },
+  "next": {
+    "title": "Dialogs",
+    "permalink": "/developer/docs/v5/native/dialogs"
+  }
+}

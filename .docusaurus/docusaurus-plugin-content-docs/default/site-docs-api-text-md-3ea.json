@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/text",
+  "id": "api/text",
+  "isDocsHomePage": false,
+  "title": "ion-text",
+  "description": "ion-text: Ionic App Component to Style or Change Text Color",
+  "source": "@site/docs/api/text.md",
+  "sourceDirName": "api",
+  "slug": "/api/text",
+  "permalink": "/developer/docs/api/text",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/text.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-text"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-back-button",
+    "permalink": "/developer/docs/api/back-button"
+  },
+  "next": {
+    "title": "API Index",
+    "permalink": "/developer/docs/api"
+  }
+}

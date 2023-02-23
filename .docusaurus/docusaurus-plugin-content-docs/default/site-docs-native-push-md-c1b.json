@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/push",
+  "id": "native/push",
+  "isDocsHomePage": false,
+  "title": "Push",
+  "description": "PhoneGap Plugin for Push Notifications With Cordova and Ionic",
+  "source": "@site/docs/native/push.md",
+  "sourceDirName": "native",
+  "slug": "/native/push",
+  "permalink": "/developer/docs/native/push",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/push/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Push"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Purchases",
+    "permalink": "/developer/docs/native/purchases"
+  },
+  "next": {
+    "title": "PushapePush",
+    "permalink": "/developer/docs/native/pushape-push"
+  }
+}

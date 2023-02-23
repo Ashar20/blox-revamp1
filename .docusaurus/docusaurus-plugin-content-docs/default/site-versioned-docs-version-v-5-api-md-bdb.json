@@ -1,0 +1,22 @@
+{
+  "unversionedId": "api",
+  "id": "version-v5/api",
+  "isDocsHomePage": false,
+  "title": "API Index",
+  "description": "Each Ionic component consists of one or more custom elements. Each custom element, in turn, may expose properties, methods, events, and CSS custom properties.",
+  "source": "@site/versioned_docs/version-v5/api.md",
+  "sourceDirName": ".",
+  "slug": "/api",
+  "permalink": "/developer/docs/v5/api",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/api.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "template": "api-index"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-text",
+    "permalink": "/developer/docs/v5/api/text"
+  }
+}

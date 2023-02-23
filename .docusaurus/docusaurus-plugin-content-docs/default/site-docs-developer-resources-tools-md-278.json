@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/tools",
+  "id": "developer-resources/tools",
+  "isDocsHomePage": false,
+  "title": "Tools",
+  "description": "Angular CLI",
+  "source": "@site/docs/developer-resources/tools.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-resources/tools",
+  "permalink": "/developer/docs/developer-resources/tools",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/tools.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

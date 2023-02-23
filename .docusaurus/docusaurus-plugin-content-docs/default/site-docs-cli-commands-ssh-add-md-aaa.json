@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/ssh-add",
+  "id": "cli/commands/ssh-add",
+  "isDocsHomePage": false,
+  "title": "ionic ssh add",
+  "description": "Add an SSH public key to Ionic",
+  "source": "@site/docs/cli/commands/ssh-add.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/ssh-add",
+  "permalink": "/developer/docs/cli/commands/ssh-add",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssh/add.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic ssh add",
+    "sidebar_label": "ssh add"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "signup",
+    "permalink": "/developer/docs/cli/commands/signup"
+  },
+  "next": {
+    "title": "ssh delete",
+    "permalink": "/developer/docs/cli/commands/ssh-delete"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/infinite-scroll",
+  "id": "api/infinite-scroll",
+  "isDocsHomePage": false,
+  "title": "ion-infinite-scroll",
+  "description": "Infinite Scroller | ion-infinite-scroll Action Component",
+  "source": "@site/docs/api/infinite-scroll.md",
+  "sourceDirName": "api",
+  "slug": "/api/infinite-scroll",
+  "permalink": "/developer/docs/api/infinite-scroll",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/infinite-scroll.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-infinite-scroll"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-row",
+    "permalink": "/developer/docs/api/row"
+  },
+  "next": {
+    "title": "ion-infinite-scroll-content",
+    "permalink": "/developer/docs/api/infinite-scroll-content"
+  }
+}

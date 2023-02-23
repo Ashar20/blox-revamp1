@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/update-a-catalog",
+  "id": "Content Hub copy/update-a-catalog",
+  "isDocsHomePage": false,
+  "title": "Update a Catalog",
+  "description": "Config | Ionic Config to Change Component Properties Globally",
+  "source": "@site/docs/Content Hub copy/update-a-catalog.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/update-a-catalog",
+  "permalink": "/docs/Content Hub copy/update-a-catalog",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/update-a-catalog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Update a Catalog",
+    "sidebar_label": "Update a catalog"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/reorder-group",
+  "id": "api/reorder-group",
+  "isDocsHomePage": false,
+  "title": "ion-reorder-group",
+  "description": "ion-reorder-group: Wrapper Component for Ionic Framework Apps",
+  "source": "@site/docs/api/reorder-group.md",
+  "sourceDirName": "api",
+  "slug": "/api/reorder-group",
+  "permalink": "/developer/docs/api/reorder-group",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/reorder-group.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-reorder-group"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-reorder",
+    "permalink": "/developer/docs/api/reorder"
+  },
+  "next": {
+    "title": "ion-router",
+    "permalink": "/developer/docs/api/router"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/link",
+  "id": "cli/commands/link",
+  "isDocsHomePage": false,
+  "title": "ionic link",
+  "description": "Link Command: Use Appflow to Connect Local Apps to Ionic",
+  "source": "@site/docs/cli/commands/link.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/link",
+  "permalink": "/developer/docs/cli/commands/link",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/link.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic link",
+    "sidebar_label": "link"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "integrations list",
+    "permalink": "/developer/docs/cli/commands/integrations-list"
+  },
+  "next": {
+    "title": "login",
+    "permalink": "/developer/docs/cli/commands/login"
+  }
+}

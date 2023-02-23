@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/ionic-webview",
+  "id": "version-v5/native/ionic-webview",
+  "isDocsHomePage": false,
+  "title": "WebView | Ionic Framework Cordova WebView App Plugin",
+  "description": "Cordova WebView plugin allows access to web view utilities on Ionic Framework apps. View the Ionic Web View repository for info on iOS and Android system use.",
+  "source": "@site/versioned_docs/version-v5/native/ionic-webview.md",
+  "sourceDirName": "native",
+  "slug": "/native/ionic-webview",
+  "permalink": "/developer/docs/v5/native/ionic-webview",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ionic-webview/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "WebView | Ionic Framework Cordova WebView App Plugin",
+    "description": "Cordova WebView plugin allows access to web view utilities on Ionic Framework apps. View the Ionic Web View repository for info on iOS and Android system use.",
+    "sidebar_label": "Ionic Webview"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Intercom",
+    "permalink": "/developer/docs/v5/native/intercom"
+  },
+  "next": {
+    "title": "ios-aswebauthenticationsession-api",
+    "permalink": "/developer/docs/v5/native/ios-aswebauthenticationsession-api"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/action-sheet",
+  "id": "native/action-sheet",
+  "isDocsHomePage": false,
+  "title": "Action Sheet",
+  "description": "cordova-plugin-actionsheet for iOS, Android, Windows, and Browser",
+  "source": "@site/docs/native/action-sheet.md",
+  "sourceDirName": "native",
+  "slug": "/native/action-sheet",
+  "permalink": "/developer/docs/native/action-sheet",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/action-sheet/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Action Sheet"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "ABBYY Real-Time Recognition",
+    "permalink": "/developer/docs/native/abbyy-rtr"
+  },
+  "next": {
+    "title": "Adjust",
+    "permalink": "/developer/docs/native/adjust"
+  }
+}

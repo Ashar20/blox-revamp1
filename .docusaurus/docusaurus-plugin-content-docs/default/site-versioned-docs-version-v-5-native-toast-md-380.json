@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/toast",
+  "id": "version-v5/native/toast",
+  "isDocsHomePage": false,
+  "title": "Toast",
+  "description": "This plugin allows you to show a native Toast (a little text popup) on iOS, Android and WP8. It's great for showing a non intrusive native notification which is guaranteed always in the viewport of the browser.",
+  "source": "@site/versioned_docs/version-v5/native/toast.md",
+  "sourceDirName": "native",
+  "slug": "/native/toast",
+  "permalink": "/developer/docs/v5/native/toast",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/toast/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Toast"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "3D Touch",
+    "permalink": "/developer/docs/v5/native/three-dee-touch"
+  },
+  "next": {
+    "title": "Touch ID",
+    "permalink": "/developer/docs/v5/native/touch-id"
+  }
+}

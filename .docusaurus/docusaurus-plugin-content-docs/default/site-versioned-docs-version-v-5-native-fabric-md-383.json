@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/fabric",
+  "id": "version-v5/native/fabric",
+  "isDocsHomePage": false,
+  "title": "Answers",
+  "description": "API for interacting with the Answers kit.",
+  "source": "@site/versioned_docs/version-v5/native/fabric.md",
+  "sourceDirName": "native",
+  "slug": "/native/fabric",
+  "permalink": "/developer/docs/v5/native/fabric",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/fabric/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Answers"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Email Composer",
+    "permalink": "/developer/docs/v5/native/email-composer"
+  },
+  "next": {
+    "title": "Facebook",
+    "permalink": "/developer/docs/v5/native/facebook"
+  }
+}

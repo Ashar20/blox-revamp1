@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/list-header",
+  "id": "version-v5/api/list-header",
+  "isDocsHomePage": false,
+  "title": "ion-list-header",
+  "description": "ListHeader a header component for a list.",
+  "source": "@site/versioned_docs/version-v5/api/list-header.md",
+  "sourceDirName": "api",
+  "slug": "/api/list-header",
+  "permalink": "/developer/docs/v5/api/list-header",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/list-header.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-list-header"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-list",
+    "permalink": "/developer/docs/v5/api/list"
+  },
+  "next": {
+    "title": "ion-virtual-scroll",
+    "permalink": "/developer/docs/v5/api/virtual-scroll"
+  }
+}

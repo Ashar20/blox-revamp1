@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub/Enrich/saving-photos",
+  "id": "Content Hub/Enrich/saving-photos",
+  "isDocsHomePage": false,
+  "title": "Saving Photos to the Filesystem",
+  "description": "We’re now able to take multiple photos and display them in a photo gallery on the second tab of our app. These photos, however, are not currently being stored permanently, so when the app is closed, they will be deleted.",
+  "source": "@site/docs/Content Hub/Enrich/3-saving-photos.md",
+  "sourceDirName": "Content Hub/Enrich",
+  "slug": "/Content Hub/Enrich/saving-photos",
+  "permalink": "/docs/Content Hub/Enrich/saving-photos",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/3-saving-photos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Data organization"
+  }
+}

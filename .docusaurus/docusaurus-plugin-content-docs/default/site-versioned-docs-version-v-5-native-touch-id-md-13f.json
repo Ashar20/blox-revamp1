@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/touch-id",
+  "id": "version-v5/native/touch-id",
+  "isDocsHomePage": false,
+  "title": "Touch ID",
+  "description": "Scan the fingerprint of a user with the TouchID sensor.",
+  "source": "@site/versioned_docs/version-v5/native/touch-id.md",
+  "sourceDirName": "native",
+  "slug": "/native/touch-id",
+  "permalink": "/developer/docs/v5/native/touch-id",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/touch-id/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Touch ID"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Toast",
+    "permalink": "/developer/docs/v5/native/toast"
+  },
+  "next": {
+    "title": "Unvired Cordova SDK",
+    "permalink": "/developer/docs/v5/native/unvired-cordova-sdk"
+  }
+}

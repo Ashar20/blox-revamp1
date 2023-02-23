@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/books",
+  "id": "developer-resources/books",
+  "isDocsHomePage": false,
+  "title": "Books",
+  "description": "Learn Ionic 4 From Scratch",
+  "source": "@site/docs/developer-resources/books.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-resources/books",
+  "permalink": "/developer/docs/developer-resources/books",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/books.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

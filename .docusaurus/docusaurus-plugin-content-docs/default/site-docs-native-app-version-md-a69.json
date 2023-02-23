@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-version",
+  "id": "native/app-version",
+  "isDocsHomePage": false,
+  "title": "App Version",
+  "description": "App Version | Cordova Plugin App Version to Read Ionic Apps",
+  "source": "@site/docs/native/app-version.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-version",
+  "permalink": "/developer/docs/native/app-version",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-version/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "App Version"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "App Rate",
+    "permalink": "/developer/docs/native/app-rate"
+  },
+  "next": {
+    "title": "Apple Wallet",
+    "permalink": "/developer/docs/native/apple-wallet"
+  }
+}

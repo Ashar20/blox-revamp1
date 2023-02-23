@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/guides/routing-and-navigation",
+  "id": "version-v5/studio/guides/routing-and-navigation",
+  "isDocsHomePage": false,
+  "title": "Routing and Navigation",
+  "description": "A key part of developing Ionic apps is setting up routing and ensuring fluid navigation between pages.",
+  "source": "@site/versioned_docs/version-v5/studio/guides/routing-and-navigation.md",
+  "sourceDirName": "studio/guides",
+  "slug": "/studio/guides/routing-and-navigation",
+  "permalink": "/developer/docs/v5/studio/guides/routing-and-navigation",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/studio/guides/routing-and-navigation.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

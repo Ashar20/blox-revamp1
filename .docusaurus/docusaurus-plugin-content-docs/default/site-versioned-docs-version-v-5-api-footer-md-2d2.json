@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/footer",
+  "id": "version-v5/api/footer",
+  "isDocsHomePage": false,
+  "title": "Page Footer | Ionic App Footer: Wrapper Root Page Component",
+  "description": "A footer is a root component that sits at the bottom of a page. Ionic footers can be a wrapper for ion-toolbar to make sure the content area is sized correctly.",
+  "source": "@site/versioned_docs/version-v5/api/footer.md",
+  "sourceDirName": "api",
+  "slug": "/api/footer",
+  "permalink": "/developer/docs/v5/api/footer",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/footer.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Page Footer | Ionic App Footer: Wrapper Root Page Component",
+    "description": "A footer is a root component that sits at the bottom of a page. Ionic footers can be a wrapper for ion-toolbar to make sure the content area is sized correctly.",
+    "sidebar_label": "ion-footer"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-header",
+    "permalink": "/developer/docs/v5/api/header"
+  },
+  "next": {
+    "title": "ion-title",
+    "permalink": "/developer/docs/v5/api/title"
+  }
+}

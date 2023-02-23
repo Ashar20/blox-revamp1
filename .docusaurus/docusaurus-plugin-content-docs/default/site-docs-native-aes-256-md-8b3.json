@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/aes-256",
+  "id": "native/aes-256",
+  "isDocsHomePage": false,
+  "title": "AES256",
+  "description": "AES256 | Perform AES 256 Encryption and Decryption on Plain Text",
+  "source": "@site/docs/native/aes-256.md",
+  "sourceDirName": "native",
+  "slug": "/native/aes-256",
+  "permalink": "/developer/docs/native/aes-256",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/aes-256/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AES256"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "AdMob",
+    "permalink": "/developer/docs/native/admob"
+  },
+  "next": {
+    "title": "AllInOneSDK",
+    "permalink": "/developer/docs/native/all-in-one-sdk"
+  }
+}

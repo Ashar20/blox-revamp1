@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/segment-button",
+  "id": "version-v5/api/segment-button",
+  "isDocsHomePage": false,
+  "title": "ion-segment-button",
+  "description": "Segment buttons are groups of related buttons inside of a Segment. They are displayed in a horizontal row. A segment button can be checked by default by setting the value of the segment to the value of the segment button. Only one segment button can be selected at a time.",
+  "source": "@site/versioned_docs/version-v5/api/segment-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/segment-button",
+  "permalink": "/developer/docs/v5/api/segment-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/segment-button.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-segment-button"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-segment",
+    "permalink": "/developer/docs/v5/api/segment"
+  },
+  "next": {
+    "title": "ion-select",
+    "permalink": "/developer/docs/v5/api/select"
+  }
+}

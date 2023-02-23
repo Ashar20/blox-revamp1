@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/support",
+  "id": "version-v5/reference/support",
+  "isDocsHomePage": false,
+  "title": "Support Policy",
+  "description": "Community Maintenance",
+  "source": "@site/versioned_docs/version-v5/reference/support.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/support",
+  "permalink": "/developer/docs/v5/reference/support",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/reference/support.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Release Notes",
+    "permalink": "/developer/docs/v5/reference/release-notes"
+  },
+  "next": {
+    "title": "Browser Support",
+    "permalink": "/developer/docs/v5/reference/browser-support"
+  }
+}

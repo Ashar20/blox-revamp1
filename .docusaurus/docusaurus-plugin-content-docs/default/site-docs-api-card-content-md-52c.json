@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/card-content",
+  "id": "api/card-content",
+  "isDocsHomePage": false,
+  "title": "ion-card-content",
+  "description": "Card content is a child component of card that adds padding around its contents. It is recommended that any text content for a card should be placed inside of card content.",
+  "source": "@site/docs/api/card-content.md",
+  "sourceDirName": "api",
+  "slug": "/api/card-content",
+  "permalink": "/developer/docs/api/card-content",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card-content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-card-content"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-card",
+    "permalink": "/developer/docs/api/card"
+  },
+  "next": {
+    "title": "ion-card-header",
+    "permalink": "/developer/docs/api/card-header"
+  }
+}

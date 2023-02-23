@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vue/pwa",
+  "id": "version-v5/vue/pwa",
+  "isDocsHomePage": false,
+  "title": "Progressive Web Apps in Vue",
+  "description": "Making your Vue app a PWA",
+  "source": "@site/versioned_docs/version-v5/vue/pwa.md",
+  "sourceDirName": "vue",
+  "slug": "/vue/pwa",
+  "permalink": "/developer/docs/v5/vue/pwa",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/pwa.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Progressive Web Apps"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Platform",
+    "permalink": "/developer/docs/v5/vue/platform"
+  },
+  "next": {
+    "title": "Storage",
+    "permalink": "/developer/docs/v5/vue/storage"
+  }
+}

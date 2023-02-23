@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/clipboard",
+  "id": "native/clipboard",
+  "isDocsHomePage": false,
+  "title": "Clipboard",
+  "description": "Clipboard Management Plugin - Install on iOS, Android or Windows",
+  "source": "@site/docs/native/clipboard.md",
+  "sourceDirName": "native",
+  "slug": "/native/clipboard",
+  "permalink": "/developer/docs/native/clipboard",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/clipboard/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Clipboard"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "CleverTap",
+    "permalink": "/developer/docs/native/clevertap"
+  },
+  "next": {
+    "title": "Cloud Settings",
+    "permalink": "/developer/docs/native/cloud-settings"
+  }
+}

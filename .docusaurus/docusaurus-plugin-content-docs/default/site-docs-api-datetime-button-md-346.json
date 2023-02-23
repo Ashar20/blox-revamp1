@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/datetime-button",
+  "id": "api/datetime-button",
+  "isDocsHomePage": false,
+  "title": "ion-datetime-button",
+  "description": "ion-datetime-button: Ionic API Input for interacting with Datetime picker",
+  "source": "@site/docs/api/datetime-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/datetime-button",
+  "permalink": "/developer/docs/api/datetime-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/datetime-button.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-datetime-button"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-datetime",
+    "permalink": "/developer/docs/api/datetime"
+  },
+  "next": {
+    "title": "ion-picker",
+    "permalink": "/developer/docs/api/picker"
+  }
+}

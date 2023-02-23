@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/code-push",
+  "id": "version-v5/native/code-push",
+  "isDocsHomePage": false,
+  "title": "Code Push",
+  "description": "CodePush plugin for Cordova by Microsoft that supports iOS and Android.",
+  "source": "@site/versioned_docs/version-v5/native/code-push.md",
+  "sourceDirName": "native",
+  "slug": "/native/code-push",
+  "permalink": "/developer/docs/v5/native/code-push",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/code-push/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Code Push"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Cloud Settings",
+    "permalink": "/developer/docs/v5/native/cloud-settings"
+  },
+  "next": {
+    "title": "CustomUISDK",
+    "permalink": "/developer/docs/v5/native/custom-uisdk"
+  }
+}

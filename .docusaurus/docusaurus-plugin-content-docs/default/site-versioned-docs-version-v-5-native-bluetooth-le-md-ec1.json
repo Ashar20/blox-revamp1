@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/bluetooth-le",
+  "id": "version-v5/native/bluetooth-le",
+  "isDocsHomePage": false,
+  "title": "BluetoothLE",
+  "description": "This plugin has the most complete implementation for interacting with Bluetooth LE devices on Android, iOS and partially Windows.",
+  "source": "@site/versioned_docs/version-v5/native/bluetooth-le.md",
+  "sourceDirName": "native",
+  "slug": "/native/bluetooth-le",
+  "permalink": "/developer/docs/v5/native/bluetooth-le",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/bluetooth-le/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "BluetoothLE"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "BlinkId",
+    "permalink": "/developer/docs/v5/native/blinkid"
+  },
+  "next": {
+    "title": "Bluetooth Serial",
+    "permalink": "/developer/docs/v5/native/bluetooth-serial"
+  }
+}

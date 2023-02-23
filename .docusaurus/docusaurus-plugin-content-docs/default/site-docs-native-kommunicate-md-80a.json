@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/kommunicate",
+  "id": "native/kommunicate",
+  "isDocsHomePage": false,
+  "title": "Kommunicate",
+  "description": "The plugin for the Kommunicate SDK.",
+  "source": "@site/docs/native/kommunicate.md",
+  "sourceDirName": "native",
+  "slug": "/native/kommunicate",
+  "permalink": "/developer/docs/native/kommunicate",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/kommunicate/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Kommunicate"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Keychain",
+    "permalink": "/developer/docs/native/keychain"
+  },
+  "next": {
+    "title": "Launch Navigator",
+    "permalink": "/developer/docs/native/launch-navigator"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/breadcrumbs",
+  "id": "api/breadcrumbs",
+  "isDocsHomePage": false,
+  "title": "ion-breadcrumbs",
+  "description": "Breadcrumbs are navigation items that are used to indicate where a user is on an app or site. They should be used for large sites and apps with hierarchically arranged pages. Breadcrumbs can be collapsed based on the maximum number that can show, and the collapsed indicator can be clicked on to present a popover with more information or expand the collapsed breadcrumbs.",
+  "source": "@site/docs/api/breadcrumbs.md",
+  "sourceDirName": "api",
+  "slug": "/api/breadcrumbs",
+  "permalink": "/developer/docs/api/breadcrumbs",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/breadcrumbs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-breadcrumbs"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-breadcrumb",
+    "permalink": "/developer/docs/api/breadcrumb"
+  },
+  "next": {
+    "title": "ion-button",
+    "permalink": "/developer/docs/api/button"
+  }
+}

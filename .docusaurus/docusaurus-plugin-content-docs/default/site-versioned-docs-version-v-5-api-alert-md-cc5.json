@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/alert",
+  "id": "version-v5/api/alert",
+  "isDocsHomePage": false,
+  "title": "ion-alert",
+  "description": "An Alert is a dialog that presents users with information or collects information from the user using inputs. An alert appears on top of the app's content, and must be manually dismissed by the user before they can resume interaction with the app. It can also optionally have a header, subHeader and message.",
+  "source": "@site/versioned_docs/version-v5/api/alert.md",
+  "sourceDirName": "api",
+  "slug": "/api/alert",
+  "permalink": "/developer/docs/v5/api/alert",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/alert.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-alert",
+    "demoUrl": "/docs/demos/api/alert/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/alert/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-action-sheet",
+    "permalink": "/developer/docs/v5/api/action-sheet"
+  },
+  "next": {
+    "title": "ion-badge",
+    "permalink": "/developer/docs/v5/api/badge"
+  }
+}

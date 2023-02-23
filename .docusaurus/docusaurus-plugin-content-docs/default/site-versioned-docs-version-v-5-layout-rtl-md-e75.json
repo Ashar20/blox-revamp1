@@ -1,0 +1,15 @@
+{
+  "unversionedId": "layout/rtl",
+  "id": "version-v5/layout/rtl",
+  "isDocsHomePage": false,
+  "title": "RTL Support",
+  "description": "TODO: add stuff here",
+  "source": "@site/versioned_docs/version-v5/layout/rtl.md",
+  "sourceDirName": "layout",
+  "slug": "/layout/rtl",
+  "permalink": "/developer/docs/v5/layout/rtl",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/layout/rtl.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

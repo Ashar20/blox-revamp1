@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/capacitor-update",
+  "id": "cli/commands/capacitor-update",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor update",
+  "description": "Update/Install Capacitor Native Platforms and Cordova Plugins",
+  "source": "@site/docs/cli/commands/capacitor-update.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-update",
+  "permalink": "/developer/docs/cli/commands/capacitor-update",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/update.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic capacitor update",
+    "sidebar_label": "capacitor update"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "capacitor sync",
+    "permalink": "/developer/docs/cli/commands/capacitor-sync"
+  },
+  "next": {
+    "title": "completion",
+    "permalink": "/developer/docs/cli/commands/completion"
+  }
+}

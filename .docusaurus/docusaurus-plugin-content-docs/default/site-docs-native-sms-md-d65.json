@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/sms",
+  "id": "native/sms",
+  "isDocsHomePage": false,
+  "title": "SMS",
+  "description": "Cordova SMS Plugin to Send SMS on iOS, Android, & Windows",
+  "source": "@site/docs/native/sms.md",
+  "sourceDirName": "native",
+  "slug": "/native/sms",
+  "permalink": "/developer/docs/native/sms",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sms/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SMS"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Sms Retriever",
+    "permalink": "/developer/docs/native/sms-retriever"
+  },
+  "next": {
+    "title": "Social Sharing",
+    "permalink": "/developer/docs/native/social-sharing"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/call-directory",
+  "id": "version-v5/native/call-directory",
+  "isDocsHomePage": false,
+  "title": "Call Directory",
+  "description": "This plugin can add phone numbers to an Callkit call directory extension. Call reloadExtension after using addIdentification and removeIdentification",
+  "source": "@site/versioned_docs/version-v5/native/call-directory.md",
+  "sourceDirName": "native",
+  "slug": "/native/call-directory",
+  "permalink": "/developer/docs/v5/native/call-directory",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/call-directory/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Call Directory"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Calendar",
+    "permalink": "/developer/docs/v5/native/calendar"
+  },
+  "next": {
+    "title": "Call Number",
+    "permalink": "/developer/docs/v5/native/call-number"
+  }
+}

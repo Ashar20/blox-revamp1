@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/tab-button",
+  "id": "version-v5/api/tab-button",
+  "isDocsHomePage": false,
+  "title": "ion-tab-button",
+  "description": "A tab button is a UI component that is placed inside of a tab bar. The tab button can specify the layout of the icon and label and connect to a tab view.",
+  "source": "@site/versioned_docs/version-v5/api/tab-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/tab-button",
+  "permalink": "/developer/docs/v5/api/tab-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/tab-button.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-tab-button"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-tab-bar",
+    "permalink": "/developer/docs/v5/api/tab-bar"
+  },
+  "next": {
+    "title": "ion-toast",
+    "permalink": "/developer/docs/v5/api/toast"
+  }
+}

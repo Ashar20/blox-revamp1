@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/sms",
+  "id": "version-v5/native/sms",
+  "isDocsHomePage": false,
+  "title": "SMS",
+  "description": "Requires Cordova plugin: cordova-sms-plugin. For more info, please see the SMS plugin docs.",
+  "source": "@site/versioned_docs/version-v5/native/sms.md",
+  "sourceDirName": "native",
+  "slug": "/native/sms",
+  "permalink": "/developer/docs/v5/native/sms",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sms/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "SMS"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Sms Retriever",
+    "permalink": "/developer/docs/v5/native/sms-retriever"
+  },
+  "next": {
+    "title": "Social Sharing",
+    "permalink": "/developer/docs/v5/native/social-sharing"
+  }
+}

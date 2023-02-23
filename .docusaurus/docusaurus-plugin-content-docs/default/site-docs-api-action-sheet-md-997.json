@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/action-sheet",
+  "id": "api/action-sheet",
+  "isDocsHomePage": false,
+  "title": "ion-action-sheet",
+  "description": "ion-action-sheet | Action Sheet Dialog for iOS and Android Apps",
+  "source": "@site/docs/api/action-sheet.md",
+  "sourceDirName": "api",
+  "slug": "/api/action-sheet",
+  "permalink": "/developer/docs/api/action-sheet",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-action-sheet"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "UI Components",
+    "permalink": "/developer/docs/components"
+  },
+  "next": {
+    "title": "ion-accordion",
+    "permalink": "/developer/docs/api/accordion"
+  }
+}

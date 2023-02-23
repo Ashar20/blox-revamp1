@@ -1,0 +1,17 @@
+{
+  "unversionedId": "intro/first-app",
+  "id": "version-v5/intro/first-app",
+  "isDocsHomePage": false,
+  "title": "Build Your First App Tutorial",
+  "description": "Pick the JavaScript framework you plan to use while building your Ionic app:",
+  "source": "@site/versioned_docs/version-v5/intro/first-app.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/first-app",
+  "permalink": "/developer/docs/v5/intro/first-app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/intro/first-app.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "hide_table_of_contents": true
+  }
+}

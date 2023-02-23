@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/guides/first-app-v4/creating-photo-gallery-device-storage",
+  "id": "version-v5/developer-resources/guides/first-app-v4/creating-photo-gallery-device-storage",
+  "isDocsHomePage": false,
+  "title": "Creating a Photo Gallery with Device Storage",
+  "description": "Last time, we successfully added the Camera plugin to the Tab2 page of our Tabs app. Currently, the photo is replaced each time a new one is taken. What if we wanted to display multiple photos together? Let’s create a photo gallery. You can follow along with the complete code for this on GitHub.",
+  "source": "@site/versioned_docs/version-v5/developer-resources/guides/first-app-v4/creating-photo-gallery-device-storage.md",
+  "sourceDirName": "developer-resources/guides/first-app-v4",
+  "slug": "/developer-resources/guides/first-app-v4/creating-photo-gallery-device-storage",
+  "permalink": "/developer/docs/v5/developer-resources/guides/first-app-v4/creating-photo-gallery-device-storage",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developer-resources/guides/first-app-v4/creating-photo-gallery-device-storage.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

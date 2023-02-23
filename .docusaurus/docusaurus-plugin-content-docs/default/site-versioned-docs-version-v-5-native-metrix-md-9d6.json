@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/metrix",
+  "id": "version-v5/native/metrix",
+  "isDocsHomePage": false,
+  "title": "Metrix",
+  "description": "This is the Ionic Cordova SDK of Metrix™. You can read more about Metrix™ at metrix.ir.",
+  "source": "@site/versioned_docs/version-v5/native/metrix.md",
+  "sourceDirName": "native",
+  "slug": "/native/metrix",
+  "permalink": "/developer/docs/v5/native/metrix",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/metrix/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Metrix"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Media",
+    "permalink": "/developer/docs/v5/native/media"
+  },
+  "next": {
+    "title": "Mixpanel",
+    "permalink": "/developer/docs/v5/native/mixpanel"
+  }
+}

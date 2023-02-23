@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/reorder",
+  "id": "version-v5/api/reorder",
+  "isDocsHomePage": false,
+  "title": "ion-reorder",
+  "description": "Reorder is a component that allows an item in a group of items to be dragged to change its order within that group. It must be used within an ion-reorder-group to provide a visual drag and drop interface.",
+  "source": "@site/versioned_docs/version-v5/api/reorder.md",
+  "sourceDirName": "api",
+  "slug": "/api/reorder",
+  "permalink": "/developer/docs/v5/api/reorder",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/reorder.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-reorder",
+    "demoUrl": "/docs/demos/api/reorder/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/reorder/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-refresher-content",
+    "permalink": "/developer/docs/v5/api/refresher-content"
+  },
+  "next": {
+    "title": "ion-reorder-group",
+    "permalink": "/developer/docs/v5/api/reorder-group"
+  }
+}

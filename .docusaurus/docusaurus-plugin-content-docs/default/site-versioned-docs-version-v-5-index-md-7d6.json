@@ -1,0 +1,28 @@
+{
+  "unversionedId": "index",
+  "id": "version-v5/index",
+  "isDocsHomePage": false,
+  "title": "Open-Source UI Toolkit to Create Your Own Mobile or Desktop Apps",
+  "description": "I",
+  "source": "@site/versioned_docs/version-v5/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/developer/docs/v5/",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/index.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Overview",
+    "slug": "/",
+    "title": "Open-Source UI Toolkit to Create Your Own Mobile or Desktop Apps",
+    "description": "I",
+    "hide_table_of_contents": true,
+    "demoUrl": "https://ionic-docs-demo.herokuapp.com/",
+    "demoSourceUrl": "https://github.com/ionic-team/docs-demo"
+  },
+  "sidebar": "version-v5/docs",
+  "next": {
+    "title": "Environment Setup",
+    "permalink": "/developer/docs/v5/intro/environment"
+  }
+}

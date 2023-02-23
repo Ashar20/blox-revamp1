@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/infinite-scroll",
+  "id": "version-v5/api/infinite-scroll",
+  "isDocsHomePage": false,
+  "title": "Infinite Scroller | ion-infinite-scroll Action Component",
+  "description": "The ion-infinite-scroll component calls an action to be performed when the user scrolls a specified distance from the bottom or top of the page.",
+  "source": "@site/versioned_docs/version-v5/api/infinite-scroll.md",
+  "sourceDirName": "api",
+  "slug": "/api/infinite-scroll",
+  "permalink": "/developer/docs/v5/api/infinite-scroll",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/infinite-scroll.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Infinite Scroller | ion-infinite-scroll Action Component",
+    "description": "The ion-infinite-scroll component calls an action to be performed when the user scrolls a specified distance from the bottom or top of the page.",
+    "sidebar_label": "ion-infinite-scroll",
+    "demoUrl": "/docs/demos/api/infinite-scroll/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/infinite-scroll/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-row",
+    "permalink": "/developer/docs/v5/api/row"
+  },
+  "next": {
+    "title": "ion-infinite-scroll-content",
+    "permalink": "/developer/docs/v5/api/infinite-scroll-content"
+  }
+}

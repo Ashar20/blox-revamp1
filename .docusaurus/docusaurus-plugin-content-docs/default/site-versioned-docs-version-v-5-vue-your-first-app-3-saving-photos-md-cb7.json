@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vue/your-first-app/saving-photos",
+  "id": "version-v5/vue/your-first-app/saving-photos",
+  "isDocsHomePage": false,
+  "title": "Saving Photos to the Filesystem",
+  "description": "We’re now able to take multiple photos and display them in a photo gallery on the second tab of our app. These photos, however, are not currently being stored permanently, so when the app is closed, they will be lost.",
+  "source": "@site/versioned_docs/version-v5/vue/your-first-app/3-saving-photos.md",
+  "sourceDirName": "vue/your-first-app",
+  "slug": "/vue/your-first-app/saving-photos",
+  "permalink": "/developer/docs/v5/vue/your-first-app/saving-photos",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/your-first-app/3-saving-photos.md",
+  "tags": [],
+  "version": "v5",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Saving Photos"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Taking Photos",
+    "permalink": "/developer/docs/v5/vue/your-first-app/taking-photos"
+  },
+  "next": {
+    "title": "Loading Photos",
+    "permalink": "/developer/docs/v5/vue/your-first-app/loading-photos"
+  }
+}

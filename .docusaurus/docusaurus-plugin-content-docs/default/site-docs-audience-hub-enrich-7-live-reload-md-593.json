@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Audience Hub/Enrich/live-reload",
+  "id": "Audience Hub/Enrich/live-reload",
+  "isDocsHomePage": false,
+  "title": "Rapid App Development with Live Reload",
+  "description": "<meta",
+  "source": "@site/docs/Audience Hub/Enrich/7-live-reload.md",
+  "sourceDirName": "Audience Hub/Enrich",
+  "slug": "/Audience Hub/Enrich/live-reload",
+  "permalink": "/docs/Audience Hub/Enrich/live-reload",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/Enrich/7-live-reload.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Rapid App Development with Live Reload",
+    "sidebar_label": "Live Reload"
+  }
+}

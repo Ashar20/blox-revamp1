@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/mobile-messaging",
+  "id": "version-v5/native/mobile-messaging",
+  "isDocsHomePage": false,
+  "title": "Mobile Messaging",
+  "description": "Mobile Messaging SDK is designed and developed to easily enable push notification channel in your mobile application.",
+  "source": "@site/versioned_docs/version-v5/native/mobile-messaging.md",
+  "sourceDirName": "native",
+  "slug": "/native/mobile-messaging",
+  "permalink": "/developer/docs/v5/native/mobile-messaging",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/mobile-messaging/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Mobile Messaging"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "MLKitTranslate",
+    "permalink": "/developer/docs/v5/native/mlkit-translate"
+  },
+  "next": {
+    "title": "Multiple Documents Picker",
+    "permalink": "/developer/docs/v5/native/multiple-document-picker"
+  }
+}

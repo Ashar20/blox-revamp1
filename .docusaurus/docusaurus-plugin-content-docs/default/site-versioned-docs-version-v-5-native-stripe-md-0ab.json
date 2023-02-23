@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/stripe",
+  "id": "version-v5/native/stripe",
+  "isDocsHomePage": false,
+  "title": "Stripe",
+  "description": "A plugin that allows you to use Stripe's Native SDKs for Android and iOS.",
+  "source": "@site/versioned_docs/version-v5/native/stripe.md",
+  "sourceDirName": "native",
+  "slug": "/native/stripe",
+  "permalink": "/developer/docs/v5/native/stripe",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/stripe/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Stripe"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Streaming Media",
+    "permalink": "/developer/docs/v5/native/streaming-media"
+  },
+  "next": {
+    "title": "SumUp",
+    "permalink": "/developer/docs/v5/native/sum-up"
+  }
+}

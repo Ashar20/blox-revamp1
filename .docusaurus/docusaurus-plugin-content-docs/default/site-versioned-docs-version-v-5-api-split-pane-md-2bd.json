@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/split-pane",
+  "id": "version-v5/api/split-pane",
+  "isDocsHomePage": false,
+  "title": "ion-split-pane: Split Plane View for Menus and Multi-View Layouts",
+  "description": "ion-split-pane is useful when creating multi-view app layouts. It allows UI elements, like menus, to be displayed as the viewport width increases.",
+  "source": "@site/versioned_docs/version-v5/api/split-pane.md",
+  "sourceDirName": "api",
+  "slug": "/api/split-pane",
+  "permalink": "/developer/docs/v5/api/split-pane",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/split-pane.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-split-pane: Split Plane View for Menus and Multi-View Layouts",
+    "description": "ion-split-pane is useful when creating multi-view app layouts. It allows UI elements, like menus, to be displayed as the viewport width increases.",
+    "sidebar_label": "ion-split-pane"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-menu-toggle",
+    "permalink": "/developer/docs/v5/api/menu-toggle"
+  },
+  "next": {
+    "title": "ion-modal",
+    "permalink": "/developer/docs/v5/api/modal"
+  }
+}

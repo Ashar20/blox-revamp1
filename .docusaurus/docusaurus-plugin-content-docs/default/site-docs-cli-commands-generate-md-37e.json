@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/generate",
+  "id": "cli/commands/generate",
+  "isDocsHomePage": false,
+  "title": "ionic generate",
+  "description": "Ionic Generate: Create Pages, Components, & Angular Features",
+  "source": "@site/docs/cli/commands/generate.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/generate",
+  "permalink": "/developer/docs/cli/commands/generate",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/generate.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic generate",
+    "sidebar_label": "generate"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "enterprise register",
+    "permalink": "/developer/docs/cli/commands/enterprise-register"
+  },
+  "next": {
+    "title": "git remote",
+    "permalink": "/developer/docs/cli/commands/git-remote"
+  }
+}

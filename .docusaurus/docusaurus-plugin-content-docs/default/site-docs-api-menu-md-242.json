@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/menu",
+  "id": "api/menu",
+  "isDocsHomePage": false,
+  "title": "ion-menu",
+  "description": "ion-menu: API Framework Docs for Types of Menu Components",
+  "source": "@site/docs/api/menu.md",
+  "sourceDirName": "api",
+  "slug": "/api/menu",
+  "permalink": "/developer/docs/api/menu",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-menu"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-thumbnail",
+    "permalink": "/developer/docs/api/thumbnail"
+  },
+  "next": {
+    "title": "ion-menu-button",
+    "permalink": "/developer/docs/api/menu-button"
+  }
+}

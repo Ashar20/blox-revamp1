@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/media",
+  "id": "native/media",
+  "isDocsHomePage": false,
+  "title": "Media",
+  "description": "Cordova Media Plugin: Record and Play Back Native App Media Files",
+  "source": "@site/docs/native/media.md",
+  "sourceDirName": "native",
+  "slug": "/native/media",
+  "permalink": "/developer/docs/native/media",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/media/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Media"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Media Capture",
+    "permalink": "/developer/docs/native/media-capture"
+  },
+  "next": {
+    "title": "Metrix",
+    "permalink": "/developer/docs/native/metrix"
+  }
+}

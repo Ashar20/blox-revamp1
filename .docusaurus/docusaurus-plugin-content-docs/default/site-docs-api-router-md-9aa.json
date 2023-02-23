@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/router",
+  "id": "api/router",
+  "isDocsHomePage": false,
+  "title": "ion-router",
+  "description": "ion-router: Router Component to Coordinate URL Navigation",
+  "source": "@site/docs/api/router.md",
+  "sourceDirName": "api",
+  "slug": "/api/router",
+  "permalink": "/developer/docs/api/router",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/router.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-router",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-reorder-group",
+    "permalink": "/developer/docs/api/reorder-group"
+  },
+  "next": {
+    "title": "ion-router-link",
+    "permalink": "/developer/docs/api/router-link"
+  }
+}

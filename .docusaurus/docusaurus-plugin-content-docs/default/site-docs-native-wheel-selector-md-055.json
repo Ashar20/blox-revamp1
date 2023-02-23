@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/wheel-selector",
+  "id": "native/wheel-selector",
+  "isDocsHomePage": false,
+  "title": "WheelSelector Plugin",
+  "description": "Native wheel selector for Cordova (Android/iOS).",
+  "source": "@site/docs/native/wheel-selector.md",
+  "sourceDirName": "native",
+  "slug": "/native/wheel-selector",
+  "permalink": "/developer/docs/native/wheel-selector",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/wheel-selector/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WheelSelector Plugin"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Wechat",
+    "permalink": "/developer/docs/native/wechat"
+  },
+  "next": {
+    "title": "WifiWizard2",
+    "permalink": "/developer/docs/native/wifi-wizard-2"
+  }
+}

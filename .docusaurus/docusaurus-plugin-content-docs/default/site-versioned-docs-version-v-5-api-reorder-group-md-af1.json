@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/reorder-group",
+  "id": "version-v5/api/reorder-group",
+  "isDocsHomePage": false,
+  "title": "ion-reorder-group",
+  "description": "The reorder group is a wrapper component for items using the ion-reorder component. See the Reorder documentation for further information about the anchor component that is used to drag items within the ion-reorder-group.",
+  "source": "@site/versioned_docs/version-v5/api/reorder-group.md",
+  "sourceDirName": "api",
+  "slug": "/api/reorder-group",
+  "permalink": "/developer/docs/v5/api/reorder-group",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/reorder-group.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-reorder-group"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-reorder",
+    "permalink": "/developer/docs/v5/api/reorder"
+  },
+  "next": {
+    "title": "ion-router",
+    "permalink": "/developer/docs/v5/api/router"
+  }
+}

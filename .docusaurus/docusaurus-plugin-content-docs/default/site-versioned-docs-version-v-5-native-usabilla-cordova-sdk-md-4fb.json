@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/usabilla-cordova-sdk",
+  "id": "version-v5/native/usabilla-cordova-sdk",
+  "isDocsHomePage": false,
+  "title": "Usabilla",
+  "description": "Usabilla SDK is designed and developed to collect feedback from your users with great ease and flexibility through your mobile application.",
+  "source": "@site/versioned_docs/version-v5/native/usabilla-cordova-sdk.md",
+  "sourceDirName": "native",
+  "slug": "/native/usabilla-cordova-sdk",
+  "permalink": "/developer/docs/v5/native/usabilla-cordova-sdk",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/usabilla-cordova-sdk/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Usabilla"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "UrbanAirShip",
+    "permalink": "/developer/docs/v5/native/urbanairship"
+  },
+  "next": {
+    "title": "Vibes",
+    "permalink": "/developer/docs/v5/native/vibes"
+  }
+}

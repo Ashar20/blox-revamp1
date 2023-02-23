@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/Explore-a-catalog",
+  "id": "Content Hub copy/Explore-a-catalog",
+  "isDocsHomePage": false,
+  "title": "Explore a catalog",
+  "description": "<meta",
+  "source": "@site/docs/Content Hub copy/Explore-a-catalog.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/Explore-a-catalog",
+  "permalink": "/docs/Content Hub copy/Explore-a-catalog",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/Explore-a-catalog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Explore a catalog",
+    "sidebar_label": "Explore a catalog"
+  }
+}

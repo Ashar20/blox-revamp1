@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Content Hub/Enrich/deploying-mobile",
+  "id": "Content Hub/Enrich/deploying-mobile",
+  "isDocsHomePage": false,
+  "title": "Deploying to iOS and Android",
+  "description": "Deploying to iOS and Android Apps - Capacitor Setup on Ionic",
+  "source": "@site/docs/Content Hub/Enrich/6-deploying-mobile.md",
+  "sourceDirName": "Content Hub/Enrich",
+  "slug": "/Content Hub/Enrich/deploying-mobile",
+  "permalink": "/docs/Content Hub/Enrich/deploying-mobile",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/6-deploying-mobile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Deploying to iOS and Android",
+    "sidebar_label": "Deploying Mobile"
+  }
+}

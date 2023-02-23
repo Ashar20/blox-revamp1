@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cli/livereload",
+  "id": "cli/livereload",
+  "isDocsHomePage": false,
+  "title": "Live Reload",
+  "description": "One option that can boost productivity when building Ionic apps is Live Reload (or live-reload). When active, Live Reload will reload the browser or Web View when changes in the app are detected. This is particularly useful for developing using hardware devices.",
+  "source": "@site/docs/cli/livereload.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/livereload",
+  "permalink": "/developer/docs/cli/livereload",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/cli/livereload.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cli",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/developer/docs/cli/configuration"
+  },
+  "next": {
+    "title": "Using a Proxy",
+    "permalink": "/developer/docs/cli/using-a-proxy"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/local-notifications",
+  "id": "version-v5/native/local-notifications",
+  "isDocsHomePage": false,
+  "title": "Local Notifications: iOS & Android | Cordova Local Notifications",
+  "description": "The Cordova Local Notifications Plugin allows you to display local notifications from your Ionic Framework application on iOS, Android, or Windows devices.",
+  "source": "@site/versioned_docs/version-v5/native/local-notifications.md",
+  "sourceDirName": "native",
+  "slug": "/native/local-notifications",
+  "permalink": "/developer/docs/v5/native/local-notifications",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/local-notifications/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Local Notifications: iOS & Android | Cordova Local Notifications",
+    "description": "The Cordova Local Notifications Plugin allows you to display local notifications from your Ionic Framework application on iOS, Android, or Windows devices.",
+    "sidebar_label": "Local Notifications"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Line Login",
+    "permalink": "/developer/docs/v5/native/line-login"
+  },
+  "next": {
+    "title": "Location Accuracy",
+    "permalink": "/developer/docs/v5/native/location-accuracy"
+  }
+}

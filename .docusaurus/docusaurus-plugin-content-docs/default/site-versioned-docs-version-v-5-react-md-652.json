@@ -1,0 +1,30 @@
+{
+  "unversionedId": "react",
+  "id": "version-v5/react",
+  "isDocsHomePage": false,
+  "title": "Ionic React",
+  "description": "Ionic is the app platform for web developers. Build amazing mobile, web, and desktop apps all with one shared code base and open web standards",
+  "source": "@site/versioned_docs/version-v5/react.md",
+  "sourceDirName": ".",
+  "slug": "/react",
+  "permalink": "/developer/docs/v5/react",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Ionic React",
+    "sidebar_label": "Overview",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "description": "Ionic is the app platform for web developers. Build amazing mobile, web, and desktop apps all with one shared code base and open web standards"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Progressive Web Apps",
+    "permalink": "/developer/docs/v5/angular/pwa"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/developer/docs/v5/react/quickstart"
+  }
+}

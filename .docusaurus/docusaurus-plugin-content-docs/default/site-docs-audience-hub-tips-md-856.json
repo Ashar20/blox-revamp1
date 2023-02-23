@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Audience Hub/tips",
+  "id": "Audience Hub/tips",
+  "isDocsHomePage": false,
+  "title": "Audience listing",
+  "description": "Keyboard Guide: Tools to Manage an On-Screen Mobile App Keyboard",
+  "source": "@site/docs/Audience Hub/tips.md",
+  "sourceDirName": "Audience Hub",
+  "slug": "/Audience Hub/tips",
+  "permalink": "/developer/docs/Audience Hub/tips",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/tips.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Audience listing"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/developer/docs/Audience Hub/scaffolding"
+  },
+  "next": {
+    "title": "Upload Custom Audience",
+    "permalink": "/developer/docs/Audience Hub/previewing"
+  }
+}

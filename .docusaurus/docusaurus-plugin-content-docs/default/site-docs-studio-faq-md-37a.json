@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/faq",
+  "id": "studio/faq",
+  "isDocsHomePage": false,
+  "title": "Frequently Asked Questions",
+  "description": "Which versions of Ionic Framework are supported?",
+  "source": "@site/docs/studio/faq.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/faq",
+  "permalink": "/developer/docs/studio/faq",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

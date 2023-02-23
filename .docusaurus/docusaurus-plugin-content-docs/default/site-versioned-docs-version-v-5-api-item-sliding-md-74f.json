@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/item-sliding",
+  "id": "version-v5/api/item-sliding",
+  "isDocsHomePage": false,
+  "title": "Slide Buttons | Slide Right to Left with ion-item-sliding",
+  "description": "ion-item-sliding component contains items that are dragged to reveal buttons. Options are revealed when the sliding item is swiped from left to right.",
+  "source": "@site/versioned_docs/version-v5/api/item-sliding.md",
+  "sourceDirName": "api",
+  "slug": "/api/item-sliding",
+  "permalink": "/developer/docs/v5/api/item-sliding",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-sliding.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Slide Buttons | Slide Right to Left with ion-item-sliding",
+    "description": "ion-item-sliding component contains items that are dragged to reveal buttons. Options are revealed when the sliding item is swiped from left to right.",
+    "sidebar_label": "ion-item-sliding"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-item-group",
+    "permalink": "/developer/docs/v5/api/item-group"
+  },
+  "next": {
+    "title": "ion-item-options",
+    "permalink": "/developer/docs/v5/api/item-options"
+  }
+}

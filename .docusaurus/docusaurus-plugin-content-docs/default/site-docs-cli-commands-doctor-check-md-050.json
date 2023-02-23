@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/doctor-check",
+  "id": "cli/commands/doctor-check",
+  "isDocsHomePage": false,
+  "title": "ionic doctor check",
+  "description": "ionic doctor check: Command to Check Issues on Ionic Projects",
+  "source": "@site/docs/cli/commands/doctor-check.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/doctor-check",
+  "permalink": "/developer/docs/cli/commands/doctor-check",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/doctor/check.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic doctor check",
+    "sidebar_label": "doctor check"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "docs",
+    "permalink": "/developer/docs/cli/commands/docs"
+  },
+  "next": {
+    "title": "doctor list",
+    "permalink": "/developer/docs/cli/commands/doctor-list"
+  }
+}

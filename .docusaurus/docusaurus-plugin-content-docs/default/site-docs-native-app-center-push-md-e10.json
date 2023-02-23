@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-center-push",
+  "id": "native/app-center-push",
+  "isDocsHomePage": false,
+  "title": "App Center Push",
+  "description": "For more info, please see https://docs.microsoft.com/en-us/appcenter/sdk/push/cordova",
+  "source": "@site/docs/native/app-center-push.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-center-push",
+  "permalink": "/developer/docs/native/app-center-push",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-center-push/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "App Center Push"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "App Center Low Memory",
+    "permalink": "/developer/docs/native/app-center-low-memory"
+  },
+  "next": {
+    "title": "App Preferences",
+    "permalink": "/developer/docs/native/app-preferences"
+  }
+}

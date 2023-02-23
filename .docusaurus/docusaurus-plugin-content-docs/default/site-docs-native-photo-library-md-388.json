@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/photo-library",
+  "id": "native/photo-library",
+  "isDocsHomePage": false,
+  "title": "Photo Library",
+  "description": "Photo Library API Plugin: Access Photos from Device by URLw",
+  "source": "@site/docs/native/photo-library.md",
+  "sourceDirName": "native",
+  "slug": "/native/photo-library",
+  "permalink": "/developer/docs/native/photo-library",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/photo-library/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Photo Library"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "PDFGenerator",
+    "permalink": "/developer/docs/native/pdf-generator"
+  },
+  "next": {
+    "title": "Photo Viewer",
+    "permalink": "/developer/docs/native/photo-viewer"
+  }
+}

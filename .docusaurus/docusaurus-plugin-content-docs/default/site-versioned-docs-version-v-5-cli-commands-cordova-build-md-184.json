@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/cordova-build",
+  "id": "version-v5/cli/commands/cordova-build",
+  "isDocsHomePage": false,
+  "title": "ionic cordova build",
+  "description": "Use Cordova to build for Android and iOS platform targets",
+  "source": "@site/versioned_docs/version-v5/cli/commands/cordova-build.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-build",
+  "permalink": "/developer/docs/v5/cli/commands/cordova-build",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/build.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "cordova build"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "config unset",
+    "permalink": "/developer/docs/v5/cli/commands/config-unset"
+  },
+  "next": {
+    "title": "cordova compile",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-compile"
+  }
+}

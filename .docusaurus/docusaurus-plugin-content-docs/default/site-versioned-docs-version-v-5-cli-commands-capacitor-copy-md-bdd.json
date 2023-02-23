@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/capacitor-copy",
+  "id": "version-v5/cli/commands/capacitor-copy",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor copy",
+  "description": "Copy web assets to native platforms",
+  "source": "@site/versioned_docs/version-v5/cli/commands/capacitor-copy.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-copy",
+  "permalink": "/developer/docs/v5/cli/commands/capacitor-copy",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/copy.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "capacitor copy"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "capacitor build",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-build"
+  },
+  "next": {
+    "title": "capacitor open",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-open"
+  }
+}

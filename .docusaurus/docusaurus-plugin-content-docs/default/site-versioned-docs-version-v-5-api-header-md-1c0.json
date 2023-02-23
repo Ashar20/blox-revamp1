@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/header",
+  "id": "version-v5/api/header",
+  "isDocsHomePage": false,
+  "title": "ion-header: Header Parent Component for Ionic Framework Apps",
+  "description": "Ion-header is a parent component that holds the toolbar. It's important to note that ion-header needs to be the one of the three root elements of a page.",
+  "source": "@site/versioned_docs/version-v5/api/header.md",
+  "sourceDirName": "api",
+  "slug": "/api/header",
+  "permalink": "/developer/docs/v5/api/header",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/header.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-header: Header Parent Component for Ionic Framework Apps",
+    "description": "Ion-header is a parent component that holds the toolbar. It's important to note that ion-header needs to be the one of the three root elements of a page.",
+    "sidebar_label": "ion-header"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-toolbar",
+    "permalink": "/developer/docs/v5/api/toolbar"
+  },
+  "next": {
+    "title": "ion-footer",
+    "permalink": "/developer/docs/v5/api/footer"
+  }
+}

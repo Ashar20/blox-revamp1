@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-center-low-memory",
+  "id": "native/app-center-low-memory",
+  "isDocsHomePage": false,
+  "title": "App Center Low Memory",
+  "description": "Generates a low memory warning.",
+  "source": "@site/docs/native/app-center-low-memory.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-center-low-memory",
+  "permalink": "/developer/docs/native/app-center-low-memory",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-center-low-memory/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "App Center Low Memory"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "App Center Crashes",
+    "permalink": "/developer/docs/native/app-center-crashes"
+  },
+  "next": {
+    "title": "App Center Push",
+    "permalink": "/developer/docs/native/app-center-push"
+  }
+}

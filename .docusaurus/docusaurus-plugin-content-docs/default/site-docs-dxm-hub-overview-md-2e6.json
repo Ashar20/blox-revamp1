@@ -1,0 +1,18 @@
+{
+  "unversionedId": "DXM Hub/overview",
+  "id": "DXM Hub/overview",
+  "isDocsHomePage": false,
+  "title": "Create a Catalog",
+  "description": "I",
+  "source": "@site/docs/DXM Hub/overview.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/overview",
+  "permalink": "/developer/docs/DXM Hub/overview",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create a Catalog",
+    "sidebar_label": "Create a catalog"
+  }
+}

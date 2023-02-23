@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cli/commands/start",
+  "id": "cli/commands/start",
+  "isDocsHomePage": false,
+  "title": "ionic start",
+  "description": "How to Create A New Application with Ionic Start for New Projects",
+  "source": "@site/docs/cli/commands/start.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/start",
+  "permalink": "/developer/docs/cli/commands/start",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/start.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic start",
+    "sidebar_label": "start"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "ssl generate",
+    "permalink": "/developer/docs/cli/commands/ssl-generate"
+  }
+}

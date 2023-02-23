@@ -1,0 +1,26 @@
+{
+  "unversionedId": "core-concepts/cross-platform",
+  "id": "version-v5/core-concepts/cross-platform",
+  "isDocsHomePage": false,
+  "title": "Cross Platform",
+  "description": "Ionic is built from the ground up to make development easy, no matter what platform you are building for. Ionic apps are truly cross-platform: able to run as an Android, iOS, Electron, and Progressive Web App (PWA), all from a single codebase. There are some points to keep in mind when optimizing an app to work across these platforms.",
+  "source": "@site/versioned_docs/version-v5/core-concepts/cross-platform.md",
+  "sourceDirName": "core-concepts",
+  "slug": "/core-concepts/cross-platform",
+  "permalink": "/developer/docs/v5/core-concepts/cross-platform",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/core-concepts/cross-platform.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "disableHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Fundamentals",
+    "permalink": "/developer/docs/v5/core-concepts/fundamentals"
+  },
+  "next": {
+    "title": "Web View",
+    "permalink": "/developer/docs/v5/core-concepts/webview"
+  }
+}

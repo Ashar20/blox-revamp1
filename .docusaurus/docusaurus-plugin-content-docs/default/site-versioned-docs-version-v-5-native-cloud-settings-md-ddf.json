@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/cloud-settings",
+  "id": "version-v5/native/cloud-settings",
+  "isDocsHomePage": false,
+  "title": "Cloud Settings",
+  "description": "Stores app settings in cloud storage so if the user re-installs the app or installs it on a different device, the settings will be restored and available in the new installation.",
+  "source": "@site/versioned_docs/version-v5/native/cloud-settings.md",
+  "sourceDirName": "native",
+  "slug": "/native/cloud-settings",
+  "permalink": "/developer/docs/v5/native/cloud-settings",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/cloud-settings/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Cloud Settings"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Clipboard",
+    "permalink": "/developer/docs/v5/native/clipboard"
+  },
+  "next": {
+    "title": "Code Push",
+    "permalink": "/developer/docs/v5/native/code-push"
+  }
+}

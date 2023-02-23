@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/item",
+  "id": "version-v5/api/item",
+  "isDocsHomePage": false,
+  "title": "ion-item",
+  "description": "Items are elements that can contain text, icons, avatars, images, inputs, and any other native or custom elements. Generally they are placed in a list with other items. Items can be swiped, deleted, reordered, edited, and more.",
+  "source": "@site/versioned_docs/version-v5/api/item.md",
+  "sourceDirName": "api",
+  "slug": "/api/item",
+  "permalink": "/developer/docs/v5/api/item",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-item",
+    "demoUrl": "/docs/demos/api/item/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/item/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-textarea",
+    "permalink": "/developer/docs/v5/api/textarea"
+  },
+  "next": {
+    "title": "ion-item-divider",
+    "permalink": "/developer/docs/v5/api/item-divider"
+  }
+}

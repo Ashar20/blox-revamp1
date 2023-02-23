@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/touch-id",
+  "id": "native/touch-id",
+  "isDocsHomePage": false,
+  "title": "Touch ID",
+  "description": "Touch ID | Cordova Fingerprint TouchID Plugin for iOS Ionic Apps",
+  "source": "@site/docs/native/touch-id.md",
+  "sourceDirName": "native",
+  "slug": "/native/touch-id",
+  "permalink": "/developer/docs/native/touch-id",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/touch-id/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Touch ID"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Toast",
+    "permalink": "/developer/docs/native/toast"
+  },
+  "next": {
+    "title": "Unvired Cordova SDK",
+    "permalink": "/developer/docs/native/unvired-cordova-sdk"
+  }
+}

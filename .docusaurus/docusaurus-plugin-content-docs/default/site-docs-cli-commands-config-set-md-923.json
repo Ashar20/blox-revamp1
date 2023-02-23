@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/config-set",
+  "id": "cli/commands/config-set",
+  "isDocsHomePage": false,
+  "title": "ionic config set",
+  "description": "ionic config set: App Command to Write Configuration Values",
+  "source": "@site/docs/cli/commands/config-set.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/config-set",
+  "permalink": "/developer/docs/cli/commands/config-set",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/config/set.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic config set",
+    "sidebar_label": "config set"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "config get",
+    "permalink": "/developer/docs/cli/commands/config-get"
+  },
+  "next": {
+    "title": "config unset",
+    "permalink": "/developer/docs/cli/commands/config-unset"
+  }
+}

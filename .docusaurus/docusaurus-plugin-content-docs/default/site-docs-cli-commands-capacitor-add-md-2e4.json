@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/capacitor-add",
+  "id": "cli/commands/capacitor-add",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor add",
+  "description": "Add a native platform to your Ionic project",
+  "source": "@site/docs/cli/commands/capacitor-add.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-add",
+  "permalink": "/developer/docs/cli/commands/capacitor-add",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/add.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic capacitor add",
+    "sidebar_label": "capacitor add"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "build",
+    "permalink": "/developer/docs/cli/commands/build"
+  },
+  "next": {
+    "title": "capacitor build",
+    "permalink": "/developer/docs/cli/commands/capacitor-build"
+  }
+}

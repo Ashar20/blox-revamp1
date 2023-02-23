@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/package-build",
+  "id": "cli/commands/package-build",
+  "isDocsHomePage": false,
+  "title": "ionic package build",
+  "description": "ionic package build: Create a Package Build on Appflow | Ionic",
+  "source": "@site/docs/cli/commands/package-build.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/package-build",
+  "permalink": "/developer/docs/cli/commands/package-build",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/package/build.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic package build",
+    "sidebar_label": "package build"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "logout",
+    "permalink": "/developer/docs/cli/commands/logout"
+  },
+  "next": {
+    "title": "package deploy",
+    "permalink": "/developer/docs/cli/commands/package-deploy"
+  }
+}

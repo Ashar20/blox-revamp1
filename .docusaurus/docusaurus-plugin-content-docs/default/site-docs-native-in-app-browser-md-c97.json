@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/in-app-browser",
+  "id": "native/in-app-browser",
+  "isDocsHomePage": false,
+  "title": "In App Browser",
+  "description": "In-App Browser | Cordova Plugin for In-App Browsers on Ionic Apps",
+  "source": "@site/docs/native/in-app-browser.md",
+  "sourceDirName": "native",
+  "slug": "/native/in-app-browser",
+  "permalink": "/developer/docs/native/in-app-browser",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-browser/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "In App Browser"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Imap",
+    "permalink": "/developer/docs/native/imap"
+  },
+  "next": {
+    "title": "In App Purchase 2",
+    "permalink": "/developer/docs/native/in-app-purchase-2"
+  }
+}

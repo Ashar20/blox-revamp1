@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/col",
+  "id": "version-v5/api/col",
+  "isDocsHomePage": false,
+  "title": "ion-col",
+  "description": "Columns are cellular components of the grid system and go inside of a row.",
+  "source": "@site/versioned_docs/version-v5/api/col.md",
+  "sourceDirName": "api",
+  "slug": "/api/col",
+  "permalink": "/developer/docs/v5/api/col",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/col.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-col"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-grid",
+    "permalink": "/developer/docs/v5/api/grid"
+  },
+  "next": {
+    "title": "ion-row",
+    "permalink": "/developer/docs/v5/api/row"
+  }
+}

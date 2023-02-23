@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/android-full-screen",
+  "id": "version-v5/native/android-full-screen",
+  "isDocsHomePage": false,
+  "title": "Android Full Screen",
+  "description": "This plugin enables developers to offer users a true full screen experience in their Cordova and PhoneGap apps for Android.",
+  "source": "@site/versioned_docs/version-v5/native/android-full-screen.md",
+  "sourceDirName": "native",
+  "slug": "/native/android-full-screen",
+  "permalink": "/developer/docs/v5/native/android-full-screen",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/android-full-screen/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Android Full Screen"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Android ExoPlayer",
+    "permalink": "/developer/docs/v5/native/android-exoplayer"
+  },
+  "next": {
+    "title": "Android Notch",
+    "permalink": "/developer/docs/v5/native/android-notch"
+  }
+}

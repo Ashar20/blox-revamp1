@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/cordova-prepare",
+  "id": "cli/commands/cordova-prepare",
+  "isDocsHomePage": false,
+  "title": "ionic cordova prepare",
+  "description": "Cordova Prepare: Copy iOS/Android Assets for Native Builds",
+  "source": "@site/docs/cli/commands/cordova-prepare.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-prepare",
+  "permalink": "/developer/docs/cli/commands/cordova-prepare",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/prepare.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic cordova prepare",
+    "sidebar_label": "cordova prepare"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "cordova plugin",
+    "permalink": "/developer/docs/cli/commands/cordova-plugin"
+  },
+  "next": {
+    "title": "cordova requirements",
+    "permalink": "/developer/docs/cli/commands/cordova-requirements"
+  }
+}

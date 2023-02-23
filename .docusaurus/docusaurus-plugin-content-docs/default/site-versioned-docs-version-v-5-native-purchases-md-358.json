@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/purchases",
+  "id": "version-v5/native/purchases",
+  "isDocsHomePage": false,
+  "title": "Purchases",
+  "description": "Purchases is a cross platform solution for managing in-app subscriptions. A backend is also provided via RevenueCat",
+  "source": "@site/versioned_docs/version-v5/native/purchases.md",
+  "sourceDirName": "native",
+  "slug": "/native/purchases",
+  "permalink": "/developer/docs/v5/native/purchases",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/purchases/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Purchases"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "PSPDFKit-Cordova",
+    "permalink": "/developer/docs/v5/native/pspdfkit-cordova"
+  },
+  "next": {
+    "title": "Push",
+    "permalink": "/developer/docs/v5/native/push"
+  }
+}

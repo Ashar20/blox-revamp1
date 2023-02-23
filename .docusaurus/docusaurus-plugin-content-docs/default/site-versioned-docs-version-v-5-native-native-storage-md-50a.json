@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/native-storage",
+  "id": "version-v5/native/native-storage",
+  "isDocsHomePage": false,
+  "title": "Ionic Native Storage | Install Cordova Plugin Native Storage",
+  "description": "Learn to use and install Native Storage of variables in Android and iOS on Ionic apps. Read to explore more about the cordova-plugin-nativestorage.",
+  "source": "@site/versioned_docs/version-v5/native/native-storage.md",
+  "sourceDirName": "native",
+  "slug": "/native/native-storage",
+  "permalink": "/developer/docs/v5/native/native-storage",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-storage/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Ionic Native Storage | Install Cordova Plugin Native Storage",
+    "description": "Learn to use and install Native Storage of variables in Android and iOS on Ionic apps. Read to explore more about the cordova-plugin-nativestorage.",
+    "sidebar_label": "Native Storage"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Native Page Transitions",
+    "permalink": "/developer/docs/v5/native/native-page-transitions"
+  },
+  "next": {
+    "title": "Network Interface",
+    "permalink": "/developer/docs/v5/native/network-interface"
+  }
+}

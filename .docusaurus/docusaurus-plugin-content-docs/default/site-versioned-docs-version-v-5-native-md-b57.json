@@ -1,0 +1,23 @@
+{
+  "unversionedId": "native",
+  "id": "version-v5/native",
+  "isDocsHomePage": false,
+  "title": "Native APIs",
+  "description": "Native APIs - Build Open-Source Native Application Experiences",
+  "source": "@site/versioned_docs/version-v5/native.md",
+  "sourceDirName": ".",
+  "slug": "/native",
+  "permalink": "/developer/docs/v5/native",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/native.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Native APIs",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "version-v5/native",
+  "next": {
+    "title": "Setup",
+    "permalink": "/developer/docs/v5/native/community"
+  }
+}

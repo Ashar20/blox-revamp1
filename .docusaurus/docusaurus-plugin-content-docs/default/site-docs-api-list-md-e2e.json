@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/list",
+  "id": "api/list",
+  "isDocsHomePage": false,
+  "title": "ion-list",
+  "description": "ion-list: Item List View Component for iOS and Android Apps",
+  "source": "@site/docs/api/list.md",
+  "sourceDirName": "api",
+  "slug": "/api/list",
+  "permalink": "/developer/docs/api/list",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/list.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-list"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-note",
+    "permalink": "/developer/docs/api/note"
+  },
+  "next": {
+    "title": "ion-list-header",
+    "permalink": "/developer/docs/api/list-header"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/device-orientation",
+  "id": "version-v5/native/device-orientation",
+  "isDocsHomePage": false,
+  "title": "Device Orientation",
+  "description": "Requires Cordova plugin: cordova-plugin-device-orientation. For more info, please see the Device Orientation docs.",
+  "source": "@site/versioned_docs/version-v5/native/device-orientation.md",
+  "sourceDirName": "native",
+  "slug": "/native/device-orientation",
+  "permalink": "/developer/docs/v5/native/device-orientation",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device-orientation/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Device Orientation"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Device Motion",
+    "permalink": "/developer/docs/v5/native/device-motion"
+  },
+  "next": {
+    "title": "Device",
+    "permalink": "/developer/docs/v5/native/device"
+  }
+}

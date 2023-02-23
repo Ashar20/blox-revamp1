@@ -1,0 +1,15 @@
+{
+  "unversionedId": "react/overview",
+  "id": "version-v5/react/overview",
+  "isDocsHomePage": false,
+  "title": "Ionic React Overview",
+  "description": "@ionic/react combines the core Ionic experience with the tooling and APIs that are tailored to React Developers.",
+  "source": "@site/versioned_docs/version-v5/react/overview.md",
+  "sourceDirName": "react",
+  "slug": "/react/overview",
+  "permalink": "/developer/docs/v5/react/overview",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/overview.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

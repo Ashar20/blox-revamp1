@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/route-redirect",
+  "id": "version-v5/api/route-redirect",
+  "isDocsHomePage": false,
+  "title": "ion-route-redirect",
+  "description": "A route redirect can only be used with an ion-router as a direct child of it.",
+  "source": "@site/versioned_docs/version-v5/api/route-redirect.md",
+  "sourceDirName": "api",
+  "slug": "/api/route-redirect",
+  "permalink": "/developer/docs/v5/api/route-redirect",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/route-redirect.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-route-redirect"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-route",
+    "permalink": "/developer/docs/v5/api/route"
+  },
+  "next": {
+    "title": "ion-searchbar",
+    "permalink": "/developer/docs/v5/api/searchbar"
+  }
+}

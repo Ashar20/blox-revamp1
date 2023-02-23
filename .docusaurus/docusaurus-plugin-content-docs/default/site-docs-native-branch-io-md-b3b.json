@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/branch-io",
+  "id": "native/branch-io",
+  "isDocsHomePage": false,
+  "title": "BranchIo",
+  "description": "Branch.io is an attribution service for deeplinking and invitation links",
+  "source": "@site/docs/native/branch-io.md",
+  "sourceDirName": "native",
+  "slug": "/native/branch-io",
+  "permalink": "/developer/docs/native/branch-io",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/branch-io/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "BranchIo"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Bluetooth Serial",
+    "permalink": "/developer/docs/native/bluetooth-serial"
+  },
+  "next": {
+    "title": "Broadcaster",
+    "permalink": "/developer/docs/native/broadcaster"
+  }
+}

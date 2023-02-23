@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cli",
+  "id": "cli",
+  "isDocsHomePage": false,
+  "title": "Ionic CLI",
+  "description": "Ionic CLI Framework: Command-Line Interface to Develop Apps",
+  "source": "@site/docs/cli.md",
+  "sourceDirName": ".",
+  "slug": "/cli",
+  "permalink": "/developer/docs/cli",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/cli.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ionic CLI",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "cli",
+  "next": {
+    "title": "Configuration",
+    "permalink": "/developer/docs/cli/configuration"
+  }
+}

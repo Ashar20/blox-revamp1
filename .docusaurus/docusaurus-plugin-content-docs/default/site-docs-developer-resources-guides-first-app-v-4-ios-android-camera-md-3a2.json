@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/guides/first-app-v4/ios-android-camera",
+  "id": "developer-resources/guides/first-app-v4/ios-android-camera",
+  "isDocsHomePage": false,
+  "title": "Android, iOS, and the Camera - Oh My!",
+  "description": "Previously, we got an Ionic app up and running locally in a web browser. Now, let’s get it onto your iOS or Android device, then start building the photo gallery feature.",
+  "source": "@site/docs/developer-resources/guides/first-app-v4/ios-android-camera.md",
+  "sourceDirName": "developer-resources/guides/first-app-v4",
+  "slug": "/developer-resources/guides/first-app-v4/ios-android-camera",
+  "permalink": "/developer/docs/developer-resources/guides/first-app-v4/ios-android-camera",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/guides/first-app-v4/ios-android-camera.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

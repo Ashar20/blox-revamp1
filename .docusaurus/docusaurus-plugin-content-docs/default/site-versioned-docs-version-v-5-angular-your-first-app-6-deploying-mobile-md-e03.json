@@ -1,0 +1,27 @@
+{
+  "unversionedId": "angular/your-first-app/deploying-mobile",
+  "id": "version-v5/angular/your-first-app/deploying-mobile",
+  "isDocsHomePage": false,
+  "title": "Deploying to iOS and Android",
+  "description": "Since we added Capacitor to our project when it was first created, there’s only a handful of steps remaining until the Photo Gallery app is on our device! Remember, you can find the complete source code for this app here.",
+  "source": "@site/versioned_docs/version-v5/angular/your-first-app/6-deploying-mobile.md",
+  "sourceDirName": "angular/your-first-app",
+  "slug": "/angular/your-first-app/deploying-mobile",
+  "permalink": "/developer/docs/v5/angular/your-first-app/deploying-mobile",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/your-first-app/6-deploying-mobile.md",
+  "tags": [],
+  "version": "v5",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Deploying Mobile"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Adding Mobile",
+    "permalink": "/developer/docs/v5/angular/your-first-app/adding-mobile"
+  },
+  "next": {
+    "title": "Live Reload",
+    "permalink": "/developer/docs/v5/angular/your-first-app/live-reload"
+  }
+}

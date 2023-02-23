@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/deploy-configure",
+  "id": "cli/commands/deploy-configure",
+  "isDocsHomePage": false,
+  "title": "ionic deploy configure",
+  "description": "Overrides Appflow Deploy configuration",
+  "source": "@site/docs/cli/commands/deploy-configure.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/deploy-configure",
+  "permalink": "/developer/docs/cli/commands/deploy-configure",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/deploy/configure.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic deploy configure",
+    "sidebar_label": "deploy configure"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "deploy build",
+    "permalink": "/developer/docs/cli/commands/deploy-build"
+  },
+  "next": {
+    "title": "deploy manifest",
+    "permalink": "/developer/docs/cli/commands/deploy-manifest"
+  }
+}

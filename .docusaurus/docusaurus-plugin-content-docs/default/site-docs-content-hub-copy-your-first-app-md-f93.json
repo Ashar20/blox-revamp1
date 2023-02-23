@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/your-first-app",
+  "id": "Content Hub copy/your-first-app",
+  "isDocsHomePage": false,
+  "title": "Your First Ionic App: Angular",
+  "description": "Build Your First Ionic Mobile App: Angular Development Tutorial",
+  "source": "@site/docs/Content Hub copy/your-first-app.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/your-first-app",
+  "permalink": "/docs/Content Hub copy/your-first-app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/your-first-app.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Your First Ionic App: Angular",
+    "sidebar_label": "Enrich a catalog"
+  }
+}

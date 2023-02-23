@@ -1,0 +1,31 @@
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="https://cdn.skypack.dev/@ionic/core/css/core.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.skypack.dev/@ionic/core/css/ionic.bundle.css" />
+
+  <script>
+    window.Ionic = {
+      config: {
+        mode: '{{ MODE }}'
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <script>
+    window.fwSettings={
+    'widget_id':81000001525
+    };
+    !function(){if("function"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}() 
+  </script>
+  <script type='text/javascript' src='https://ind-widget.freshworks.com/widgets/81000001525.js' async defer></script>
+  
+  <ion-app>
+    {{ TEMPLATE }}
+
+  </ion-app>
+</body>
+
+</html>

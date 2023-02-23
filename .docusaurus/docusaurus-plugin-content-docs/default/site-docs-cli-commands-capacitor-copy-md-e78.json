@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/capacitor-copy",
+  "id": "cli/commands/capacitor-copy",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor copy",
+  "description": "Ionic Capacitor Copy - Options to Copy and Compile Web Assets",
+  "source": "@site/docs/cli/commands/capacitor-copy.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-copy",
+  "permalink": "/developer/docs/cli/commands/capacitor-copy",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/copy.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic capacitor copy",
+    "sidebar_label": "capacitor copy"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "capacitor build",
+    "permalink": "/developer/docs/cli/commands/capacitor-build"
+  },
+  "next": {
+    "title": "capacitor open",
+    "permalink": "/developer/docs/cli/commands/capacitor-open"
+  }
+}

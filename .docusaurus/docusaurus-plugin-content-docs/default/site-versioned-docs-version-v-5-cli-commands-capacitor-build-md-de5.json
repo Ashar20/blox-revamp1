@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/capacitor-build",
+  "id": "version-v5/cli/commands/capacitor-build",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor build",
+  "description": "Build an Ionic project for a given platform",
+  "source": "@site/versioned_docs/version-v5/cli/commands/capacitor-build.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-build",
+  "permalink": "/developer/docs/v5/cli/commands/capacitor-build",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/build.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "capacitor build"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "capacitor add",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-add"
+  },
+  "next": {
+    "title": "capacitor copy",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-copy"
+  }
+}

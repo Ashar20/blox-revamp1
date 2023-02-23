@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/grid",
+  "id": "api/grid",
+  "isDocsHomePage": false,
+  "title": "ion-grid",
+  "description": "Ion-Grid: Display Grids to Build Mobile-First Custom App Layout",
+  "source": "@site/docs/api/grid.md",
+  "sourceDirName": "api",
+  "slug": "/api/grid",
+  "permalink": "/developer/docs/api/grid",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/grid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-grid"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-fab-list",
+    "permalink": "/developer/docs/api/fab-list"
+  },
+  "next": {
+    "title": "ion-col",
+    "permalink": "/developer/docs/api/col"
+  }
+}

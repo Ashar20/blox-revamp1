@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/firebase-vision",
+  "id": "version-v5/native/firebase-vision",
+  "isDocsHomePage": false,
+  "title": "Firebase Vision",
+  "description": "Cordova plugin for Firebase MLKit Vision",
+  "source": "@site/versioned_docs/version-v5/native/firebase-vision.md",
+  "sourceDirName": "native",
+  "slug": "/native/firebase-vision",
+  "permalink": "/developer/docs/v5/native/firebase-vision",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-vision/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Firebase Vision"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Firebase Messaging",
+    "permalink": "/developer/docs/v5/native/firebase-messaging"
+  },
+  "next": {
+    "title": "Firebase X",
+    "permalink": "/developer/docs/v5/native/firebase-x"
+  }
+}

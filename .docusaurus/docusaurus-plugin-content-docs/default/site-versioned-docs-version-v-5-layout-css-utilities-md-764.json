@@ -1,0 +1,27 @@
+{
+  "unversionedId": "layout/css-utilities",
+  "id": "version-v5/layout/css-utilities",
+  "isDocsHomePage": false,
+  "title": "CSS Utilities",
+  "description": "Ionic Framework provides a set of CSS utility classes that can be used on any element in order to modify the text, element placement or adjust the padding and margin.",
+  "source": "@site/versioned_docs/version-v5/layout/css-utilities.md",
+  "sourceDirName": "layout",
+  "slug": "/layout/css-utilities",
+  "permalink": "/developer/docs/v5/layout/css-utilities",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/layout/css-utilities.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "initialTab": "preview",
+    "inlineHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Global Stylesheets",
+    "permalink": "/developer/docs/v5/layout/global-stylesheets"
+  },
+  "next": {
+    "title": "Basics",
+    "permalink": "/developer/docs/v5/theming/basics"
+  }
+}

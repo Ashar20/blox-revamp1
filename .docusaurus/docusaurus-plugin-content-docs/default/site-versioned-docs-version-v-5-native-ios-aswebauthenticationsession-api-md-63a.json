@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/ios-aswebauthenticationsession-api",
+  "id": "version-v5/native/ios-aswebauthenticationsession-api",
+  "isDocsHomePage": false,
+  "title": "ios-aswebauthenticationsession-api",
+  "description": "Plugin for iOS 12 ASWebAuthenticationSession API",
+  "source": "@site/versioned_docs/version-v5/native/ios-aswebauthenticationsession-api.md",
+  "sourceDirName": "native",
+  "slug": "/native/ios-aswebauthenticationsession-api",
+  "permalink": "/developer/docs/v5/native/ios-aswebauthenticationsession-api",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ios-aswebauthenticationsession-api/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ios-aswebauthenticationsession-api"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Ionic Webview",
+    "permalink": "/developer/docs/v5/native/ionic-webview"
+  },
+  "next": {
+    "title": "Is Debug",
+    "permalink": "/developer/docs/v5/native/is-debug"
+  }
+}

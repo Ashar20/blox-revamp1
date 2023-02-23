@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/header",
+  "id": "api/header",
+  "isDocsHomePage": false,
+  "title": "ion-header",
+  "description": "ion-header: Header Parent Component for Ionic Framework Apps",
+  "source": "@site/docs/api/header.md",
+  "sourceDirName": "api",
+  "slug": "/api/header",
+  "permalink": "/developer/docs/api/header",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/header.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-header"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-toolbar",
+    "permalink": "/developer/docs/api/toolbar"
+  },
+  "next": {
+    "title": "ion-footer",
+    "permalink": "/developer/docs/api/footer"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/web-socket-server",
+  "id": "version-v5/native/web-socket-server",
+  "isDocsHomePage": false,
+  "title": "WebSocket Server",
+  "description": "This plugin allows you to run a single, lightweight, barebone WebSocket Server.",
+  "source": "@site/versioned_docs/version-v5/native/web-socket-server.md",
+  "sourceDirName": "native",
+  "slug": "/native/web-socket-server",
+  "permalink": "/developer/docs/v5/native/web-socket-server",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/web-socket-server/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "WebSocket Server"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Web Server",
+    "permalink": "/developer/docs/v5/native/web-server"
+  },
+  "next": {
+    "title": "Webengage",
+    "permalink": "/developer/docs/v5/native/webengage"
+  }
+}

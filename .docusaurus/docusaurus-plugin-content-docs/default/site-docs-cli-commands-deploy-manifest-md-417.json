@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/deploy-manifest",
+  "id": "cli/commands/deploy-manifest",
+  "isDocsHomePage": false,
+  "title": "ionic deploy manifest",
+  "description": "Generates a manifest file for the deploy service from a built app directory",
+  "source": "@site/docs/cli/commands/deploy-manifest.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/deploy-manifest",
+  "permalink": "/developer/docs/cli/commands/deploy-manifest",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/deploy/manifest.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic deploy manifest",
+    "sidebar_label": "deploy manifest"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "deploy configure",
+    "permalink": "/developer/docs/cli/commands/deploy-configure"
+  },
+  "next": {
+    "title": "docs",
+    "permalink": "/developer/docs/cli/commands/docs"
+  }
+}

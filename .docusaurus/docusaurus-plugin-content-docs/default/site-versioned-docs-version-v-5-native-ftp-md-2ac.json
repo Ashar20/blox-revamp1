@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/ftp",
+  "id": "version-v5/native/ftp",
+  "isDocsHomePage": false,
+  "title": "FTP",
+  "description": "This cordova plugin is created to use ftp (client) in web/js.",
+  "source": "@site/versioned_docs/version-v5/native/ftp.md",
+  "sourceDirName": "native",
+  "slug": "/native/ftp",
+  "permalink": "/developer/docs/v5/native/ftp",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ftp/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "FTP"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Foreground Service",
+    "permalink": "/developer/docs/v5/native/foreground-service"
+  },
+  "next": {
+    "title": "Gao De Location",
+    "permalink": "/developer/docs/v5/native/gao-de-location"
+  }
+}

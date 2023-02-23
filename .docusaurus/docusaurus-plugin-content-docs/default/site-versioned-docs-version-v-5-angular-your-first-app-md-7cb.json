@@ -1,0 +1,26 @@
+{
+  "unversionedId": "angular/your-first-app",
+  "id": "version-v5/angular/your-first-app",
+  "isDocsHomePage": false,
+  "title": "Your First Ionic App: Angular",
+  "description": "The great thing about Ionic is that with one codebase, you can build for any platform using just HTML, CSS, and JavaScript. Follow along as we learn the fundamentals of Ionic app development by creating a realistic app step by step.",
+  "source": "@site/versioned_docs/version-v5/angular/your-first-app.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/your-first-app",
+  "permalink": "/developer/docs/v5/angular/your-first-app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/your-first-app.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Build Your First App"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/developer/docs/v5/angular/overview"
+  },
+  "next": {
+    "title": "Taking Photos",
+    "permalink": "/developer/docs/v5/angular/your-first-app/taking-photos"
+  }
+}

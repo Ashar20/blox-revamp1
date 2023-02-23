@@ -1,0 +1,26 @@
+{
+  "unversionedId": "react/quickstart",
+  "id": "version-v5/react/quickstart",
+  "isDocsHomePage": false,
+  "title": "Intro Ionic React Quickstart",
+  "description": "What is Ionic Framework?",
+  "source": "@site/versioned_docs/version-v5/react/quickstart.md",
+  "sourceDirName": "react",
+  "slug": "/react/quickstart",
+  "permalink": "/developer/docs/v5/react/quickstart",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/quickstart.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Quickstart"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/developer/docs/v5/react"
+  },
+  "next": {
+    "title": "Build Your First App",
+    "permalink": "/developer/docs/v5/react/your-first-app"
+  }
+}

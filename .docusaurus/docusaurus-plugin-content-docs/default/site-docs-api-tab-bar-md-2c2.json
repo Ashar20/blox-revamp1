@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/tab-bar",
+  "id": "api/tab-bar",
+  "isDocsHomePage": false,
+  "title": "ion-tab-bar",
+  "description": "ion-tab-bar with CSS Custom Properties for Tab Bar Components",
+  "source": "@site/docs/api/tab-bar.md",
+  "sourceDirName": "api",
+  "slug": "/api/tab-bar",
+  "permalink": "/developer/docs/api/tab-bar",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/tab-bar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-tab-bar",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-tab",
+    "permalink": "/developer/docs/api/tab"
+  },
+  "next": {
+    "title": "ion-tab-button",
+    "permalink": "/developer/docs/api/tab-button"
+  }
+}

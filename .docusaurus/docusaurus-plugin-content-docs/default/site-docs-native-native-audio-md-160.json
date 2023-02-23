@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/native-audio",
+  "id": "native/native-audio",
+  "isDocsHomePage": false,
+  "title": "Native Audio",
+  "description": "Native Audio | Cordova Native Audio Plugin for Audio Playback",
+  "source": "@site/docs/native/native-audio.md",
+  "sourceDirName": "native",
+  "slug": "/native/native-audio",
+  "permalink": "/developer/docs/native/native-audio",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-audio/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Native Audio"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Music Controls",
+    "permalink": "/developer/docs/native/music-controls"
+  },
+  "next": {
+    "title": "Native Geocoder",
+    "permalink": "/developer/docs/native/native-geocoder"
+  }
+}

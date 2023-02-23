@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/chip",
+  "id": "api/chip",
+  "isDocsHomePage": false,
+  "title": "ion-chip",
+  "description": "ion-chip:  Name, Text, Icon and Avatar for Ionic Framework Apps",
+  "source": "@site/docs/api/chip.md",
+  "sourceDirName": "api",
+  "slug": "/api/chip",
+  "permalink": "/developer/docs/api/chip",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/chip.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-chip"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-checkbox",
+    "permalink": "/developer/docs/api/checkbox"
+  },
+  "next": {
+    "title": "ion-app",
+    "permalink": "/developer/docs/api/app"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "troubleshooting/build",
+  "id": "version-v5/troubleshooting/build",
+  "isDocsHomePage": false,
+  "title": "Build Errors",
+  "description": "Common mistakes",
+  "source": "@site/versioned_docs/version-v5/troubleshooting/build.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/build",
+  "permalink": "/developer/docs/v5/troubleshooting/build",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/troubleshooting/build.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "disableHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Debugging",
+    "permalink": "/developer/docs/v5/troubleshooting/debugging"
+  },
+  "next": {
+    "title": "Runtime Issues",
+    "permalink": "/developer/docs/v5/troubleshooting/runtime"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Audience Hub/listinga",
+  "id": "Audience Hub/listinga",
+  "isDocsHomePage": false,
+  "title": "Audience listing",
+  "description": "Keyboard Guide: Tools to Manage an On-Screen Mobile App Keyboard",
+  "source": "@site/docs/Audience Hub/listinga.md",
+  "sourceDirName": "Audience Hub",
+  "slug": "/Audience Hub/listinga",
+  "permalink": "/developer/docs/Audience Hub/listinga",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/listinga.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Audience listing"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/pdf-generator",
+  "id": "native/pdf-generator",
+  "isDocsHomePage": false,
+  "title": "PDFGenerator",
+  "description": "PDFGenerator | iOS & Android HTML PDF Generator Plugin",
+  "source": "@site/docs/native/pdf-generator.md",
+  "sourceDirName": "native",
+  "slug": "/native/pdf-generator",
+  "permalink": "/developer/docs/native/pdf-generator",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/pdf-generator/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PDFGenerator"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "PayTabs",
+    "permalink": "/developer/docs/native/paytabs"
+  },
+  "next": {
+    "title": "Photo Library",
+    "permalink": "/developer/docs/native/photo-library"
+  }
+}

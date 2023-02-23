@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/dns",
+  "id": "version-v5/native/dns",
+  "isDocsHomePage": false,
+  "title": "DNS",
+  "description": "A plugin for Apache Cordova that enables applications to manually resolve hostnames into an underlying network address. This is mostly useful for determining whether there is a problem with the device's DNS server configuration.",
+  "source": "@site/versioned_docs/version-v5/native/dns.md",
+  "sourceDirName": "native",
+  "slug": "/native/dns",
+  "permalink": "/developer/docs/v5/native/dns",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/dns/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "DNS"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Dialogs",
+    "permalink": "/developer/docs/v5/native/dialogs"
+  },
+  "next": {
+    "title": "iOS DocumentPicker",
+    "permalink": "/developer/docs/v5/native/document-picker"
+  }
+}

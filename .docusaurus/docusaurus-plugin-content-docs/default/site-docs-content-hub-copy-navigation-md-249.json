@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/navigation",
+  "id": "Content Hub copy/navigation",
+  "isDocsHomePage": false,
+  "title": "Angular Navigation",
+  "description": "Angular Navigation: How Routing & Redirects Work in Angular Apps",
+  "source": "@site/docs/Content Hub copy/navigation.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/navigation",
+  "permalink": "/docs/Content Hub copy/navigation",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/navigation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Angular Navigation",
+    "sidebar_label": "Navigation/Routing"
+  }
+}

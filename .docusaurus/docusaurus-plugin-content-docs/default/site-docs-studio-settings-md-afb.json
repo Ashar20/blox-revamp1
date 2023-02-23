@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/settings",
+  "id": "studio/settings",
+  "isDocsHomePage": false,
+  "title": "Settings",
+  "description": "Manage app configuration and settings.",
+  "source": "@site/docs/studio/settings.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/settings",
+  "permalink": "/developer/docs/studio/settings",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/settings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/insomnia",
+  "id": "native/insomnia",
+  "isDocsHomePage": false,
+  "title": "Insomnia",
+  "description": "Insomnia Plugin: Prevent Mobile Screen Sleep Mode | Ionic",
+  "source": "@site/docs/native/insomnia.md",
+  "sourceDirName": "native",
+  "slug": "/native/insomnia",
+  "permalink": "/developer/docs/native/insomnia",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/insomnia/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Insomnia"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "In App Review",
+    "permalink": "/developer/docs/native/in-app-review"
+  },
+  "next": {
+    "title": "Instagram",
+    "permalink": "/developer/docs/native/instagram"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/accordion",
+  "id": "api/accordion",
+  "isDocsHomePage": false,
+  "title": "ion-accordion",
+  "description": "Ion-Accordion Components: How to Build & Examples | Ionic",
+  "source": "@site/docs/api/accordion.md",
+  "sourceDirName": "api",
+  "slug": "/api/accordion",
+  "permalink": "/developer/docs/api/accordion",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/accordion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-accordion"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-action-sheet",
+    "permalink": "/developer/docs/api/action-sheet"
+  },
+  "next": {
+    "title": "ion-accordion-group",
+    "permalink": "/developer/docs/api/accordion-group"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/analytics-firebase",
+  "id": "native/analytics-firebase",
+  "isDocsHomePage": false,
+  "title": "Analytics Firebase",
+  "description": "Analytics Firebase: Google Plugin for Native iOS/Android Apps",
+  "source": "@site/docs/native/analytics-firebase.md",
+  "sourceDirName": "native",
+  "slug": "/native/analytics-firebase",
+  "permalink": "/developer/docs/native/analytics-firebase",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/analytics-firebase/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Analytics Firebase"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "AllInOneSDK",
+    "permalink": "/developer/docs/native/all-in-one-sdk"
+  },
+  "next": {
+    "title": "Android ExoPlayer",
+    "permalink": "/developer/docs/native/android-exoplayer"
+  }
+}

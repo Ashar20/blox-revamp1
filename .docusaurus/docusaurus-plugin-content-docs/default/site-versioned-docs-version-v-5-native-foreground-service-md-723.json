@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/foreground-service",
+  "id": "version-v5/native/foreground-service",
+  "isDocsHomePage": false,
+  "title": "Foreground Service",
+  "description": "This plugin allows for android devices to continue running services in the background, using a",
+  "source": "@site/versioned_docs/version-v5/native/foreground-service.md",
+  "sourceDirName": "native",
+  "slug": "/native/foreground-service",
+  "permalink": "/developer/docs/v5/native/foreground-service",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/foreground-service/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Foreground Service"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Flashlight",
+    "permalink": "/developer/docs/v5/native/flashlight"
+  },
+  "next": {
+    "title": "FTP",
+    "permalink": "/developer/docs/v5/native/ftp"
+  }
+}

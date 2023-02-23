@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/popover",
+  "id": "version-v5/api/popover",
+  "isDocsHomePage": false,
+  "title": "ion-popover",
+  "description": "A Popover is a dialog that appears on top of the current page. It can be used for anything, but generally it is used for overflow actions that don't fit in the navigation bar.",
+  "source": "@site/versioned_docs/version-v5/api/popover.md",
+  "sourceDirName": "api",
+  "slug": "/api/popover",
+  "permalink": "/developer/docs/v5/api/popover",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/popover.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-popover",
+    "demoUrl": "/docs/demos/api/popover/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/popover/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-nav-link",
+    "permalink": "/developer/docs/v5/api/nav-link"
+  },
+  "next": {
+    "title": "ion-loading",
+    "permalink": "/developer/docs/v5/api/loading"
+  }
+}

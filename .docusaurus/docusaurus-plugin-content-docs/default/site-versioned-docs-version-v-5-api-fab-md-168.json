@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/fab",
+  "id": "version-v5/api/fab",
+  "isDocsHomePage": false,
+  "title": "ion-fab: Floating Action Button for Android and iOS Ionic Apps",
+  "description": "Fabs, floating action buttons, are container elements that contain one or more fab buttons. Use ion-fab when creating Android and iOS apps with Ionic Framework.",
+  "source": "@site/versioned_docs/version-v5/api/fab.md",
+  "sourceDirName": "api",
+  "slug": "/api/fab",
+  "permalink": "/developer/docs/v5/api/fab",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/fab.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-fab: Floating Action Button for Android and iOS Ionic Apps",
+    "description": "Fabs, floating action buttons, are container elements that contain one or more fab buttons. Use ion-fab when creating Android and iOS apps with Ionic Framework.",
+    "sidebar_label": "ion-fab",
+    "demoUrl": "/docs/demos/api/fab/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/fab/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-picker",
+    "permalink": "/developer/docs/v5/api/picker"
+  },
+  "next": {
+    "title": "ion-fab-button",
+    "permalink": "/developer/docs/v5/api/fab-button"
+  }
+}

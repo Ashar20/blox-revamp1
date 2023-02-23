@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/cordova-run",
+  "id": "cli/commands/cordova-run",
+  "isDocsHomePage": false,
+  "title": "ionic cordova run",
+  "description": "ionic cordova run: native-run Android and iOS Apps in Browsers",
+  "source": "@site/docs/cli/commands/cordova-run.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-run",
+  "permalink": "/developer/docs/cli/commands/cordova-run",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/run.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic cordova run",
+    "sidebar_label": "cordova run"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "cordova resources",
+    "permalink": "/developer/docs/cli/commands/cordova-resources"
+  },
+  "next": {
+    "title": "deploy add",
+    "permalink": "/developer/docs/cli/commands/deploy-add"
+  }
+}

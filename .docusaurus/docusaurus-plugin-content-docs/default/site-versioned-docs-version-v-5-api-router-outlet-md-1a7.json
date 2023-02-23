@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/router-outlet",
+  "id": "version-v5/api/router-outlet",
+  "isDocsHomePage": false,
+  "title": "ion-router-outlet",
+  "description": "Router outlet is a component used in routing within an Angular or Vue app. It behaves in a similar way to Angular's built-in router outlet component and Vue's router view component, but contains the logic for providing a stacked navigation, and animating views in and out.",
+  "source": "@site/versioned_docs/version-v5/api/router-outlet.md",
+  "sourceDirName": "api",
+  "slug": "/api/router-outlet",
+  "permalink": "/developer/docs/v5/api/router-outlet",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/router-outlet.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-router-outlet"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-router-link",
+    "permalink": "/developer/docs/v5/api/router-link"
+  },
+  "next": {
+    "title": "ion-route",
+    "permalink": "/developer/docs/v5/api/route"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/location-accuracy",
+  "id": "native/location-accuracy",
+  "isDocsHomePage": false,
+  "title": "Location Accuracy",
+  "description": "This Cordova/Phonegap plugin for Android and iOS to request enabling/changing of Location Services by triggering a native dialog from within the app, avoiding the need for the user to leave your app to change location settings manually.",
+  "source": "@site/docs/native/location-accuracy.md",
+  "sourceDirName": "native",
+  "slug": "/native/location-accuracy",
+  "permalink": "/developer/docs/native/location-accuracy",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/location-accuracy/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Location Accuracy"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Local Notifications",
+    "permalink": "/developer/docs/native/local-notifications"
+  },
+  "next": {
+    "title": "Lottie Splash Screen",
+    "permalink": "/developer/docs/native/lottie-splash-screen"
+  }
+}

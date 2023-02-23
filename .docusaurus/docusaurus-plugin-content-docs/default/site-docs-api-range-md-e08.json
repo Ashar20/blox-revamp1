@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/range",
+  "id": "api/range",
+  "isDocsHomePage": false,
+  "title": "ion-range",
+  "description": "Range Slider | ion-range: Slider Knob Controls with Labels",
+  "source": "@site/docs/api/range.md",
+  "sourceDirName": "api",
+  "slug": "/api/range",
+  "permalink": "/developer/docs/api/range",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/range.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-range"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-radio-group",
+    "permalink": "/developer/docs/api/radio-group"
+  },
+  "next": {
+    "title": "ion-refresher",
+    "permalink": "/developer/docs/api/refresher"
+  }
+}

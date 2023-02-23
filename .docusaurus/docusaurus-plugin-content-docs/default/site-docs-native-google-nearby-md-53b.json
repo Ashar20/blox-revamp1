@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/google-nearby",
+  "id": "native/google-nearby",
+  "isDocsHomePage": false,
+  "title": "Google Nearby",
+  "description": "This plugin adds support for the Google Nearby Messages API.",
+  "source": "@site/docs/native/google-nearby.md",
+  "sourceDirName": "native",
+  "slug": "/native/google-nearby",
+  "permalink": "/developer/docs/native/google-nearby",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/google-nearby/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Google Nearby"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Google Analytics",
+    "permalink": "/developer/docs/native/google-analytics"
+  },
+  "next": {
+    "title": "Google Plus",
+    "permalink": "/developer/docs/native/google-plus"
+  }
+}

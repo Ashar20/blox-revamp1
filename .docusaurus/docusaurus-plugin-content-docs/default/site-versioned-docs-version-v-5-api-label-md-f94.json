@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/label",
+  "id": "version-v5/api/label",
+  "isDocsHomePage": false,
+  "title": "Item Label Color and Properties for Applications | ion-label",
+  "description": "Label is a wrapper element that can be used in combination with other Ionic components. Easily design item label colors and other properties with ion-label.",
+  "source": "@site/versioned_docs/version-v5/api/label.md",
+  "sourceDirName": "api",
+  "slug": "/api/label",
+  "permalink": "/developer/docs/v5/api/label",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/label.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Item Label Color and Properties for Applications | ion-label",
+    "description": "Label is a wrapper element that can be used in combination with other Ionic components. Easily design item label colors and other properties with ion-label.",
+    "sidebar_label": "ion-label"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-item-option",
+    "permalink": "/developer/docs/v5/api/item-option"
+  },
+  "next": {
+    "title": "ion-note",
+    "permalink": "/developer/docs/v5/api/note"
+  }
+}

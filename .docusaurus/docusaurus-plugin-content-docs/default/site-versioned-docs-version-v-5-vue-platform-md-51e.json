@@ -1,0 +1,24 @@
+{
+  "unversionedId": "vue/platform",
+  "id": "version-v5/vue/platform",
+  "isDocsHomePage": false,
+  "title": "Platform",
+  "description": "isPlatform",
+  "source": "@site/versioned_docs/version-v5/vue/platform.md",
+  "sourceDirName": "vue",
+  "slug": "/vue/platform",
+  "permalink": "/developer/docs/v5/vue/platform",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/platform.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Config",
+    "permalink": "/developer/docs/v5/vue/config"
+  },
+  "next": {
+    "title": "Progressive Web Apps",
+    "permalink": "/developer/docs/v5/vue/pwa"
+  }
+}

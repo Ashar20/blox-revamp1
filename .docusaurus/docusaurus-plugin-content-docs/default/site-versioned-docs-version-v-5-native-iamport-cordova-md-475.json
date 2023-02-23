@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/iamport-cordova",
+  "id": "version-v5/native/iamport-cordova",
+  "isDocsHomePage": false,
+  "title": "Iamport Cordova",
+  "description": "This plugin does something",
+  "source": "@site/versioned_docs/version-v5/native/iamport-cordova.md",
+  "sourceDirName": "native",
+  "slug": "/native/iamport-cordova",
+  "permalink": "/developer/docs/v5/native/iamport-cordova",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/iamport-cordova/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Iamport Cordova"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "HTTP",
+    "permalink": "/developer/docs/v5/native/http"
+  },
+  "next": {
+    "title": "IBeacon",
+    "permalink": "/developer/docs/v5/native/ibeacon"
+  }
+}

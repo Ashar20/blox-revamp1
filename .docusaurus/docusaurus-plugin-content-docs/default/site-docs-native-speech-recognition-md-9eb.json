@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/speech-recognition",
+  "id": "native/speech-recognition",
+  "isDocsHomePage": false,
+  "title": "Speech Recognition",
+  "description": "Cordova Speech Recognition Plugin for iOS/Android Devices",
+  "source": "@site/docs/native/speech-recognition.md",
+  "sourceDirName": "native",
+  "slug": "/native/speech-recognition",
+  "permalink": "/developer/docs/native/speech-recognition",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/speech-recognition/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Speech Recognition"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Social Sharing",
+    "permalink": "/developer/docs/native/social-sharing"
+  },
+  "next": {
+    "title": "Spinner Dialog",
+    "permalink": "/developer/docs/native/spinner-dialog"
+  }
+}

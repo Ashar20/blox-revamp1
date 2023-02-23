@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/all-in-one-sdk",
+  "id": "native/all-in-one-sdk",
+  "isDocsHomePage": false,
+  "title": "AllInOneSDK",
+  "description": "Paytm All-in-One SDK plugin for Cordova/Ionic Applications",
+  "source": "@site/docs/native/all-in-one-sdk.md",
+  "sourceDirName": "native",
+  "slug": "/native/all-in-one-sdk",
+  "permalink": "/developer/docs/native/all-in-one-sdk",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/all-in-one-sdk/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AllInOneSDK"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "AES256",
+    "permalink": "/developer/docs/native/aes-256"
+  },
+  "next": {
+    "title": "Analytics Firebase",
+    "permalink": "/developer/docs/native/analytics-firebase"
+  }
+}

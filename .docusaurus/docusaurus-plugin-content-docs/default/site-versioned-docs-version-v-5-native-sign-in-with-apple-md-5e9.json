@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/sign-in-with-apple",
+  "id": "version-v5/native/sign-in-with-apple",
+  "isDocsHomePage": false,
+  "title": "Sign In With Apple",
+  "description": "Sign in with Apple makes it easy for users to sign in to your apps and websites using their Apple ID.",
+  "source": "@site/versioned_docs/version-v5/native/sign-in-with-apple.md",
+  "sourceDirName": "native",
+  "slug": "/native/sign-in-with-apple",
+  "permalink": "/developer/docs/v5/native/sign-in-with-apple",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sign-in-with-apple/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Sign In With Apple"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Shake",
+    "permalink": "/developer/docs/v5/native/shake"
+  },
+  "next": {
+    "title": "Smartlook",
+    "permalink": "/developer/docs/v5/native/smartlook"
+  }
+}

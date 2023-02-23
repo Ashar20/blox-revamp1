@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/broadcaster",
+  "id": "native/broadcaster",
+  "isDocsHomePage": false,
+  "title": "Broadcaster",
+  "description": "Broadcaster Plugin for Android, iOS, and Browser Apps | Ionic",
+  "source": "@site/docs/native/broadcaster.md",
+  "sourceDirName": "native",
+  "slug": "/native/broadcaster",
+  "permalink": "/developer/docs/native/broadcaster",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/broadcaster/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Broadcaster"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "BranchIo",
+    "permalink": "/developer/docs/native/branch-io"
+  },
+  "next": {
+    "title": "Build Info",
+    "permalink": "/developer/docs/native/build-info"
+  }
+}

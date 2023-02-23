@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developing/android",
+  "id": "developing/android",
+  "isDocsHomePage": false,
+  "title": "Android Development",
+  "description": "Android App Development Guide: Build Ionic Apps in Android Studio",
+  "source": "@site/docs/developing/android.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/android",
+  "permalink": "/docs/developing/android",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developing/android.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Android Development",
+    "sidebar_label": "Getting Started"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Developing for iOS",
+    "permalink": "/docs/developing/ios"
+  },
+  "next": {
+    "title": "Development Tips",
+    "permalink": "/docs/developing/tips"
+  }
+}

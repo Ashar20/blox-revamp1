@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/repair",
+  "id": "cli/commands/repair",
+  "isDocsHomePage": false,
+  "title": "ionic repair",
+  "description": "Remove and recreate dependencies and generated files",
+  "source": "@site/docs/cli/commands/repair.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/repair",
+  "permalink": "/developer/docs/cli/commands/repair",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/repair.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic repair",
+    "sidebar_label": "repair"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "package deploy",
+    "permalink": "/developer/docs/cli/commands/package-deploy"
+  },
+  "next": {
+    "title": "serve",
+    "permalink": "/developer/docs/cli/commands/serve"
+  }
+}

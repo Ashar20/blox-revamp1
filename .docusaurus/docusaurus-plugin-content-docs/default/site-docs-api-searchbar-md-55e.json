@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/searchbar",
+  "id": "api/searchbar",
+  "isDocsHomePage": false,
+  "title": "ion-searchbar",
+  "description": "Search Bar Icon for Keyboard Text Display | Ion-Search Bar",
+  "source": "@site/docs/api/searchbar.md",
+  "sourceDirName": "api",
+  "slug": "/api/searchbar",
+  "permalink": "/developer/docs/api/searchbar",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/searchbar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-searchbar"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-route-redirect",
+    "permalink": "/developer/docs/api/route-redirect"
+  },
+  "next": {
+    "title": "ion-segment",
+    "permalink": "/developer/docs/api/segment"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/router-link",
+  "id": "version-v5/api/router-link",
+  "isDocsHomePage": false,
+  "title": "Router Link | Navigating The ion-router-link Component",
+  "description": "Use the ion-router-link component to navigate to a specified link. The router link can accept an href for location and a direction for the transition animation.",
+  "source": "@site/versioned_docs/version-v5/api/router-link.md",
+  "sourceDirName": "api",
+  "slug": "/api/router-link",
+  "permalink": "/developer/docs/v5/api/router-link",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/router-link.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Router Link | Navigating The ion-router-link Component",
+    "description": "Use the ion-router-link component to navigate to a specified link. The router link can accept an href for location and a direction for the transition animation.",
+    "sidebar_label": "ion-router-link",
+    "demoUrl": "/docs/demos/api/router-link/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/router-link/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-router",
+    "permalink": "/developer/docs/v5/api/router"
+  },
+  "next": {
+    "title": "ion-router-outlet",
+    "permalink": "/developer/docs/v5/api/router-outlet"
+  }
+}

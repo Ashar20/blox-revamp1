@@ -1,0 +1,18 @@
+{
+  "unversionedId": "DXM Hub/slides",
+  "id": "DXM Hub/slides",
+  "isDocsHomePage": false,
+  "title": "Strategy",
+  "description": "Set Up Swiper.js for Angular Slides [Example] | Ionic",
+  "source": "@site/docs/DXM Hub/slides.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/slides",
+  "permalink": "/docs/DXM Hub/slides",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/slides.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Strategy",
+    "sidebar_label": "Strategy"
+  }
+}

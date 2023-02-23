@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/Metrics",
+  "id": "Content Hub copy/Metrics",
+  "isDocsHomePage": false,
+  "title": "Metrics",
+  "description": "Metrics",
+  "source": "@site/docs/Content Hub copy/Metrics.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/Metrics",
+  "permalink": "/docs/Content Hub copy/Metrics",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/Metrics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Metrics",
+    "sidebar_label": "Metrics"
+  }
+}

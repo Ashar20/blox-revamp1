@@ -1,0 +1,28 @@
+{
+  "unversionedId": "react/your-first-app",
+  "id": "version-v5/react/your-first-app",
+  "isDocsHomePage": false,
+  "title": "React Apps | Build Your First Ionic Framework React Application",
+  "description": "Build your first Ionic React App. With one codebase, you can build an Ionic Framework application for any platform using just HTML, CSS, and JavaScript.",
+  "source": "@site/versioned_docs/version-v5/react/your-first-app.md",
+  "sourceDirName": "react",
+  "slug": "/react/your-first-app",
+  "permalink": "/developer/docs/v5/react/your-first-app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/your-first-app.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "React Apps | Build Your First Ionic Framework React Application",
+    "description": "Build your first Ionic React App. With one codebase, you can build an Ionic Framework application for any platform using just HTML, CSS, and JavaScript.",
+    "sidebar_label": "Build Your First App"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/developer/docs/v5/react/quickstart"
+  },
+  "next": {
+    "title": "Taking Photos",
+    "permalink": "/developer/docs/v5/react/your-first-app/taking-photos"
+  }
+}

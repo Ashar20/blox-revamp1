@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/firebase-messaging",
+  "id": "version-v5/native/firebase-messaging",
+  "isDocsHomePage": false,
+  "title": "Firebase Messaging",
+  "description": "Cordova plugin for Firebase Messaging",
+  "source": "@site/versioned_docs/version-v5/native/firebase-messaging.md",
+  "sourceDirName": "native",
+  "slug": "/native/firebase-messaging",
+  "permalink": "/developer/docs/v5/native/firebase-messaging",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-messaging/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Firebase Messaging"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Firebase Dynamic Links",
+    "permalink": "/developer/docs/v5/native/firebase-dynamic-links"
+  },
+  "next": {
+    "title": "Firebase Vision",
+    "permalink": "/developer/docs/v5/native/firebase-vision"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/docs",
+  "id": "cli/commands/docs",
+  "isDocsHomePage": false,
+  "title": "ionic docs",
+  "description": "Open the Ionic documentation website",
+  "source": "@site/docs/cli/commands/docs.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/docs",
+  "permalink": "/developer/docs/cli/commands/docs",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/docs.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic docs",
+    "sidebar_label": "docs"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "deploy manifest",
+    "permalink": "/developer/docs/cli/commands/deploy-manifest"
+  },
+  "next": {
+    "title": "doctor check",
+    "permalink": "/developer/docs/cli/commands/doctor-check"
+  }
+}

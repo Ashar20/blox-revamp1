@@ -1,0 +1,29 @@
+{
+  "unversionedId": "theming/platform-styles",
+  "id": "version-v5/theming/platform-styles",
+  "isDocsHomePage": false,
+  "title": "Ionic Platform Styles | Platform-Specific Styles for Ionic Apps",
+  "description": "Ionic provides platform-specific styles based on the app's device. Styling the components to match the device guidelines allows the app to feel native to users.",
+  "source": "@site/versioned_docs/version-v5/theming/platform-styles.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/platform-styles",
+  "permalink": "/developer/docs/v5/theming/platform-styles",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/platform-styles.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Ionic Platform Styles | Platform-Specific Styles for Ionic Apps",
+    "description": "Ionic provides platform-specific styles based on the app's device. Styling the components to match the device guidelines allows the app to feel native to users.",
+    "sidebar_label": "Platform Styles",
+    "disableHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/developer/docs/v5/theming/basics"
+  },
+  "next": {
+    "title": "CSS Variables",
+    "permalink": "/developer/docs/v5/theming/css-variables"
+  }
+}

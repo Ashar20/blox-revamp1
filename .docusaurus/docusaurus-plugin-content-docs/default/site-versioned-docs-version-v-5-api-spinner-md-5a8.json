@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/spinner",
+  "id": "version-v5/api/spinner",
+  "isDocsHomePage": false,
+  "title": "ion-spinner | Animated Spinner Icon Components and Properties",
+  "description": "The ion-spinner component provides a variety of animated SVG spinners. These icons indicate that the app is loading or performing another process to wait on.",
+  "source": "@site/versioned_docs/version-v5/api/spinner.md",
+  "sourceDirName": "api",
+  "slug": "/api/spinner",
+  "permalink": "/developer/docs/v5/api/spinner",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/spinner.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-spinner | Animated Spinner Icon Components and Properties",
+    "description": "The ion-spinner component provides a variety of animated SVG spinners. These icons indicate that the app is loading or performing another process to wait on.",
+    "sidebar_label": "ion-spinner",
+    "demoUrl": "/docs/demos/api/spinner/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/spinner/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-skeleton-text",
+    "permalink": "/developer/docs/v5/api/skeleton-text"
+  },
+  "next": {
+    "title": "ion-radio",
+    "permalink": "/developer/docs/v5/api/radio"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "react",
+  "id": "react",
+  "isDocsHomePage": false,
+  "title": "Ionic React",
+  "description": "Create an Ionic React App: Framework and Documentation",
+  "source": "@site/docs/react.md",
+  "sourceDirName": ".",
+  "slug": "/react",
+  "permalink": "/developer/docs/react",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/react.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ionic React",
+    "sidebar_label": "Overview",
+    "hide_title": true,
+    "hide_table_of_contents": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "test/page2",
+  "id": "test/page2",
+  "isDocsHomePage": false,
+  "title": "Testing Page 2",
+  "description": "This is Testing page 2, Get to Testing Page 1 here.",
+  "source": "@site/docs/test/page2.md",
+  "sourceDirName": "test",
+  "slug": "/test/page2",
+  "permalink": "/developer/docs/test/page2",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/test/page2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

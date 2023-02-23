@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/pwa",
+  "id": "Content Hub copy/pwa",
+  "isDocsHomePage": false,
+  "title": "Progressive Web Apps in Angular",
+  "description": "Make Progressive Web Apps (PWA) in Angular - Ionic Tutorial",
+  "source": "@site/docs/Content Hub copy/pwa.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/pwa",
+  "permalink": "/docs/Content Hub copy/pwa",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/pwa.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Progressive Web Apps in Angular",
+    "sidebar_label": "FAQ's"
+  }
+}

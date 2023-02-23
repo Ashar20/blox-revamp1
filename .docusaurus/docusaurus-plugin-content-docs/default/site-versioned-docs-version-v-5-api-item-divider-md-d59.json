@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/item-divider",
+  "id": "version-v5/api/item-divider",
+  "isDocsHomePage": false,
+  "title": "Item Divider | List Item Divider Block Element for Ionic Apps",
+  "description": "Item Dividers are block elements that can be used to separate items in a list. They are similar to list headers, but instead, go in between groups of items.",
+  "source": "@site/versioned_docs/version-v5/api/item-divider.md",
+  "sourceDirName": "api",
+  "slug": "/api/item-divider",
+  "permalink": "/developer/docs/v5/api/item-divider",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-divider.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Item Divider | List Item Divider Block Element for Ionic Apps",
+    "description": "Item Dividers are block elements that can be used to separate items in a list. They are similar to list headers, but instead, go in between groups of items.",
+    "sidebar_label": "ion-item-divider"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-item",
+    "permalink": "/developer/docs/v5/api/item"
+  },
+  "next": {
+    "title": "ion-item-group",
+    "permalink": "/developer/docs/v5/api/item-group"
+  }
+}

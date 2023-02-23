@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/designer",
+  "id": "studio/designer",
+  "isDocsHomePage": false,
+  "title": "Designer Overview",
+  "description": "The Designer is the powerhouse of Studio, offering a drag-and-drop page builder for pages and components, with a code-behind editor for the template, styles, and scripts (TypeScript)",
+  "source": "@site/docs/studio/designer.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/designer",
+  "permalink": "/developer/docs/studio/designer",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/designer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

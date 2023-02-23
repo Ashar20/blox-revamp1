@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/calendar",
+  "id": "version-v5/native/calendar",
+  "isDocsHomePage": false,
+  "title": "Calendar Plugin | Ionic Applications & Cordova Plugin Calendar",
+  "description": "Use the Cordova Plugin Calendar to add events to the calendar of the mobile device you are on from your Ionic Framework Application. Read to learn about usage.",
+  "source": "@site/versioned_docs/version-v5/native/calendar.md",
+  "sourceDirName": "native",
+  "slug": "/native/calendar",
+  "permalink": "/developer/docs/v5/native/calendar",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/calendar/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Calendar Plugin | Ionic Applications & Cordova Plugin Calendar",
+    "description": "Use the Cordova Plugin Calendar to add events to the calendar of the mobile device you are on from your Ionic Framework Application. Read to learn about usage.",
+    "sidebar_label": "Calendar"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Build Info",
+    "permalink": "/developer/docs/v5/native/build-info"
+  },
+  "next": {
+    "title": "Call Directory",
+    "permalink": "/developer/docs/v5/native/call-directory"
+  }
+}

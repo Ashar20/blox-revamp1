@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/globalization",
+  "id": "native/globalization",
+  "isDocsHomePage": false,
+  "title": "Globalization",
+  "description": "Cordova-Plugin-Globalization for Locale, Language, and Time zone",
+  "source": "@site/docs/native/globalization.md",
+  "sourceDirName": "native",
+  "slug": "/native/globalization",
+  "permalink": "/developer/docs/native/globalization",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/globalization/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Globalization"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Geolocation",
+    "permalink": "/developer/docs/native/geolocation"
+  },
+  "next": {
+    "title": "Google Analytics",
+    "permalink": "/developer/docs/native/google-analytics"
+  }
+}

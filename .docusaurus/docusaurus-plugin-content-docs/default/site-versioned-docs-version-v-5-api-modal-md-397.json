@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/modal",
+  "id": "version-v5/api/modal",
+  "isDocsHomePage": false,
+  "title": "ion-modal",
+  "description": "A Modal is a dialog that appears on top of the app's content, and must be dismissed by the app before interaction can resume. It is useful as a select component when there are a lot of options to choose from, or when filtering items in a list, as well as many other use cases.",
+  "source": "@site/versioned_docs/version-v5/api/modal.md",
+  "sourceDirName": "api",
+  "slug": "/api/modal",
+  "permalink": "/developer/docs/v5/api/modal",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/modal.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-modal",
+    "demoUrl": "/docs/demos/api/modal/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/modal/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-split-pane",
+    "permalink": "/developer/docs/v5/api/split-pane"
+  },
+  "next": {
+    "title": "ion-backdrop",
+    "permalink": "/developer/docs/v5/api/backdrop"
+  }
+}

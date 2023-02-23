@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cli/commands/build",
+  "id": "version-v5/cli/commands/build",
+  "isDocsHomePage": false,
+  "title": "Angular NG Build Configuration to Build Ionic Apps | ionic build",
+  "description": "Build web assets and prepare your Ionic app for any platform targets. Ionic build uses the Angular CLI—see the ng build docs for how to use the configuration.",
+  "source": "@site/versioned_docs/version-v5/cli/commands/build.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/build",
+  "permalink": "/developer/docs/v5/cli/commands/build",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/build.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Angular NG Build Configuration to Build Ionic Apps | ionic build",
+    "description": "Build web assets and prepare your Ionic app for any platform targets. Ionic build uses the Angular CLI—see the ng build docs for how to use the configuration.",
+    "sidebar_label": "build"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "Using a Proxy",
+    "permalink": "/developer/docs/v5/cli/using-a-proxy"
+  },
+  "next": {
+    "title": "capacitor add",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-add"
+  }
+}

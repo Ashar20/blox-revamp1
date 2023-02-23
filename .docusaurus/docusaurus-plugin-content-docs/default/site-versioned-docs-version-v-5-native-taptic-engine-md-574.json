@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/taptic-engine",
+  "id": "version-v5/native/taptic-engine",
+  "isDocsHomePage": false,
+  "title": "Taptic Engine",
+  "description": "An Ionic plugin to use Taptic Engine API on iPhone 7, 7 Plus or newer.",
+  "source": "@site/versioned_docs/version-v5/native/taptic-engine.md",
+  "sourceDirName": "native",
+  "slug": "/native/taptic-engine",
+  "permalink": "/developer/docs/v5/native/taptic-engine",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/taptic-engine/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Taptic Engine"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "SumUp",
+    "permalink": "/developer/docs/v5/native/sum-up"
+  },
+  "next": {
+    "title": "TealiumAdIdentifier",
+    "permalink": "/developer/docs/v5/native/tealium-adidentifier"
+  }
+}

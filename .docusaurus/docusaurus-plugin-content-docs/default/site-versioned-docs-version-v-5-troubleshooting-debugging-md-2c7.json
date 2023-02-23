@@ -1,0 +1,24 @@
+{
+  "unversionedId": "troubleshooting/debugging",
+  "id": "version-v5/troubleshooting/debugging",
+  "isDocsHomePage": false,
+  "title": "Debugging",
+  "description": "<iframe",
+  "source": "@site/versioned_docs/version-v5/troubleshooting/debugging.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/debugging",
+  "permalink": "/developer/docs/v5/troubleshooting/debugging",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/troubleshooting/debugging.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Security",
+    "permalink": "/developer/docs/v5/techniques/security"
+  },
+  "next": {
+    "title": "Build Errors",
+    "permalink": "/developer/docs/v5/troubleshooting/build"
+  }
+}

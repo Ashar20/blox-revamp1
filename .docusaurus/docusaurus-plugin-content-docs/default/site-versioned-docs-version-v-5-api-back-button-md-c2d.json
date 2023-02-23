@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/back-button",
+  "id": "version-v5/api/back-button",
+  "isDocsHomePage": false,
+  "title": "Back Button | ion-back-button: Custom Menu Icon for Applications",
+  "description": "The ion-back-button is a custom menu icon for Android, iOS, and Progressive Web Apps. Use Ionic Framework components to easily build applications.",
+  "source": "@site/versioned_docs/version-v5/api/back-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/back-button",
+  "permalink": "/developer/docs/v5/api/back-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/back-button.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Back Button | ion-back-button: Custom Menu Icon for Applications",
+    "description": "The ion-back-button is a custom menu icon for Android, iOS, and Progressive Web Apps. Use Ionic Framework components to easily build applications.",
+    "sidebar_label": "ion-back-button",
+    "demoUrl": "/docs/demos/api/back-button/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/back-button/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-buttons",
+    "permalink": "/developer/docs/v5/api/buttons"
+  },
+  "next": {
+    "title": "ion-text",
+    "permalink": "/developer/docs/v5/api/text"
+  }
+}

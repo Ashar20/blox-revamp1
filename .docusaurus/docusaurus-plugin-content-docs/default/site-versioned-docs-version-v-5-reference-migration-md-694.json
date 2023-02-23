@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/migration",
+  "id": "version-v5/reference/migration",
+  "isDocsHomePage": false,
+  "title": "Migration Guide",
+  "description": "Migrating from Ionic 4.x to Ionic 5.x",
+  "source": "@site/versioned_docs/version-v5/reference/migration.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/migration",
+  "permalink": "/developer/docs/v5/reference/migration",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/reference/migration.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Migration"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Browser Support",
+    "permalink": "/developer/docs/v5/reference/browser-support"
+  }
+}

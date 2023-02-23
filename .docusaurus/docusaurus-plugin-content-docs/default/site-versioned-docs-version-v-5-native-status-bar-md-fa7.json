@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/status-bar",
+  "id": "version-v5/native/status-bar",
+  "isDocsHomePage": false,
+  "title": "Status Bar | Cordova StatusBar Plugin for iOS and Android Apps",
+  "description": "Manage the appearance of the native status bar with the Cordova StatusBar Plugin. Learn how to install status bar on supported iOS and Android platforms.",
+  "source": "@site/versioned_docs/version-v5/native/status-bar.md",
+  "sourceDirName": "native",
+  "slug": "/native/status-bar",
+  "permalink": "/developer/docs/v5/native/status-bar",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/status-bar/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Status Bar | Cordova StatusBar Plugin for iOS and Android Apps",
+    "description": "Manage the appearance of the native status bar with the Cordova StatusBar Plugin. Learn how to install status bar on supported iOS and Android platforms.",
+    "sidebar_label": "Status Bar"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "StarPRNT",
+    "permalink": "/developer/docs/v5/native/star-prnt"
+  },
+  "next": {
+    "title": "Streaming Media",
+    "permalink": "/developer/docs/v5/native/streaming-media"
+  }
+}

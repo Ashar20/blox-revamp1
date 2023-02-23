@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/firebase-crash",
+  "id": "version-v5/native/firebase-crash",
+  "isDocsHomePage": false,
+  "title": "FirebaseCrash",
+  "description": "This plugin brings crash reporting from Google Firebase to your Cordova project! Android and iOS supported.",
+  "source": "@site/versioned_docs/version-v5/native/firebase-crash.md",
+  "sourceDirName": "native",
+  "slug": "/native/firebase-crash",
+  "permalink": "/developer/docs/v5/native/firebase-crash",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-crash/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "FirebaseCrash"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Firebase Config",
+    "permalink": "/developer/docs/v5/native/firebase-config"
+  },
+  "next": {
+    "title": "Firebase Crashlytics",
+    "permalink": "/developer/docs/v5/native/firebase-crashlytics"
+  }
+}

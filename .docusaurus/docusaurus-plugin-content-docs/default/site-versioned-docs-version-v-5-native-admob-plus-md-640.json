@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/admob-plus",
+  "id": "version-v5/native/admob-plus",
+  "isDocsHomePage": false,
+  "title": "AdMob Plus",
+  "description": "AdMob Plus is the successor of cordova-plugin-admob-free, which provides a cleaner API and build with modern tools.",
+  "source": "@site/versioned_docs/version-v5/native/admob-plus.md",
+  "sourceDirName": "native",
+  "slug": "/native/admob-plus",
+  "permalink": "/developer/docs/v5/native/admob-plus",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/admob-plus/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "AdMob Plus"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Adjust",
+    "permalink": "/developer/docs/v5/native/adjust"
+  },
+  "next": {
+    "title": "AdMob",
+    "permalink": "/developer/docs/v5/native/admob"
+  }
+}

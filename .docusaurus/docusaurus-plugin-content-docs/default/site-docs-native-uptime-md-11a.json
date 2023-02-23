@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/uptime",
+  "id": "native/uptime",
+  "isDocsHomePage": false,
+  "title": "Uptime",
+  "description": "This plugin provides the time spent in milliseconds since boot (uptime).",
+  "source": "@site/docs/native/uptime.md",
+  "sourceDirName": "native",
+  "slug": "/native/uptime",
+  "permalink": "/developer/docs/native/uptime",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/uptime/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Uptime"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Unvired Cordova SDK",
+    "permalink": "/developer/docs/native/unvired-cordova-sdk"
+  },
+  "next": {
+    "title": "UrbanAirShip",
+    "permalink": "/developer/docs/native/urbanairship"
+  }
+}

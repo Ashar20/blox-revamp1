@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/build-info",
+  "id": "version-v5/native/build-info",
+  "isDocsHomePage": false,
+  "title": "Build Info",
+  "description": "This plugin provides build information.",
+  "source": "@site/versioned_docs/version-v5/native/build-info.md",
+  "sourceDirName": "native",
+  "slug": "/native/build-info",
+  "permalink": "/developer/docs/v5/native/build-info",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/build-info/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Build Info"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Broadcaster",
+    "permalink": "/developer/docs/v5/native/broadcaster"
+  },
+  "next": {
+    "title": "Calendar",
+    "permalink": "/developer/docs/v5/native/calendar"
+  }
+}

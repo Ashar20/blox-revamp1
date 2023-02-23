@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/web-intent",
+  "id": "version-v5/native/web-intent",
+  "isDocsHomePage": false,
+  "title": "Web Intent",
+  "description": "This Plugin provides a general purpose shim layer for the Android intent mechanism, exposing various ways to handle sending and receiving intents.",
+  "source": "@site/versioned_docs/version-v5/native/web-intent.md",
+  "sourceDirName": "native",
+  "slug": "/native/web-intent",
+  "permalink": "/developer/docs/v5/native/web-intent",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/web-intent/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Web Intent"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Video Player",
+    "permalink": "/developer/docs/v5/native/video-player"
+  },
+  "next": {
+    "title": "Web Server",
+    "permalink": "/developer/docs/v5/native/web-server"
+  }
+}

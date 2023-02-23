@@ -1,0 +1,22 @@
+{
+  "unversionedId": "api",
+  "id": "api",
+  "isDocsHomePage": false,
+  "title": "API Index",
+  "description": "API Index | Ionic Docs API Index for all API Custom Elements",
+  "source": "@site/docs/api.md",
+  "sourceDirName": ".",
+  "slug": "/api",
+  "permalink": "/developer/docs/api",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "API Index"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-text",
+    "permalink": "/developer/docs/api/text"
+  }
+}

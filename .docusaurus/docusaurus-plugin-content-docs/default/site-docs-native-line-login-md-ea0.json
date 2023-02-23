@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/line-login",
+  "id": "native/line-login",
+  "isDocsHomePage": false,
+  "title": "Line Login",
+  "description": "The function login, logs out, acquires, verifies, and refreshes the access token. The version of LineSDK you are using is as follows.",
+  "source": "@site/docs/native/line-login.md",
+  "sourceDirName": "native",
+  "slug": "/native/line-login",
+  "permalink": "/developer/docs/native/line-login",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/line-login/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Line Login"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Launch Review",
+    "permalink": "/developer/docs/native/launch-review"
+  },
+  "next": {
+    "title": "LocalBackup",
+    "permalink": "/developer/docs/native/local-backup"
+  }
+}

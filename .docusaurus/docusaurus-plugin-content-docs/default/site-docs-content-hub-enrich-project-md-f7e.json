@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Content Hub/Enrich/project",
+  "id": "Content Hub/Enrich/project",
+  "isDocsHomePage": false,
+  "title": "Create a project",
+  "description": "",
+  "source": "@site/docs/Content Hub/Enrich/project.md",
+  "sourceDirName": "Content Hub/Enrich",
+  "slug": "/Content Hub/Enrich/project",
+  "permalink": "/developer/docs/Content Hub/Enrich/project",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/project.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create a project",
+    "sidebar_label": "Create a project"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Data organization",
+    "permalink": "/developer/docs/Content Hub/Enrich/dataorg"
+  },
+  "next": {
+    "title": "Catalog Listing",
+    "permalink": "/developer/docs/Content Hub/performance"
+  }
+}

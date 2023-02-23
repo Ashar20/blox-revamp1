@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/globalization",
+  "id": "version-v5/native/globalization",
+  "isDocsHomePage": false,
+  "title": "Globalization",
+  "description": "This plugin obtains information and performs operations specific to the user's locale, language, and timezone.",
+  "source": "@site/versioned_docs/version-v5/native/globalization.md",
+  "sourceDirName": "native",
+  "slug": "/native/globalization",
+  "permalink": "/developer/docs/v5/native/globalization",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/globalization/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Globalization"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Geolocation",
+    "permalink": "/developer/docs/v5/native/geolocation"
+  },
+  "next": {
+    "title": "Google Analytics",
+    "permalink": "/developer/docs/v5/native/google-analytics"
+  }
+}

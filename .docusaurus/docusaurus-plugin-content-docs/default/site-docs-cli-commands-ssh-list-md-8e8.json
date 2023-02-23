@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/ssh-list",
+  "id": "cli/commands/ssh-list",
+  "isDocsHomePage": false,
+  "title": "ionic ssh list",
+  "description": "List your SSH public keys on Ionic",
+  "source": "@site/docs/cli/commands/ssh-list.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/ssh-list",
+  "permalink": "/developer/docs/cli/commands/ssh-list",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssh/list.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic ssh list",
+    "sidebar_label": "ssh list"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "ssh generate",
+    "permalink": "/developer/docs/cli/commands/ssh-generate"
+  },
+  "next": {
+    "title": "ssh setup",
+    "permalink": "/developer/docs/cli/commands/ssh-setup"
+  }
+}

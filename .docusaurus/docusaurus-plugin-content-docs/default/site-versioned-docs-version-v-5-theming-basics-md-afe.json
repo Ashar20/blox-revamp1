@@ -1,0 +1,28 @@
+{
+  "unversionedId": "theming/basics",
+  "id": "version-v5/theming/basics",
+  "isDocsHomePage": false,
+  "title": "Theming | Ionic Apps: Color and Theming Basics Definition",
+  "description": "The definition of theming apps just got simplified. Ionic Framework is built with pre-baked styles and colors which are extremely easy to change and modify.",
+  "source": "@site/versioned_docs/version-v5/theming/basics.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/basics",
+  "permalink": "/developer/docs/v5/theming/basics",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/basics.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Theming | Ionic Apps: Color and Theming Basics Definition",
+    "description": "The definition of theming apps just got simplified. Ionic Framework is built with pre-baked styles and colors which are extremely easy to change and modify.",
+    "sidebar_label": "Basics"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "CSS Utilities",
+    "permalink": "/developer/docs/v5/layout/css-utilities"
+  },
+  "next": {
+    "title": "Platform Styles",
+    "permalink": "/developer/docs/v5/theming/platform-styles"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/checkbox",
+  "id": "version-v5/api/checkbox",
+  "isDocsHomePage": false,
+  "title": "ion-checkbox",
+  "description": "Checkboxes allow the selection of multiple options from a set of options. They appear as checked (ticked) when activated. Clicking on a checkbox will toggle the checked property. They can also be checked programmatically by setting the checked property.",
+  "source": "@site/versioned_docs/version-v5/api/checkbox.md",
+  "sourceDirName": "api",
+  "slug": "/api/checkbox",
+  "permalink": "/developer/docs/v5/api/checkbox",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/checkbox.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-checkbox",
+    "demoUrl": "/docs/demos/api/checkbox/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/checkbox/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-card-title",
+    "permalink": "/developer/docs/v5/api/card-title"
+  },
+  "next": {
+    "title": "ion-chip",
+    "permalink": "/developer/docs/v5/api/chip"
+  }
+}

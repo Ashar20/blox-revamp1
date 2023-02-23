@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/menu-toggle",
+  "id": "version-v5/api/menu-toggle",
+  "isDocsHomePage": false,
+  "title": "ion-menu-toggle",
+  "description": "The MenuToggle component can be used to toggle a menu open or closed.",
+  "source": "@site/versioned_docs/version-v5/api/menu-toggle.md",
+  "sourceDirName": "api",
+  "slug": "/api/menu-toggle",
+  "permalink": "/developer/docs/v5/api/menu-toggle",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu-toggle.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-menu-toggle"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-menu-button",
+    "permalink": "/developer/docs/v5/api/menu-button"
+  },
+  "next": {
+    "title": "ion-split-pane",
+    "permalink": "/developer/docs/v5/api/split-pane"
+  }
+}

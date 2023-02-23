@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/google-analytics",
+  "id": "version-v5/native/google-analytics",
+  "isDocsHomePage": false,
+  "title": "Google Analytics",
+  "description": "This plugin connects to Google's native Universal Analytics SDK",
+  "source": "@site/versioned_docs/version-v5/native/google-analytics.md",
+  "sourceDirName": "native",
+  "slug": "/native/google-analytics",
+  "permalink": "/developer/docs/v5/native/google-analytics",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/google-analytics/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Google Analytics"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Globalization",
+    "permalink": "/developer/docs/v5/native/globalization"
+  },
+  "next": {
+    "title": "Google Nearby",
+    "permalink": "/developer/docs/v5/native/google-nearby"
+  }
+}

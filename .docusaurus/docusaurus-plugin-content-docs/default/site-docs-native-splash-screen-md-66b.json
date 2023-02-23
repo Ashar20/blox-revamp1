@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/splash-screen",
+  "id": "native/splash-screen",
+  "isDocsHomePage": false,
+  "title": "Splash Screen",
+  "description": "Splash Screen | Cordova Splash Screen Plugin for Android & iOS",
+  "source": "@site/docs/native/splash-screen.md",
+  "sourceDirName": "native",
+  "slug": "/native/splash-screen",
+  "permalink": "/developer/docs/native/splash-screen",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/splash-screen/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Splash Screen"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Spinner Dialog",
+    "permalink": "/developer/docs/native/spinner-dialog"
+  },
+  "next": {
+    "title": "Spotify Auth",
+    "permalink": "/developer/docs/native/spotify-auth"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/diagnostic",
+  "id": "native/diagnostic",
+  "isDocsHomePage": false,
+  "title": "Diagnostic",
+  "description": "Cordova Diagnostic Plugin to Check Device Hardware Features",
+  "source": "@site/docs/native/diagnostic.md",
+  "sourceDirName": "native",
+  "slug": "/native/diagnostic",
+  "permalink": "/developer/docs/native/diagnostic",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/diagnostic/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Diagnostic"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Dfu Update",
+    "permalink": "/developer/docs/native/dfu-update"
+  },
+  "next": {
+    "title": "Dialogs",
+    "permalink": "/developer/docs/native/dialogs"
+  }
+}

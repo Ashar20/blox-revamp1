@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/action-sheet",
+  "id": "version-v5/api/action-sheet",
+  "isDocsHomePage": false,
+  "title": "ion-action-sheet",
+  "description": "An Action Sheet is a dialog that displays a set of options. It appears on top of the app's content, and must be manually dismissed by the user before they can resume interaction with the app. Destructive options are made obvious in ios mode. There are multiple ways to dismiss the action sheet, including tapping the backdrop or hitting the escape key on desktop.",
+  "source": "@site/versioned_docs/version-v5/api/action-sheet.md",
+  "sourceDirName": "api",
+  "slug": "/api/action-sheet",
+  "permalink": "/developer/docs/v5/api/action-sheet",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-action-sheet",
+    "demoUrl": "/docs/demos/api/action-sheet/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/action-sheet/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "UI Components",
+    "permalink": "/developer/docs/v5/components"
+  },
+  "next": {
+    "title": "ion-alert",
+    "permalink": "/developer/docs/v5/api/alert"
+  }
+}

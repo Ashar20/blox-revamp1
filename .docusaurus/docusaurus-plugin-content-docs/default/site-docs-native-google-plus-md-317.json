@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/google-plus",
+  "id": "native/google-plus",
+  "isDocsHomePage": false,
+  "title": "Google Plus",
+  "description": "Google Plus | Cordova-Plugin-GooglePlus for Ionic Apps",
+  "source": "@site/docs/native/google-plus.md",
+  "sourceDirName": "native",
+  "slug": "/native/google-plus",
+  "permalink": "/developer/docs/native/google-plus",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/google-plus/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Google Plus"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Google Nearby",
+    "permalink": "/developer/docs/native/google-nearby"
+  },
+  "next": {
+    "title": "Header Color",
+    "permalink": "/developer/docs/native/header-color"
+  }
+}

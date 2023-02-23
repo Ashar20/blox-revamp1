@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/cordova-compile",
+  "id": "version-v5/cli/commands/cordova-compile",
+  "isDocsHomePage": false,
+  "title": "ionic cordova compile",
+  "description": "Compile native platform code",
+  "source": "@site/versioned_docs/version-v5/cli/commands/cordova-compile.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-compile",
+  "permalink": "/developer/docs/v5/cli/commands/cordova-compile",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/compile.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "cordova compile"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "cordova build",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-build"
+  },
+  "next": {
+    "title": "cordova emulate",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-emulate"
+  }
+}

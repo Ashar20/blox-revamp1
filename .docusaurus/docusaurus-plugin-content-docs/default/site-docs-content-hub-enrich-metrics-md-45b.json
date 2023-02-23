@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Content Hub/Enrich/metrics",
+  "id": "Content Hub/Enrich/metrics",
+  "isDocsHomePage": false,
+  "title": "metrics",
+  "description": "",
+  "source": "@site/docs/Content Hub/Enrich/metrics.md",
+  "sourceDirName": "Content Hub/Enrich",
+  "slug": "/Content Hub/Enrich/metrics",
+  "permalink": "/developer/docs/Content Hub/Enrich/metrics",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/metrics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Metrics"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Explore a catalog",
+    "permalink": "/developer/docs/Content Hub/Explore-a-catalog"
+  },
+  "next": {
+    "title": "Data organization",
+    "permalink": "/developer/docs/Content Hub/Enrich/dataorg"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/chooser",
+  "id": "native/chooser",
+  "isDocsHomePage": false,
+  "title": "Chooser",
+  "description": "File chooser plugin for Cordova.",
+  "source": "@site/docs/native/chooser.md",
+  "sourceDirName": "native",
+  "slug": "/native/chooser",
+  "permalink": "/developer/docs/native/chooser",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/chooser/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chooser"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Camera",
+    "permalink": "/developer/docs/native/camera"
+  },
+  "next": {
+    "title": "CleverTap",
+    "permalink": "/developer/docs/native/clevertap"
+  }
+}

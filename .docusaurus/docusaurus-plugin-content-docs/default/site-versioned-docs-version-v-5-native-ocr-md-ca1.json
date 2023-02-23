@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/ocr",
+  "id": "version-v5/native/ocr",
+  "isDocsHomePage": false,
+  "title": "OCR",
+  "description": "This plugin attempts to identify and extract text from an image.",
+  "source": "@site/versioned_docs/version-v5/native/ocr.md",
+  "sourceDirName": "native",
+  "slug": "/native/ocr",
+  "permalink": "/developer/docs/v5/native/ocr",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ocr/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "OCR"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "NFC",
+    "permalink": "/developer/docs/v5/native/nfc"
+  },
+  "next": {
+    "title": "OneSignal",
+    "permalink": "/developer/docs/v5/native/onesignal"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/spotify-auth",
+  "id": "version-v5/native/spotify-auth",
+  "isDocsHomePage": false,
+  "title": "Spotify Auth",
+  "description": "Cordova plugin for authenticating with Spotify",
+  "source": "@site/versioned_docs/version-v5/native/spotify-auth.md",
+  "sourceDirName": "native",
+  "slug": "/native/spotify-auth",
+  "permalink": "/developer/docs/v5/native/spotify-auth",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/spotify-auth/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Spotify Auth"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Splash Screen",
+    "permalink": "/developer/docs/v5/native/splash-screen"
+  },
+  "next": {
+    "title": "Sqlite Db Copy",
+    "permalink": "/developer/docs/v5/native/sqlite-db-copy"
+  }
+}

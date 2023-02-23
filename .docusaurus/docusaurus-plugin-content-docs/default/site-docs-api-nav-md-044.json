@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/nav",
+  "id": "api/nav",
+  "isDocsHomePage": false,
+  "title": "ion-nav",
+  "description": "ion-nav | Nav View Component for Ionic Framework Apps",
+  "source": "@site/docs/api/nav.md",
+  "sourceDirName": "api",
+  "slug": "/api/nav",
+  "permalink": "/developer/docs/api/nav",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/nav.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-nav"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-backdrop",
+    "permalink": "/developer/docs/api/backdrop"
+  },
+  "next": {
+    "title": "ion-nav-link",
+    "permalink": "/developer/docs/api/nav-link"
+  }
+}

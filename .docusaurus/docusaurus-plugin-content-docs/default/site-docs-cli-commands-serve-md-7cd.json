@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/serve",
+  "id": "cli/commands/serve",
+  "isDocsHomePage": false,
+  "title": "ionic serve",
+  "description": "ionic serve: Start a Local Development Server for App Dev/Testing",
+  "source": "@site/docs/cli/commands/serve.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/serve",
+  "permalink": "/developer/docs/cli/commands/serve",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/serve.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic serve",
+    "sidebar_label": "serve"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "repair",
+    "permalink": "/developer/docs/cli/commands/repair"
+  },
+  "next": {
+    "title": "signup",
+    "permalink": "/developer/docs/cli/commands/signup"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/cordova-plugin",
+  "id": "cli/commands/cordova-plugin",
+  "isDocsHomePage": false,
+  "title": "ionic cordova plugin",
+  "description": "Install Ionic Cordova Plugin to Manage Updates and Plugin List",
+  "source": "@site/docs/cli/commands/cordova-plugin.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-plugin",
+  "permalink": "/developer/docs/cli/commands/cordova-plugin",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/plugin.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic cordova plugin",
+    "sidebar_label": "cordova plugin"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "cordova platform",
+    "permalink": "/developer/docs/cli/commands/cordova-platform"
+  },
+  "next": {
+    "title": "cordova prepare",
+    "permalink": "/developer/docs/cli/commands/cordova-prepare"
+  }
+}

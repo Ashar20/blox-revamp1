@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-center-push",
+  "id": "version-v5/native/app-center-push",
+  "isDocsHomePage": false,
+  "title": "App Center Push",
+  "description": "For more info, please see https://docs.microsoft.com/en-us/appcenter/sdk/push/cordova",
+  "source": "@site/versioned_docs/version-v5/native/app-center-push.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-center-push",
+  "permalink": "/developer/docs/v5/native/app-center-push",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-center-push/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "App Center Push"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "App Center Crashes",
+    "permalink": "/developer/docs/v5/native/app-center-crashes"
+  },
+  "next": {
+    "title": "App Preferences",
+    "permalink": "/developer/docs/v5/native/app-preferences"
+  }
+}

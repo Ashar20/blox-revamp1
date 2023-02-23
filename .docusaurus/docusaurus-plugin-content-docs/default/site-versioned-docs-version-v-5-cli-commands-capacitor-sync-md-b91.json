@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/capacitor-sync",
+  "id": "version-v5/cli/commands/capacitor-sync",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor sync",
+  "description": "Sync (copy + update) an Ionic project",
+  "source": "@site/versioned_docs/version-v5/cli/commands/capacitor-sync.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-sync",
+  "permalink": "/developer/docs/v5/cli/commands/capacitor-sync",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/sync.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "capacitor sync"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "capacitor run",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-run"
+  },
+  "next": {
+    "title": "capacitor update",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-update"
+  }
+}

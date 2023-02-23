@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/social-sharing",
+  "id": "version-v5/native/social-sharing",
+  "isDocsHomePage": false,
+  "title": "Social Sharing | Cordova Social Sharing Plugin for Ionic Apps",
+  "description": "Social sharing for Ionic apps allows you to share text, files, images, and links via social networks, SMS, and email—read to learn about this Cordova Plugin.",
+  "source": "@site/versioned_docs/version-v5/native/social-sharing.md",
+  "sourceDirName": "native",
+  "slug": "/native/social-sharing",
+  "permalink": "/developer/docs/v5/native/social-sharing",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/social-sharing/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Social Sharing | Cordova Social Sharing Plugin for Ionic Apps",
+    "description": "Social sharing for Ionic apps allows you to share text, files, images, and links via social networks, SMS, and email—read to learn about this Cordova Plugin.",
+    "sidebar_label": "Social Sharing"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "SMS",
+    "permalink": "/developer/docs/v5/native/sms"
+  },
+  "next": {
+    "title": "Speech Recognition",
+    "permalink": "/developer/docs/v5/native/speech-recognition"
+  }
+}

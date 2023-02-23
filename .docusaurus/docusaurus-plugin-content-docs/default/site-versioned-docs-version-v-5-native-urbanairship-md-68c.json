@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/urbanairship",
+  "id": "version-v5/native/urbanairship",
+  "isDocsHomePage": false,
+  "title": "UrbanAirShip",
+  "description": "This plugin does something",
+  "source": "@site/versioned_docs/version-v5/native/urbanairship.md",
+  "sourceDirName": "native",
+  "slug": "/native/urbanairship",
+  "permalink": "/developer/docs/v5/native/urbanairship",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/urbanairship/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "UrbanAirShip"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Uptime",
+    "permalink": "/developer/docs/v5/native/uptime"
+  },
+  "next": {
+    "title": "Usabilla",
+    "permalink": "/developer/docs/v5/native/usabilla-cordova-sdk"
+  }
+}

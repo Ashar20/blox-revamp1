@@ -1,0 +1,26 @@
+{
+  "unversionedId": "angular/lifecycle",
+  "id": "version-v5/angular/lifecycle",
+  "isDocsHomePage": false,
+  "title": "Ionic Page Life Cycle",
+  "description": "This guide covers how the page life cycle works in an app built with Ionic and Angular.",
+  "source": "@site/versioned_docs/version-v5/angular/lifecycle.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/lifecycle",
+  "permalink": "/developer/docs/v5/angular/lifecycle",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/lifecycle.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Lifecycle"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Live Reload",
+    "permalink": "/developer/docs/v5/angular/your-first-app/live-reload"
+  },
+  "next": {
+    "title": "Navigation/Routing",
+    "permalink": "/developer/docs/v5/angular/navigation"
+  }
+}

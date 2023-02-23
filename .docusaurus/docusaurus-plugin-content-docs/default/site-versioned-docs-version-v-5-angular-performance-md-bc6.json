@@ -1,0 +1,26 @@
+{
+  "unversionedId": "angular/performance",
+  "id": "version-v5/angular/performance",
+  "isDocsHomePage": false,
+  "title": "Angular Performance",
+  "description": "\\*ngFor with Ionic Components",
+  "source": "@site/versioned_docs/version-v5/angular/performance.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/performance",
+  "permalink": "/developer/docs/v5/angular/performance",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/performance.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Performance"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Storage",
+    "permalink": "/developer/docs/v5/angular/storage"
+  },
+  "next": {
+    "title": "Progressive Web Apps",
+    "permalink": "/developer/docs/v5/angular/pwa"
+  }
+}

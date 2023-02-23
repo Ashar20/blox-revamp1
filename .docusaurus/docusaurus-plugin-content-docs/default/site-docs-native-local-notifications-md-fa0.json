@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/local-notifications",
+  "id": "native/local-notifications",
+  "isDocsHomePage": false,
+  "title": "Local Notifications",
+  "description": "Local Notifications: iOS & Android | Cordova Local Notifications",
+  "source": "@site/docs/native/local-notifications.md",
+  "sourceDirName": "native",
+  "slug": "/native/local-notifications",
+  "permalink": "/developer/docs/native/local-notifications",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/local-notifications/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Local Notifications"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "LocalBackup",
+    "permalink": "/developer/docs/native/local-backup"
+  },
+  "next": {
+    "title": "Location Accuracy",
+    "permalink": "/developer/docs/native/location-accuracy"
+  }
+}

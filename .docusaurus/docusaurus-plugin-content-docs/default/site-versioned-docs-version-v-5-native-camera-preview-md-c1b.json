@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/camera-preview",
+  "id": "version-v5/native/camera-preview",
+  "isDocsHomePage": false,
+  "title": "Camera Preview",
+  "description": "Showing camera preview in HTML",
+  "source": "@site/versioned_docs/version-v5/native/camera-preview.md",
+  "sourceDirName": "native",
+  "slug": "/native/camera-preview",
+  "permalink": "/developer/docs/v5/native/camera-preview",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/camera-preview/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Camera Preview"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Call Number",
+    "permalink": "/developer/docs/v5/native/call-number"
+  },
+  "next": {
+    "title": "Camera",
+    "permalink": "/developer/docs/v5/native/camera"
+  }
+}

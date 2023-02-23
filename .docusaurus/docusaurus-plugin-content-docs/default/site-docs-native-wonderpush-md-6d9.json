@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/wonderpush",
+  "id": "native/wonderpush",
+  "isDocsHomePage": false,
+  "title": "Push Notifications - WonderPush",
+  "description": "Send unlimited push notifications to iOS and Android devices.",
+  "source": "@site/docs/native/wonderpush.md",
+  "sourceDirName": "native",
+  "slug": "/native/wonderpush",
+  "permalink": "/developer/docs/native/wonderpush",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/wonderpush/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Push Notifications - WonderPush"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "WifiWizard2",
+    "permalink": "/developer/docs/native/wifi-wizard-2"
+  },
+  "next": {
+    "title": "Youtube Video Player",
+    "permalink": "/developer/docs/native/youtube-video-player"
+  }
+}

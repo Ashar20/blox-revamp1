@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developing/previewing",
+  "id": "version-v5/developing/previewing",
+  "isDocsHomePage": false,
+  "title": "Previewing",
+  "description": "There are many different options to test native functionality depending on your target platforms and needs.",
+  "source": "@site/versioned_docs/version-v5/developing/previewing.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/previewing",
+  "permalink": "/developer/docs/v5/developing/previewing",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/previewing.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Starting",
+    "permalink": "/developer/docs/v5/developing/starting"
+  },
+  "next": {
+    "title": "Scaffolding",
+    "permalink": "/developer/docs/v5/developing/scaffolding"
+  }
+}

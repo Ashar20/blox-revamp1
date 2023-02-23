@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/broadcaster",
+  "id": "version-v5/native/broadcaster",
+  "isDocsHomePage": false,
+  "title": "Broadcaster",
+  "description": "This plugin adds exchanging events between native code and your app.",
+  "source": "@site/versioned_docs/version-v5/native/broadcaster.md",
+  "sourceDirName": "native",
+  "slug": "/native/broadcaster",
+  "permalink": "/developer/docs/v5/native/broadcaster",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/broadcaster/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Broadcaster"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "BranchIo",
+    "permalink": "/developer/docs/v5/native/branch-io"
+  },
+  "next": {
+    "title": "Build Info",
+    "permalink": "/developer/docs/v5/native/build-info"
+  }
+}

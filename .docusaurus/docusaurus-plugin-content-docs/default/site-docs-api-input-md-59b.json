@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/input",
+  "id": "api/input",
+  "isDocsHomePage": false,
+  "title": "ion-input",
+  "description": "ion-input: Custom Input Value Type Styling and CSS Properties",
+  "source": "@site/docs/api/input.md",
+  "sourceDirName": "api",
+  "slug": "/api/input",
+  "permalink": "/developer/docs/api/input",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/input.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-input"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-infinite-scroll-content",
+    "permalink": "/developer/docs/api/infinite-scroll-content"
+  },
+  "next": {
+    "title": "ion-textarea",
+    "permalink": "/developer/docs/api/textarea"
+  }
+}

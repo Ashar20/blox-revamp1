@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/photo-viewer",
+  "id": "version-v5/native/photo-viewer",
+  "isDocsHomePage": false,
+  "title": "Photo Viewer",
+  "description": "This plugin can display your image in full screen with the ability to pan, zoom, and share the image.",
+  "source": "@site/versioned_docs/version-v5/native/photo-viewer.md",
+  "sourceDirName": "native",
+  "slug": "/native/photo-viewer",
+  "permalink": "/developer/docs/v5/native/photo-viewer",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/photo-viewer/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Photo Viewer"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Photo Library",
+    "permalink": "/developer/docs/v5/native/photo-library"
+  },
+  "next": {
+    "title": "Printer",
+    "permalink": "/developer/docs/v5/native/printer"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/ssh-setup",
+  "id": "cli/commands/ssh-setup",
+  "isDocsHomePage": false,
+  "title": "ionic ssh setup",
+  "description": "Setup your Ionic SSH keys automatically",
+  "source": "@site/docs/cli/commands/ssh-setup.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/ssh-setup",
+  "permalink": "/developer/docs/cli/commands/ssh-setup",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssh/setup.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic ssh setup",
+    "sidebar_label": "ssh setup"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "ssh list",
+    "permalink": "/developer/docs/cli/commands/ssh-list"
+  },
+  "next": {
+    "title": "ssh use",
+    "permalink": "/developer/docs/cli/commands/ssh-use"
+  }
+}

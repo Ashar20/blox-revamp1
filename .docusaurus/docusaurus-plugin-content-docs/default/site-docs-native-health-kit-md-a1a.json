@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/health-kit",
+  "id": "native/health-kit",
+  "isDocsHomePage": false,
+  "title": "Health Kit",
+  "description": "Health Kit | HealthKit Plugin for iOS Apps | Ionic Documentation",
+  "source": "@site/docs/native/health-kit.md",
+  "sourceDirName": "native",
+  "slug": "/native/health-kit",
+  "permalink": "/developer/docs/native/health-kit",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/health-kit/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Health Kit"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Header Color",
+    "permalink": "/developer/docs/native/header-color"
+  },
+  "next": {
+    "title": "Health",
+    "permalink": "/developer/docs/native/health"
+  }
+}

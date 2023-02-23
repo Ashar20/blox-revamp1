@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/zbar",
+  "id": "version-v5/native/zbar",
+  "isDocsHomePage": false,
+  "title": "ZBar",
+  "description": "The ZBar Scanner Plugin allows you to scan 2d barcodes.",
+  "source": "@site/versioned_docs/version-v5/native/zbar.md",
+  "sourceDirName": "native",
+  "slug": "/native/zbar",
+  "permalink": "/developer/docs/v5/native/zbar",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/zbar/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ZBar"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Youtube Video Player",
+    "permalink": "/developer/docs/v5/native/youtube-video-player"
+  },
+  "next": {
+    "title": "Zeroconf",
+    "permalink": "/developer/docs/v5/native/zeroconf"
+  }
+}

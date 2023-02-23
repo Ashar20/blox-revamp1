@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/breadcrumb",
+  "id": "api/breadcrumb",
+  "isDocsHomePage": false,
+  "title": "ion-breadcrumb",
+  "description": "A Breadcrumb is a single navigation item that is a child of the Breadcrumbs component. A breadcrumb can link elsewhere in an app or it can be plain text. Each breadcrumb has a separator between it and the next breadcrumb and can optionally contain an icon.",
+  "source": "@site/docs/api/breadcrumb.md",
+  "sourceDirName": "api",
+  "slug": "/api/breadcrumb",
+  "permalink": "/developer/docs/api/breadcrumb",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/breadcrumb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-breadcrumb"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-badge",
+    "permalink": "/developer/docs/api/badge"
+  },
+  "next": {
+    "title": "ion-breadcrumbs",
+    "permalink": "/developer/docs/api/breadcrumbs"
+  }
+}

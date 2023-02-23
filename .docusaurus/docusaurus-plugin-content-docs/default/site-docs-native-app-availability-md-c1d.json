@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-availability",
+  "id": "native/app-availability",
+  "isDocsHomePage": false,
+  "title": "App Availability",
+  "description": "App Availability - Cordova Plugin for iOS and Android Devices",
+  "source": "@site/docs/native/app-availability.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-availability",
+  "permalink": "/developer/docs/native/app-availability",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-availability/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "App Availability"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Anyline",
+    "permalink": "/developer/docs/native/anyline"
+  },
+  "next": {
+    "title": "App Center Analytics",
+    "permalink": "/developer/docs/native/app-center-analytics"
+  }
+}

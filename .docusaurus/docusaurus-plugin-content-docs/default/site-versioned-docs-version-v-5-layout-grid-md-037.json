@@ -1,0 +1,30 @@
+{
+  "unversionedId": "layout/grid",
+  "id": "version-v5/layout/grid",
+  "isDocsHomePage": false,
+  "title": "Responsive Grid System and Column Layout Based on Screen Size",
+  "description": "Ionic's responsive grid is a powerful mobile-first flexbox system for building custom layouts based on a 12 column layout with breakpoints based on screen size.",
+  "source": "@site/versioned_docs/version-v5/layout/grid.md",
+  "sourceDirName": "layout",
+  "slug": "/layout/grid",
+  "permalink": "/developer/docs/v5/layout/grid",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/layout/grid.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "initialTab": "preview",
+    "inlineHtmlPreviews": true,
+    "title": "Responsive Grid System and Column Layout Based on Screen Size",
+    "description": "Ionic's responsive grid is a powerful mobile-first flexbox system for building custom layouts based on a 12 column layout with breakpoints based on screen size.",
+    "sidebar_label": "Responsive Grid"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Structure",
+    "permalink": "/developer/docs/v5/layout/structure"
+  },
+  "next": {
+    "title": "Global Stylesheets",
+    "permalink": "/developer/docs/v5/layout/global-stylesheets"
+  }
+}

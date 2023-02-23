@@ -1,0 +1,26 @@
+{
+  "unversionedId": "intro/cli",
+  "id": "version-v5/intro/cli",
+  "isDocsHomePage": false,
+  "title": "Installing Ionic",
+  "description": "Ionic apps are created and developed primarily through the Ionic command-line utility. The Ionic CLI is the preferred method of installation, as it offers a wide range of dev tools and help options along the way. It is also the main tool through which to run the app and connect it to other services, such as Appflow.",
+  "source": "@site/versioned_docs/version-v5/intro/cli.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/cli",
+  "permalink": "/developer/docs/v5/intro/cli",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/intro/cli.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "CLI Installation"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Environment Setup",
+    "permalink": "/developer/docs/v5/intro/environment"
+  },
+  "next": {
+    "title": "Packages & CDN",
+    "permalink": "/developer/docs/v5/intro/cdn"
+  }
+}

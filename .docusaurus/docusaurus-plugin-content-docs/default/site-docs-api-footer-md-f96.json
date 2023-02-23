@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/footer",
+  "id": "api/footer",
+  "isDocsHomePage": false,
+  "title": "ion-footer",
+  "description": "Page Footer | Ionic App Footer: Wrapper Root Page Component",
+  "source": "@site/docs/api/footer.md",
+  "sourceDirName": "api",
+  "slug": "/api/footer",
+  "permalink": "/developer/docs/api/footer",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/footer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-footer"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-header",
+    "permalink": "/developer/docs/api/header"
+  },
+  "next": {
+    "title": "ion-title",
+    "permalink": "/developer/docs/api/title"
+  }
+}

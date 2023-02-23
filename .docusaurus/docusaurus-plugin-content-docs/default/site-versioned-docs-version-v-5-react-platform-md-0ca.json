@@ -1,0 +1,24 @@
+{
+  "unversionedId": "react/platform",
+  "id": "version-v5/react/platform",
+  "isDocsHomePage": false,
+  "title": "Platform",
+  "description": "isPlatform",
+  "source": "@site/versioned_docs/version-v5/react/platform.md",
+  "sourceDirName": "react",
+  "slug": "/react/platform",
+  "permalink": "/developer/docs/v5/react/platform",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/platform.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Config",
+    "permalink": "/developer/docs/v5/react/config"
+  },
+  "next": {
+    "title": "Progressive Web Apps",
+    "permalink": "/developer/docs/v5/react/pwa"
+  }
+}

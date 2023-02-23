@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/ripple-effect",
+  "id": "version-v5/api/ripple-effect",
+  "isDocsHomePage": false,
+  "title": "ion-ripple-effect",
+  "description": "The ripple effect component adds the Material Design ink ripple interaction effect. This component can only be used inside of an `` and can be added to any component.",
+  "source": "@site/versioned_docs/version-v5/api/ripple-effect.md",
+  "sourceDirName": "api",
+  "slug": "/api/ripple-effect",
+  "permalink": "/developer/docs/v5/api/ripple-effect",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/ripple-effect.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-ripple-effect"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-button",
+    "permalink": "/developer/docs/v5/api/button"
+  },
+  "next": {
+    "title": "ion-card",
+    "permalink": "/developer/docs/v5/api/card"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/tealium-adidentifier",
+  "id": "version-v5/native/tealium-adidentifier",
+  "isDocsHomePage": false,
+  "title": "TealiumAdIdentifier",
+  "description": "This module depends on the Tealium Cordova Plugin. Without it, this module will not do anything.",
+  "source": "@site/versioned_docs/version-v5/native/tealium-adidentifier.md",
+  "sourceDirName": "native",
+  "slug": "/native/tealium-adidentifier",
+  "permalink": "/developer/docs/v5/native/tealium-adidentifier",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/tealium-adidentifier/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "TealiumAdIdentifier"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Taptic Engine",
+    "permalink": "/developer/docs/v5/native/taptic-engine"
+  },
+  "next": {
+    "title": "TealiumInstallReferrer",
+    "permalink": "/developer/docs/v5/native/tealium-installreferrer"
+  }
+}

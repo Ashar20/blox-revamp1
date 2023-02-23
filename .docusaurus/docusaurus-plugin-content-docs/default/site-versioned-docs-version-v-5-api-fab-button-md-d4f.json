@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/fab-button",
+  "id": "version-v5/api/fab-button",
+  "isDocsHomePage": false,
+  "title": "Floating Action Button | Ionic FAB Button Icon for Primary Action",
+  "description": "Floating Action Buttons (FABs) represent the primary action in an app. The icons are circular and, when pressed, the button may open more related actions.",
+  "source": "@site/versioned_docs/version-v5/api/fab-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/fab-button",
+  "permalink": "/developer/docs/v5/api/fab-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/fab-button.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Floating Action Button | Ionic FAB Button Icon for Primary Action",
+    "description": "Floating Action Buttons (FABs) represent the primary action in an app. The icons are circular and, when pressed, the button may open more related actions.",
+    "sidebar_label": "ion-fab-button"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-fab",
+    "permalink": "/developer/docs/v5/api/fab"
+  },
+  "next": {
+    "title": "ion-fab-list",
+    "permalink": "/developer/docs/v5/api/fab-list"
+  }
+}

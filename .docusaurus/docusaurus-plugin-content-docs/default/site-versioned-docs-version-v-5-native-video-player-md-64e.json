@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/video-player",
+  "id": "version-v5/native/video-player",
+  "isDocsHomePage": false,
+  "title": "Video Player",
+  "description": "A Cordova plugin that simply allows you to immediately play a video in fullscreen mode.",
+  "source": "@site/versioned_docs/version-v5/native/video-player.md",
+  "sourceDirName": "native",
+  "slug": "/native/video-player",
+  "permalink": "/developer/docs/v5/native/video-player",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/video-player/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Video Player"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Video Editor",
+    "permalink": "/developer/docs/v5/native/video-editor"
+  },
+  "next": {
+    "title": "Web Intent",
+    "permalink": "/developer/docs/v5/native/web-intent"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "native-community",
+  "id": "native-community",
+  "isDocsHomePage": false,
+  "title": "Cordova Community Plugins",
+  "description": "Cordova Plugins | Cordova Community Core Plugins for Ionic Apps",
+  "source": "@site/docs/native-community.md",
+  "sourceDirName": ".",
+  "slug": "/native/community",
+  "permalink": "/developer/docs/native/community",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/native-community.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cordova Community Plugins",
+    "sidebar_label": "Setup",
+    "hide_table_of_contents": true,
+    "slug": "/native/community"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Native APIs",
+    "permalink": "/developer/docs/native"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/developer/docs/native/faq"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/searchbar",
+  "id": "version-v5/api/searchbar",
+  "isDocsHomePage": false,
+  "title": "Search Bar Icon for Keyboard Text Display | Ion-Search Bar",
+  "description": "Search bars represent a text field that can be used to search through a collection. Learn to input Ion-Search Bar as an icon on Android & iOS keyboard displays.",
+  "source": "@site/versioned_docs/version-v5/api/searchbar.md",
+  "sourceDirName": "api",
+  "slug": "/api/searchbar",
+  "permalink": "/developer/docs/v5/api/searchbar",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/searchbar.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Search Bar Icon for Keyboard Text Display | Ion-Search Bar",
+    "description": "Search bars represent a text field that can be used to search through a collection. Learn to input Ion-Search Bar as an icon on Android & iOS keyboard displays.",
+    "sidebar_label": "ion-searchbar",
+    "demoUrl": "/docs/demos/api/searchbar/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/searchbar/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-route-redirect",
+    "permalink": "/developer/docs/v5/api/route-redirect"
+  },
+  "next": {
+    "title": "ion-segment",
+    "permalink": "/developer/docs/v5/api/segment"
+  }
+}

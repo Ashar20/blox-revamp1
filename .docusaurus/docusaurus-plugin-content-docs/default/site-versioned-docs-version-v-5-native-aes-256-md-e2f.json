@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/aes-256",
+  "id": "version-v5/native/aes-256",
+  "isDocsHomePage": false,
+  "title": "AES256",
+  "description": "This cordova ionic plugin allows you to perform AES 256 encryption and decryption on the plain text.",
+  "source": "@site/versioned_docs/version-v5/native/aes-256.md",
+  "sourceDirName": "native",
+  "slug": "/native/aes-256",
+  "permalink": "/developer/docs/v5/native/aes-256",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/aes-256/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "AES256"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "AdMob",
+    "permalink": "/developer/docs/v5/native/admob"
+  },
+  "next": {
+    "title": "AllInOneSDK",
+    "permalink": "/developer/docs/v5/native/all-in-one-sdk"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/range",
+  "id": "version-v5/api/range",
+  "isDocsHomePage": false,
+  "title": "Range Slider | ion-range: Slider Knob Controls with Labels",
+  "description": "ion-range lets you select from a range of values by moving the slider. It accepts dual knobs but one controls the value and labels can be placed on either side.",
+  "source": "@site/versioned_docs/version-v5/api/range.md",
+  "sourceDirName": "api",
+  "slug": "/api/range",
+  "permalink": "/developer/docs/v5/api/range",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/range.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Range Slider | ion-range: Slider Knob Controls with Labels",
+    "description": "ion-range lets you select from a range of values by moving the slider. It accepts dual knobs but one controls the value and labels can be placed on either side.",
+    "sidebar_label": "ion-range",
+    "demoUrl": "/docs/demos/api/range/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/range/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-radio-group",
+    "permalink": "/developer/docs/v5/api/radio-group"
+  },
+  "next": {
+    "title": "ion-refresher",
+    "permalink": "/developer/docs/v5/api/refresher"
+  }
+}

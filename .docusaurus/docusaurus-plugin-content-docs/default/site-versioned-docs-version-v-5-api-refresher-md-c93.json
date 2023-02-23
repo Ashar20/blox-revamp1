@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/refresher",
+  "id": "version-v5/api/refresher",
+  "isDocsHomePage": false,
+  "title": "ion-refresher",
+  "description": "The refresher provides pull-to-refresh functionality on a content component.",
+  "source": "@site/versioned_docs/version-v5/api/refresher.md",
+  "sourceDirName": "api",
+  "slug": "/api/refresher",
+  "permalink": "/developer/docs/v5/api/refresher",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/refresher.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-refresher",
+    "demoUrl": "/docs/demos/api/refresher/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/refresher/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-range",
+    "permalink": "/developer/docs/v5/api/range"
+  },
+  "next": {
+    "title": "ion-refresher-content",
+    "permalink": "/developer/docs/v5/api/refresher-content"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/image-picker",
+  "id": "native/image-picker",
+  "isDocsHomePage": false,
+  "title": "Image Picker",
+  "description": "Image Picker | Cordova-Plugin-Image-Picker for Ionic Apps",
+  "source": "@site/docs/native/image-picker.md",
+  "sourceDirName": "native",
+  "slug": "/native/image-picker",
+  "permalink": "/developer/docs/native/image-picker",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/image-picker/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Image Picker"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "IBeacon",
+    "permalink": "/developer/docs/native/ibeacon"
+  },
+  "next": {
+    "title": "Imap",
+    "permalink": "/developer/docs/native/imap"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "theming/colors",
+  "id": "version-v5/theming/colors",
+  "isDocsHomePage": false,
+  "title": "Colors",
+  "description": "Ionic has nine default colors that can be used to change the color of many components. Each color is actually a collection of multiple properties, including a shade and tint, used throughout Ionic.",
+  "source": "@site/versioned_docs/version-v5/theming/colors.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/colors",
+  "permalink": "/developer/docs/v5/theming/colors",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/colors.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "initialTab": "preview",
+    "inlineHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "CSS Shadow Parts",
+    "permalink": "/developer/docs/v5/theming/css-shadow-parts"
+  },
+  "next": {
+    "title": "Themes",
+    "permalink": "/developer/docs/v5/theming/themes"
+  }
+}

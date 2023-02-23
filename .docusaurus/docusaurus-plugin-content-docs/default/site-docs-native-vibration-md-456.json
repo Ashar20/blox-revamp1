@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/vibration",
+  "id": "native/vibration",
+  "isDocsHomePage": false,
+  "title": "Vibration",
+  "description": "Vibrates the device",
+  "source": "@site/docs/native/vibration.md",
+  "sourceDirName": "native",
+  "slug": "/native/vibration",
+  "permalink": "/developer/docs/native/vibration",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/vibration/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Vibration"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Vibes",
+    "permalink": "/developer/docs/native/vibes"
+  },
+  "next": {
+    "title": "Video Editor",
+    "permalink": "/developer/docs/native/video-editor"
+  }
+}

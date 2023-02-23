@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/bluetooth-classic-serial-port",
+  "id": "native/bluetooth-classic-serial-port",
+  "isDocsHomePage": false,
+  "title": "Bluetooth Classic Serial Port",
+  "description": "This plugin is written using the iOS Accessory Framework (MFi) to support Classic Bluetooth on iOS.",
+  "source": "@site/docs/native/bluetooth-classic-serial-port.md",
+  "sourceDirName": "native",
+  "slug": "/native/bluetooth-classic-serial-port",
+  "permalink": "/developer/docs/native/bluetooth-classic-serial-port",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/bluetooth-classic-serial-port/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bluetooth Classic Serial Port"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "BlinkId",
+    "permalink": "/developer/docs/native/blinkid"
+  },
+  "next": {
+    "title": "BluetoothLE",
+    "permalink": "/developer/docs/native/bluetooth-le"
+  }
+}

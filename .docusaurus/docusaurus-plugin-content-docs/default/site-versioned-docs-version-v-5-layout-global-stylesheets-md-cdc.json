@@ -1,0 +1,27 @@
+{
+  "unversionedId": "layout/global-stylesheets",
+  "id": "version-v5/layout/global-stylesheets",
+  "isDocsHomePage": false,
+  "title": "Global Stylesheets",
+  "description": "While Ionic Framework component styles are self-contained, there are several global stylesheets that should be included in order to use all of Ionic's features. Some of the stylesheets are required in order for an Ionic Framework app to look and behave properly, and others include optional utilities to quickly style your app.",
+  "source": "@site/versioned_docs/version-v5/layout/global-stylesheets.md",
+  "sourceDirName": "layout",
+  "slug": "/layout/global-stylesheets",
+  "permalink": "/developer/docs/v5/layout/global-stylesheets",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/layout/global-stylesheets.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "initialTab": "preview",
+    "inlineHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Responsive Grid",
+    "permalink": "/developer/docs/v5/layout/grid"
+  },
+  "next": {
+    "title": "CSS Utilities",
+    "permalink": "/developer/docs/v5/layout/css-utilities"
+  }
+}

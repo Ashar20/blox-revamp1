@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/openalpr",
+  "id": "native/openalpr",
+  "isDocsHomePage": false,
+  "title": "OpenALPR",
+  "description": "This Cordova plugin adds support for the OpenALPR (Automatic License Plate Recognition) library, which provides support for retrieving the license plate from a picture.",
+  "source": "@site/docs/native/openalpr.md",
+  "sourceDirName": "native",
+  "slug": "/native/openalpr",
+  "permalink": "/developer/docs/native/openalpr",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/openalpr/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "OpenALPR"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Open Native Settings",
+    "permalink": "/developer/docs/native/open-native-settings"
+  },
+  "next": {
+    "title": "PayTabs",
+    "permalink": "/developer/docs/native/paytabs"
+  }
+}

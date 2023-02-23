@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/slides",
+  "id": "version-v5/api/slides",
+  "isDocsHomePage": false,
+  "title": "Ion-Slides: Mobile Touch Slider with Built-In & Custom Animation",
+  "description": "Ion-Slides is a multi-section container which offers custom and built-in mobile touch slider animation effects. See how Ion-Slides works with iOS and Android.",
+  "source": "@site/versioned_docs/version-v5/api/slides.md",
+  "sourceDirName": "api",
+  "slug": "/api/slides",
+  "permalink": "/developer/docs/v5/api/slides",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/slides.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Ion-Slides: Mobile Touch Slider with Built-In & Custom Animation",
+    "description": "Ion-Slides is a multi-section container which offers custom and built-in mobile touch slider animation effects. See how Ion-Slides works with iOS and Android.",
+    "sidebar_label": "ion-slides",
+    "demoUrl": "/docs/demos/api/slides/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/slides/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-select-option",
+    "permalink": "/developer/docs/v5/api/select-option"
+  },
+  "next": {
+    "title": "ion-slide",
+    "permalink": "/developer/docs/v5/api/slide"
+  }
+}

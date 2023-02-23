@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Audience Hub/scaffolding",
+  "id": "Audience Hub/scaffolding",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "Audience Hub",
+  "source": "@site/docs/Audience Hub/scaffolding.md",
+  "sourceDirName": "Audience Hub",
+  "slug": "/Audience Hub/scaffolding",
+  "permalink": "/developer/docs/Audience Hub/scaffolding",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/scaffolding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "FAQ's",
+    "permalink": "/developer/docs/Content Hub/pwa"
+  },
+  "next": {
+    "title": "Audience listing",
+    "permalink": "/developer/docs/Audience Hub/tips"
+  }
+}

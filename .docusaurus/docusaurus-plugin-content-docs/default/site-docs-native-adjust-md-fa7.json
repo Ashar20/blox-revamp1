@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/adjust",
+  "id": "native/adjust",
+  "isDocsHomePage": false,
+  "title": "Adjust",
+  "description": "This is the Ionic Cordova SDK of Adjust™. You can read more about Adjust™ at adjust.com.",
+  "source": "@site/docs/native/adjust.md",
+  "sourceDirName": "native",
+  "slug": "/native/adjust",
+  "permalink": "/developer/docs/native/adjust",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/adjust/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Adjust"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Action Sheet",
+    "permalink": "/developer/docs/native/action-sheet"
+  },
+  "next": {
+    "title": "AdMob Plus",
+    "permalink": "/developer/docs/native/admob-plus"
+  }
+}

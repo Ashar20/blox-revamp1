@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/login",
+  "id": "cli/commands/login",
+  "isDocsHomePage": false,
+  "title": "ionic login",
+  "description": "Ionic Secure App Login: Authenticate and Retrieve a User Token",
+  "source": "@site/docs/cli/commands/login.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/login",
+  "permalink": "/developer/docs/cli/commands/login",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/login.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic login",
+    "sidebar_label": "login"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "link",
+    "permalink": "/developer/docs/cli/commands/link"
+  },
+  "next": {
+    "title": "logout",
+    "permalink": "/developer/docs/cli/commands/logout"
+  }
+}

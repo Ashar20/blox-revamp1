@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/videos",
+  "id": "developer-resources/videos",
+  "isDocsHomePage": false,
+  "title": "Videos",
+  "description": "Ionic 2 Crash Course",
+  "source": "@site/docs/developer-resources/videos.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-resources/videos",
+  "permalink": "/developer/docs/developer-resources/videos",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/videos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

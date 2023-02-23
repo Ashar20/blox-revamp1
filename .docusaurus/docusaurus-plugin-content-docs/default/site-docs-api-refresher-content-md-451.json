@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/refresher-content",
+  "id": "api/refresher-content",
+  "isDocsHomePage": false,
+  "title": "ion-refresher-content",
+  "description": "The refresher content contains the text, icon and spinner to display during a pull-to-refresh. Ionic displays a pulling icon and refreshing spinner based on the platform. However, the default icon, spinner, and text can be customized based on the state of the refresher.",
+  "source": "@site/docs/api/refresher-content.md",
+  "sourceDirName": "api",
+  "slug": "/api/refresher-content",
+  "permalink": "/developer/docs/api/refresher-content",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/refresher-content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-refresher-content"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-refresher",
+    "permalink": "/developer/docs/api/refresher"
+  },
+  "next": {
+    "title": "ion-reorder",
+    "permalink": "/developer/docs/api/reorder"
+  }
+}

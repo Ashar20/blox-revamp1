@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/open-native-settings",
+  "id": "version-v5/native/open-native-settings",
+  "isDocsHomePage": false,
+  "title": "Open Native Settings",
+  "description": "Plugin to open native screens of iOS/android settings",
+  "source": "@site/versioned_docs/version-v5/native/open-native-settings.md",
+  "sourceDirName": "native",
+  "slug": "/native/open-native-settings",
+  "permalink": "/developer/docs/v5/native/open-native-settings",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/open-native-settings/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Open Native Settings"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "OneSignal",
+    "permalink": "/developer/docs/v5/native/onesignal"
+  },
+  "next": {
+    "title": "OpenALPR",
+    "permalink": "/developer/docs/v5/native/openalpr"
+  }
+}

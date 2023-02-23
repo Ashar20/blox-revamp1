@@ -1,0 +1,26 @@
+{
+  "unversionedId": "developing/previewing",
+  "id": "developing/previewing",
+  "isDocsHomePage": false,
+  "title": "Upload Custom Audience",
+  "description": "Previewing: To Run Ionic Apps Locally in A Web Browser",
+  "source": "@site/docs/developing/previewing.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/previewing",
+  "permalink": "/docs/developing/previewing",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developing/previewing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Upload Custom Audience"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Starting",
+    "permalink": "/docs/developing/starting"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/developing/scaffolding"
+  }
+}

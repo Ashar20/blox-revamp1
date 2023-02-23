@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/service-discovery",
+  "id": "version-v5/native/service-discovery",
+  "isDocsHomePage": false,
+  "title": "ServiceDiscovery",
+  "description": "Simple plugin to get any SSDP / UPnP / DLNA service on a local network",
+  "source": "@site/versioned_docs/version-v5/native/service-discovery.md",
+  "sourceDirName": "native",
+  "slug": "/native/service-discovery",
+  "permalink": "/developer/docs/v5/native/service-discovery",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/service-discovery/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ServiceDiscovery"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Screen Orientation",
+    "permalink": "/developer/docs/v5/native/screen-orientation"
+  },
+  "next": {
+    "title": "Shake",
+    "permalink": "/developer/docs/v5/native/shake"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/firebase-analytics",
+  "id": "version-v5/native/firebase-analytics",
+  "isDocsHomePage": false,
+  "title": "Firebase Analytics",
+  "description": "Cordova plugin for Firebase Analytics",
+  "source": "@site/versioned_docs/version-v5/native/firebase-analytics.md",
+  "sourceDirName": "native",
+  "slug": "/native/firebase-analytics",
+  "permalink": "/developer/docs/v5/native/firebase-analytics",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-analytics/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Firebase Analytics"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "File",
+    "permalink": "/developer/docs/v5/native/file"
+  },
+  "next": {
+    "title": "Firebase Authentication",
+    "permalink": "/developer/docs/v5/native/firebase-authentication"
+  }
+}

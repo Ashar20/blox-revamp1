@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/thumbnail",
+  "id": "version-v5/api/thumbnail",
+  "isDocsHomePage": false,
+  "title": "ion-thumbnail",
+  "description": "Thumbnails are square components that usually wrap an image or icon. They can be used to make it easier to display a group of larger images or provide a preview of the full-size image.",
+  "source": "@site/versioned_docs/version-v5/api/thumbnail.md",
+  "sourceDirName": "api",
+  "slug": "/api/thumbnail",
+  "permalink": "/developer/docs/v5/api/thumbnail",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/thumbnail.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-thumbnail",
+    "demoUrl": "/docs/demos/api/thumbnail/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/thumbnail/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-img",
+    "permalink": "/developer/docs/v5/api/img"
+  },
+  "next": {
+    "title": "ion-menu",
+    "permalink": "/developer/docs/v5/api/menu"
+  }
+}

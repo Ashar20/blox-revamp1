@@ -1,0 +1,26 @@
+{
+  "unversionedId": "angular/pwa",
+  "id": "version-v5/angular/pwa",
+  "isDocsHomePage": false,
+  "title": "Progressive Web Apps in Angular",
+  "description": "Making your Angular app a PWA",
+  "source": "@site/versioned_docs/version-v5/angular/pwa.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/pwa",
+  "permalink": "/developer/docs/v5/angular/pwa",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/pwa.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Progressive Web Apps"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Performance",
+    "permalink": "/developer/docs/v5/angular/performance"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/developer/docs/v5/react"
+  }
+}

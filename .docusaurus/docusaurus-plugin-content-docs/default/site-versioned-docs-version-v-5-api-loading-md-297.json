@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/loading",
+  "id": "version-v5/api/loading",
+  "isDocsHomePage": false,
+  "title": "Loading | Application Loading Indicator Overlay | ion-loading",
+  "description": "The ion-loading overlay indicates activity while blocking user interaction. The loading indicator appears on top of the app's content, and can be dismissed.",
+  "source": "@site/versioned_docs/version-v5/api/loading.md",
+  "sourceDirName": "api",
+  "slug": "/api/loading",
+  "permalink": "/developer/docs/v5/api/loading",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/loading.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Loading | Application Loading Indicator Overlay | ion-loading",
+    "description": "The ion-loading overlay indicates activity while blocking user interaction. The loading indicator appears on top of the app's content, and can be dismissed.",
+    "sidebar_label": "ion-loading",
+    "demoUrl": "/docs/demos/api/loading/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/loading/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-popover",
+    "permalink": "/developer/docs/v5/api/popover"
+  },
+  "next": {
+    "title": "ion-progress-bar",
+    "permalink": "/developer/docs/v5/api/progress-bar"
+  }
+}

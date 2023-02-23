@@ -1,0 +1,24 @@
+{
+  "unversionedId": "angular/config",
+  "id": "version-v5/angular/config",
+  "isDocsHomePage": false,
+  "title": "Config",
+  "description": "Ionic Config provides a way to change the properties of components globally across an app. It can set the app mode, tab button layout, animations, and more.",
+  "source": "@site/versioned_docs/version-v5/angular/config.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/config",
+  "permalink": "/developer/docs/v5/angular/config",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/config.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Navigation/Routing",
+    "permalink": "/developer/docs/v5/angular/navigation"
+  },
+  "next": {
+    "title": "Platform",
+    "permalink": "/developer/docs/v5/angular/platform"
+  }
+}

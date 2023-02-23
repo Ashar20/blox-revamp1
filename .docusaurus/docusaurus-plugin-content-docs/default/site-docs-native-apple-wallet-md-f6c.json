@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/apple-wallet",
+  "id": "native/apple-wallet",
+  "isDocsHomePage": false,
+  "title": "Apple Wallet",
+  "description": "A Cordova plugin that enables users from Add Payment Cards to their Apple Wallet.",
+  "source": "@site/docs/native/apple-wallet.md",
+  "sourceDirName": "native",
+  "slug": "/native/apple-wallet",
+  "permalink": "/developer/docs/native/apple-wallet",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/apple-wallet/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Apple Wallet"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "App Version",
+    "permalink": "/developer/docs/native/app-version"
+  },
+  "next": {
+    "title": "Appsflyer",
+    "permalink": "/developer/docs/native/appsflyer"
+  }
+}

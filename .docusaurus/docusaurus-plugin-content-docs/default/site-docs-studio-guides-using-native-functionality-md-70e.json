@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/guides/using-native-functionality",
+  "id": "studio/guides/using-native-functionality",
+  "isDocsHomePage": false,
+  "title": "Using Native Functionality",
+  "description": "Depending on which Cordova Plugin you're using, you may need to run your app on a physical or virtual device in order to test out that feature.",
+  "source": "@site/docs/studio/guides/using-native-functionality.md",
+  "sourceDirName": "studio/guides",
+  "slug": "/studio/guides/using-native-functionality",
+  "permalink": "/developer/docs/studio/guides/using-native-functionality",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/guides/using-native-functionality.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

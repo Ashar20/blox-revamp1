@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/intercom",
+  "id": "version-v5/native/intercom",
+  "isDocsHomePage": false,
+  "title": "Intercom",
+  "description": "This is a plugin that allows your Ionic app to use Intercom for iOS and/or Intercom for Android.",
+  "source": "@site/versioned_docs/version-v5/native/intercom.md",
+  "sourceDirName": "native",
+  "slug": "/native/intercom",
+  "permalink": "/developer/docs/v5/native/intercom",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/intercom/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Intercom"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Instagram",
+    "permalink": "/developer/docs/v5/native/instagram"
+  },
+  "next": {
+    "title": "Ionic Webview",
+    "permalink": "/developer/docs/v5/native/ionic-webview"
+  }
+}

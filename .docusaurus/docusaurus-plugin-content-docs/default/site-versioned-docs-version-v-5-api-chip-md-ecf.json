@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/chip",
+  "id": "version-v5/api/chip",
+  "isDocsHomePage": false,
+  "title": "ion-chip:  Name, Text, Icon and Avatar for Ionic Framework Apps",
+  "description": "ion-chips represent complex entities in small blocks, such as a contact. A chip can contain several different elements such as names, avatars, text, and icons.",
+  "source": "@site/versioned_docs/version-v5/api/chip.md",
+  "sourceDirName": "api",
+  "slug": "/api/chip",
+  "permalink": "/developer/docs/v5/api/chip",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/chip.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-chip:  Name, Text, Icon and Avatar for Ionic Framework Apps",
+    "description": "ion-chips represent complex entities in small blocks, such as a contact. A chip can contain several different elements such as names, avatars, text, and icons.",
+    "sidebar_label": "ion-chip",
+    "demoUrl": "/docs/demos/api/chip/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/chip/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-checkbox",
+    "permalink": "/developer/docs/v5/api/checkbox"
+  },
+  "next": {
+    "title": "ion-app",
+    "permalink": "/developer/docs/v5/api/app"
+  }
+}

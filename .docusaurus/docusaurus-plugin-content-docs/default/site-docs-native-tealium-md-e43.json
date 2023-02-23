@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/tealium",
+  "id": "native/tealium",
+  "isDocsHomePage": false,
+  "title": "Tealium",
+  "description": "This plugin provides a TypeScript wrapper around the Tealium Cordova plugin for Ionic Native.",
+  "source": "@site/docs/native/tealium.md",
+  "sourceDirName": "native",
+  "slug": "/native/tealium",
+  "permalink": "/developer/docs/native/tealium",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/tealium/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tealium"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "TealiumInstallReferrer",
+    "permalink": "/developer/docs/native/tealium-installreferrer"
+  },
+  "next": {
+    "title": "Text To Speech Advanced",
+    "permalink": "/developer/docs/native/text-to-speech-advanced"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/segment",
+  "id": "api/segment",
+  "isDocsHomePage": false,
+  "title": "ion-segment",
+  "description": "ion-segment: API Documentation for Segmented Controls",
+  "source": "@site/docs/api/segment.md",
+  "sourceDirName": "api",
+  "slug": "/api/segment",
+  "permalink": "/developer/docs/api/segment",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/segment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-segment"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-searchbar",
+    "permalink": "/developer/docs/api/searchbar"
+  },
+  "next": {
+    "title": "ion-segment-button",
+    "permalink": "/developer/docs/api/segment-button"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/content",
+  "id": "version-v5/api/content",
+  "isDocsHomePage": false,
+  "title": "ion-content",
+  "description": "The content component provides an easy to use content area with some useful methods",
+  "source": "@site/versioned_docs/version-v5/api/content.md",
+  "sourceDirName": "api",
+  "slug": "/api/content",
+  "permalink": "/developer/docs/v5/api/content",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/content.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-content",
+    "demoUrl": "/docs/demos/api/content/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/content/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-app",
+    "permalink": "/developer/docs/v5/api/app"
+  },
+  "next": {
+    "title": "ion-datetime",
+    "permalink": "/developer/docs/v5/api/datetime"
+  }
+}

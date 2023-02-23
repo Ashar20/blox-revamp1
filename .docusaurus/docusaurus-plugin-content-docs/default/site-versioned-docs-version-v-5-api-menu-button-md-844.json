@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/menu-button",
+  "id": "version-v5/api/menu-button",
+  "isDocsHomePage": false,
+  "title": "ion-menu-button",
+  "description": "Menu Button is component that automatically creates the icon and functionality to open a menu on a page.",
+  "source": "@site/versioned_docs/version-v5/api/menu-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/menu-button",
+  "permalink": "/developer/docs/v5/api/menu-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu-button.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-menu-button"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-menu",
+    "permalink": "/developer/docs/v5/api/menu"
+  },
+  "next": {
+    "title": "ion-menu-toggle",
+    "permalink": "/developer/docs/v5/api/menu-toggle"
+  }
+}

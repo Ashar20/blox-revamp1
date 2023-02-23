@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/push",
+  "id": "version-v5/native/push",
+  "isDocsHomePage": false,
+  "title": "PhoneGap Plugin for Push Notifications With Cordova and Ionic",
+  "description": "Register and receive push notifications on your Ionic apps using the Cordova plugin: phonegap-plugin-push. Read for how to install on supported platforms.",
+  "source": "@site/versioned_docs/version-v5/native/push.md",
+  "sourceDirName": "native",
+  "slug": "/native/push",
+  "permalink": "/developer/docs/v5/native/push",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/push/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "PhoneGap Plugin for Push Notifications With Cordova and Ionic",
+    "description": "Register and receive push notifications on your Ionic apps using the Cordova plugin: phonegap-plugin-push. Read for how to install on supported platforms.",
+    "sidebar_label": "Push"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Purchases",
+    "permalink": "/developer/docs/v5/native/purchases"
+  },
+  "next": {
+    "title": "PushapePush",
+    "permalink": "/developer/docs/v5/native/pushape-push"
+  }
+}

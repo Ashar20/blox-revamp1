@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/launch-navigator",
+  "id": "version-v5/native/launch-navigator",
+  "isDocsHomePage": false,
+  "title": "Launch Navigator",
+  "description": "Requires Cordova plugin: uk.co.workingedge.phonegap.plugin.launchnavigator. For more info, please see the LaunchNavigator plugin docs.",
+  "source": "@site/versioned_docs/version-v5/native/launch-navigator.md",
+  "sourceDirName": "native",
+  "slug": "/native/launch-navigator",
+  "permalink": "/developer/docs/v5/native/launch-navigator",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/launch-navigator/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Launch Navigator"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Kommunicate",
+    "permalink": "/developer/docs/v5/native/kommunicate"
+  },
+  "next": {
+    "title": "Launch Review",
+    "permalink": "/developer/docs/v5/native/launch-review"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/health",
+  "id": "version-v5/native/health",
+  "isDocsHomePage": false,
+  "title": "Health",
+  "description": "A plugin that abstracts fitness and health repositories like Apple HealthKit or Google Fit.",
+  "source": "@site/versioned_docs/version-v5/native/health.md",
+  "sourceDirName": "native",
+  "slug": "/native/health",
+  "permalink": "/developer/docs/v5/native/health",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/health/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Health"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Health Kit",
+    "permalink": "/developer/docs/v5/native/health-kit"
+  },
+  "next": {
+    "title": "HTTP",
+    "permalink": "/developer/docs/v5/native/http"
+  }
+}

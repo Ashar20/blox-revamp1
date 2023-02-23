@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/storage",
+  "id": "Content Hub copy/storage",
+  "isDocsHomePage": false,
+  "title": "Data Storage",
+  "description": "Angular App Data Storage Options - Ionic Documentation",
+  "source": "@site/docs/Content Hub copy/storage.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/storage",
+  "permalink": "/docs/Content Hub copy/storage",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/storage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Data Storage",
+    "sidebar_label": "Storage"
+  }
+}

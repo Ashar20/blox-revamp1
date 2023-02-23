@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/file-transfer",
+  "id": "version-v5/native/file-transfer",
+  "isDocsHomePage": false,
+  "title": "File Transfer | Cordova Docs File Transfer Download Plugin",
+  "description": "The Cordova File Transfer plug in allows you to upload and download docs files. This plugin is supported on iOS, Android, Windows, and more platforms.",
+  "source": "@site/versioned_docs/version-v5/native/file-transfer.md",
+  "sourceDirName": "native",
+  "slug": "/native/file-transfer",
+  "permalink": "/developer/docs/v5/native/file-transfer",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file-transfer/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "File Transfer | Cordova Docs File Transfer Download Plugin",
+    "description": "The Cordova File Transfer plug in allows you to upload and download docs files. This plugin is supported on iOS, Android, Windows, and more platforms.",
+    "sidebar_label": "File Transfer "
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "File Path",
+    "permalink": "/developer/docs/v5/native/file-path"
+  },
+  "next": {
+    "title": "File",
+    "permalink": "/developer/docs/v5/native/file"
+  }
+}

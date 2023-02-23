@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/geolocation",
+  "id": "native/geolocation",
+  "isDocsHomePage": false,
+  "title": "Geolocation",
+  "description": "Geolocation | W3C Geolocator Application API Plugin",
+  "source": "@site/docs/native/geolocation.md",
+  "sourceDirName": "native",
+  "slug": "/native/geolocation",
+  "permalink": "/developer/docs/native/geolocation",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/geolocation/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Geolocation"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Ge Tui Sdk Plugin",
+    "permalink": "/developer/docs/native/ge-tui-sdk-plugin"
+  },
+  "next": {
+    "title": "Globalization",
+    "permalink": "/developer/docs/native/globalization"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-community",
+  "id": "version-v5/native-community",
+  "isDocsHomePage": false,
+  "title": "Cordova Plugins | Cordova Community Core Plugins for Ionic Apps",
+  "description": "For the Cordova user community, our collection of TypeScript wrappers for open source Cordova core plugins easily add native functionality to any Ionic app.",
+  "source": "@site/versioned_docs/version-v5/native-community.md",
+  "sourceDirName": ".",
+  "slug": "/native/community",
+  "permalink": "/developer/docs/v5/native/community",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/native-community.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Cordova Plugins | Cordova Community Core Plugins for Ionic Apps",
+    "description": "For the Cordova user community, our collection of TypeScript wrappers for open source Cordova core plugins easily add native functionality to any Ionic app.",
+    "sidebar_label": "Setup",
+    "hide_table_of_contents": true,
+    "slug": "/native/community"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Native APIs",
+    "permalink": "/developer/docs/v5/native"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/developer/docs/v5/native/faq"
+  }
+}

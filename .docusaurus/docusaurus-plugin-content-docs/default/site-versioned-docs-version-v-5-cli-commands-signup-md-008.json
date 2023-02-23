@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/signup",
+  "id": "version-v5/cli/commands/signup",
+  "isDocsHomePage": false,
+  "title": "ionic signup",
+  "description": "Create an Ionic account",
+  "source": "@site/versioned_docs/version-v5/cli/commands/signup.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/signup",
+  "permalink": "/developer/docs/v5/cli/commands/signup",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/signup.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "signup"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "serve",
+    "permalink": "/developer/docs/v5/cli/commands/serve"
+  },
+  "next": {
+    "title": "ssh add",
+    "permalink": "/developer/docs/v5/cli/commands/ssh-add"
+  }
+}

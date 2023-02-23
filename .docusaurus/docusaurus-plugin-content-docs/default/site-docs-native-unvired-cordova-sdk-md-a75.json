@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/unvired-cordova-sdk",
+  "id": "native/unvired-cordova-sdk",
+  "isDocsHomePage": false,
+  "title": "Unvired Cordova SDK",
+  "description": "This plugin lets you build apps which connect to Unvired Mobile Platform (UMP).",
+  "source": "@site/docs/native/unvired-cordova-sdk.md",
+  "sourceDirName": "native",
+  "slug": "/native/unvired-cordova-sdk",
+  "permalink": "/developer/docs/native/unvired-cordova-sdk",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/unvired-cordova-sdk/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Unvired Cordova SDK"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Touch ID",
+    "permalink": "/developer/docs/native/touch-id"
+  },
+  "next": {
+    "title": "Uptime",
+    "permalink": "/developer/docs/native/uptime"
+  }
+}

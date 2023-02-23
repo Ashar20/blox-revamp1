@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developing/starting",
+  "id": "developing/starting",
+  "isDocsHomePage": false,
+  "title": "Starting an App",
+  "description": "Starting an App: How to Guide | Ionic Documentation",
+  "source": "@site/docs/developing/starting.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/starting",
+  "permalink": "/docs/developing/starting",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developing/starting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Starting an App",
+    "sidebar_label": "Starting"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "FAQ's",
+    "permalink": "/docs/Content Hub/pwa"
+  },
+  "next": {
+    "title": "Upload Custom Audience",
+    "permalink": "/docs/developing/previewing"
+  }
+}

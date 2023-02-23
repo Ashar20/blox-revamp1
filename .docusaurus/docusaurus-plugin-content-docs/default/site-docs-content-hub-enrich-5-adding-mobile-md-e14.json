@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub/Enrich/adding-mobile",
+  "id": "Content Hub/Enrich/adding-mobile",
+  "isDocsHomePage": false,
+  "title": "Adding Mobile",
+  "description": "Our photo gallery app won’t be complete until it runs on iOS, Android, and the web - all using one codebase. All it takes is some small logic changes to support mobile platforms, installing some native tooling, then running the app on a device. Let’s go!",
+  "source": "@site/docs/Content Hub/Enrich/5-adding-mobile.md",
+  "sourceDirName": "Content Hub/Enrich",
+  "slug": "/Content Hub/Enrich/adding-mobile",
+  "permalink": "/docs/Content Hub/Enrich/adding-mobile",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/5-adding-mobile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "strip_number_prefixes": false
+  }
+}

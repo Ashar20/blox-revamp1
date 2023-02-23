@@ -1,0 +1,22 @@
+{
+  "unversionedId": "developing/keyboard",
+  "id": "developing/keyboard",
+  "isDocsHomePage": false,
+  "title": "Audience listing",
+  "description": "Keyboard Guide: Tools to Manage an On-Screen Mobile App Keyboard",
+  "source": "@site/docs/developing/keyboard.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/keyboard",
+  "permalink": "/docs/developing/keyboard",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developing/keyboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Audience listing"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Hardware Back Button",
+    "permalink": "/docs/developing/hardware-back-button"
+  }
+}

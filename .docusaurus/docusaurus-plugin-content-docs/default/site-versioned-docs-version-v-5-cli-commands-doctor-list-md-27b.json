@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/doctor-list",
+  "id": "version-v5/cli/commands/doctor-list",
+  "isDocsHomePage": false,
+  "title": "ionic doctor list",
+  "description": "List all issues and their identifiers",
+  "source": "@site/versioned_docs/version-v5/cli/commands/doctor-list.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/doctor-list",
+  "permalink": "/developer/docs/v5/cli/commands/doctor-list",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/doctor/list.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "doctor list"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "doctor check",
+    "permalink": "/developer/docs/v5/cli/commands/doctor-check"
+  },
+  "next": {
+    "title": "doctor treat",
+    "permalink": "/developer/docs/v5/cli/commands/doctor-treat"
+  }
+}

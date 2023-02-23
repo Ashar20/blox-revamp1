@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/thumbnail",
+  "id": "api/thumbnail",
+  "isDocsHomePage": false,
+  "title": "ion-thumbnail",
+  "description": "ion-thumbnail | Thumbnail App Component to Wrap Images or Icons",
+  "source": "@site/docs/api/thumbnail.md",
+  "sourceDirName": "api",
+  "slug": "/api/thumbnail",
+  "permalink": "/developer/docs/api/thumbnail",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/thumbnail.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-thumbnail"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-img",
+    "permalink": "/developer/docs/api/img"
+  },
+  "next": {
+    "title": "ion-menu",
+    "permalink": "/developer/docs/api/menu"
+  }
+}

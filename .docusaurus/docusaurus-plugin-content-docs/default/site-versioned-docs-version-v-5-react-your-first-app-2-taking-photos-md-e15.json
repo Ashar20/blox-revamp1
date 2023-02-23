@@ -1,0 +1,27 @@
+{
+  "unversionedId": "react/your-first-app/taking-photos",
+  "id": "version-v5/react/your-first-app/taking-photos",
+  "isDocsHomePage": false,
+  "title": "Taking Photos with the Camera",
+  "description": "Now for the fun part - adding the ability to take photos with the device’s camera using the Capacitor Camera API. We’ll begin with building it for the web, then make some small tweaks to make it work on mobile (iOS and Android).",
+  "source": "@site/versioned_docs/version-v5/react/your-first-app/2-taking-photos.md",
+  "sourceDirName": "react/your-first-app",
+  "slug": "/react/your-first-app/taking-photos",
+  "permalink": "/developer/docs/v5/react/your-first-app/taking-photos",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/your-first-app/2-taking-photos.md",
+  "tags": [],
+  "version": "v5",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Taking Photos"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Build Your First App",
+    "permalink": "/developer/docs/v5/react/your-first-app"
+  },
+  "next": {
+    "title": "Saving Photos",
+    "permalink": "/developer/docs/v5/react/your-first-app/saving-photos"
+  }
+}

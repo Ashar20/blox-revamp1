@@ -1,0 +1,27 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "isDocsHomePage": false,
+  "title": "Welcome to Blox",
+  "description": "<meta",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/developer/docs/",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Welcome to Blox",
+    "sidebar_label": "Overview",
+    "slug": "/",
+    "hide_table_of_contents": true,
+    "demoUrl": "https://docs-demo.ionic.io/",
+    "demoSourceUrl": "https://github.com/ionic-team/docs-demo"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Blox integration",
+    "permalink": "/developer/docs/intro/upgrading-to-ionic-6"
+  }
+}

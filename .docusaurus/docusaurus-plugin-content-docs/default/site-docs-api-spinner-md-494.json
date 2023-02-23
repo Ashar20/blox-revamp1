@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/spinner",
+  "id": "api/spinner",
+  "isDocsHomePage": false,
+  "title": "ion-spinner",
+  "description": "ion-spinner | Animated Spinner Icon Components and Properties",
+  "source": "@site/docs/api/spinner.md",
+  "sourceDirName": "api",
+  "slug": "/api/spinner",
+  "permalink": "/developer/docs/api/spinner",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/spinner.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-spinner"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-skeleton-text",
+    "permalink": "/developer/docs/api/skeleton-text"
+  },
+  "next": {
+    "title": "ion-radio",
+    "permalink": "/developer/docs/api/radio"
+  }
+}

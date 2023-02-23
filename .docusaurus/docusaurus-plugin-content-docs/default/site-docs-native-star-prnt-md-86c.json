@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/star-prnt",
+  "id": "native/star-prnt",
+  "isDocsHomePage": false,
+  "title": "StarPRNT",
+  "description": "StarPRNT Plugin for Star Micronics Bluetooth/LAN Printers | Ionic",
+  "source": "@site/docs/native/star-prnt.md",
+  "sourceDirName": "native",
+  "slug": "/native/star-prnt",
+  "permalink": "/developer/docs/native/star-prnt",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/star-prnt/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "StarPRNT"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "SQLite ",
+    "permalink": "/developer/docs/native/sqlite"
+  },
+  "next": {
+    "title": "Status Bar",
+    "permalink": "/developer/docs/native/status-bar"
+  }
+}

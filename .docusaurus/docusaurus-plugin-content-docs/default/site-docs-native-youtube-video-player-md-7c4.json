@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/youtube-video-player",
+  "id": "native/youtube-video-player",
+  "isDocsHomePage": false,
+  "title": "Youtube Video Player",
+  "description": "YouTube Video Player | Cordova Plugin for Native YouTube App",
+  "source": "@site/docs/native/youtube-video-player.md",
+  "sourceDirName": "native",
+  "slug": "/native/youtube-video-player",
+  "permalink": "/developer/docs/native/youtube-video-player",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/youtube-video-player/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Youtube Video Player"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Push Notifications - WonderPush",
+    "permalink": "/developer/docs/native/wonderpush"
+  },
+  "next": {
+    "title": "ZBar",
+    "permalink": "/developer/docs/native/zbar"
+  }
+}

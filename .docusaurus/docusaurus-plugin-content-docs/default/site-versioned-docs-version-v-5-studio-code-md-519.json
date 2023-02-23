@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/code",
+  "id": "version-v5/studio/code",
+  "isDocsHomePage": false,
+  "title": "Working with Code",
+  "description": "Ionic Studio works alongside your code editor of choice to enable more complex development workflows",
+  "source": "@site/versioned_docs/version-v5/studio/code.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/code",
+  "permalink": "/developer/docs/v5/studio/code",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/studio/code.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

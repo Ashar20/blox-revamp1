@@ -1,0 +1,17 @@
+{
+  "unversionedId": "DXM Hub/platform",
+  "id": "DXM Hub/platform",
+  "isDocsHomePage": false,
+  "title": "Platform",
+  "description": "Platform | Ionic Platform to Customize Apps to Fit Any Device",
+  "source": "@site/docs/DXM Hub/platform.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/platform",
+  "permalink": "/docs/DXM Hub/platform",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/platform.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Platform"
+  }
+}

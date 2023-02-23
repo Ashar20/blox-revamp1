@@ -1,0 +1,28 @@
+{
+  "unversionedId": "deployment/progressive-web-app",
+  "id": "version-v5/deployment/progressive-web-app",
+  "isDocsHomePage": false,
+  "title": "Deploying A Progressive Web Application (PWA) | PWA Deployment",
+  "description": "Ionic Applications are built with web technologies that run just as well as a Progressive Web App as they do a native app. Learn how to deploy a PWA with Ionic.",
+  "source": "@site/versioned_docs/version-v5/deployment/progressive-web-app.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/progressive-web-app",
+  "permalink": "/developer/docs/v5/deployment/progressive-web-app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/deployment/progressive-web-app.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Deploying A Progressive Web Application (PWA) | PWA Deployment",
+    "description": "Ionic Applications are built with web technologies that run just as well as a Progressive Web App as they do a native app. Learn how to deploy a PWA with Ionic.",
+    "sidebar_label": "Progressive Web App (PWA)"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Android Play Store",
+    "permalink": "/developer/docs/v5/deployment/play-store"
+  },
+  "next": {
+    "title": "Electron Desktop App",
+    "permalink": "/developer/docs/v5/deployment/desktop-app"
+  }
+}

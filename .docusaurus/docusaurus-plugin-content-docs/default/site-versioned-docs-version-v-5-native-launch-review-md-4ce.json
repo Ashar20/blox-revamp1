@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/launch-review",
+  "id": "version-v5/native/launch-review",
+  "isDocsHomePage": false,
+  "title": "Launch Review",
+  "description": "Assists in leaving user reviews/ratings in the App Stores.",
+  "source": "@site/versioned_docs/version-v5/native/launch-review.md",
+  "sourceDirName": "native",
+  "slug": "/native/launch-review",
+  "permalink": "/developer/docs/v5/native/launch-review",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/launch-review/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Launch Review"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Launch Navigator",
+    "permalink": "/developer/docs/v5/native/launch-navigator"
+  },
+  "next": {
+    "title": "Line Login",
+    "permalink": "/developer/docs/v5/native/line-login"
+  }
+}

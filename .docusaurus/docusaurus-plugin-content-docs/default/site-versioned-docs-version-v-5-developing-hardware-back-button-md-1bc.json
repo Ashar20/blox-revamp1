@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developing/hardware-back-button",
+  "id": "version-v5/developing/hardware-back-button",
+  "isDocsHomePage": false,
+  "title": "Hardware Back Button",
+  "description": "The hardware back button is found on most Android devices. In native applications it can be used to close modals, navigate to the previous view, exit an app, and more. By default in Ionic, when the back button is pressed, the current view will be popped off the navigation stack, and the previous view will be displayed. If no previous view exists in the navigation stack, nothing will happen. This guide will show how to customize the behavior of the hardware back button.",
+  "source": "@site/versioned_docs/version-v5/developing/hardware-back-button.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/hardware-back-button",
+  "permalink": "/developer/docs/v5/developing/hardware-back-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/hardware-back-button.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Development Tips",
+    "permalink": "/developer/docs/v5/developing/tips"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/developer/docs/v5/developing/keyboard"
+  }
+}

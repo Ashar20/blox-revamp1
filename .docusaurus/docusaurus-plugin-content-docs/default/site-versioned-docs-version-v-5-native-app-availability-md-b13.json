@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/app-availability",
+  "id": "version-v5/native/app-availability",
+  "isDocsHomePage": false,
+  "title": "App Availability",
+  "description": "This plugin allows you to check if an app is installed on the user's device. It requires an URI Scheme (e.g. twitter://) on iOS or a Package Name (e.g com.twitter.android) on Android.",
+  "source": "@site/versioned_docs/version-v5/native/app-availability.md",
+  "sourceDirName": "native",
+  "slug": "/native/app-availability",
+  "permalink": "/developer/docs/v5/native/app-availability",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-availability/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "App Availability"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Anyline",
+    "permalink": "/developer/docs/v5/native/anyline"
+  },
+  "next": {
+    "title": "App Center Analytics",
+    "permalink": "/developer/docs/v5/native/app-center-analytics"
+  }
+}

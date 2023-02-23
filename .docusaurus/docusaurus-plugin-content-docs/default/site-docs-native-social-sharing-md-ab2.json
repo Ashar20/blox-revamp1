@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/social-sharing",
+  "id": "native/social-sharing",
+  "isDocsHomePage": false,
+  "title": "Social Sharing",
+  "description": "Social Sharing | Cordova Social Sharing Plugin for Ionic Apps",
+  "source": "@site/docs/native/social-sharing.md",
+  "sourceDirName": "native",
+  "slug": "/native/social-sharing",
+  "permalink": "/developer/docs/native/social-sharing",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/social-sharing/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Social Sharing"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "SMS",
+    "permalink": "/developer/docs/native/sms"
+  },
+  "next": {
+    "title": "Speech Recognition",
+    "permalink": "/developer/docs/native/speech-recognition"
+  }
+}

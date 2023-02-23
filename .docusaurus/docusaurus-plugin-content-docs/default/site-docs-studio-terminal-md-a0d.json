@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/terminal",
+  "id": "studio/terminal",
+  "isDocsHomePage": false,
+  "title": "Terminal",
+  "description": "Ionic Studio has an integrated terminal for running commands within an Ionic app.",
+  "source": "@site/docs/studio/terminal.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/terminal",
+  "permalink": "/developer/docs/studio/terminal",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/terminal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

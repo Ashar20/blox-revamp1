@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/select",
+  "id": "version-v5/api/select",
+  "isDocsHomePage": false,
+  "title": "ion-select",
+  "description": "Selects are form controls to select an option, or options, from a set of options, similar to a native `` element. When a user taps the select, a dialog appears with all of the options in a large, easy to select list.",
+  "source": "@site/versioned_docs/version-v5/api/select.md",
+  "sourceDirName": "api",
+  "slug": "/api/select",
+  "permalink": "/developer/docs/v5/api/select",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/select.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-select",
+    "demoUrl": "/docs/demos/api/select/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/select/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-segment-button",
+    "permalink": "/developer/docs/v5/api/segment-button"
+  },
+  "next": {
+    "title": "ion-select-option",
+    "permalink": "/developer/docs/v5/api/select-option"
+  }
+}

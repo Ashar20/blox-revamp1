@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/doctor-treat",
+  "id": "cli/commands/doctor-treat",
+  "isDocsHomePage": false,
+  "title": "ionic doctor treat",
+  "description": "Attempt to fix issues in your Ionic project",
+  "source": "@site/docs/cli/commands/doctor-treat.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/doctor-treat",
+  "permalink": "/developer/docs/cli/commands/doctor-treat",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/doctor/treat.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic doctor treat",
+    "sidebar_label": "doctor treat"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "doctor list",
+    "permalink": "/developer/docs/cli/commands/doctor-list"
+  },
+  "next": {
+    "title": "enterprise register",
+    "permalink": "/developer/docs/cli/commands/enterprise-register"
+  }
+}

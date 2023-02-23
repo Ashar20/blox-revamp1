@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/cordova-platform",
+  "id": "cli/commands/cordova-platform",
+  "isDocsHomePage": false,
+  "title": "ionic cordova platform",
+  "description": "ionic cordova platform: Remove, Add, & Manage Cordova Platforms",
+  "source": "@site/docs/cli/commands/cordova-platform.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-platform",
+  "permalink": "/developer/docs/cli/commands/cordova-platform",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/platform.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic cordova platform",
+    "sidebar_label": "cordova platform"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "cordova emulate",
+    "permalink": "/developer/docs/cli/commands/cordova-emulate"
+  },
+  "next": {
+    "title": "cordova plugin",
+    "permalink": "/developer/docs/cli/commands/cordova-plugin"
+  }
+}

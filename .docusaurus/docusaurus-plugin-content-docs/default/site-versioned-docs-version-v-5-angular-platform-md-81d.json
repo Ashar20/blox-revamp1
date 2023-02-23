@@ -1,0 +1,28 @@
+{
+  "unversionedId": "angular/platform",
+  "id": "version-v5/angular/platform",
+  "isDocsHomePage": false,
+  "title": "Platform | Ionic Platform to Customize Apps to Fit Any Device",
+  "description": "Ionic Platform service can be used to get information about your current device. With this information you can completely customize your app to fit any device.",
+  "source": "@site/versioned_docs/version-v5/angular/platform.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/platform",
+  "permalink": "/developer/docs/v5/angular/platform",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/platform.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Platform | Ionic Platform to Customize Apps to Fit Any Device",
+    "description": "Ionic Platform service can be used to get information about your current device. With this information you can completely customize your app to fit any device.",
+    "sidebar_label": "Platform"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Config",
+    "permalink": "/developer/docs/v5/angular/config"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/developer/docs/v5/angular/testing"
+  }
+}

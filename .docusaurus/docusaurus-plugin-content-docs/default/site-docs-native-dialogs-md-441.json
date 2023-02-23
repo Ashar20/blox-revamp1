@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/dialogs",
+  "id": "native/dialogs",
+  "isDocsHomePage": false,
+  "title": "Dialogs",
+  "description": "Dialogs | Cordova Plugin to Customize Native App Device Dialogs",
+  "source": "@site/docs/native/dialogs.md",
+  "sourceDirName": "native",
+  "slug": "/native/dialogs",
+  "permalink": "/developer/docs/native/dialogs",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/dialogs/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dialogs"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Diagnostic",
+    "permalink": "/developer/docs/native/diagnostic"
+  },
+  "next": {
+    "title": "DNS",
+    "permalink": "/developer/docs/native/dns"
+  }
+}

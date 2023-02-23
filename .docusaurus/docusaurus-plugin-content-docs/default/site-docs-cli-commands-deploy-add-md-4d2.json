@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/deploy-add",
+  "id": "cli/commands/deploy-add",
+  "isDocsHomePage": false,
+  "title": "ionic deploy add",
+  "description": "Adds Appflow Deploy to the project",
+  "source": "@site/docs/cli/commands/deploy-add.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/deploy-add",
+  "permalink": "/developer/docs/cli/commands/deploy-add",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/deploy/add.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic deploy add",
+    "sidebar_label": "deploy add"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "cordova run",
+    "permalink": "/developer/docs/cli/commands/cordova-run"
+  },
+  "next": {
+    "title": "deploy build",
+    "permalink": "/developer/docs/cli/commands/deploy-build"
+  }
+}

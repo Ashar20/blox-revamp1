@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/deeplinks",
+  "id": "version-v5/native/deeplinks",
+  "isDocsHomePage": false,
+  "title": "Deeplinks",
+  "description": "This plugin handles deeplinks on iOS and Android for both custom URL scheme links",
+  "source": "@site/versioned_docs/version-v5/native/deeplinks.md",
+  "sourceDirName": "native",
+  "slug": "/native/deeplinks",
+  "permalink": "/developer/docs/v5/native/deeplinks",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/deeplinks/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Deeplinks"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "CustomUISDK",
+    "permalink": "/developer/docs/v5/native/custom-uisdk"
+  },
+  "next": {
+    "title": "Device Accounts",
+    "permalink": "/developer/docs/v5/native/device-accounts"
+  }
+}

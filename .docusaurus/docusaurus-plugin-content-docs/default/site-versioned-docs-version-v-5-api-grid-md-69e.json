@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/grid",
+  "id": "version-v5/api/grid",
+  "isDocsHomePage": false,
+  "title": "Ion-Grid: Display Grids to Build Mobile-First Custom App Layout",
+  "description": "Ion-Grid is a mobile-first flexbox system to build custom application display layouts with a 12 column layout and different breakpoints based on screen size.",
+  "source": "@site/versioned_docs/version-v5/api/grid.md",
+  "sourceDirName": "api",
+  "slug": "/api/grid",
+  "permalink": "/developer/docs/v5/api/grid",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/grid.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Ion-Grid: Display Grids to Build Mobile-First Custom App Layout",
+    "description": "Ion-Grid is a mobile-first flexbox system to build custom application display layouts with a 12 column layout and different breakpoints based on screen size.",
+    "sidebar_label": "ion-grid",
+    "demoUrl": "/docs/demos/api/grid/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/grid/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-fab-list",
+    "permalink": "/developer/docs/v5/api/fab-list"
+  },
+  "next": {
+    "title": "ion-col",
+    "permalink": "/developer/docs/v5/api/col"
+  }
+}

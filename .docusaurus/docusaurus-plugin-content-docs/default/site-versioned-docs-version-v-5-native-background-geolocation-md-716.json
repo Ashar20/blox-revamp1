@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/background-geolocation",
+  "id": "version-v5/native/background-geolocation",
+  "isDocsHomePage": false,
+  "title": "Background Geolocation: Cordova Background Geolocation Tracking",
+  "description": "This Cordova plugin provides foreground and background geolocation and tracking with battery-saving 'circular region monitoring'  and 'stop detection'.",
+  "source": "@site/versioned_docs/version-v5/native/background-geolocation.md",
+  "sourceDirName": "native",
+  "slug": "/native/background-geolocation",
+  "permalink": "/developer/docs/v5/native/background-geolocation",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/background-geolocation/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Background Geolocation: Cordova Background Geolocation Tracking",
+    "description": "This Cordova plugin provides foreground and background geolocation and tracking with battery-saving 'circular region monitoring'  and 'stop detection'.",
+    "sidebar_label": "Background Geolocation"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Background Fetch",
+    "permalink": "/developer/docs/v5/native/background-fetch"
+  },
+  "next": {
+    "title": "Background Mode",
+    "permalink": "/developer/docs/v5/native/background-mode"
+  }
+}

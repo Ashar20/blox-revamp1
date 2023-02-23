@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/file",
+  "id": "native/file",
+  "isDocsHomePage": false,
+  "title": "File",
+  "description": "File API Plugin for Read and Write File Access on Devices",
+  "source": "@site/docs/native/file.md",
+  "sourceDirName": "native",
+  "slug": "/native/file",
+  "permalink": "/developer/docs/native/file",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "File"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "File Transfer ",
+    "permalink": "/developer/docs/native/file-transfer"
+  },
+  "next": {
+    "title": "Firebase Analytics",
+    "permalink": "/developer/docs/native/firebase-analytics"
+  }
+}

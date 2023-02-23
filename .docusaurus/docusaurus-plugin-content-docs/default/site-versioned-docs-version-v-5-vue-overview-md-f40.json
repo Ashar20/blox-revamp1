@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vue/overview",
+  "id": "version-v5/vue/overview",
+  "isDocsHomePage": false,
+  "title": "Ionic Vue Overview",
+  "description": "@ionic/vue combines the core Ionic Framework experience with the tooling and APIs that are tailored to Vue Developers.",
+  "source": "@site/versioned_docs/version-v5/vue/overview.md",
+  "sourceDirName": "vue",
+  "slug": "/vue/overview",
+  "permalink": "/developer/docs/v5/vue/overview",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/overview.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Performance",
+    "permalink": "/developer/docs/v5/react/performance"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/developer/docs/v5/vue/quickstart"
+  }
+}

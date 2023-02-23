@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/slide",
+  "id": "api/slide",
+  "isDocsHomePage": false,
+  "title": "ion-slide",
+  "description": "ion-slide | Slide API Component for Ionic Framework Apps",
+  "source": "@site/docs/api/slide.md",
+  "sourceDirName": "api",
+  "slug": "/api/slide",
+  "permalink": "/developer/docs/api/slide",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/slide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-slide"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-slides",
+    "permalink": "/developer/docs/api/slides"
+  },
+  "next": {
+    "title": "ion-tabs",
+    "permalink": "/developer/docs/api/tabs"
+  }
+}

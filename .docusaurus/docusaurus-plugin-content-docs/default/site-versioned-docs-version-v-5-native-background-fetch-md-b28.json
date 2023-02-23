@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/background-fetch",
+  "id": "version-v5/native/background-fetch",
+  "isDocsHomePage": false,
+  "title": "Background Fetch",
+  "description": "iOS Background Fetch Implementation. See//developer.apple.com/reference/uikit/uiapplication#1657399",
+  "source": "@site/versioned_docs/version-v5/native/background-fetch.md",
+  "sourceDirName": "native",
+  "slug": "/native/background-fetch",
+  "permalink": "/developer/docs/v5/native/background-fetch",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/background-fetch/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Background Fetch"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Appsflyer",
+    "permalink": "/developer/docs/v5/native/appsflyer"
+  },
+  "next": {
+    "title": "Background Geolocation",
+    "permalink": "/developer/docs/v5/native/background-geolocation"
+  }
+}

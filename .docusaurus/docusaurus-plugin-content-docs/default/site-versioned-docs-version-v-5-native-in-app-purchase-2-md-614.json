@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/in-app-purchase-2",
+  "id": "version-v5/native/in-app-purchase-2",
+  "isDocsHomePage": false,
+  "title": "In App Purchase 2",
+  "description": "In-App Purchase on iOS, Android, Windows, macOS and XBox.",
+  "source": "@site/versioned_docs/version-v5/native/in-app-purchase-2.md",
+  "sourceDirName": "native",
+  "slug": "/native/in-app-purchase-2",
+  "permalink": "/developer/docs/v5/native/in-app-purchase-2",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-purchase-2/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "In App Purchase 2"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "In App Browser",
+    "permalink": "/developer/docs/v5/native/in-app-browser"
+  },
+  "next": {
+    "title": "In App Review",
+    "permalink": "/developer/docs/v5/native/in-app-review"
+  }
+}

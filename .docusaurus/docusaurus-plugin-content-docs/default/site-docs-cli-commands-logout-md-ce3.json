@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/logout",
+  "id": "cli/commands/logout",
+  "isDocsHomePage": false,
+  "title": "ionic logout",
+  "description": "Logout Command: How to Logout on Ionic Apps | Ionic Documentation",
+  "source": "@site/docs/cli/commands/logout.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/logout",
+  "permalink": "/developer/docs/cli/commands/logout",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/logout.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic logout",
+    "sidebar_label": "logout"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "login",
+    "permalink": "/developer/docs/cli/commands/login"
+  },
+  "next": {
+    "title": "package build",
+    "permalink": "/developer/docs/cli/commands/package-build"
+  }
+}

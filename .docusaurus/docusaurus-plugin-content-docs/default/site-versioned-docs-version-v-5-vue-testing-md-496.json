@@ -1,0 +1,24 @@
+{
+  "unversionedId": "vue/testing",
+  "id": "version-v5/vue/testing",
+  "isDocsHomePage": false,
+  "title": "Testing",
+  "description": "Coming Soon!",
+  "source": "@site/versioned_docs/version-v5/vue/testing.md",
+  "sourceDirName": "vue",
+  "slug": "/vue/testing",
+  "permalink": "/developer/docs/v5/vue/testing",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/testing.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Storage",
+    "permalink": "/developer/docs/v5/vue/storage"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/developer/docs/v5/vue/troubleshooting"
+  }
+}

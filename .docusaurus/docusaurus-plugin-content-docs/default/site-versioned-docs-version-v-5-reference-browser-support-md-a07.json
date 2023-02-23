@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/browser-support",
+  "id": "version-v5/reference/browser-support",
+  "isDocsHomePage": false,
+  "title": "Browser Support",
+  "description": "Ionic's earliest goal was to make it easy to develop mobile apps using web technologies like HTML, CSS, and JavaScript. Because of this foundation in web technologies, Ionic can run anywhere the web runs — iOS, Android, browsers, PWAs, and more.",
+  "source": "@site/versioned_docs/version-v5/reference/browser-support.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/browser-support",
+  "permalink": "/developer/docs/v5/reference/browser-support",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/reference/browser-support.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Support Policy",
+    "permalink": "/developer/docs/v5/reference/support"
+  },
+  "next": {
+    "title": "Migration",
+    "permalink": "/developer/docs/v5/reference/migration"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/firebase-authentication",
+  "id": "version-v5/native/firebase-authentication",
+  "isDocsHomePage": false,
+  "title": "Firebase Authentication",
+  "description": "Cordova plugin for Firebase Authentication",
+  "source": "@site/versioned_docs/version-v5/native/firebase-authentication.md",
+  "sourceDirName": "native",
+  "slug": "/native/firebase-authentication",
+  "permalink": "/developer/docs/v5/native/firebase-authentication",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-authentication/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Firebase Authentication"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Firebase Analytics",
+    "permalink": "/developer/docs/v5/native/firebase-analytics"
+  },
+  "next": {
+    "title": "Firebase Config",
+    "permalink": "/developer/docs/v5/native/firebase-config"
+  }
+}

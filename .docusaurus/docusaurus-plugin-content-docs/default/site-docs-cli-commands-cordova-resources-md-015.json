@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/cordova-resources",
+  "id": "cli/commands/cordova-resources",
+  "isDocsHomePage": false,
+  "title": "ionic cordova resources",
+  "description": "Splash Screen Image Icon Generator | Generate Cordova Resources",
+  "source": "@site/docs/cli/commands/cordova-resources.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-resources",
+  "permalink": "/developer/docs/cli/commands/cordova-resources",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/resources.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic cordova resources",
+    "sidebar_label": "cordova resources"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "cordova requirements",
+    "permalink": "/developer/docs/cli/commands/cordova-requirements"
+  },
+  "next": {
+    "title": "cordova run",
+    "permalink": "/developer/docs/cli/commands/cordova-run"
+  }
+}

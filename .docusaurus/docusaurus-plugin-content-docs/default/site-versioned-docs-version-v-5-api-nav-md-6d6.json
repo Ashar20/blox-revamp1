@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/nav",
+  "id": "version-v5/api/nav",
+  "isDocsHomePage": false,
+  "title": "ion-nav | Nav View Component for Ionic Framework Apps",
+  "description": "ion-nav is a standalone for loading arbitrary, and pushing new, components on to the stack. Loading Nav view, and pushing others, won't affect overall routers.",
+  "source": "@site/versioned_docs/version-v5/api/nav.md",
+  "sourceDirName": "api",
+  "slug": "/api/nav",
+  "permalink": "/developer/docs/v5/api/nav",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/nav.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-nav | Nav View Component for Ionic Framework Apps",
+    "description": "ion-nav is a standalone for loading arbitrary, and pushing new, components on to the stack. Loading Nav view, and pushing others, won't affect overall routers.",
+    "sidebar_label": "ion-nav",
+    "demoUrl": "/docs/demos/api/nav/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/nav/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-backdrop",
+    "permalink": "/developer/docs/v5/api/backdrop"
+  },
+  "next": {
+    "title": "ion-nav-link",
+    "permalink": "/developer/docs/v5/api/nav-link"
+  }
+}

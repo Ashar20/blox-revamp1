@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/radio",
+  "id": "version-v5/api/radio",
+  "isDocsHomePage": false,
+  "title": "ion-radio",
+  "description": "Radios should be used inside of an ion-radio-group. Pressing on a radio will check it. They can also be checked programmatically by setting the value property of the parent ion-radio-group to the value of the radio.",
+  "source": "@site/versioned_docs/version-v5/api/radio.md",
+  "sourceDirName": "api",
+  "slug": "/api/radio",
+  "permalink": "/developer/docs/v5/api/radio",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/radio.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-radio",
+    "demoUrl": "/docs/demos/api/radio/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/radio/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-spinner",
+    "permalink": "/developer/docs/v5/api/spinner"
+  },
+  "next": {
+    "title": "ion-radio-group",
+    "permalink": "/developer/docs/v5/api/radio-group"
+  }
+}

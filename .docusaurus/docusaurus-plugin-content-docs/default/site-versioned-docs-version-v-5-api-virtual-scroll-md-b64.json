@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/virtual-scroll",
+  "id": "version-v5/api/virtual-scroll",
+  "isDocsHomePage": false,
+  "title": "ion-virtual-scroll | Angular Virtual Scroll List for Ionic Apps",
+  "description": "ion-virtual-scroll, supported in Angular, displays a virtual, infinite list. Records are passed to the virtual scroll containing the data to create templates.",
+  "source": "@site/versioned_docs/version-v5/api/virtual-scroll.md",
+  "sourceDirName": "api",
+  "slug": "/api/virtual-scroll",
+  "permalink": "/developer/docs/v5/api/virtual-scroll",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/virtual-scroll.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-virtual-scroll | Angular Virtual Scroll List for Ionic Apps",
+    "description": "ion-virtual-scroll, supported in Angular, displays a virtual, infinite list. Records are passed to the virtual scroll containing the data to create templates.",
+    "sidebar_label": "ion-virtual-scroll"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-list-header",
+    "permalink": "/developer/docs/v5/api/list-header"
+  },
+  "next": {
+    "title": "ion-avatar",
+    "permalink": "/developer/docs/v5/api/avatar"
+  }
+}

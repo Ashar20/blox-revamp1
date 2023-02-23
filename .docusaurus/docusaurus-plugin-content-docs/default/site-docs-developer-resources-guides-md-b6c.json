@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/guides",
+  "id": "developer-resources/guides",
+  "isDocsHomePage": false,
+  "title": "Guides",
+  "description": "Your First Ionic App - v3",
+  "source": "@site/docs/developer-resources/guides.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-resources/guides",
+  "permalink": "/developer/docs/developer-resources/guides",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/guides.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

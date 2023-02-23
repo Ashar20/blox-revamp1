@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/integrations-list",
+  "id": "cli/commands/integrations-list",
+  "isDocsHomePage": false,
+  "title": "ionic integrations list",
+  "description": "List available and active integrations in your app",
+  "source": "@site/docs/cli/commands/integrations-list.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/integrations-list",
+  "permalink": "/developer/docs/cli/commands/integrations-list",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/integrations/list.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic integrations list",
+    "sidebar_label": "integrations list"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "integrations enable",
+    "permalink": "/developer/docs/cli/commands/integrations-enable"
+  },
+  "next": {
+    "title": "link",
+    "permalink": "/developer/docs/cli/commands/link"
+  }
+}

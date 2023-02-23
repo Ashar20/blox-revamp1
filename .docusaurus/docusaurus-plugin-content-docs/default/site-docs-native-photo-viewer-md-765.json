@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/photo-viewer",
+  "id": "native/photo-viewer",
+  "isDocsHomePage": false,
+  "title": "Photo Viewer",
+  "description": "Photo Viewer | Photo Viewer Plugin for Full Screen Image Viewer",
+  "source": "@site/docs/native/photo-viewer.md",
+  "sourceDirName": "native",
+  "slug": "/native/photo-viewer",
+  "permalink": "/developer/docs/native/photo-viewer",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/photo-viewer/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Photo Viewer"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Photo Library",
+    "permalink": "/developer/docs/native/photo-library"
+  },
+  "next": {
+    "title": "Pollfish",
+    "permalink": "/developer/docs/native/pollfish"
+  }
+}

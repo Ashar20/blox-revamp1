@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/appsflyer",
+  "id": "version-v5/native/appsflyer",
+  "isDocsHomePage": false,
+  "title": "Appsflyer",
+  "description": "Appsflyer Cordova SDK support for Attribution",
+  "source": "@site/versioned_docs/version-v5/native/appsflyer.md",
+  "sourceDirName": "native",
+  "slug": "/native/appsflyer",
+  "permalink": "/developer/docs/v5/native/appsflyer",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/appsflyer/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Appsflyer"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Apple Wallet",
+    "permalink": "/developer/docs/v5/native/apple-wallet"
+  },
+  "next": {
+    "title": "Background Fetch",
+    "permalink": "/developer/docs/v5/native/background-fetch"
+  }
+}

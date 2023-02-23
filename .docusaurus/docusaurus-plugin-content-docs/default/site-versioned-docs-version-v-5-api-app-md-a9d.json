@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/app",
+  "id": "version-v5/api/app",
+  "isDocsHomePage": false,
+  "title": "ion-app",
+  "description": "App is a container element for an Ionic application. There should only be one ` element per project. An app can have many Ionic components including menus, headers, content, and footers. The overlay components get appended to the ` when they are presented.",
+  "source": "@site/versioned_docs/version-v5/api/app.md",
+  "sourceDirName": "api",
+  "slug": "/api/app",
+  "permalink": "/developer/docs/v5/api/app",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/app.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-app"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-chip",
+    "permalink": "/developer/docs/v5/api/chip"
+  },
+  "next": {
+    "title": "ion-content",
+    "permalink": "/developer/docs/v5/api/content"
+  }
+}

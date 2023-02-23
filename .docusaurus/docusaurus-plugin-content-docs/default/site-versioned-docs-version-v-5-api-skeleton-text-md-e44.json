@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/skeleton-text",
+  "id": "version-v5/api/skeleton-text",
+  "isDocsHomePage": false,
+  "title": "Skeleton Text | Skeleton Loading Placeholder & Framework for Text",
+  "description": "ion-skeleton-text is a component for rendering placeholder content. The element will render a gray block at the specified width as a loading text framework.",
+  "source": "@site/versioned_docs/version-v5/api/skeleton-text.md",
+  "sourceDirName": "api",
+  "slug": "/api/skeleton-text",
+  "permalink": "/developer/docs/v5/api/skeleton-text",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/skeleton-text.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Skeleton Text | Skeleton Loading Placeholder & Framework for Text",
+    "description": "ion-skeleton-text is a component for rendering placeholder content. The element will render a gray block at the specified width as a loading text framework.",
+    "sidebar_label": "ion-skeleton-text",
+    "demoUrl": "/docs/demos/api/skeleton-text/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/skeleton-text/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-progress-bar",
+    "permalink": "/developer/docs/v5/api/progress-bar"
+  },
+  "next": {
+    "title": "ion-spinner",
+    "permalink": "/developer/docs/v5/api/spinner"
+  }
+}

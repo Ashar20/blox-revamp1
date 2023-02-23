@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/barcode-scanner",
+  "id": "version-v5/native/barcode-scanner",
+  "isDocsHomePage": false,
+  "title": "Barcode Scanner | Install Camera Barcode Scanner Plugin",
+  "description": "Ionic's Barcode Scanner Plugin opens a camera view and automatically scans a barcode, returning the data back to you. Read more for installation and usage.",
+  "source": "@site/versioned_docs/version-v5/native/barcode-scanner.md",
+  "sourceDirName": "native",
+  "slug": "/native/barcode-scanner",
+  "permalink": "/developer/docs/v5/native/barcode-scanner",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/barcode-scanner/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Barcode Scanner | Install Camera Barcode Scanner Plugin",
+    "description": "Ionic's Barcode Scanner Plugin opens a camera view and automatically scans a barcode, returning the data back to you. Read more for installation and usage.",
+    "sidebar_label": "Barcode Scanner"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Badge",
+    "permalink": "/developer/docs/v5/native/badge"
+  },
+  "next": {
+    "title": "Battery Status",
+    "permalink": "/developer/docs/v5/native/battery-status"
+  }
+}

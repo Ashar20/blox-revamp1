@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/note",
+  "id": "api/note",
+  "isDocsHomePage": false,
+  "title": "ion-note",
+  "description": "ion-note: Note Text Elements for iOS and Android Ionic Apps",
+  "source": "@site/docs/api/note.md",
+  "sourceDirName": "api",
+  "slug": "/api/note",
+  "permalink": "/developer/docs/api/note",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/note.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-note"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-label",
+    "permalink": "/developer/docs/api/label"
+  },
+  "next": {
+    "title": "ion-list",
+    "permalink": "/developer/docs/api/list"
+  }
+}

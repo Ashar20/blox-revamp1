@@ -1,0 +1,24 @@
+{
+  "unversionedId": "angular/testing",
+  "id": "version-v5/angular/testing",
+  "isDocsHomePage": false,
+  "title": "Testing",
+  "description": "When an @ionic/angular application is generated using the Ionic CLI, it is automatically set up for unit testing and end-to-end testing of the application. This is the same setup that is used by the Angular CLI. Refer to the Angular Testing Guide for detailed information on testing Angular applications.",
+  "source": "@site/versioned_docs/version-v5/angular/testing.md",
+  "sourceDirName": "angular",
+  "slug": "/angular/testing",
+  "permalink": "/developer/docs/v5/angular/testing",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/testing.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Platform",
+    "permalink": "/developer/docs/v5/angular/platform"
+  },
+  "next": {
+    "title": "Storage",
+    "permalink": "/developer/docs/v5/angular/storage"
+  }
+}

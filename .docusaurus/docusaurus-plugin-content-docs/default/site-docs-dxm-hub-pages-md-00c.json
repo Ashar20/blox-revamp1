@@ -1,0 +1,18 @@
+{
+  "unversionedId": "DXM Hub/Pages",
+  "id": "DXM Hub/Pages",
+  "isDocsHomePage": false,
+  "title": "Pages",
+  "description": "Platform | Ionic Platform to Customize Apps to Fit Any Device",
+  "source": "@site/docs/DXM Hub/Pages.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/Pages",
+  "permalink": "/docs/DXM Hub/Pages",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/Pages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pages",
+    "idebar_label": "Pages"
+  }
+}

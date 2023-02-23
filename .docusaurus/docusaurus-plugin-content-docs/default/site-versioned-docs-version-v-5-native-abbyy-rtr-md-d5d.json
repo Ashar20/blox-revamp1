@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/abbyy-rtr",
+  "id": "version-v5/native/abbyy-rtr",
+  "isDocsHomePage": false,
+  "title": "ABBYY Real-Time Recognition",
+  "description": "This plugin allows to use the Text Capture and Data Capture features of",
+  "source": "@site/versioned_docs/version-v5/native/abbyy-rtr.md",
+  "sourceDirName": "native",
+  "slug": "/native/abbyy-rtr",
+  "permalink": "/developer/docs/v5/native/abbyy-rtr",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/abbyy-rtr/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ABBYY Real-Time Recognition"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/developer/docs/v5/native/faq"
+  },
+  "next": {
+    "title": "Action Sheet",
+    "permalink": "/developer/docs/v5/native/action-sheet"
+  }
+}

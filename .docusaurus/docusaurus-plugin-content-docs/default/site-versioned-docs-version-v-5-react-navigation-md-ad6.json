@@ -1,0 +1,28 @@
+{
+  "unversionedId": "react/navigation",
+  "id": "version-v5/react/navigation",
+  "isDocsHomePage": false,
+  "title": "React Navigation: Router Link Redirect to Navigate to Another Page",
+  "description": "The React Navigation guide covers routing in an app built with Ionic and React. Learn to define a redirect path for router links to navigate to another page.",
+  "source": "@site/versioned_docs/version-v5/react/navigation.md",
+  "sourceDirName": "react",
+  "slug": "/react/navigation",
+  "permalink": "/developer/docs/v5/react/navigation",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/navigation.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "React Navigation: Router Link Redirect to Navigate to Another Page",
+    "description": "The React Navigation guide covers routing in an app built with Ionic and React. Learn to define a redirect path for router links to navigate to another page.",
+    "sidebar_label": "Navigation/Routing"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Lifecycle",
+    "permalink": "/developer/docs/v5/react/lifecycle"
+  },
+  "next": {
+    "title": "Config",
+    "permalink": "/developer/docs/v5/react/config"
+  }
+}

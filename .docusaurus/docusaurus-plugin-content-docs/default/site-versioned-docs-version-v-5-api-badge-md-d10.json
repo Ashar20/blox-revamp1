@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/badge",
+  "id": "version-v5/api/badge",
+  "isDocsHomePage": false,
+  "title": "Badges | ion-badge: iOS & Android App Notification Badge Icons",
+  "description": "Badges are inline block elements that appear near other elements on iOS & Android apps—use ion-badges as notifications that indicate how many items there are.",
+  "source": "@site/versioned_docs/version-v5/api/badge.md",
+  "sourceDirName": "api",
+  "slug": "/api/badge",
+  "permalink": "/developer/docs/v5/api/badge",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/badge.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Badges | ion-badge: iOS & Android App Notification Badge Icons",
+    "description": "Badges are inline block elements that appear near other elements on iOS & Android apps—use ion-badges as notifications that indicate how many items there are.",
+    "sidebar_label": "ion-badge",
+    "demoUrl": "/docs/demos/api/badge/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/badge/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-alert",
+    "permalink": "/developer/docs/v5/api/alert"
+  },
+  "next": {
+    "title": "ion-button",
+    "permalink": "/developer/docs/v5/api/button"
+  }
+}

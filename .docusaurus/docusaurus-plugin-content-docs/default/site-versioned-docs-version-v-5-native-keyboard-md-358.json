@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/keyboard",
+  "id": "version-v5/native/keyboard",
+  "isDocsHomePage": false,
+  "title": "Keyboard",
+  "description": "Keyboard plugin for Cordova.",
+  "source": "@site/versioned_docs/version-v5/native/keyboard.md",
+  "sourceDirName": "native",
+  "slug": "/native/keyboard",
+  "permalink": "/developer/docs/v5/native/keyboard",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/keyboard/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Keyboard"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Is Debug",
+    "permalink": "/developer/docs/v5/native/is-debug"
+  },
+  "next": {
+    "title": "Keychain",
+    "permalink": "/developer/docs/v5/native/keychain"
+  }
+}

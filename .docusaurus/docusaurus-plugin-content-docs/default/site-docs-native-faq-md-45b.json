@@ -1,0 +1,27 @@
+{
+  "unversionedId": "native-faq",
+  "id": "native-faq",
+  "isDocsHomePage": false,
+  "title": "Ionic Native FAQ",
+  "description": "Cordova Management Tips",
+  "source": "@site/docs/native-faq.md",
+  "sourceDirName": ".",
+  "slug": "/native/faq",
+  "permalink": "/developer/docs/native/faq",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/native-faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "FAQ",
+    "slug": "/native/faq"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/developer/docs/native/community"
+  },
+  "next": {
+    "title": "ABBYY Real-Time Recognition",
+    "permalink": "/developer/docs/native/abbyy-rtr"
+  }
+}

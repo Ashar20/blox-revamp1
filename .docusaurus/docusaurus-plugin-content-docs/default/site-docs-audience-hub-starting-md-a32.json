@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Audience Hub/starting",
+  "id": "Audience Hub/starting",
+  "isDocsHomePage": false,
+  "title": "Starting an App",
+  "description": "Starting an App: How to Guide | Ionic Documentation",
+  "source": "@site/docs/Audience Hub/starting.md",
+  "sourceDirName": "Audience Hub",
+  "slug": "/Audience Hub/starting",
+  "permalink": "/developer/docs/Audience Hub/starting",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/starting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Starting an App",
+    "sidebar_label": "Starting"
+  }
+}

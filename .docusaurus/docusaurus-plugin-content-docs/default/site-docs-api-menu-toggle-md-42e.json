@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/menu-toggle",
+  "id": "api/menu-toggle",
+  "isDocsHomePage": false,
+  "title": "ion-menu-toggle",
+  "description": "ion-menu-toggle | MenuToggle Component to Open/Close Active Menus",
+  "source": "@site/docs/api/menu-toggle.md",
+  "sourceDirName": "api",
+  "slug": "/api/menu-toggle",
+  "permalink": "/developer/docs/api/menu-toggle",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu-toggle.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-menu-toggle"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-menu-button",
+    "permalink": "/developer/docs/api/menu-button"
+  },
+  "next": {
+    "title": "ion-split-pane",
+    "permalink": "/developer/docs/api/split-pane"
+  }
+}

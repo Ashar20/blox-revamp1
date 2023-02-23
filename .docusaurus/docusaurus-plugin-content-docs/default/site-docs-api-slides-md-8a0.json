@@ -1,0 +1,29 @@
+{
+  "unversionedId": "api/slides",
+  "id": "api/slides",
+  "isDocsHomePage": false,
+  "title": "ion-slides",
+  "description": "Ion-Slides: Mobile Touch Slider with Built-In & Custom Animation",
+  "source": "@site/docs/api/slides.md",
+  "sourceDirName": "api",
+  "slug": "/api/slides",
+  "permalink": "/developer/docs/api/slides",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/slides.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-slides",
+    "hide_table_of_contents": true,
+    "demoUrl": "/docs/demos/api/slides/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/slides/index.html"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-select-option",
+    "permalink": "/developer/docs/api/select-option"
+  },
+  "next": {
+    "title": "ion-slide",
+    "permalink": "/developer/docs/api/slide"
+  }
+}

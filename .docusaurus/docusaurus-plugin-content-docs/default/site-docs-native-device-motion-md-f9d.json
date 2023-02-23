@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/device-motion",
+  "id": "native/device-motion",
+  "isDocsHomePage": false,
+  "title": "Device Motion",
+  "description": "Requires Cordova plugin: cordova-plugin-device-motion. For more info, please see the Device Motion docs.",
+  "source": "@site/docs/native/device-motion.md",
+  "sourceDirName": "native",
+  "slug": "/native/device-motion",
+  "permalink": "/developer/docs/native/device-motion",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device-motion/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Device Motion"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Device Accounts",
+    "permalink": "/developer/docs/native/device-accounts"
+  },
+  "next": {
+    "title": "Device Orientation",
+    "permalink": "/developer/docs/native/device-orientation"
+  }
+}

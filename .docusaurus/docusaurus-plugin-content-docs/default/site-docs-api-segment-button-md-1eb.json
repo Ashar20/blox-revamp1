@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/segment-button",
+  "id": "api/segment-button",
+  "isDocsHomePage": false,
+  "title": "ion-segment-button",
+  "description": "ion-segment-button | Segment Button Icon and Segment Value",
+  "source": "@site/docs/api/segment-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/segment-button",
+  "permalink": "/developer/docs/api/segment-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/segment-button.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-segment-button"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-segment",
+    "permalink": "/developer/docs/api/segment"
+  },
+  "next": {
+    "title": "ion-select",
+    "permalink": "/developer/docs/api/select"
+  }
+}

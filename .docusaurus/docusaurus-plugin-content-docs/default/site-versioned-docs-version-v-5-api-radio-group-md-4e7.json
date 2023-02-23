@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/radio-group",
+  "id": "version-v5/api/radio-group",
+  "isDocsHomePage": false,
+  "title": "ion-radio-group",
+  "description": "A radio group is a group of radio buttons. It allows",
+  "source": "@site/versioned_docs/version-v5/api/radio-group.md",
+  "sourceDirName": "api",
+  "slug": "/api/radio-group",
+  "permalink": "/developer/docs/v5/api/radio-group",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/radio-group.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-radio-group"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-radio",
+    "permalink": "/developer/docs/v5/api/radio"
+  },
+  "next": {
+    "title": "ion-range",
+    "permalink": "/developer/docs/v5/api/range"
+  }
+}

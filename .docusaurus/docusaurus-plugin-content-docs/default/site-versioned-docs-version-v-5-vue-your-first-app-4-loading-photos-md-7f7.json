@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vue/your-first-app/loading-photos",
+  "id": "version-v5/vue/your-first-app/loading-photos",
+  "isDocsHomePage": false,
+  "title": "Loading Photos from the Filesystem",
+  "description": "We’ve implemented photo taking and saving to the filesystem. There’s one last piece of functionality missing: the photos are stored in the filesystem, but we need a way to save pointers to each file so that they can be displayed again in the photo gallery.",
+  "source": "@site/versioned_docs/version-v5/vue/your-first-app/4-loading-photos.md",
+  "sourceDirName": "vue/your-first-app",
+  "slug": "/vue/your-first-app/loading-photos",
+  "permalink": "/developer/docs/v5/vue/your-first-app/loading-photos",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/your-first-app/4-loading-photos.md",
+  "tags": [],
+  "version": "v5",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Loading Photos"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Saving Photos",
+    "permalink": "/developer/docs/v5/vue/your-first-app/saving-photos"
+  },
+  "next": {
+    "title": "Adding Mobile",
+    "permalink": "/developer/docs/v5/vue/your-first-app/adding-mobile"
+  }
+}

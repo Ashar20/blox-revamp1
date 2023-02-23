@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/capacitor-open",
+  "id": "cli/commands/capacitor-open",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor open",
+  "description": "ionic capacitor open: Open the IDE for a Native Platform Project",
+  "source": "@site/docs/cli/commands/capacitor-open.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-open",
+  "permalink": "/developer/docs/cli/commands/capacitor-open",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/open.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic capacitor open",
+    "sidebar_label": "capacitor open"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "capacitor copy",
+    "permalink": "/developer/docs/cli/commands/capacitor-copy"
+  },
+  "next": {
+    "title": "capacitor run",
+    "permalink": "/developer/docs/cli/commands/capacitor-run"
+  }
+}

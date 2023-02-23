@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/pollfish",
+  "id": "native/pollfish",
+  "isDocsHomePage": false,
+  "title": "Pollfish",
+  "description": "Pollfish Ionic Native plugin wrapper",
+  "source": "@site/docs/native/pollfish.md",
+  "sourceDirName": "native",
+  "slug": "/native/pollfish",
+  "permalink": "/developer/docs/native/pollfish",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/pollfish/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pollfish"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Photo Viewer",
+    "permalink": "/developer/docs/native/photo-viewer"
+  },
+  "next": {
+    "title": "Power Optimization",
+    "permalink": "/developer/docs/native/power-optimization"
+  }
+}

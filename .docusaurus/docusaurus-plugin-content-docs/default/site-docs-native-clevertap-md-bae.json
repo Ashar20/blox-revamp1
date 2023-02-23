@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/clevertap",
+  "id": "native/clevertap",
+  "isDocsHomePage": false,
+  "title": "CleverTap",
+  "description": "Cordova Plugin that wraps CleverTap SDK for Android and iOS",
+  "source": "@site/docs/native/clevertap.md",
+  "sourceDirName": "native",
+  "slug": "/native/clevertap",
+  "permalink": "/developer/docs/native/clevertap",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/clevertap/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CleverTap"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Chooser",
+    "permalink": "/developer/docs/native/chooser"
+  },
+  "next": {
+    "title": "Clipboard",
+    "permalink": "/developer/docs/native/clipboard"
+  }
+}

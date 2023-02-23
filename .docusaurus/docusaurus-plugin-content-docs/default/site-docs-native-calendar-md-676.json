@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/calendar",
+  "id": "native/calendar",
+  "isDocsHomePage": false,
+  "title": "Calendar",
+  "description": "Calendar Plugin | Ionic Applications & Cordova Plugin Calendar",
+  "source": "@site/docs/native/calendar.md",
+  "sourceDirName": "native",
+  "slug": "/native/calendar",
+  "permalink": "/developer/docs/native/calendar",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/calendar/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Calendar"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Build Info",
+    "permalink": "/developer/docs/native/build-info"
+  },
+  "next": {
+    "title": "Call Directory",
+    "permalink": "/developer/docs/native/call-directory"
+  }
+}

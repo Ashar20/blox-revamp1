@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/sqlite-porter",
+  "id": "version-v5/native/sqlite-porter",
+  "isDocsHomePage": false,
+  "title": "SQLite Porter",
+  "description": "This Cordova/Phonegap plugin can be used to import/export to/from a SQLite database using either SQL or JSON.",
+  "source": "@site/versioned_docs/version-v5/native/sqlite-porter.md",
+  "sourceDirName": "native",
+  "slug": "/native/sqlite-porter",
+  "permalink": "/developer/docs/v5/native/sqlite-porter",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sqlite-porter/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "SQLite Porter"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Sqlite Db Copy",
+    "permalink": "/developer/docs/v5/native/sqlite-db-copy"
+  },
+  "next": {
+    "title": "SQLite ",
+    "permalink": "/developer/docs/v5/native/sqlite"
+  }
+}

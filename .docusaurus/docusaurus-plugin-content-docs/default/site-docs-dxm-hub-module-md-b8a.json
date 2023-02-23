@@ -1,0 +1,27 @@
+{
+  "unversionedId": "DXM Hub/Module",
+  "id": "DXM Hub/Module",
+  "isDocsHomePage": false,
+  "title": "Module",
+  "description": "<meta",
+  "source": "@site/docs/DXM Hub/Module.md",
+  "sourceDirName": "DXM Hub",
+  "slug": "/DXM Hub/Module",
+  "permalink": "/developer/docs/DXM Hub/Module",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/Module.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Module",
+    "sidebar_label": "Module"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pages",
+    "permalink": "/developer/docs/DXM Hub/pages"
+  },
+  "next": {
+    "title": "Strategy",
+    "permalink": "/developer/docs/DXM Hub/Strategy"
+  }
+}

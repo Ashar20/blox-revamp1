@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/multiple-document-picker",
+  "id": "native/multiple-document-picker",
+  "isDocsHomePage": false,
+  "title": "Multiple Documents Picker",
+  "description": "This plugin allows users to pick multiple documents/images at once",
+  "source": "@site/docs/native/multiple-document-picker.md",
+  "sourceDirName": "native",
+  "slug": "/native/multiple-document-picker",
+  "permalink": "/developer/docs/native/multiple-document-picker",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/multiple-document-picker/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Multiple Documents Picker"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Mobile Messaging",
+    "permalink": "/developer/docs/native/mobile-messaging"
+  },
+  "next": {
+    "title": "Music Controls",
+    "permalink": "/developer/docs/native/music-controls"
+  }
+}

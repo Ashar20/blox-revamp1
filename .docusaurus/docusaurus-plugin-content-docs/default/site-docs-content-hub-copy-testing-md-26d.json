@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Content Hub copy/testing",
+  "id": "Content Hub copy/testing",
+  "isDocsHomePage": false,
+  "title": "Testing",
+  "description": "Angular Unit and End-to-End Testing for Ionic App Components",
+  "source": "@site/docs/Content Hub copy/testing.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/testing",
+  "permalink": "/docs/Content Hub copy/testing",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Testing"
+  }
+}

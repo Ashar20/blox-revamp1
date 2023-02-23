@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/device",
+  "id": "version-v5/native/device",
+  "isDocsHomePage": false,
+  "title": "Device",
+  "description": "Access information about the underlying device and platform.",
+  "source": "@site/versioned_docs/version-v5/native/device.md",
+  "sourceDirName": "native",
+  "slug": "/native/device",
+  "permalink": "/developer/docs/v5/native/device",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Device"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Device Orientation",
+    "permalink": "/developer/docs/v5/native/device-orientation"
+  },
+  "next": {
+    "title": "Dfu Update",
+    "permalink": "/developer/docs/v5/native/dfu-update"
+  }
+}

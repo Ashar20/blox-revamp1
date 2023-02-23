@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/datetime",
+  "id": "version-v5/api/datetime",
+  "isDocsHomePage": false,
+  "title": "ion-datetime",
+  "description": "Datetimes present a picker interface from the bottom of a page, making it easy for",
+  "source": "@site/versioned_docs/version-v5/api/datetime.md",
+  "sourceDirName": "api",
+  "slug": "/api/datetime",
+  "permalink": "/developer/docs/v5/api/datetime",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/datetime.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-datetime",
+    "demoUrl": "/docs/demos/api/datetime/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/datetime/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-content",
+    "permalink": "/developer/docs/v5/api/content"
+  },
+  "next": {
+    "title": "ion-picker",
+    "permalink": "/developer/docs/v5/api/picker"
+  }
+}

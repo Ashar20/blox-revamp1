@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/capacitor-run",
+  "id": "version-v5/cli/commands/capacitor-run",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor run",
+  "description": "Run an Ionic project on a connected device",
+  "source": "@site/versioned_docs/version-v5/cli/commands/capacitor-run.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-run",
+  "permalink": "/developer/docs/v5/cli/commands/capacitor-run",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/run.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "capacitor run"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "capacitor open",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-open"
+  },
+  "next": {
+    "title": "capacitor sync",
+    "permalink": "/developer/docs/v5/cli/commands/capacitor-sync"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/ripple-effect",
+  "id": "api/ripple-effect",
+  "isDocsHomePage": false,
+  "title": "ion-ripple-effect",
+  "description": "ion-ripple-effect | Ripple Effect Button Component for Ionic Apps",
+  "source": "@site/docs/api/ripple-effect.md",
+  "sourceDirName": "api",
+  "slug": "/api/ripple-effect",
+  "permalink": "/developer/docs/api/ripple-effect",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/ripple-effect.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-ripple-effect"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-button",
+    "permalink": "/developer/docs/api/button"
+  },
+  "next": {
+    "title": "ion-card",
+    "permalink": "/developer/docs/api/card"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/shake",
+  "id": "native/shake",
+  "isDocsHomePage": false,
+  "title": "Shake",
+  "description": "cordova-plugin-shake for iOS Device Apps | Ionic",
+  "source": "@site/docs/native/shake.md",
+  "sourceDirName": "native",
+  "slug": "/native/shake",
+  "permalink": "/developer/docs/native/shake",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/shake/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Shake"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "ServiceDiscovery",
+    "permalink": "/developer/docs/native/service-discovery"
+  },
+  "next": {
+    "title": "Sign In With Apple",
+    "permalink": "/developer/docs/native/sign-in-with-apple"
+  }
+}

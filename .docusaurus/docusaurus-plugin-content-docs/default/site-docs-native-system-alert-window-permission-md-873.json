@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/system-alert-window-permission",
+  "id": "native/system-alert-window-permission",
+  "isDocsHomePage": false,
+  "title": "System Alert Window Permission",
+  "description": "This plugin does something",
+  "source": "@site/docs/native/system-alert-window-permission.md",
+  "sourceDirName": "native",
+  "slug": "/native/system-alert-window-permission",
+  "permalink": "/developer/docs/native/system-alert-window-permission",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/system-alert-window-permission/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "System Alert Window Permission"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "SumUp",
+    "permalink": "/developer/docs/native/sum-up"
+  },
+  "next": {
+    "title": "Taptic Engine",
+    "permalink": "/developer/docs/native/taptic-engine"
+  }
+}

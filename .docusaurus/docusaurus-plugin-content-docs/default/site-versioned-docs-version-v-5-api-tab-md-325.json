@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/tab",
+  "id": "version-v5/api/tab",
+  "isDocsHomePage": false,
+  "title": "ion-tab",
+  "description": "The tab component is a child component of tabs. Each tab can contain a top level navigation stack for an app or a single view. An app can have many tabs, all with their own independent navigation.",
+  "source": "@site/versioned_docs/version-v5/api/tab.md",
+  "sourceDirName": "api",
+  "slug": "/api/tab",
+  "permalink": "/developer/docs/v5/api/tab",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/tab.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-tab"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-tabs",
+    "permalink": "/developer/docs/v5/api/tabs"
+  },
+  "next": {
+    "title": "ion-tab-bar",
+    "permalink": "/developer/docs/v5/api/tab-bar"
+  }
+}

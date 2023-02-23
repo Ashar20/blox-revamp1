@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/buttons",
+  "id": "version-v5/api/buttons",
+  "isDocsHomePage": false,
+  "title": "ion-buttons: Toolbar Element with Named Slots for Buttons",
+  "description": "The Buttons component is a container element. Buttons placed in a toolbar should be inside the ion-buttons element and can be positioned using named slots.",
+  "source": "@site/versioned_docs/version-v5/api/buttons.md",
+  "sourceDirName": "api",
+  "slug": "/api/buttons",
+  "permalink": "/developer/docs/v5/api/buttons",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/buttons.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-buttons: Toolbar Element with Named Slots for Buttons",
+    "description": "The Buttons component is a container element. Buttons placed in a toolbar should be inside the ion-buttons element and can be positioned using named slots.",
+    "sidebar_label": "ion-buttons"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-title",
+    "permalink": "/developer/docs/v5/api/title"
+  },
+  "next": {
+    "title": "ion-back-button",
+    "permalink": "/developer/docs/v5/api/back-button"
+  }
+}

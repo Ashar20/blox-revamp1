@@ -1,0 +1,25 @@
+{
+  "unversionedId": "vue/your-first-app/adding-mobile",
+  "id": "version-v5/vue/your-first-app/adding-mobile",
+  "isDocsHomePage": false,
+  "title": "Adding Mobile",
+  "description": "Our photo gallery app won’t be complete until it runs on iOS, Android, and the web - all using one codebase. All it takes is some small logic changes to support mobile platforms, installing some native tooling, then running the app on a device. Let’s go!",
+  "source": "@site/versioned_docs/version-v5/vue/your-first-app/5-adding-mobile.md",
+  "sourceDirName": "vue/your-first-app",
+  "slug": "/vue/your-first-app/adding-mobile",
+  "permalink": "/developer/docs/v5/vue/your-first-app/adding-mobile",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/your-first-app/5-adding-mobile.md",
+  "tags": [],
+  "version": "v5",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Loading Photos",
+    "permalink": "/developer/docs/v5/vue/your-first-app/loading-photos"
+  },
+  "next": {
+    "title": "Deploying Mobile",
+    "permalink": "/developer/docs/v5/vue/your-first-app/deploying-mobile"
+  }
+}

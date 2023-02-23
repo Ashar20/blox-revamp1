@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/fab",
+  "id": "api/fab",
+  "isDocsHomePage": false,
+  "title": "ion-fab",
+  "description": "ion-fab: Floating Action Button for Android and iOS Ionic Apps",
+  "source": "@site/docs/api/fab.md",
+  "sourceDirName": "api",
+  "slug": "/api/fab",
+  "permalink": "/developer/docs/api/fab",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/fab.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-fab"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-picker",
+    "permalink": "/developer/docs/api/picker"
+  },
+  "next": {
+    "title": "ion-fab-button",
+    "permalink": "/developer/docs/api/fab-button"
+  }
+}

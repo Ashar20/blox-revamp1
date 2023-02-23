@@ -1,0 +1,24 @@
+{
+  "unversionedId": "utilities/animations",
+  "id": "version-v5/utilities/animations",
+  "isDocsHomePage": false,
+  "title": "Animations",
+  "description": "Overview",
+  "source": "@site/versioned_docs/version-v5/utilities/animations.md",
+  "sourceDirName": "utilities",
+  "slug": "/utilities/animations",
+  "permalink": "/developer/docs/v5/utilities/animations",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/utilities/animations.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Performance",
+    "permalink": "/developer/docs/v5/vue/performance"
+  },
+  "next": {
+    "title": "Gestures",
+    "permalink": "/developer/docs/v5/utilities/gestures"
+  }
+}

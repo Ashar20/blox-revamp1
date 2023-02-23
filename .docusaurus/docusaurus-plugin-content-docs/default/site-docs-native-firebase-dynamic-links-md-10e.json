@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/firebase-dynamic-links",
+  "id": "native/firebase-dynamic-links",
+  "isDocsHomePage": false,
+  "title": "Firebase Dynamic Links",
+  "description": "Cordova plugin for Firebase Dynamic Links",
+  "source": "@site/docs/native/firebase-dynamic-links.md",
+  "sourceDirName": "native",
+  "slug": "/native/firebase-dynamic-links",
+  "permalink": "/developer/docs/native/firebase-dynamic-links",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-dynamic-links/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Firebase Dynamic Links"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Firebase Crashlytics",
+    "permalink": "/developer/docs/native/firebase-crashlytics"
+  },
+  "next": {
+    "title": "Firebase Messaging",
+    "permalink": "/developer/docs/native/firebase-messaging"
+  }
+}

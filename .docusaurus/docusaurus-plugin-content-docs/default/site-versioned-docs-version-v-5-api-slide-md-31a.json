@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/slide",
+  "id": "version-v5/api/slide",
+  "isDocsHomePage": false,
+  "title": "ion-slide",
+  "description": "The Slide component is a child component of Slides. The template",
+  "source": "@site/versioned_docs/version-v5/api/slide.md",
+  "sourceDirName": "api",
+  "slug": "/api/slide",
+  "permalink": "/developer/docs/v5/api/slide",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/slide.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-slide"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-slides",
+    "permalink": "/developer/docs/v5/api/slides"
+  },
+  "next": {
+    "title": "ion-tabs",
+    "permalink": "/developer/docs/v5/api/tabs"
+  }
+}

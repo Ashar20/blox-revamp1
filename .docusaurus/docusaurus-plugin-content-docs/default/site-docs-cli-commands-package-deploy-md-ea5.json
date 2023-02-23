@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/package-deploy",
+  "id": "cli/commands/package-deploy",
+  "isDocsHomePage": false,
+  "title": "ionic package deploy",
+  "description": "Deploys a binary to a destination, such as an app store using Appflow",
+  "source": "@site/docs/cli/commands/package-deploy.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/package-deploy",
+  "permalink": "/developer/docs/cli/commands/package-deploy",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/package/deploy.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic package deploy",
+    "sidebar_label": "package deploy"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "package build",
+    "permalink": "/developer/docs/cli/commands/package-build"
+  },
+  "next": {
+    "title": "repair",
+    "permalink": "/developer/docs/cli/commands/repair"
+  }
+}

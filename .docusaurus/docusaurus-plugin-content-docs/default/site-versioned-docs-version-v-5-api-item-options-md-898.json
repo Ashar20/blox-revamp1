@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/item-options",
+  "id": "version-v5/api/item-options",
+  "isDocsHomePage": false,
+  "title": "ion-item-options",
+  "description": "The option buttons for an ion-item-sliding. These buttons can be placed either on the start or end side.",
+  "source": "@site/versioned_docs/version-v5/api/item-options.md",
+  "sourceDirName": "api",
+  "slug": "/api/item-options",
+  "permalink": "/developer/docs/v5/api/item-options",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-options.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-item-options"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-item-sliding",
+    "permalink": "/developer/docs/v5/api/item-sliding"
+  },
+  "next": {
+    "title": "ion-item-option",
+    "permalink": "/developer/docs/v5/api/item-option"
+  }
+}

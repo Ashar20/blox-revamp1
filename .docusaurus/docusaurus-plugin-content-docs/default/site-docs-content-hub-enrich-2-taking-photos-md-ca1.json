@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Content Hub/Enrich/taking-photos",
+  "id": "Content Hub/Enrich/taking-photos",
+  "isDocsHomePage": false,
+  "title": "Taking Photos with the Camera",
+  "description": "Build Camera API for iOS, Android & Web | Ionic Capacitor Camera",
+  "source": "@site/docs/Content Hub/Enrich/2-taking-photos.md",
+  "sourceDirName": "Content Hub/Enrich",
+  "slug": "/Content Hub/Enrich/taking-photos",
+  "permalink": "/docs/Content Hub/Enrich/taking-photos",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/2-taking-photos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Taking Photos with the Camera",
+    "sidebar_label": "Create a project"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/deploy-build",
+  "id": "version-v5/cli/commands/deploy-build",
+  "isDocsHomePage": false,
+  "title": "ionic deploy build",
+  "description": "Create a deploy build on Appflow",
+  "source": "@site/versioned_docs/version-v5/cli/commands/deploy-build.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/deploy-build",
+  "permalink": "/developer/docs/v5/cli/commands/deploy-build",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/deploy/build.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "deploy build"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "deploy add",
+    "permalink": "/developer/docs/v5/cli/commands/deploy-add"
+  },
+  "next": {
+    "title": "deploy configure",
+    "permalink": "/developer/docs/v5/cli/commands/deploy-configure"
+  }
+}

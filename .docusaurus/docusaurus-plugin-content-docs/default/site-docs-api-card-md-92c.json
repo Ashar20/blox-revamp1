@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/card",
+  "id": "api/card",
+  "isDocsHomePage": false,
+  "title": "ion-card",
+  "description": "ion-card: Card UI Components for Ionic Framework API",
+  "source": "@site/docs/api/card.md",
+  "sourceDirName": "api",
+  "slug": "/api/card",
+  "permalink": "/developer/docs/api/card",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-card"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-ripple-effect",
+    "permalink": "/developer/docs/api/ripple-effect"
+  },
+  "next": {
+    "title": "ion-card-content",
+    "permalink": "/developer/docs/api/card-content"
+  }
+}

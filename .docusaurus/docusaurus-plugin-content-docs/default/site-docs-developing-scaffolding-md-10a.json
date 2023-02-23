@@ -1,0 +1,26 @@
+{
+  "unversionedId": "developing/scaffolding",
+  "id": "developing/scaffolding",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "App Scaffolding | Create Scaffolding for Ionic Web Apps",
+  "source": "@site/docs/developing/scaffolding.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/scaffolding",
+  "permalink": "/docs/developing/scaffolding",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developing/scaffolding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upload Custom Audience",
+    "permalink": "/docs/developing/previewing"
+  },
+  "next": {
+    "title": "Developing for iOS",
+    "permalink": "/docs/developing/ios"
+  }
+}

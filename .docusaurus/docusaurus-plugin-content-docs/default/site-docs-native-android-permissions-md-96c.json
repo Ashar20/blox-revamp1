@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/android-permissions",
+  "id": "native/android-permissions",
+  "isDocsHomePage": false,
+  "title": "Android Permissions",
+  "description": "Android Permissions | Android Device and Ionic App Permissions",
+  "source": "@site/docs/native/android-permissions.md",
+  "sourceDirName": "native",
+  "slug": "/native/android-permissions",
+  "permalink": "/developer/docs/native/android-permissions",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/android-permissions/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Android Permissions"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Android Notch",
+    "permalink": "/developer/docs/native/android-notch"
+  },
+  "next": {
+    "title": "Anyline",
+    "permalink": "/developer/docs/native/anyline"
+  }
+}

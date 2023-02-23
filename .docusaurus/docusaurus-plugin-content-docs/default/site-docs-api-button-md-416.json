@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/button",
+  "id": "api/button",
+  "isDocsHomePage": false,
+  "title": "ion-button",
+  "description": "ion-button: Design and Style Buttons with Custom CSS Properties",
+  "source": "@site/docs/api/button.md",
+  "sourceDirName": "api",
+  "slug": "/api/button",
+  "permalink": "/developer/docs/api/button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/button.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-button"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-breadcrumbs",
+    "permalink": "/developer/docs/api/breadcrumbs"
+  },
+  "next": {
+    "title": "ion-ripple-effect",
+    "permalink": "/developer/docs/api/ripple-effect"
+  }
+}

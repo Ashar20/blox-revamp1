@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/mixpanel",
+  "id": "version-v5/native/mixpanel",
+  "isDocsHomePage": false,
+  "title": "Mixpanel",
+  "description": "Cordova Plugin that wraps Mixpanel SDK for Android and iOS",
+  "source": "@site/versioned_docs/version-v5/native/mixpanel.md",
+  "sourceDirName": "native",
+  "slug": "/native/mixpanel",
+  "permalink": "/developer/docs/v5/native/mixpanel",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/mixpanel/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Mixpanel"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Metrix",
+    "permalink": "/developer/docs/v5/native/metrix"
+  },
+  "next": {
+    "title": "MLKitTranslate",
+    "permalink": "/developer/docs/v5/native/mlkit-translate"
+  }
+}

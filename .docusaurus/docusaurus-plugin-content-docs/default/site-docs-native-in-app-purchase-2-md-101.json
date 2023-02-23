@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/in-app-purchase-2",
+  "id": "native/in-app-purchase-2",
+  "isDocsHomePage": false,
+  "title": "In App Purchase 2",
+  "description": "In-App Purchase (IAP) 2: iOS, Android, Windows, macOS & Xbox Apps",
+  "source": "@site/docs/native/in-app-purchase-2.md",
+  "sourceDirName": "native",
+  "slug": "/native/in-app-purchase-2",
+  "permalink": "/developer/docs/native/in-app-purchase-2",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-purchase-2/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "In App Purchase 2"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "In App Browser",
+    "permalink": "/developer/docs/native/in-app-browser"
+  },
+  "next": {
+    "title": "In App Review",
+    "permalink": "/developer/docs/native/in-app-review"
+  }
+}

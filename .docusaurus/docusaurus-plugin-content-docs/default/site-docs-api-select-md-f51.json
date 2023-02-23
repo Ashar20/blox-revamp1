@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/select",
+  "id": "api/select",
+  "isDocsHomePage": false,
+  "title": "ion-select",
+  "description": "ion-select: Select One or Multiple Value Boxes or Placeholders",
+  "source": "@site/docs/api/select.md",
+  "sourceDirName": "api",
+  "slug": "/api/select",
+  "permalink": "/developer/docs/api/select",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/select.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-select"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-segment-button",
+    "permalink": "/developer/docs/api/segment-button"
+  },
+  "next": {
+    "title": "ion-select-option",
+    "permalink": "/developer/docs/api/select-option"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/spinner-dialog",
+  "id": "version-v5/native/spinner-dialog",
+  "isDocsHomePage": false,
+  "title": "Spinner Dialog",
+  "description": "Cordova plugin for showing a native spinner based on Paldom/SpinnerDialog.",
+  "source": "@site/versioned_docs/version-v5/native/spinner-dialog.md",
+  "sourceDirName": "native",
+  "slug": "/native/spinner-dialog",
+  "permalink": "/developer/docs/v5/native/spinner-dialog",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/spinner-dialog/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Spinner Dialog"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Speech Recognition",
+    "permalink": "/developer/docs/v5/native/speech-recognition"
+  },
+  "next": {
+    "title": "Splash Screen",
+    "permalink": "/developer/docs/v5/native/splash-screen"
+  }
+}

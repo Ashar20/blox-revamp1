@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/device-orientation",
+  "id": "native/device-orientation",
+  "isDocsHomePage": false,
+  "title": "Device Orientation",
+  "description": "Device Orientation: Cordova Plugin to Access a Device's Compass",
+  "source": "@site/docs/native/device-orientation.md",
+  "sourceDirName": "native",
+  "slug": "/native/device-orientation",
+  "permalink": "/developer/docs/native/device-orientation",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device-orientation/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Device Orientation"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Device Motion",
+    "permalink": "/developer/docs/native/device-motion"
+  },
+  "next": {
+    "title": "Device",
+    "permalink": "/developer/docs/native/device"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/fcm",
+  "id": "native/fcm",
+  "isDocsHomePage": false,
+  "title": "FCM",
+  "description": "FCM | FCM Push Notification Plugin for Firebase Cloud Messaging",
+  "source": "@site/docs/native/fcm.md",
+  "sourceDirName": "native",
+  "slug": "/native/fcm",
+  "permalink": "/developer/docs/native/fcm",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/fcm/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FCM"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Facebook",
+    "permalink": "/developer/docs/native/facebook"
+  },
+  "next": {
+    "title": "File Opener",
+    "permalink": "/developer/docs/native/file-opener"
+  }
+}

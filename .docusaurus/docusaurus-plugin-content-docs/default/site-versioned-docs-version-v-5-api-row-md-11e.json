@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/row",
+  "id": "version-v5/api/row",
+  "isDocsHomePage": false,
+  "title": "ion-row",
+  "description": "Rows are horizontal components of the grid system and contain varying numbers of",
+  "source": "@site/versioned_docs/version-v5/api/row.md",
+  "sourceDirName": "api",
+  "slug": "/api/row",
+  "permalink": "/developer/docs/v5/api/row",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/row.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-row"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-col",
+    "permalink": "/developer/docs/v5/api/col"
+  },
+  "next": {
+    "title": "ion-infinite-scroll",
+    "permalink": "/developer/docs/v5/api/infinite-scroll"
+  }
+}

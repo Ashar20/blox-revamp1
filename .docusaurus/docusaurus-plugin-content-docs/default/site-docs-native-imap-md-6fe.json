@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/imap",
+  "id": "native/imap",
+  "isDocsHomePage": false,
+  "title": "Imap",
+  "description": "This plugin will enable an Ionic application to use the IMAP (Internet Message Access Protocol) features.",
+  "source": "@site/docs/native/imap.md",
+  "sourceDirName": "native",
+  "slug": "/native/imap",
+  "permalink": "/developer/docs/native/imap",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/imap/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Imap"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Image Picker",
+    "permalink": "/developer/docs/native/image-picker"
+  },
+  "next": {
+    "title": "In App Browser",
+    "permalink": "/developer/docs/native/in-app-browser"
+  }
+}

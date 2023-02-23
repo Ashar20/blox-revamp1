@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/picker",
+  "id": "api/picker",
+  "isDocsHomePage": false,
+  "title": "ion-picker",
+  "description": "Picker | Display Buttons and Columns for ion-picker on Ionic Apps",
+  "source": "@site/docs/api/picker.md",
+  "sourceDirName": "api",
+  "slug": "/api/picker",
+  "permalink": "/developer/docs/api/picker",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/picker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-picker"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-datetime-button",
+    "permalink": "/developer/docs/api/datetime-button"
+  },
+  "next": {
+    "title": "ion-fab",
+    "permalink": "/developer/docs/api/fab"
+  }
+}

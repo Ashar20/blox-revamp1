@@ -1,0 +1,24 @@
+{
+  "unversionedId": "troubleshooting/cors",
+  "id": "version-v5/troubleshooting/cors",
+  "isDocsHomePage": false,
+  "title": "CORS Errors",
+  "description": "What is CORS?",
+  "source": "@site/versioned_docs/version-v5/troubleshooting/cors.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/cors",
+  "permalink": "/developer/docs/v5/troubleshooting/cors",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/troubleshooting/cors.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Native Errors",
+    "permalink": "/developer/docs/v5/troubleshooting/native"
+  },
+  "next": {
+    "title": "Fundamentals",
+    "permalink": "/developer/docs/v5/core-concepts/fundamentals"
+  }
+}

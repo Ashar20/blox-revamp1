@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/ibeacon",
+  "id": "native/ibeacon",
+  "isDocsHomePage": false,
+  "title": "IBeacon",
+  "description": "iBeacon: Cordova API Plugin for iOS and Android Devices",
+  "source": "@site/docs/native/ibeacon.md",
+  "sourceDirName": "native",
+  "slug": "/native/ibeacon",
+  "permalink": "/developer/docs/native/ibeacon",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ibeacon/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "IBeacon"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Iamport Cordova",
+    "permalink": "/developer/docs/native/iamport-cordova"
+  },
+  "next": {
+    "title": "Image Picker",
+    "permalink": "/developer/docs/native/image-picker"
+  }
+}

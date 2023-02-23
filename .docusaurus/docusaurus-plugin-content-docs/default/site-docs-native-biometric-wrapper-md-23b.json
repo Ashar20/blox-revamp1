@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/biometric-wrapper",
+  "id": "native/biometric-wrapper",
+  "isDocsHomePage": false,
+  "title": "BiometricWrapper",
+  "description": "This plugin capture biometric(Iris and Fingerprint) and validate the user.",
+  "source": "@site/docs/native/biometric-wrapper.md",
+  "sourceDirName": "native",
+  "slug": "/native/biometric-wrapper",
+  "permalink": "/developer/docs/native/biometric-wrapper",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/biometric-wrapper/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "BiometricWrapper"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "BioCatch",
+    "permalink": "/developer/docs/native/biocatch"
+  },
+  "next": {
+    "title": "BLE",
+    "permalink": "/developer/docs/native/ble"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developing/keyboard",
+  "id": "version-v5/developing/keyboard",
+  "isDocsHomePage": false,
+  "title": "Keyboard",
+  "description": "Customizing and accounting for the presence of an on-screen keyboard are two common roadblocks developers face when building mobile apps and PWAs. This guide will provide an introduction to the various tools available for managing the on-screen keyboard in your application.",
+  "source": "@site/versioned_docs/version-v5/developing/keyboard.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/keyboard",
+  "permalink": "/developer/docs/v5/developing/keyboard",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/keyboard.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Hardware Back Button",
+    "permalink": "/developer/docs/v5/developing/hardware-back-button"
+  },
+  "next": {
+    "title": "Structure",
+    "permalink": "/developer/docs/v5/layout/structure"
+  }
+}

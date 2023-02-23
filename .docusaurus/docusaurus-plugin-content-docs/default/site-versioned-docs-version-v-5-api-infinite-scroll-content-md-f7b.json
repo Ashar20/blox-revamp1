@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/infinite-scroll-content",
+  "id": "version-v5/api/infinite-scroll-content",
+  "isDocsHomePage": false,
+  "title": "ion-infinite-scroll-content",
+  "description": "The ion-infinite-scroll-content component is the default child used by the ion-infinite-scroll. It displays an infinite scroll spinner that looks best based on the platform and changes the look depending on the infinite scroll's state. The default spinner can be changed and text can be added by setting the loadingSpinner and loadingText properties.",
+  "source": "@site/versioned_docs/version-v5/api/infinite-scroll-content.md",
+  "sourceDirName": "api",
+  "slug": "/api/infinite-scroll-content",
+  "permalink": "/developer/docs/v5/api/infinite-scroll-content",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/infinite-scroll-content.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-infinite-scroll-content"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-infinite-scroll",
+    "permalink": "/developer/docs/v5/api/infinite-scroll"
+  },
+  "next": {
+    "title": "ion-input",
+    "permalink": "/developer/docs/v5/api/input"
+  }
+}

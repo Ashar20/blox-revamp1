@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/support",
+  "id": "studio/support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "Support is available within Ionic Studio by clicking Help & Support from the account menu, which is opened by clicking the user icon at the top right of Ionic Studio.",
+  "source": "@site/docs/studio/support.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/support",
+  "permalink": "/developer/docs/studio/support",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

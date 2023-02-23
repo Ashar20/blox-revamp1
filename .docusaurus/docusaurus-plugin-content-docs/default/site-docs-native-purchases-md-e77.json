@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/purchases",
+  "id": "native/purchases",
+  "isDocsHomePage": false,
+  "title": "Purchases",
+  "description": "Purchases Plugin: A Solution to Manage In-App Subscriptions",
+  "source": "@site/docs/native/purchases.md",
+  "sourceDirName": "native",
+  "slug": "/native/purchases",
+  "permalink": "/developer/docs/native/purchases",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/purchases/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Purchases"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "PSPDFKit-Cordova",
+    "permalink": "/developer/docs/native/pspdfkit-cordova"
+  },
+  "next": {
+    "title": "Push",
+    "permalink": "/developer/docs/native/push"
+  }
+}

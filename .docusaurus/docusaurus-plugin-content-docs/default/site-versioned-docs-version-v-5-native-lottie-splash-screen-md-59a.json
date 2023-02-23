@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/lottie-splash-screen",
+  "id": "version-v5/native/lottie-splash-screen",
+  "isDocsHomePage": false,
+  "title": "Lottie Splash Screen",
+  "description": "Cordova plugin to show bodymovin/Lottie animations as the splash screen with Airbnb's Lottie wrapper",
+  "source": "@site/versioned_docs/version-v5/native/lottie-splash-screen.md",
+  "sourceDirName": "native",
+  "slug": "/native/lottie-splash-screen",
+  "permalink": "/developer/docs/v5/native/lottie-splash-screen",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/lottie-splash-screen/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Lottie Splash Screen"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Location Accuracy",
+    "permalink": "/developer/docs/v5/native/location-accuracy"
+  },
+  "next": {
+    "title": "Media Capture",
+    "permalink": "/developer/docs/v5/native/media-capture"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/ssh-use",
+  "id": "cli/commands/ssh-use",
+  "isDocsHomePage": false,
+  "title": "ionic ssh use",
+  "description": "Set your active Ionic SSH key",
+  "source": "@site/docs/cli/commands/ssh-use.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/ssh-use",
+  "permalink": "/developer/docs/cli/commands/ssh-use",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssh/use.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic ssh use",
+    "sidebar_label": "ssh use"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "ssh setup",
+    "permalink": "/developer/docs/cli/commands/ssh-setup"
+  },
+  "next": {
+    "title": "ssl generate",
+    "permalink": "/developer/docs/cli/commands/ssl-generate"
+  }
+}

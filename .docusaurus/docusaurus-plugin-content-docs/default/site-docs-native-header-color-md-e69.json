@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/header-color",
+  "id": "native/header-color",
+  "isDocsHomePage": false,
+  "title": "Header Color",
+  "description": "Header Color Plugin | Change The Header Color on Ionic Apps",
+  "source": "@site/docs/native/header-color.md",
+  "sourceDirName": "native",
+  "slug": "/native/header-color",
+  "permalink": "/developer/docs/native/header-color",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/header-color/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Header Color"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Google Plus",
+    "permalink": "/developer/docs/native/google-plus"
+  },
+  "next": {
+    "title": "Health Kit",
+    "permalink": "/developer/docs/native/health-kit"
+  }
+}

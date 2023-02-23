@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/pdf-generator",
+  "id": "version-v5/native/pdf-generator",
+  "isDocsHomePage": false,
+  "title": "PDFGenerator",
+  "description": "Simple plugin to generate (offline) pdf. The plugin transforms HTML to PDF and also provide the mechanism to share the pdf to other apps like Mail, etc.",
+  "source": "@site/versioned_docs/version-v5/native/pdf-generator.md",
+  "sourceDirName": "native",
+  "slug": "/native/pdf-generator",
+  "permalink": "/developer/docs/v5/native/pdf-generator",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/pdf-generator/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "PDFGenerator"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "OpenALPR",
+    "permalink": "/developer/docs/v5/native/openalpr"
+  },
+  "next": {
+    "title": "Photo Library",
+    "permalink": "/developer/docs/v5/native/photo-library"
+  }
+}

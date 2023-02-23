@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/screen-orientation",
+  "id": "native/screen-orientation",
+  "isDocsHomePage": false,
+  "title": "Screen Orientation",
+  "description": "Screen Orientation Plugin to Set/Lock on Android, iOS, or Windows",
+  "source": "@site/docs/native/screen-orientation.md",
+  "sourceDirName": "native",
+  "slug": "/native/screen-orientation",
+  "permalink": "/developer/docs/native/screen-orientation",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/screen-orientation/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Screen Orientation"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Safari View Controller",
+    "permalink": "/developer/docs/native/safari-view-controller"
+  },
+  "next": {
+    "title": "ServiceDiscovery",
+    "permalink": "/developer/docs/native/service-discovery"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/vibes",
+  "id": "native/vibes",
+  "isDocsHomePage": false,
+  "title": "Vibes",
+  "description": "This plugin enables integration with the Vibes Push SDK to your Cordova project with Android and iOS supported.",
+  "source": "@site/docs/native/vibes.md",
+  "sourceDirName": "native",
+  "slug": "/native/vibes",
+  "permalink": "/developer/docs/native/vibes",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/vibes/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Vibes"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Usabilla",
+    "permalink": "/developer/docs/native/usabilla-cordova-sdk"
+  },
+  "next": {
+    "title": "Vibration",
+    "permalink": "/developer/docs/native/vibration"
+  }
+}

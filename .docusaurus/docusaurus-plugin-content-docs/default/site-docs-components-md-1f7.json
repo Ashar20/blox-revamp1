@@ -1,0 +1,23 @@
+{
+  "unversionedId": "components",
+  "id": "components",
+  "isDocsHomePage": false,
+  "title": "UI Components",
+  "description": "UI Components | User Interface Application Building Components",
+  "source": "@site/docs/components.md",
+  "sourceDirName": ".",
+  "slug": "/components",
+  "permalink": "/developer/docs/components",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/components.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "UI Components",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "api",
+  "next": {
+    "title": "ion-action-sheet",
+    "permalink": "/developer/docs/api/action-sheet"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/battery-status",
+  "id": "version-v5/native/battery-status",
+  "isDocsHomePage": false,
+  "title": "Battery Status",
+  "description": "Requires Cordova plugin: cordova-plugin-batterystatus. For more info, please see the BatteryStatus plugin docs.",
+  "source": "@site/versioned_docs/version-v5/native/battery-status.md",
+  "sourceDirName": "native",
+  "slug": "/native/battery-status",
+  "permalink": "/developer/docs/v5/native/battery-status",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/battery-status/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Battery Status"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Barcode Scanner",
+    "permalink": "/developer/docs/v5/native/barcode-scanner"
+  },
+  "next": {
+    "title": "BioCatch",
+    "permalink": "/developer/docs/v5/native/biocatch"
+  }
+}

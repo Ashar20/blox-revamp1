@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vue/lifecycle",
+  "id": "version-v5/vue/lifecycle",
+  "isDocsHomePage": false,
+  "title": "Vue Lifecycle",
+  "description": "This guide discusses how to use the Ionic Framework Lifecycle events in an Ionic Vue application.",
+  "source": "@site/versioned_docs/version-v5/vue/lifecycle.md",
+  "sourceDirName": "vue",
+  "slug": "/vue/lifecycle",
+  "permalink": "/developer/docs/v5/vue/lifecycle",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/lifecycle.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Lifecycle"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Live Reload",
+    "permalink": "/developer/docs/v5/vue/your-first-app/live-reload"
+  },
+  "next": {
+    "title": "Navigation/Routing",
+    "permalink": "/developer/docs/v5/vue/navigation"
+  }
+}

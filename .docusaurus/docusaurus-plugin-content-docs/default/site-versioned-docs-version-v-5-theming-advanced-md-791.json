@@ -1,0 +1,28 @@
+{
+  "unversionedId": "theming/advanced",
+  "id": "version-v5/theming/advanced",
+  "isDocsHomePage": false,
+  "title": "Advanced Theming",
+  "description": "CSS-based theming enables apps to customize the colors quickly by loading a CSS file or changing a few CSS property values.",
+  "source": "@site/versioned_docs/version-v5/theming/advanced.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/advanced",
+  "permalink": "/developer/docs/v5/theming/advanced",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/advanced.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Advanced",
+    "initialTab": "preview",
+    "inlineHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Dark Mode",
+    "permalink": "/developer/docs/v5/theming/dark-mode"
+  },
+  "next": {
+    "title": "Color Generator",
+    "permalink": "/developer/docs/v5/theming/color-generator"
+  }
+}

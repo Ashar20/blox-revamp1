@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/camera",
+  "id": "version-v5/native/camera",
+  "isDocsHomePage": false,
+  "title": "Install Camera | Cordova Plugin Cameras for Ionic Applications",
+  "description": "Use the Cordova plugin to install a camera and take photos or capture videos in-app with Ionic Framework camera component for supported platforms.",
+  "source": "@site/versioned_docs/version-v5/native/camera.md",
+  "sourceDirName": "native",
+  "slug": "/native/camera",
+  "permalink": "/developer/docs/v5/native/camera",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/camera/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Install Camera | Cordova Plugin Cameras for Ionic Applications",
+    "description": "Use the Cordova plugin to install a camera and take photos or capture videos in-app with Ionic Framework camera component for supported platforms.",
+    "sidebar_label": "Camera"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Camera Preview",
+    "permalink": "/developer/docs/v5/native/camera-preview"
+  },
+  "next": {
+    "title": "Chooser",
+    "permalink": "/developer/docs/v5/native/chooser"
+  }
+}

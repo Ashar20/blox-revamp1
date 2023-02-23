@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/media-capture",
+  "id": "version-v5/native/media-capture",
+  "isDocsHomePage": false,
+  "title": "Media Capture",
+  "description": "This plugin provides access to the device's audio, image, and video capture capabilities.",
+  "source": "@site/versioned_docs/version-v5/native/media-capture.md",
+  "sourceDirName": "native",
+  "slug": "/native/media-capture",
+  "permalink": "/developer/docs/v5/native/media-capture",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/media-capture/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Media Capture"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Lottie Splash Screen",
+    "permalink": "/developer/docs/v5/native/lottie-splash-screen"
+  },
+  "next": {
+    "title": "Media",
+    "permalink": "/developer/docs/v5/native/media"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "components",
+  "id": "version-v5/components",
+  "isDocsHomePage": false,
+  "title": "UI Components",
+  "description": "Ionic Framework comes stock with a number of high-level UI components, including cards, lists, and tabs to quickly and easily build your app's user interface.",
+  "source": "@site/versioned_docs/version-v5/components.md",
+  "sourceDirName": ".",
+  "slug": "/components",
+  "permalink": "/developer/docs/v5/components",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/components.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "UI Components",
+    "description": "Ionic Framework comes stock with a number of high-level UI components, including cards, lists, and tabs to quickly and easily build your app's user interface.",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "version-v5/api",
+  "next": {
+    "title": "ion-action-sheet",
+    "permalink": "/developer/docs/v5/api/action-sheet"
+  }
+}

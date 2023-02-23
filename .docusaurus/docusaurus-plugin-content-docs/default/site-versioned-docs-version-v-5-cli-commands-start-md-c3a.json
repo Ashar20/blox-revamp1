@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cli/commands/start",
+  "id": "version-v5/cli/commands/start",
+  "isDocsHomePage": false,
+  "title": "How to Create A New Application with Ionic Start for New Projects",
+  "description": "Learn how to create a new app project with Ionic Start. This command creates a working Ionic app that installs dependencies for you and sets up your project.",
+  "source": "@site/versioned_docs/version-v5/cli/commands/start.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/start",
+  "permalink": "/developer/docs/v5/cli/commands/start",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/start.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "How to Create A New Application with Ionic Start for New Projects",
+    "description": "Learn how to create a new app project with Ionic Start. This command creates a working Ionic app that installs dependencies for you and sets up your project.",
+    "sidebar_label": "start"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "ssl generate",
+    "permalink": "/developer/docs/v5/cli/commands/ssl-generate"
+  }
+}

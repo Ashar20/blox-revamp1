@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/list",
+  "id": "version-v5/api/list",
+  "isDocsHomePage": false,
+  "title": "ion-list",
+  "description": "Lists are made up of multiple rows of items which can contain text, buttons, toggles,",
+  "source": "@site/versioned_docs/version-v5/api/list.md",
+  "sourceDirName": "api",
+  "slug": "/api/list",
+  "permalink": "/developer/docs/v5/api/list",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/list.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-list",
+    "demoUrl": "/docs/demos/api/list/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/list/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-note",
+    "permalink": "/developer/docs/v5/api/note"
+  },
+  "next": {
+    "title": "ion-list-header",
+    "permalink": "/developer/docs/v5/api/list-header"
+  }
+}

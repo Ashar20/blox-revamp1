@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/item-group",
+  "id": "version-v5/api/item-group",
+  "isDocsHomePage": false,
+  "title": "ion-item-group",
+  "description": "Item groups are containers that organize similar items together. They can contain item dividers to divide the items into multiple sections. They can also be used to group sliding items.",
+  "source": "@site/versioned_docs/version-v5/api/item-group.md",
+  "sourceDirName": "api",
+  "slug": "/api/item-group",
+  "permalink": "/developer/docs/v5/api/item-group",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-group.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-item-group"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-item-divider",
+    "permalink": "/developer/docs/v5/api/item-divider"
+  },
+  "next": {
+    "title": "ion-item-sliding",
+    "permalink": "/developer/docs/v5/api/item-sliding"
+  }
+}

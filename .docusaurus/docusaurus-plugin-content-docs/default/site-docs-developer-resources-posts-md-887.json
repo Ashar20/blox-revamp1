@@ -1,0 +1,17 @@
+{
+  "unversionedId": "developer-resources/posts",
+  "id": "developer-resources/posts",
+  "isDocsHomePage": false,
+  "title": "Community Posts",
+  "description": "What's new in Ionic 5 - Migration and Free Starter",
+  "source": "@site/docs/developer-resources/posts.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-resources/posts",
+  "permalink": "/developer/docs/developer-resources/posts",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/posts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Posts"
+  }
+}

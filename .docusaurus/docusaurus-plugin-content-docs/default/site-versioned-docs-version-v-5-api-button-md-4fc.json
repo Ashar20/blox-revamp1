@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/button",
+  "id": "version-v5/api/button",
+  "isDocsHomePage": false,
+  "title": "ion-button",
+  "description": "Buttons provide a clickable element, which can be used in forms, or anywhere that needs simple, standard button functionality. They may display text, icons, or both. Buttons can be styled with several attributes to look a specific way.",
+  "source": "@site/versioned_docs/version-v5/api/button.md",
+  "sourceDirName": "api",
+  "slug": "/api/button",
+  "permalink": "/developer/docs/v5/api/button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/button.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-button",
+    "demoUrl": "/docs/demos/api/button/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/button/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-badge",
+    "permalink": "/developer/docs/v5/api/badge"
+  },
+  "next": {
+    "title": "ion-ripple-effect",
+    "permalink": "/developer/docs/v5/api/ripple-effect"
+  }
+}

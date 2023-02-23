@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/native-geocoder",
+  "id": "native/native-geocoder",
+  "isDocsHomePage": false,
+  "title": "Native Geocoder",
+  "description": "Native Geocoder: Forward and Reverse Geocoding in iOS/Android",
+  "source": "@site/docs/native/native-geocoder.md",
+  "sourceDirName": "native",
+  "slug": "/native/native-geocoder",
+  "permalink": "/developer/docs/native/native-geocoder",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-geocoder/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Native Geocoder"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Native Audio",
+    "permalink": "/developer/docs/native/native-audio"
+  },
+  "next": {
+    "title": "Native Keyboard",
+    "permalink": "/developer/docs/native/native-keyboard"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/menu",
+  "id": "version-v5/api/menu",
+  "isDocsHomePage": false,
+  "title": "ion-menu",
+  "description": "The Menu component is a navigation drawer that slides in from the side of the current view.",
+  "source": "@site/versioned_docs/version-v5/api/menu.md",
+  "sourceDirName": "api",
+  "slug": "/api/menu",
+  "permalink": "/developer/docs/v5/api/menu",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-menu",
+    "demoUrl": "/docs/demos/api/menu/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/menu/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-thumbnail",
+    "permalink": "/developer/docs/v5/api/thumbnail"
+  },
+  "next": {
+    "title": "ion-menu-button",
+    "permalink": "/developer/docs/v5/api/menu-button"
+  }
+}

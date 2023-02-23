@@ -1,0 +1,29 @@
+{
+  "unversionedId": "api/back-button",
+  "id": "api/back-button",
+  "isDocsHomePage": false,
+  "title": "ion-back-button",
+  "description": "Back Button | ion-back-button: Custom Menu Icon for Applications",
+  "source": "@site/docs/api/back-button.md",
+  "sourceDirName": "api",
+  "slug": "/api/back-button",
+  "permalink": "/developer/docs/api/back-button",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/back-button.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-back-button",
+    "hide_table_of_contents": true,
+    "demoUrl": "/docs/demos/api/back-button/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/back-button/index.html"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-buttons",
+    "permalink": "/developer/docs/api/buttons"
+  },
+  "next": {
+    "title": "ion-text",
+    "permalink": "/developer/docs/api/text"
+  }
+}

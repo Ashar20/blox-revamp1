@@ -1,0 +1,17 @@
+{
+  "unversionedId": "studio",
+  "id": "studio",
+  "isDocsHomePage": false,
+  "title": "Welcome to Studio",
+  "description": "Ionic Studio is a fast and easy app builder that helps teams build and prototype apps with minimal coding.",
+  "source": "@site/docs/studio.md",
+  "sourceDirName": ".",
+  "slug": "/studio",
+  "permalink": "/developer/docs/studio",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_table_of_contents": true
+  }
+}

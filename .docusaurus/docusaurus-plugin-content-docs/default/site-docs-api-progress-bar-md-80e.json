@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/progress-bar",
+  "id": "api/progress-bar",
+  "isDocsHomePage": false,
+  "title": "ion-progress-bar",
+  "description": "Progress Bar | Horizontal App Progress Bar for Loading Indicator",
+  "source": "@site/docs/api/progress-bar.md",
+  "sourceDirName": "api",
+  "slug": "/api/progress-bar",
+  "permalink": "/developer/docs/api/progress-bar",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/progress-bar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-progress-bar"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-loading",
+    "permalink": "/developer/docs/api/loading"
+  },
+  "next": {
+    "title": "ion-skeleton-text",
+    "permalink": "/developer/docs/api/skeleton-text"
+  }
+}

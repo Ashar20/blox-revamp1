@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/card-subtitle",
+  "id": "api/card-subtitle",
+  "isDocsHomePage": false,
+  "title": "ion-card-subtitle",
+  "description": "Card subtitle is a child component of card that should be placed inside of a card header.",
+  "source": "@site/docs/api/card-subtitle.md",
+  "sourceDirName": "api",
+  "slug": "/api/card-subtitle",
+  "permalink": "/developer/docs/api/card-subtitle",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card-subtitle.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-card-subtitle"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-card-header",
+    "permalink": "/developer/docs/api/card-header"
+  },
+  "next": {
+    "title": "ion-card-title",
+    "permalink": "/developer/docs/api/card-title"
+  }
+}

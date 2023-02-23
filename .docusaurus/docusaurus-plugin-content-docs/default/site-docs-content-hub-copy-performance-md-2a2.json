@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/performance",
+  "id": "Content Hub copy/performance",
+  "isDocsHomePage": false,
+  "title": "Catalog Listing",
+  "description": "Catalog Listing",
+  "source": "@site/docs/Content Hub copy/performance.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/performance",
+  "permalink": "/docs/Content Hub copy/performance",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/performance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Catalog Listing",
+    "sidebar_label": "Catalog Listing"
+  }
+}

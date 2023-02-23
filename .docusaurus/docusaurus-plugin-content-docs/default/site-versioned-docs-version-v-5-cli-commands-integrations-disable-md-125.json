@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/integrations-disable",
+  "id": "version-v5/cli/commands/integrations-disable",
+  "isDocsHomePage": false,
+  "title": "ionic integrations disable",
+  "description": "Disable an integration",
+  "source": "@site/versioned_docs/version-v5/cli/commands/integrations-disable.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/integrations-disable",
+  "permalink": "/developer/docs/v5/cli/commands/integrations-disable",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/integrations/disable.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "integrations disable"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "init",
+    "permalink": "/developer/docs/v5/cli/commands/init"
+  },
+  "next": {
+    "title": "integrations enable",
+    "permalink": "/developer/docs/v5/cli/commands/integrations-enable"
+  }
+}

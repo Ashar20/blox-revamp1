@@ -1,0 +1,24 @@
+{
+  "unversionedId": "theming/css-shadow-parts",
+  "id": "version-v5/theming/css-shadow-parts",
+  "isDocsHomePage": false,
+  "title": "CSS Shadow Parts",
+  "description": "CSS Shadow Parts allow developers to style CSS properties on an element inside of a shadow tree. This is extremely useful in customizing Ionic Framework Shadow DOM components.",
+  "source": "@site/versioned_docs/version-v5/theming/css-shadow-parts.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/css-shadow-parts",
+  "permalink": "/developer/docs/v5/theming/css-shadow-parts",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/css-shadow-parts.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "CSS Variables",
+    "permalink": "/developer/docs/v5/theming/css-variables"
+  },
+  "next": {
+    "title": "Colors",
+    "permalink": "/developer/docs/v5/theming/colors"
+  }
+}

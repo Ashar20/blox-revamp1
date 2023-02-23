@@ -1,0 +1,23 @@
+{
+  "unversionedId": "native",
+  "id": "native",
+  "isDocsHomePage": false,
+  "title": "Native APIs",
+  "description": "Native APIs: Open-Source Native Device Plugins and Integrations",
+  "source": "@site/docs/native.md",
+  "sourceDirName": ".",
+  "slug": "/native",
+  "permalink": "/developer/docs/native",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/native.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Native APIs",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "native",
+  "next": {
+    "title": "Setup",
+    "permalink": "/developer/docs/native/community"
+  }
+}

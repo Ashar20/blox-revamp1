@@ -1,0 +1,15 @@
+{
+  "unversionedId": "developer-resources/guides/first-app-v4/theming",
+  "id": "developer-resources/guides/first-app-v4/theming",
+  "isDocsHomePage": false,
+  "title": "Make It Your Own! Ionic Theming",
+  "description": "Previously, we converted our single use Camera app into an epic photo gallery. Now, let’s explore how to make the photo gallery our own with Ionic theming. The visual design of the app is incredibly important - fortunately, Ionic provides a lot for us out-of-the-box.",
+  "source": "@site/docs/developer-resources/guides/first-app-v4/theming.md",
+  "sourceDirName": "developer-resources/guides/first-app-v4",
+  "slug": "/developer-resources/guides/first-app-v4/theming",
+  "permalink": "/developer/docs/developer-resources/guides/first-app-v4/theming",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/guides/first-app-v4/theming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

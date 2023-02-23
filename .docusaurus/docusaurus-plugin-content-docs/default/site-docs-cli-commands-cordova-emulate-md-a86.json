@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/cordova-emulate",
+  "id": "cli/commands/cordova-emulate",
+  "isDocsHomePage": false,
+  "title": "ionic cordova emulate",
+  "description": "Emulate Android and iOS Apps with Ionic Cordova Emulator",
+  "source": "@site/docs/cli/commands/cordova-emulate.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-emulate",
+  "permalink": "/developer/docs/cli/commands/cordova-emulate",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/emulate.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic cordova emulate",
+    "sidebar_label": "cordova emulate"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "cordova compile",
+    "permalink": "/developer/docs/cli/commands/cordova-compile"
+  },
+  "next": {
+    "title": "cordova platform",
+    "permalink": "/developer/docs/cli/commands/cordova-platform"
+  }
+}

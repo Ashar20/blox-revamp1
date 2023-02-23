@@ -1,0 +1,28 @@
+{
+  "unversionedId": "theming/css-variables",
+  "id": "version-v5/theming/css-variables",
+  "isDocsHomePage": false,
+  "title": "CSS Variables | CSS Custom Properties for Variables & Components",
+  "description": "Ionic components are built with CSS Variables for easy custom app properties. They allow a value to be stored in one place, then referenced in multiple places.",
+  "source": "@site/versioned_docs/version-v5/theming/css-variables.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/css-variables",
+  "permalink": "/developer/docs/v5/theming/css-variables",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/css-variables.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "CSS Variables | CSS Custom Properties for Variables & Components",
+    "description": "Ionic components are built with CSS Variables for easy custom app properties. They allow a value to be stored in one place, then referenced in multiple places.",
+    "sidebar_label": "CSS Variables"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Platform Styles",
+    "permalink": "/developer/docs/v5/theming/platform-styles"
+  },
+  "next": {
+    "title": "CSS Shadow Parts",
+    "permalink": "/developer/docs/v5/theming/css-shadow-parts"
+  }
+}

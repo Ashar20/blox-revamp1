@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/enterprise-register",
+  "id": "cli/commands/enterprise-register",
+  "isDocsHomePage": false,
+  "title": "ionic enterprise register",
+  "description": "Register your Product Key with this app",
+  "source": "@site/docs/cli/commands/enterprise-register.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/enterprise-register",
+  "permalink": "/developer/docs/cli/commands/enterprise-register",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/enterprise/register.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic enterprise register",
+    "sidebar_label": "enterprise register"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "doctor treat",
+    "permalink": "/developer/docs/cli/commands/doctor-treat"
+  },
+  "next": {
+    "title": "generate",
+    "permalink": "/developer/docs/cli/commands/generate"
+  }
+}

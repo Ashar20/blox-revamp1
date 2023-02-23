@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/toast",
+  "id": "api/toast",
+  "isDocsHomePage": false,
+  "title": "ion-toast",
+  "description": "ion-toast Component: A Dismissible App Notification Alert",
+  "source": "@site/docs/api/toast.md",
+  "sourceDirName": "api",
+  "slug": "/api/toast",
+  "permalink": "/developer/docs/api/toast",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/toast.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-toast"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-tab-button",
+    "permalink": "/developer/docs/api/tab-button"
+  },
+  "next": {
+    "title": "ion-toggle",
+    "permalink": "/developer/docs/api/toggle"
+  }
+}

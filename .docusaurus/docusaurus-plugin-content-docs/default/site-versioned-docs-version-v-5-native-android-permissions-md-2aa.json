@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/android-permissions",
+  "id": "version-v5/native/android-permissions",
+  "isDocsHomePage": false,
+  "title": "Android Permissions | Android Device and Ionic App Permissions",
+  "description": "This plugin is designed to support Android new permissions checking mechanism. Learn how to install and use Android Device permissions on your Ionic App.",
+  "source": "@site/versioned_docs/version-v5/native/android-permissions.md",
+  "sourceDirName": "native",
+  "slug": "/native/android-permissions",
+  "permalink": "/developer/docs/v5/native/android-permissions",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/android-permissions/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Android Permissions | Android Device and Ionic App Permissions",
+    "description": "This plugin is designed to support Android new permissions checking mechanism. Learn how to install and use Android Device permissions on your Ionic App.",
+    "sidebar_label": "Android Permissions"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Android Notch",
+    "permalink": "/developer/docs/v5/native/android-notch"
+  },
+  "next": {
+    "title": "Anyline",
+    "permalink": "/developer/docs/v5/native/anyline"
+  }
+}

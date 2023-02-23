@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/cordova-requirements",
+  "id": "version-v5/cli/commands/cordova-requirements",
+  "isDocsHomePage": false,
+  "title": "ionic cordova requirements",
+  "description": "Checks and print out all the requirements for platforms",
+  "source": "@site/versioned_docs/version-v5/cli/commands/cordova-requirements.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-requirements",
+  "permalink": "/developer/docs/v5/cli/commands/cordova-requirements",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/requirements.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "cordova requirements"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "cordova prepare",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-prepare"
+  },
+  "next": {
+    "title": "cordova resources",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-resources"
+  }
+}

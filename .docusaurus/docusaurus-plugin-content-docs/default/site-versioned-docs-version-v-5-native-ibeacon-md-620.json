@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/ibeacon",
+  "id": "version-v5/native/ibeacon",
+  "isDocsHomePage": false,
+  "title": "IBeacon",
+  "description": "This plugin provides functions for working with iBeacons.",
+  "source": "@site/versioned_docs/version-v5/native/ibeacon.md",
+  "sourceDirName": "native",
+  "slug": "/native/ibeacon",
+  "permalink": "/developer/docs/v5/native/ibeacon",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ibeacon/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "IBeacon"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Iamport Cordova",
+    "permalink": "/developer/docs/v5/native/iamport-cordova"
+  },
+  "next": {
+    "title": "Image Picker",
+    "permalink": "/developer/docs/v5/native/image-picker"
+  }
+}

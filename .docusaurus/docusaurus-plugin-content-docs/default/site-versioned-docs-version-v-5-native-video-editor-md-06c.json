@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/video-editor",
+  "id": "version-v5/native/video-editor",
+  "isDocsHomePage": false,
+  "title": "Video Editor",
+  "description": "Edit videos using native device APIs",
+  "source": "@site/versioned_docs/version-v5/native/video-editor.md",
+  "sourceDirName": "native",
+  "slug": "/native/video-editor",
+  "permalink": "/developer/docs/v5/native/video-editor",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/video-editor/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Video Editor"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Vibration",
+    "permalink": "/developer/docs/v5/native/vibration"
+  },
+  "next": {
+    "title": "Video Player",
+    "permalink": "/developer/docs/v5/native/video-player"
+  }
+}

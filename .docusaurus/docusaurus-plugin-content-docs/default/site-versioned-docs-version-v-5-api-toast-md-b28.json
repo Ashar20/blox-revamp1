@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/toast",
+  "id": "version-v5/api/toast",
+  "isDocsHomePage": false,
+  "title": "ion-toast",
+  "description": "A Toast is a subtle notification commonly used in modern applications. It can be used to provide feedback about an operation or to display a system message. The toast appears on top of the app's content, and can be dismissed by the app to resume user interaction with the app.",
+  "source": "@site/versioned_docs/version-v5/api/toast.md",
+  "sourceDirName": "api",
+  "slug": "/api/toast",
+  "permalink": "/developer/docs/v5/api/toast",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/toast.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-toast",
+    "demoUrl": "/docs/demos/api/toast/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/toast/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-tab-button",
+    "permalink": "/developer/docs/v5/api/tab-button"
+  },
+  "next": {
+    "title": "ion-toggle",
+    "permalink": "/developer/docs/v5/api/toggle"
+  }
+}

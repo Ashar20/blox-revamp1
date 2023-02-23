@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Audience Hub/keyboard",
+  "id": "Audience Hub/keyboard",
+  "isDocsHomePage": false,
+  "title": "Audience listing",
+  "description": "Keyboard Guide: Tools to Manage an On-Screen Mobile App Keyboard",
+  "source": "@site/docs/Audience Hub/keyboard.md",
+  "sourceDirName": "Audience Hub",
+  "slug": "/Audience Hub/keyboard",
+  "permalink": "/docs/Audience Hub/keyboard",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/keyboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Audience listing"
+  }
+}

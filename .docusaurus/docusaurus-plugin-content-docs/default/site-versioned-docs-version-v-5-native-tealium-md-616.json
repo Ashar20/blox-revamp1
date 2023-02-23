@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/tealium",
+  "id": "version-v5/native/tealium",
+  "isDocsHomePage": false,
+  "title": "Tealium",
+  "description": "This plugin provides a TypeScript wrapper around the Tealium Cordova plugin for Ionic Native.",
+  "source": "@site/versioned_docs/version-v5/native/tealium.md",
+  "sourceDirName": "native",
+  "slug": "/native/tealium",
+  "permalink": "/developer/docs/v5/native/tealium",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/tealium/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Tealium"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "TealiumInstallReferrer",
+    "permalink": "/developer/docs/v5/native/tealium-installreferrer"
+  },
+  "next": {
+    "title": "Theme Detection",
+    "permalink": "/developer/docs/v5/native/theme-detection"
+  }
+}

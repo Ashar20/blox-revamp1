@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/toolbar",
+  "id": "version-v5/api/toolbar",
+  "isDocsHomePage": false,
+  "title": "Toolbar | Customize App Menu Toolbar Buttons and Icons",
+  "description": "Ion-toolbar component lets you customize toolbar buttons on your app menu. Add fixed toolbars above or below content or use full screen to scroll with content.",
+  "source": "@site/versioned_docs/version-v5/api/toolbar.md",
+  "sourceDirName": "api",
+  "slug": "/api/toolbar",
+  "permalink": "/developer/docs/v5/api/toolbar",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/toolbar.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Toolbar | Customize App Menu Toolbar Buttons and Icons",
+    "description": "Ion-toolbar component lets you customize toolbar buttons on your app menu. Add fixed toolbars above or below content or use full screen to scroll with content.",
+    "sidebar_label": "ion-toolbar",
+    "demoUrl": "/docs/demos/api/toolbar/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/toolbar/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-toggle",
+    "permalink": "/developer/docs/v5/api/toggle"
+  },
+  "next": {
+    "title": "ion-header",
+    "permalink": "/developer/docs/v5/api/header"
+  }
+}

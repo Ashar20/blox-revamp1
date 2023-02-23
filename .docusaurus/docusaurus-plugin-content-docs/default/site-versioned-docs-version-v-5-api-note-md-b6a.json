@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/note",
+  "id": "version-v5/api/note",
+  "isDocsHomePage": false,
+  "title": "ion-note",
+  "description": "Notes are text elements generally used as subtitles that provide more information. Notes are styled to appear grey by default. Notes can be used in an item as metadata text.",
+  "source": "@site/versioned_docs/version-v5/api/note.md",
+  "sourceDirName": "api",
+  "slug": "/api/note",
+  "permalink": "/developer/docs/v5/api/note",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/note.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-note",
+    "demoUrl": "/docs/demos/api/note/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/note/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-label",
+    "permalink": "/developer/docs/v5/api/label"
+  },
+  "next": {
+    "title": "ion-list",
+    "permalink": "/developer/docs/v5/api/list"
+  }
+}

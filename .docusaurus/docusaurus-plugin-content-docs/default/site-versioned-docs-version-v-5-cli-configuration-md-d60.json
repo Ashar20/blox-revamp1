@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cli/configuration",
+  "id": "version-v5/cli/configuration",
+  "isDocsHomePage": false,
+  "title": "Configuration",
+  "description": "Files",
+  "source": "@site/versioned_docs/version-v5/cli/configuration.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/configuration",
+  "permalink": "/developer/docs/v5/cli/configuration",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/cli/configuration.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/developer/docs/v5/cli"
+  },
+  "next": {
+    "title": "Live Reload",
+    "permalink": "/developer/docs/v5/cli/livereload"
+  }
+}

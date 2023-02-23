@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/dfu-update",
+  "id": "version-v5/native/dfu-update",
+  "isDocsHomePage": false,
+  "title": "Dfu Update",
+  "description": "This plugin is a Wrapper to use Nordic Semiconductor's Device Firmware Update (DFU) service to update a Bluetooth LE device.",
+  "source": "@site/versioned_docs/version-v5/native/dfu-update.md",
+  "sourceDirName": "native",
+  "slug": "/native/dfu-update",
+  "permalink": "/developer/docs/v5/native/dfu-update",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/dfu-update/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Dfu Update"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Device",
+    "permalink": "/developer/docs/v5/native/device"
+  },
+  "next": {
+    "title": "Diagnostic",
+    "permalink": "/developer/docs/v5/native/diagnostic"
+  }
+}

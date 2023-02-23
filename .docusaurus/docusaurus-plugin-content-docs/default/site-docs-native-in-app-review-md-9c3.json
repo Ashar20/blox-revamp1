@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/in-app-review",
+  "id": "native/in-app-review",
+  "isDocsHomePage": false,
+  "title": "In App Review",
+  "description": "In App Review Plugin for iOS Devices | Ionic Framework Docs",
+  "source": "@site/docs/native/in-app-review.md",
+  "sourceDirName": "native",
+  "slug": "/native/in-app-review",
+  "permalink": "/developer/docs/native/in-app-review",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-review/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "In App Review"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "In App Purchase 2",
+    "permalink": "/developer/docs/native/in-app-purchase-2"
+  },
+  "next": {
+    "title": "Insomnia",
+    "permalink": "/developer/docs/native/insomnia"
+  }
+}

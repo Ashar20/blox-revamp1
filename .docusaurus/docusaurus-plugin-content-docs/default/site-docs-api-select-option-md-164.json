@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/select-option",
+  "id": "api/select-option",
+  "isDocsHomePage": false,
+  "title": "ion-select-option",
+  "description": "Select Option | What Is An Option Select on Ionic Framework Apps",
+  "source": "@site/docs/api/select-option.md",
+  "sourceDirName": "api",
+  "slug": "/api/select-option",
+  "permalink": "/developer/docs/api/select-option",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/select-option.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-select-option"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-select",
+    "permalink": "/developer/docs/api/select"
+  },
+  "next": {
+    "title": "ion-slides",
+    "permalink": "/developer/docs/api/slides"
+  }
+}

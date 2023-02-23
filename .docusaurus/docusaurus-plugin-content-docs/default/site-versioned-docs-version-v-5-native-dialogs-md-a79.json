@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/dialogs",
+  "id": "version-v5/native/dialogs",
+  "isDocsHomePage": false,
+  "title": "Dialogs",
+  "description": "This plugin gives you ability to access and customize the device native dialogs.",
+  "source": "@site/versioned_docs/version-v5/native/dialogs.md",
+  "sourceDirName": "native",
+  "slug": "/native/dialogs",
+  "permalink": "/developer/docs/v5/native/dialogs",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/dialogs/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Dialogs"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Diagnostic",
+    "permalink": "/developer/docs/v5/native/diagnostic"
+  },
+  "next": {
+    "title": "DNS",
+    "permalink": "/developer/docs/v5/native/dns"
+  }
+}

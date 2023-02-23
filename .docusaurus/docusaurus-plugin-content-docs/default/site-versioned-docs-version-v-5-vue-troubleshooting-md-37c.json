@@ -1,0 +1,24 @@
+{
+  "unversionedId": "vue/troubleshooting",
+  "id": "version-v5/vue/troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "This guide covers some of the more common issues you may run into when developing with Ionic Vue.",
+  "source": "@site/versioned_docs/version-v5/vue/troubleshooting.md",
+  "sourceDirName": "vue",
+  "slug": "/vue/troubleshooting",
+  "permalink": "/developer/docs/v5/vue/troubleshooting",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/troubleshooting.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/developer/docs/v5/vue/testing"
+  },
+  "next": {
+    "title": "Performance",
+    "permalink": "/developer/docs/v5/vue/performance"
+  }
+}

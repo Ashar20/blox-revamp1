@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/safari-view-controller",
+  "id": "version-v5/native/safari-view-controller",
+  "isDocsHomePage": false,
+  "title": "Safari View Controller",
+  "description": "For displaying read-only web content.",
+  "source": "@site/versioned_docs/version-v5/native/safari-view-controller.md",
+  "sourceDirName": "native",
+  "slug": "/native/safari-view-controller",
+  "permalink": "/developer/docs/v5/native/safari-view-controller",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/safari-view-controller/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Safari View Controller"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "PushapePush",
+    "permalink": "/developer/docs/v5/native/pushape-push"
+  },
+  "next": {
+    "title": "Screen Orientation",
+    "permalink": "/developer/docs/v5/native/screen-orientation"
+  }
+}

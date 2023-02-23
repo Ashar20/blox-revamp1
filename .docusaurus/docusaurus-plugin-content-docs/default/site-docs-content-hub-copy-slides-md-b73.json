@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/slides",
+  "id": "Content Hub copy/slides",
+  "isDocsHomePage": false,
+  "title": "Slides",
+  "description": "Set Up Swiper.js for Angular Slides [Example] | Ionic",
+  "source": "@site/docs/Content Hub copy/slides.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/slides",
+  "permalink": "/docs/Content Hub copy/slides",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/slides.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Slides",
+    "sidebar_label": "Catalog Listing"
+  }
+}

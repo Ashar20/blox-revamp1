@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/android-notch",
+  "id": "native/android-notch",
+  "isDocsHomePage": false,
+  "title": "Android Notch",
+  "description": "Android Notch: Plugin to Enable Cutout and Devices Inset Sizes",
+  "source": "@site/docs/native/android-notch.md",
+  "sourceDirName": "native",
+  "slug": "/native/android-notch",
+  "permalink": "/developer/docs/native/android-notch",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/android-notch/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Android Notch"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Android Full Screen",
+    "permalink": "/developer/docs/native/android-full-screen"
+  },
+  "next": {
+    "title": "Android Permissions",
+    "permalink": "/developer/docs/native/android-permissions"
+  }
+}

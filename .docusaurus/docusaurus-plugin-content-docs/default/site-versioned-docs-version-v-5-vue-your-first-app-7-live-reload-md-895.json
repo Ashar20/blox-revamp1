@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vue/your-first-app/live-reload",
+  "id": "version-v5/vue/your-first-app/live-reload",
+  "isDocsHomePage": false,
+  "title": "Rapid App Development with Live Reload",
+  "description": "So far, we’ve seen how easy it is to develop a cross-platform app that works everywhere. The development experience is pretty quick, but what if I told you there was a way to go faster?",
+  "source": "@site/versioned_docs/version-v5/vue/your-first-app/7-live-reload.md",
+  "sourceDirName": "vue/your-first-app",
+  "slug": "/vue/your-first-app/live-reload",
+  "permalink": "/developer/docs/v5/vue/your-first-app/live-reload",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/your-first-app/7-live-reload.md",
+  "tags": [],
+  "version": "v5",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Live Reload"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Deploying Mobile",
+    "permalink": "/developer/docs/v5/vue/your-first-app/deploying-mobile"
+  },
+  "next": {
+    "title": "Lifecycle",
+    "permalink": "/developer/docs/v5/vue/lifecycle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/running",
+  "id": "studio/running",
+  "isDocsHomePage": false,
+  "title": "Running Apps",
+  "description": "Ionic Studio offers support for serving, running, and deploying apps.",
+  "source": "@site/docs/studio/running.md",
+  "sourceDirName": "studio",
+  "slug": "/studio/running",
+  "permalink": "/developer/docs/studio/running",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio/running.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

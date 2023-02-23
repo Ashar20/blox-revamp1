@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/file-path",
+  "id": "native/file-path",
+  "isDocsHomePage": false,
+  "title": "File Path",
+  "description": "This plugin allows you to resolve the native filesystem path for Android content URIs and is based on code in the aFileChooser library.",
+  "source": "@site/docs/native/file-path.md",
+  "sourceDirName": "native",
+  "slug": "/native/file-path",
+  "permalink": "/developer/docs/native/file-path",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file-path/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "File Path"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "File Opener",
+    "permalink": "/developer/docs/native/file-opener"
+  },
+  "next": {
+    "title": "File Transfer ",
+    "permalink": "/developer/docs/native/file-transfer"
+  }
+}

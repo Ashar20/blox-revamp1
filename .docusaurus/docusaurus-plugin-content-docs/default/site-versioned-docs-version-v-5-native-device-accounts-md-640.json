@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/device-accounts",
+  "id": "version-v5/native/device-accounts",
+  "isDocsHomePage": false,
+  "title": "Device Accounts",
+  "description": "Gets the Google accounts associated with the Android device",
+  "source": "@site/versioned_docs/version-v5/native/device-accounts.md",
+  "sourceDirName": "native",
+  "slug": "/native/device-accounts",
+  "permalink": "/developer/docs/v5/native/device-accounts",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device-accounts/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Device Accounts"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Deeplinks",
+    "permalink": "/developer/docs/v5/native/deeplinks"
+  },
+  "next": {
+    "title": "Device Motion",
+    "permalink": "/developer/docs/v5/native/device-motion"
+  }
+}

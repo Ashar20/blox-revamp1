@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/col",
+  "id": "api/col",
+  "isDocsHomePage": false,
+  "title": "ion-col",
+  "description": "ion-col: Column Component Padding, Size and Other Properties",
+  "source": "@site/docs/api/col.md",
+  "sourceDirName": "api",
+  "slug": "/api/col",
+  "permalink": "/developer/docs/api/col",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/col.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-col"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-grid",
+    "permalink": "/developer/docs/api/grid"
+  },
+  "next": {
+    "title": "ion-row",
+    "permalink": "/developer/docs/api/row"
+  }
+}

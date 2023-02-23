@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/google-analytics",
+  "id": "native/google-analytics",
+  "isDocsHomePage": false,
+  "title": "Google Analytics",
+  "description": "Google Analytics: iOS & Android App Plugin - Ionic Documentation",
+  "source": "@site/docs/native/google-analytics.md",
+  "sourceDirName": "native",
+  "slug": "/native/google-analytics",
+  "permalink": "/developer/docs/native/google-analytics",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/google-analytics/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Google Analytics"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Globalization",
+    "permalink": "/developer/docs/native/globalization"
+  },
+  "next": {
+    "title": "Google Nearby",
+    "permalink": "/developer/docs/native/google-nearby"
+  }
+}

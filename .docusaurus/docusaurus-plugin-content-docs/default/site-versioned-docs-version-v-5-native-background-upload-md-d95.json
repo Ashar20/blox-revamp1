@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/background-upload",
+  "id": "version-v5/native/background-upload",
+  "isDocsHomePage": false,
+  "title": "BackgroundUpload",
+  "description": "This plugin does something",
+  "source": "@site/versioned_docs/version-v5/native/background-upload.md",
+  "sourceDirName": "native",
+  "slug": "/native/background-upload",
+  "permalink": "/developer/docs/v5/native/background-upload",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/background-upload/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "BackgroundUpload"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Background Mode",
+    "permalink": "/developer/docs/v5/native/background-mode"
+  },
+  "next": {
+    "title": "Badge",
+    "permalink": "/developer/docs/v5/native/badge"
+  }
+}

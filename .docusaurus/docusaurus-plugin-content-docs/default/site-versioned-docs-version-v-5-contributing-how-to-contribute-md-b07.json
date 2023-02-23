@@ -1,0 +1,26 @@
+{
+  "unversionedId": "contributing/how-to-contribute",
+  "id": "version-v5/contributing/how-to-contribute",
+  "isDocsHomePage": false,
+  "title": "Contributing to Ionic",
+  "description": "Thanks for the interest in contributing to Ionic Framework!",
+  "source": "@site/versioned_docs/version-v5/contributing/how-to-contribute.md",
+  "sourceDirName": "contributing",
+  "slug": "/contributing/how-to-contribute",
+  "permalink": "/developer/docs/v5/contributing/how-to-contribute",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/contributing/how-to-contribute.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "How to Contribute"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "What are PWAs?",
+    "permalink": "/developer/docs/v5/core-concepts/what-are-progressive-web-apps"
+  },
+  "next": {
+    "title": "Code of Conduct",
+    "permalink": "/developer/docs/v5/contributing/coc"
+  }
+}

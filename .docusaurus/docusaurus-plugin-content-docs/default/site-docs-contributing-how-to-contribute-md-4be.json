@@ -1,0 +1,17 @@
+{
+  "unversionedId": "contributing/how-to-contribute",
+  "id": "contributing/how-to-contribute",
+  "isDocsHomePage": false,
+  "title": "Contributing to Ionic",
+  "description": "Thanks for the interest in contributing to Ionic Framework!",
+  "source": "@site/docs/contributing/how-to-contribute.md",
+  "sourceDirName": "contributing",
+  "slug": "/contributing/how-to-contribute",
+  "permalink": "/developer/docs/contributing/how-to-contribute",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/contributing/how-to-contribute.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "How to Contribute"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "studio/setup/native",
+  "id": "version-v5/studio/setup/native",
+  "isDocsHomePage": false,
+  "title": "Native iOS & Android",
+  "description": "Utilizing native functionality in your app may require additional setup, including:",
+  "source": "@site/versioned_docs/version-v5/studio/setup/native.md",
+  "sourceDirName": "studio/setup",
+  "slug": "/studio/setup/native",
+  "permalink": "/developer/docs/v5/studio/setup/native",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/studio/setup/native.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {}
+}

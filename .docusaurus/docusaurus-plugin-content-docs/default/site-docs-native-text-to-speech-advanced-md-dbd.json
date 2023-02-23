@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/text-to-speech-advanced",
+  "id": "native/text-to-speech-advanced",
+  "isDocsHomePage": false,
+  "title": "Text To Speech Advanced",
+  "description": "Text to Speech plugin",
+  "source": "@site/docs/native/text-to-speech-advanced.md",
+  "sourceDirName": "native",
+  "slug": "/native/text-to-speech-advanced",
+  "permalink": "/developer/docs/native/text-to-speech-advanced",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/text-to-speech-advanced/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Text To Speech Advanced"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Tealium",
+    "permalink": "/developer/docs/native/tealium"
+  },
+  "next": {
+    "title": "Theme Detection",
+    "permalink": "/developer/docs/native/theme-detection"
+  }
+}

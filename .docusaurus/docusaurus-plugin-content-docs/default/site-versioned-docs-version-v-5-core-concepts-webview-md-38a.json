@@ -1,0 +1,24 @@
+{
+  "unversionedId": "core-concepts/webview",
+  "id": "version-v5/core-concepts/webview",
+  "isDocsHomePage": false,
+  "title": "Web View",
+  "description": "Web Views power web apps on native devices.",
+  "source": "@site/versioned_docs/version-v5/core-concepts/webview.md",
+  "sourceDirName": "core-concepts",
+  "slug": "/core-concepts/webview",
+  "permalink": "/developer/docs/v5/core-concepts/webview",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/core-concepts/webview.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Cross Platform",
+    "permalink": "/developer/docs/v5/core-concepts/cross-platform"
+  },
+  "next": {
+    "title": "What are PWAs?",
+    "permalink": "/developer/docs/v5/core-concepts/what-are-progressive-web-apps"
+  }
+}

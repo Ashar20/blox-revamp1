@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/git-remote",
+  "id": "cli/commands/git-remote",
+  "isDocsHomePage": false,
+  "title": "ionic git remote",
+  "description": "Adds/updates the Appflow git remote to your local Ionic app",
+  "source": "@site/docs/cli/commands/git-remote.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/git-remote",
+  "permalink": "/developer/docs/cli/commands/git-remote",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/git/remote.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic git remote",
+    "sidebar_label": "git remote"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "generate",
+    "permalink": "/developer/docs/cli/commands/generate"
+  },
+  "next": {
+    "title": "info",
+    "permalink": "/developer/docs/cli/commands/info"
+  }
+}

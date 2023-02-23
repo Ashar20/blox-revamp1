@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/in-app-browser",
+  "id": "version-v5/native/in-app-browser",
+  "isDocsHomePage": false,
+  "title": "In App Browser",
+  "description": "Launches in app Browser",
+  "source": "@site/versioned_docs/version-v5/native/in-app-browser.md",
+  "sourceDirName": "native",
+  "slug": "/native/in-app-browser",
+  "permalink": "/developer/docs/v5/native/in-app-browser",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-browser/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "In App Browser"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Imap",
+    "permalink": "/developer/docs/v5/native/imap"
+  },
+  "next": {
+    "title": "In App Purchase 2",
+    "permalink": "/developer/docs/v5/native/in-app-purchase-2"
+  }
+}

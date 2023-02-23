@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/background-mode",
+  "id": "version-v5/native/background-mode",
+  "isDocsHomePage": false,
+  "title": "Native Background Mode | Cordova-Plugin-Background-Mode",
+  "description": "Learn about Cordova-plugin-background-mode usage. This Cordova plugin, for Ionic Native Apps, prevents the app from going to sleep while in background.",
+  "source": "@site/versioned_docs/version-v5/native/background-mode.md",
+  "sourceDirName": "native",
+  "slug": "/native/background-mode",
+  "permalink": "/developer/docs/v5/native/background-mode",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/background-mode/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Native Background Mode | Cordova-Plugin-Background-Mode",
+    "description": "Learn about Cordova-plugin-background-mode usage. This Cordova plugin, for Ionic Native Apps, prevents the app from going to sleep while in background.",
+    "sidebar_label": "Background Mode"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Background Geolocation",
+    "permalink": "/developer/docs/v5/native/background-geolocation"
+  },
+  "next": {
+    "title": "BackgroundUpload",
+    "permalink": "/developer/docs/v5/native/background-upload"
+  }
+}

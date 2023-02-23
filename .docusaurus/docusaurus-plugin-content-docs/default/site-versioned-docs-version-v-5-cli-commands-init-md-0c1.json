@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cli/commands/init",
+  "id": "version-v5/cli/commands/init",
+  "isDocsHomePage": false,
+  "title": "ionic init",
+  "description": "Initialize existing projects with Ionic",
+  "source": "@site/versioned_docs/version-v5/cli/commands/init.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/init",
+  "permalink": "/developer/docs/v5/cli/commands/init",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/init.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "init"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "info",
+    "permalink": "/developer/docs/v5/cli/commands/info"
+  },
+  "next": {
+    "title": "integrations disable",
+    "permalink": "/developer/docs/v5/cli/commands/integrations-disable"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/input",
+  "id": "version-v5/api/input",
+  "isDocsHomePage": false,
+  "title": "ion-input",
+  "description": "The input component is a wrapper to the HTML input element with custom styling and additional functionality. It accepts most of the same properties as the HTML input, but works great on desktop devices and integrates with the keyboard on mobile devices.",
+  "source": "@site/versioned_docs/version-v5/api/input.md",
+  "sourceDirName": "api",
+  "slug": "/api/input",
+  "permalink": "/developer/docs/v5/api/input",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/input.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-input",
+    "demoUrl": "/docs/demos/api/input/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/input/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-infinite-scroll-content",
+    "permalink": "/developer/docs/v5/api/infinite-scroll-content"
+  },
+  "next": {
+    "title": "ion-textarea",
+    "permalink": "/developer/docs/v5/api/textarea"
+  }
+}

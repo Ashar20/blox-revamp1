@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/title",
+  "id": "version-v5/api/title",
+  "isDocsHomePage": false,
+  "title": "ion-title: Ionic Framework App Title Component for Toolbars",
+  "description": "ion-title is a component that sets the title of the toolbar. Read to learn more about title and collapsible title components and usage for Ionic Framework Apps.",
+  "source": "@site/versioned_docs/version-v5/api/title.md",
+  "sourceDirName": "api",
+  "slug": "/api/title",
+  "permalink": "/developer/docs/v5/api/title",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/title.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "ion-title: Ionic Framework App Title Component for Toolbars",
+    "description": "ion-title is a component that sets the title of the toolbar. Read to learn more about title and collapsible title components and usage for Ionic Framework Apps.",
+    "sidebar_label": "ion-title"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-footer",
+    "permalink": "/developer/docs/v5/api/footer"
+  },
+  "next": {
+    "title": "ion-buttons",
+    "permalink": "/developer/docs/v5/api/buttons"
+  }
+}

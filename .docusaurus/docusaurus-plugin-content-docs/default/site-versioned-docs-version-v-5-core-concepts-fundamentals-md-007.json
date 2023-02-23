@@ -1,0 +1,26 @@
+{
+  "unversionedId": "core-concepts/fundamentals",
+  "id": "version-v5/core-concepts/fundamentals",
+  "isDocsHomePage": false,
+  "title": "Core Concepts",
+  "description": "For those completely new to Ionic app development, it can be helpful to get a high-level understanding of the core philosophy, concepts, and tools behind the project. Before diving into complex topics, we'll cover the basics of what Ionic Framework is, and how it works.",
+  "source": "@site/versioned_docs/version-v5/core-concepts/fundamentals.md",
+  "sourceDirName": "core-concepts",
+  "slug": "/core-concepts/fundamentals",
+  "permalink": "/developer/docs/v5/core-concepts/fundamentals",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/core-concepts/fundamentals.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Fundamentals"
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "CORS Errors",
+    "permalink": "/developer/docs/v5/troubleshooting/cors"
+  },
+  "next": {
+    "title": "Cross Platform",
+    "permalink": "/developer/docs/v5/core-concepts/cross-platform"
+  }
+}

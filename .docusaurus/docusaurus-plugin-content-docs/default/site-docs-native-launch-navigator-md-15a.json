@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/launch-navigator",
+  "id": "native/launch-navigator",
+  "isDocsHomePage": false,
+  "title": "Launch Navigator",
+  "description": "Launch Navigator | Get Started with Ionic Launch Navigator Plugin",
+  "source": "@site/docs/native/launch-navigator.md",
+  "sourceDirName": "native",
+  "slug": "/native/launch-navigator",
+  "permalink": "/developer/docs/native/launch-navigator",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/launch-navigator/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Launch Navigator"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Kommunicate",
+    "permalink": "/developer/docs/native/kommunicate"
+  },
+  "next": {
+    "title": "Launch Review",
+    "permalink": "/developer/docs/native/launch-review"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/item-options",
+  "id": "api/item-options",
+  "isDocsHomePage": false,
+  "title": "ion-item-options",
+  "description": "ion-item-options: Option Button Components for Ionic Apps",
+  "source": "@site/docs/api/item-options.md",
+  "sourceDirName": "api",
+  "slug": "/api/item-options",
+  "permalink": "/developer/docs/api/item-options",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-options.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-item-options"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-item-sliding",
+    "permalink": "/developer/docs/api/item-sliding"
+  },
+  "next": {
+    "title": "ion-item-option",
+    "permalink": "/developer/docs/api/item-option"
+  }
+}

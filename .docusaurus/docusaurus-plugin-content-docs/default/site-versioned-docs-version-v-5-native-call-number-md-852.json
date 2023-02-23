@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/call-number",
+  "id": "version-v5/native/call-number",
+  "isDocsHomePage": false,
+  "title": "Call Number",
+  "description": "Call a number directly from your Cordova/Ionic application.",
+  "source": "@site/versioned_docs/version-v5/native/call-number.md",
+  "sourceDirName": "native",
+  "slug": "/native/call-number",
+  "permalink": "/developer/docs/v5/native/call-number",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/call-number/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Call Number"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Call Directory",
+    "permalink": "/developer/docs/v5/native/call-directory"
+  },
+  "next": {
+    "title": "Camera Preview",
+    "permalink": "/developer/docs/v5/native/camera-preview"
+  }
+}

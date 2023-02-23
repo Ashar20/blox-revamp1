@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cli/using-a-proxy",
+  "id": "cli/using-a-proxy",
+  "isDocsHomePage": false,
+  "title": "Using a Proxy",
+  "description": "Proxy support is built-in to the Ionic CLI. Proxy settings can be configured via the config file or an environment variable.",
+  "source": "@site/docs/cli/using-a-proxy.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/using-a-proxy",
+  "permalink": "/developer/docs/cli/using-a-proxy",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/cli/using-a-proxy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cli",
+  "previous": {
+    "title": "Live Reload",
+    "permalink": "/developer/docs/cli/livereload"
+  },
+  "next": {
+    "title": "build",
+    "permalink": "/developer/docs/cli/commands/build"
+  }
+}

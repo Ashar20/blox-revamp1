@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/textarea",
+  "id": "version-v5/api/textarea",
+  "isDocsHomePage": false,
+  "title": "ion-textarea",
+  "description": "The textarea component is used for multi-line text input. A native textarea element is rendered inside of the component. The user experience and interactivity of the textarea component is improved by having control over the native textarea.",
+  "source": "@site/versioned_docs/version-v5/api/textarea.md",
+  "sourceDirName": "api",
+  "slug": "/api/textarea",
+  "permalink": "/developer/docs/v5/api/textarea",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/textarea.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-textarea"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-input",
+    "permalink": "/developer/docs/v5/api/input"
+  },
+  "next": {
+    "title": "ion-item",
+    "permalink": "/developer/docs/v5/api/item"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Content Hub copy/Getting Started",
+  "id": "Content Hub copy/Getting Started",
+  "isDocsHomePage": false,
+  "title": "Explore a catalog",
+  "description": "<meta",
+  "source": "@site/docs/Content Hub copy/Getting Started.md",
+  "sourceDirName": "Content Hub copy",
+  "slug": "/Content Hub copy/Getting Started",
+  "permalink": "/docs/Content Hub copy/Getting Started",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub copy/Getting Started.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Explore a catalog",
+    "sidebar_label": "Explore a catalog"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "theming/dark-mode",
+  "id": "version-v5/theming/dark-mode",
+  "isDocsHomePage": false,
+  "title": "Dark Mode",
+  "description": "Ionic makes it easy to change the themes of your app, including supporting dark color schemes. With growing support for dark mode in native apps, developers are now looking to add it to their apps to support user preferences.",
+  "source": "@site/versioned_docs/version-v5/theming/dark-mode.md",
+  "sourceDirName": "theming",
+  "slug": "/theming/dark-mode",
+  "permalink": "/developer/docs/v5/theming/dark-mode",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/dark-mode.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "initialTab": "preview",
+    "inlineHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Themes",
+    "permalink": "/developer/docs/v5/theming/themes"
+  },
+  "next": {
+    "title": "Advanced",
+    "permalink": "/developer/docs/v5/theming/advanced"
+  }
+}

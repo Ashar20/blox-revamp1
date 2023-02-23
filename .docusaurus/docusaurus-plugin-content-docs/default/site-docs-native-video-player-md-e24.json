@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/video-player",
+  "id": "native/video-player",
+  "isDocsHomePage": false,
+  "title": "Video Player",
+  "description": "VideoPlayer | Ionic Native Cordova-Plugin-VideoPlayer",
+  "source": "@site/docs/native/video-player.md",
+  "sourceDirName": "native",
+  "slug": "/native/video-player",
+  "permalink": "/developer/docs/native/video-player",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/video-player/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Video Player"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Video Editor",
+    "permalink": "/developer/docs/native/video-editor"
+  },
+  "next": {
+    "title": "Web Intent",
+    "permalink": "/developer/docs/native/web-intent"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "native/onesignal",
+  "id": "version-v5/native/onesignal",
+  "isDocsHomePage": false,
+  "title": "OneSignal | OneSignal Cordova SDK Push Notification Plugin",
+  "description": "The OneSignal Cordova SDK plugin is a simple implementation for delivering push notifications on Ionic apps. Read our OneSignal Documentation to learn more.",
+  "source": "@site/versioned_docs/version-v5/native/onesignal.md",
+  "sourceDirName": "native",
+  "slug": "/native/onesignal",
+  "permalink": "/developer/docs/v5/native/onesignal",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/onesignal/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "OneSignal | OneSignal Cordova SDK Push Notification Plugin",
+    "description": "The OneSignal Cordova SDK plugin is a simple implementation for delivering push notifications on Ionic apps. Read our OneSignal Documentation to learn more.",
+    "sidebar_label": "OneSignal"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "OCR",
+    "permalink": "/developer/docs/v5/native/ocr"
+  },
+  "next": {
+    "title": "Open Native Settings",
+    "permalink": "/developer/docs/v5/native/open-native-settings"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cli/commands/cordova-resources",
+  "id": "version-v5/cli/commands/cordova-resources",
+  "isDocsHomePage": false,
+  "title": "Splash Screen Image Icon Generator | Generate Cordova Resources",
+  "description": "Generate perfectly-sized icons and splash screens from PNG source images for your Cordova platforms. Automatically create icons with Ionic Cordova Resources.",
+  "source": "@site/versioned_docs/version-v5/cli/commands/cordova-resources.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/cordova-resources",
+  "permalink": "/developer/docs/v5/cli/commands/cordova-resources",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/resources.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Splash Screen Image Icon Generator | Generate Cordova Resources",
+    "description": "Generate perfectly-sized icons and splash screens from PNG source images for your Cordova platforms. Automatically create icons with Ionic Cordova Resources.",
+    "sidebar_label": "cordova resources"
+  },
+  "sidebar": "version-v5/cli",
+  "previous": {
+    "title": "cordova requirements",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-requirements"
+  },
+  "next": {
+    "title": "cordova run",
+    "permalink": "/developer/docs/v5/cli/commands/cordova-run"
+  }
+}

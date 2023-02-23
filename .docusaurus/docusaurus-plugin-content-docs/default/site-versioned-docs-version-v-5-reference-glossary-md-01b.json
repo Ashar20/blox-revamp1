@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/glossary",
+  "id": "version-v5/reference/glossary",
+  "isDocsHomePage": false,
+  "title": "Glossary",
+  "description": "Android SDK",
+  "source": "@site/versioned_docs/version-v5/reference/glossary.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/glossary",
+  "permalink": "/developer/docs/v5/reference/glossary",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/reference/glossary.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Code of Conduct",
+    "permalink": "/developer/docs/v5/contributing/coc"
+  },
+  "next": {
+    "title": "Versioning",
+    "permalink": "/developer/docs/v5/reference/versioning"
+  }
+}

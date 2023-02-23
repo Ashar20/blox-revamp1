@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/keychain",
+  "id": "version-v5/native/keychain",
+  "isDocsHomePage": false,
+  "title": "Keychain",
+  "description": "Get and set data in the iOS Keychain",
+  "source": "@site/versioned_docs/version-v5/native/keychain.md",
+  "sourceDirName": "native",
+  "slug": "/native/keychain",
+  "permalink": "/developer/docs/v5/native/keychain",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/keychain/index.ts",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "Keychain"
+  },
+  "sidebar": "version-v5/native",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/developer/docs/v5/native/keyboard"
+  },
+  "next": {
+    "title": "Kommunicate",
+    "permalink": "/developer/docs/v5/native/kommunicate"
+  }
+}

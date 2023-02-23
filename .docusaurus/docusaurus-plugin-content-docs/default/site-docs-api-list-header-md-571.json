@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/list-header",
+  "id": "api/list-header",
+  "isDocsHomePage": false,
+  "title": "ion-list-header",
+  "description": "List headers are block elements that are used to describe the contents of a list. Unlike item dividers, list headers should only be used once at the top of a list of items.",
+  "source": "@site/docs/api/list-header.md",
+  "sourceDirName": "api",
+  "slug": "/api/list-header",
+  "permalink": "/developer/docs/api/list-header",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/list-header.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-list-header"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-list",
+    "permalink": "/developer/docs/api/list"
+  },
+  "next": {
+    "title": "ion-virtual-scroll",
+    "permalink": "/developer/docs/api/virtual-scroll"
+  }
+}

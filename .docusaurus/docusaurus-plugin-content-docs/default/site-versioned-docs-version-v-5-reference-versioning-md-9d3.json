@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/versioning",
+  "id": "version-v5/reference/versioning",
+  "isDocsHomePage": false,
+  "title": "Versioning",
+  "description": "Ionic Framework follows the Semantic Versioning (SemVer) convention: major.minor.patch. Incompatible API changes increment the major version, adding backwards-compatible functionality increments the minor version, and backwards-compatible bug fixes increment the patch version.",
+  "source": "@site/versioned_docs/version-v5/reference/versioning.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/versioning",
+  "permalink": "/developer/docs/v5/reference/versioning",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/reference/versioning.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {},
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/developer/docs/v5/reference/glossary"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/developer/docs/v5/reference/release-notes"
+  }
+}

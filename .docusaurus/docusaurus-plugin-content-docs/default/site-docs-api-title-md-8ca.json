@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/title",
+  "id": "api/title",
+  "isDocsHomePage": false,
+  "title": "ion-title",
+  "description": "ion-title: Ionic Framework App Title Component for Toolbars",
+  "source": "@site/docs/api/title.md",
+  "sourceDirName": "api",
+  "slug": "/api/title",
+  "permalink": "/developer/docs/api/title",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/title.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-title"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-footer",
+    "permalink": "/developer/docs/api/footer"
+  },
+  "next": {
+    "title": "ion-buttons",
+    "permalink": "/developer/docs/api/buttons"
+  }
+}

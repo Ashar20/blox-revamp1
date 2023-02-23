@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/printer",
+  "id": "native/printer",
+  "isDocsHomePage": false,
+  "title": "Printer",
+  "description": "Printer Plugin | Cordova-Plugin-Printer for Ionic Apps",
+  "source": "@site/docs/native/printer.md",
+  "sourceDirName": "native",
+  "slug": "/native/printer",
+  "permalink": "/developer/docs/native/printer",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/printer/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Printer"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "Power Optimization",
+    "permalink": "/developer/docs/native/power-optimization"
+  },
+  "next": {
+    "title": "PSPDFKit-Cordova",
+    "permalink": "/developer/docs/native/pspdfkit-cordova"
+  }
+}

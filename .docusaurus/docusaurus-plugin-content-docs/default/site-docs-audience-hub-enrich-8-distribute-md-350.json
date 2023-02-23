@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Audience Hub/Enrich/distribute",
+  "id": "Audience Hub/Enrich/distribute",
+  "isDocsHomePage": false,
+  "title": "Build and Deploy your App",
+  "description": "Now that you have built your first app, you are going to want to get it distributed so everyone can start using it. The mechanics of building and deploying your application can be quite cumbersome. That is where Appflow comes into play. Appflow allows you to effectively generate web and native builds, push out live app updates, publish your app to the app stores, and automate the whole process. The entire Quickstart guide can be found here.",
+  "source": "@site/docs/Audience Hub/Enrich/8-distribute.md",
+  "sourceDirName": "Audience Hub/Enrich",
+  "slug": "/Audience Hub/Enrich/distribute",
+  "permalink": "/docs/Audience Hub/Enrich/distribute",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/Enrich/8-distribute.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Distribute"
+  }
+}

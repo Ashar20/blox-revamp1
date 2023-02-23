@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/file-opener",
+  "id": "native/file-opener",
+  "isDocsHomePage": false,
+  "title": "File Opener",
+  "description": "File Opener - Plugin for Cordova | Ionic Documentation",
+  "source": "@site/docs/native/file-opener.md",
+  "sourceDirName": "native",
+  "slug": "/native/file-opener",
+  "permalink": "/developer/docs/native/file-opener",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file-opener/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "File Opener"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "FCM",
+    "permalink": "/developer/docs/native/fcm"
+  },
+  "next": {
+    "title": "File Path",
+    "permalink": "/developer/docs/native/file-path"
+  }
+}

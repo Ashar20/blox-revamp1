@@ -1,0 +1,30 @@
+{
+  "unversionedId": "api/progress-bar",
+  "id": "version-v5/api/progress-bar",
+  "isDocsHomePage": false,
+  "title": "Progress Bar | Horizontal App Progress Bar for Loading Indicator",
+  "description": "ion-progress-bars are horizontal loading indicators that inform users about the status of ongoing app processes—such as submitting a form or saving updates.",
+  "source": "@site/versioned_docs/version-v5/api/progress-bar.md",
+  "sourceDirName": "api",
+  "slug": "/api/progress-bar",
+  "permalink": "/developer/docs/v5/api/progress-bar",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/progress-bar.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "title": "Progress Bar | Horizontal App Progress Bar for Loading Indicator",
+    "description": "ion-progress-bars are horizontal loading indicators that inform users about the status of ongoing app processes—such as submitting a form or saving updates.",
+    "sidebar_label": "ion-progress-bar",
+    "demoUrl": "/docs/demos/api/progress-bar/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/progress-bar/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-loading",
+    "permalink": "/developer/docs/v5/api/loading"
+  },
+  "next": {
+    "title": "ion-skeleton-text",
+    "permalink": "/developer/docs/v5/api/skeleton-text"
+  }
+}

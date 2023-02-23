@@ -1,0 +1,26 @@
+{
+  "unversionedId": "developing/tips",
+  "id": "developing/tips",
+  "isDocsHomePage": false,
+  "title": "Development Tips",
+  "description": "App Development Tips: How to Resolve Permission Errors and Issues",
+  "source": "@site/docs/developing/tips.md",
+  "sourceDirName": "developing",
+  "slug": "/developing/tips",
+  "permalink": "/docs/developing/tips",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developing/tips.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Development Tips"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/developing/android"
+  },
+  "next": {
+    "title": "Hardware Back Button",
+    "permalink": "/docs/developing/hardware-back-button"
+  }
+}

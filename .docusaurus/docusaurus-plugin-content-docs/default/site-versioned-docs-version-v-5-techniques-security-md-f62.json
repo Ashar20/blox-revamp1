@@ -1,0 +1,26 @@
+{
+  "unversionedId": "techniques/security",
+  "id": "version-v5/techniques/security",
+  "isDocsHomePage": false,
+  "title": "Security",
+  "description": "Sanitizing User Input",
+  "source": "@site/versioned_docs/version-v5/techniques/security.md",
+  "sourceDirName": "techniques",
+  "slug": "/techniques/security",
+  "permalink": "/developer/docs/v5/techniques/security",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/techniques/security.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "disableHtmlPreviews": true
+  },
+  "sidebar": "version-v5/docs",
+  "previous": {
+    "title": "Electron Desktop App",
+    "permalink": "/developer/docs/v5/deployment/desktop-app"
+  },
+  "next": {
+    "title": "Debugging",
+    "permalink": "/developer/docs/v5/troubleshooting/debugging"
+  }
+}

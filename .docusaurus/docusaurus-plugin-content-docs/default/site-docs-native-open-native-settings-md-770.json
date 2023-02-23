@@ -1,0 +1,26 @@
+{
+  "unversionedId": "native/open-native-settings",
+  "id": "native/open-native-settings",
+  "isDocsHomePage": false,
+  "title": "Open Native Settings",
+  "description": "Open Native App Settings: Open Android/iOS Device Settings",
+  "source": "@site/docs/native/open-native-settings.md",
+  "sourceDirName": "native",
+  "slug": "/native/open-native-settings",
+  "permalink": "/developer/docs/native/open-native-settings",
+  "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/open-native-settings/index.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Open Native Settings"
+  },
+  "sidebar": "native",
+  "previous": {
+    "title": "OneSignal",
+    "permalink": "/developer/docs/native/onesignal"
+  },
+  "next": {
+    "title": "OpenALPR",
+    "permalink": "/developer/docs/native/openalpr"
+  }
+}

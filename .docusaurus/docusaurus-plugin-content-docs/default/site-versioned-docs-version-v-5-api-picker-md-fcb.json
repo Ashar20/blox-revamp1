@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/picker",
+  "id": "version-v5/api/picker",
+  "isDocsHomePage": false,
+  "title": "ion-picker",
+  "description": "A Picker is a dialog that displays a row of buttons and columns underneath. It appears on top of the app's content, and at the bottom of the viewport.",
+  "source": "@site/versioned_docs/version-v5/api/picker.md",
+  "sourceDirName": "api",
+  "slug": "/api/picker",
+  "permalink": "/developer/docs/v5/api/picker",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/picker.md",
+  "tags": [],
+  "version": "v5",
+  "frontMatter": {
+    "sidebar_label": "ion-picker",
+    "demoUrl": "/docs/demos/api/picker/index.html",
+    "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/picker/index.html"
+  },
+  "sidebar": "version-v5/api",
+  "previous": {
+    "title": "ion-datetime",
+    "permalink": "/developer/docs/v5/api/datetime"
+  },
+  "next": {
+    "title": "ion-fab",
+    "permalink": "/developer/docs/v5/api/fab"
+  }
+}

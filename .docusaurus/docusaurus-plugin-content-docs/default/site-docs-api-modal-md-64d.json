@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/modal",
+  "id": "api/modal",
+  "isDocsHomePage": false,
+  "title": "ion-modal",
+  "description": "ion-modal: Ionic Mobile App Custom Modal API Component",
+  "source": "@site/docs/api/modal.md",
+  "sourceDirName": "api",
+  "slug": "/api/modal",
+  "permalink": "/developer/docs/api/modal",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/modal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ion-modal"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "ion-split-pane",
+    "permalink": "/developer/docs/api/split-pane"
+  },
+  "next": {
+    "title": "ion-backdrop",
+    "permalink": "/developer/docs/api/backdrop"
+  }
+}

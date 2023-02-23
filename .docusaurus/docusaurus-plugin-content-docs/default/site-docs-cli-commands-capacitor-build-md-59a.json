@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli/commands/capacitor-build",
+  "id": "cli/commands/capacitor-build",
+  "isDocsHomePage": false,
+  "title": "ionic capacitor build",
+  "description": "Ionic Capacitor Build for Apps - Documentation",
+  "source": "@site/docs/cli/commands/capacitor-build.md",
+  "sourceDirName": "cli/commands",
+  "slug": "/cli/commands/capacitor-build",
+  "permalink": "/developer/docs/cli/commands/capacitor-build",
+  "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/build.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ionic capacitor build",
+    "sidebar_label": "capacitor build"
+  },
+  "sidebar": "cli",
+  "previous": {
+    "title": "capacitor add",
+    "permalink": "/developer/docs/cli/commands/capacitor-add"
+  },
+  "next": {
+    "title": "capacitor copy",
+    "permalink": "/developer/docs/cli/commands/capacitor-copy"
+  }
+}
