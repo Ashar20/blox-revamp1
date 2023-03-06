@@ -1,6 +1,10 @@
 ---
 sidebar_label: Metrics 
 ---
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4fba78e (METRICS)
 Metrics 
 
 # Introduction
