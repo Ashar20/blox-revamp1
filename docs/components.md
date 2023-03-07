@@ -3,9 +3,6 @@ title: UI Components
 hide_table_of_contents: true
 ---
 
-## **Installation**
-
-
 ### What is Blox Python Client?
 
 The Blox SDK allows access to the capabilities of Blox. We currently support a Python client.
@@ -776,3 +773,6 @@ _    """_
 
 
         new_logger.setLevel(logging.DEBUG)
+
+
+
