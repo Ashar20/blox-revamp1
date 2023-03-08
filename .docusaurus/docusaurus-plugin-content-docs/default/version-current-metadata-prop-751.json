@@ -101,6 +101,11 @@
             "type": "link",
             "label": "Upload Custom Audience",
             "href": "/docs/Audience Hub/previewing"
+          },
+          {
+            "type": "link",
+            "label": "FAQ's",
+            "href": "/docs/Audience Hub/pwa"
           }
         ],
         "collapsible": true
@@ -157,26 +162,21 @@
         "items": [
           {
             "type": "link",
-            "label": "Installation",
-            "href": "/docs/api/action-sheet"
+            "label": "UI Components",
+            "href": "/docs/components"
           }
         ],
         "collapsible": true
       },
       {
         "type": "category",
-        "label": "Catalog",
+        "label": "Action Sheet",
         "collapsed": false,
         "items": [
           {
             "type": "link",
-            "label": "Catalog",
-            "href": "/docs/api/action-sheet copy"
-          },
-          {
-            "type": "link",
-            "label": "Catalog Manager",
-            "href": "/docs/api/action-sheet copy 2"
+            "label": "ion-action-sheet",
+            "href": "/docs/api/action-sheet"
           }
         ],
         "collapsible": true

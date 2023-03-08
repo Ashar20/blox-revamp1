@@ -18,7 +18,7 @@
   },
   "sidebar": "version-v5/api",
   "next": {
-    "title": "Installation",
+    "title": "ion-action-sheet",
     "permalink": "/docs/v5/api/action-sheet"
   }
 }

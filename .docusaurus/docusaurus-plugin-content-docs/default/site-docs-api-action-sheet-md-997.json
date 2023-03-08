@@ -2,8 +2,8 @@
   "unversionedId": "api/action-sheet",
   "id": "api/action-sheet",
   "isDocsHomePage": false,
-  "title": "Installation",
-  "description": "What is Blox Python Client?",
+  "title": "ion-action-sheet",
+  "description": "ion-action-sheet | Action Sheet Dialog for iOS and Android Apps",
   "source": "@site/docs/api/action-sheet.md",
   "sourceDirName": "api",
   "slug": "/api/action-sheet",
@@ -12,12 +12,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Installation",
-    "sidebar_label": "Installation"
+    "title": "ion-action-sheet"
   },
   "sidebar": "api",
+  "previous": {
+    "title": "UI Components",
+    "permalink": "/docs/components"
+  },
   "next": {
-    "title": "Catalog",
-    "permalink": "/docs/api/action-sheet copy"
+    "title": "ion-accordion",
+    "permalink": "/docs/api/accordion"
   }
 }

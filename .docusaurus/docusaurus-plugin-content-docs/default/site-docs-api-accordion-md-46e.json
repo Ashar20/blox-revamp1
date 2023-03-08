@@ -16,8 +16,8 @@
   },
   "sidebar": "api",
   "previous": {
-    "title": "Catalog Manager",
-    "permalink": "/docs/api/action-sheet copy 2"
+    "title": "ion-action-sheet",
+    "permalink": "/docs/api/action-sheet"
   },
   "next": {
     "title": "ion-accordion-group",

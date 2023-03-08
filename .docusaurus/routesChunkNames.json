@@ -21,8 +21,8 @@
   "/docs/__docusaurus/debug/routes-d11": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/docs/search-c5a": {
-    "component": "component---users-silasashar-documents-git-hub-blox-support-site-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-jsdbf-dc6"
+  "/docs/search-302": {
+    "component": "component---users-silasashar-blox-revamp-1-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-jsb-3-c-c5a"
   },
   "/docs/v5-205": {
     "component": "component---theme-doc-page-1-be-9be",
@@ -1932,7 +1932,7 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-v-5-vue-your-first-app-taking-photos-52-d-0ce"
   },
-  "/docs/-6dd": {
+  "/docs/-605": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-739"
   },
@@ -1955,18 +1955,6 @@
   "/docs/api/action-sheet-c2b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-action-sheet-997-140"
-  },
-  "/docs/api/action-sheet copy-04e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-action-sheet-copy-2-a-3-a12"
-  },
-  "/docs/api/action-sheet copy 2-9ae": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-action-sheet-copy-20-dc-cfe"
-  },
-  "/docs/api/action-sheet copy 3-20b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-action-sheet-copy-31-a-8-bce"
   },
   "/docs/api/alert-fb5": {
     "component": "component---theme-doc-item-178-a40",
@@ -2336,7 +2324,7 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-audience-hub-previewingd-8-d-1ff"
   },
-  "/docs/Audience Hub/pwa-f83": {
+  "/docs/Audience Hub/pwa-cd2": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-audience-hub-pwac-56-542"
   },
@@ -2580,7 +2568,7 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-cli-using-a-proxy-526-47a"
   },
-  "/docs/components-0b0": {
+  "/docs/components-e19": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-components-1-f-7-307"
   },
@@ -2739,10 +2727,6 @@
   "/docs/DXM Hub/pages-a74": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-dxm-hub-pagesba-8-a89"
-  },
-  "/docs/DXM Hub/pwa-c49": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dxm-hub-pwac-4-b-7d6"
   },
   "/docs/DXM Hub/storage-5ce": {
     "component": "component---theme-doc-item-178-a40",

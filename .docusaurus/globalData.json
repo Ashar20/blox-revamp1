@@ -138,20 +138,6 @@
               "sidebar": "api"
             },
             {
-              "id": "api/action-sheet copy",
-              "path": "/docs/api/action-sheet copy",
-              "sidebar": "api"
-            },
-            {
-              "id": "api/action-sheet copy 2",
-              "path": "/docs/api/action-sheet copy 2",
-              "sidebar": "api"
-            },
-            {
-              "id": "api/action-sheet copy 3",
-              "path": "/docs/api/action-sheet copy 3"
-            },
-            {
               "id": "api/alert",
               "path": "/docs/api/alert",
               "sidebar": "api"
@@ -609,7 +595,8 @@
             },
             {
               "id": "Audience Hub/pwa",
-              "path": "/docs/Audience Hub/pwa"
+              "path": "/docs/Audience Hub/pwa",
+              "sidebar": "docs"
             },
             {
               "id": "Audience Hub/scaffolding",
@@ -912,7 +899,8 @@
             },
             {
               "id": "components",
-              "path": "/docs/components"
+              "path": "/docs/components",
+              "sidebar": "api"
             },
             {
               "id": "Content Hub/Enrich/dataorg",
@@ -1082,10 +1070,6 @@
               "id": "DXM Hub/pages",
               "path": "/docs/DXM Hub/pages",
               "sidebar": "docs"
-            },
-            {
-              "id": "DXM Hub/pwa",
-              "path": "/docs/DXM Hub/pwa"
             },
             {
               "id": "DXM Hub/storage",

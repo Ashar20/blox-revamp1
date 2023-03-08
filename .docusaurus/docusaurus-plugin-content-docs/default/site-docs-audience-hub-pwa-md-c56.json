@@ -14,5 +14,14 @@
   "frontMatter": {
     "title": "Audience Hub - FAQ",
     "sidebar_label": "FAQ's"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upload Custom Audience",
+    "permalink": "/docs/Audience Hub/previewing"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/DXM Hub/Getting Started"
   }
 }

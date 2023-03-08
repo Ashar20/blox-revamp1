@@ -3,7 +3,7 @@
   "id": "api/app",
   "isDocsHomePage": false,
   "title": "ion-app",
-  "description": "from swagger_client.api import CatalogsApi",
+  "description": "ion-app: Container Element for an Ionic Application",
   "source": "@site/docs/api/app.md",
   "sourceDirName": "api",
   "slug": "/api/app",
