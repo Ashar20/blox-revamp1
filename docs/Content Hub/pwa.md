@@ -4,28 +4,34 @@ sidebar_label: FAQ's
 ---
 
 <details>
-    <summary> What is an Audience? </summary>
-  An Audience refers to a specific segment of users who share common attributes & behavior patterns. Example. Desktop Visitors, High value spenders.
+    <summary> What is Content Hub? What does it do? </summary>
+ Content Hub enables you to create Catalogs by uploading data from different datasources, manage Catalog content, and enrich Catalog content.
 </details>
 <details>
-    <summary>What is Audience Overlap Information?</summary>
-   Audience Overlap provides you with details about the visitors who overlap between the different Audience segments configured.
+    <summary>How do I create a Catalog?</summary>
+   You can create a Catalog by clicking on ‘Create New’ in the Explore screen. Click here, to find detailed instructions on how to create a Catalog.
 </details>
 <details>
-    <summary>How can I access the Audience Overlap Information?</summary>
-Click on the ‘overlap’ icon next to each Audience name from the Audience Listing Table. Please click here, to find details about Audience Overlap.
+    <summary>How can I access a Catalog’s Content?</summary>
+In the Catalog listing table, either click on the Catalog Name or on the ‘info’ icon. Click here, to find detailed instructions on how to access & manage Catalog content.
 </details>
 <details>
-    <summary>Can I create a custom Audience?</summary>
-   Click on the ‘Upload New’ CTA from the Audience listing screen, and upload any audience information as a csv file.
-
+    <summary>What are the types of data sources supported?</summary>
+ We currently support 
+Amazon s3
+SFTP
+Kafka
+Manual File upload
 </details>
 <details>
-    <summary>To upload a new audience, is CSV the only supported format?</summary>
-  At this point, only CSV. We can support more formats in future releases
+    <summary>Can I upload data from shopify feed?</summary>
+  No, we currently don’t support Shopify feed as a data source. Please check our list of currently supported here.
 </details>
 <details>
-    <summary>What does the audience editing screen look like? What all can be edited in the audience?</summary>
-  Currently we don’t support editing of existing Audiences.
+    <summary>What is a schema?</summary>
+  A schema represents how the Catalog data is organized in the database; the relationship between entities like table name, field, attribute, field type etc.
 </details>
-
+<details>
+    <summary>What is a feed?</summary>
+  A feed is a collection of data.
+</details>
