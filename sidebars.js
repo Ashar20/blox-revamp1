@@ -38,6 +38,7 @@ module.exports = {
         "Audience Hub/scaffolding",
         "Audience Hub/tips",
         "Audience Hub/previewing",
+        "Audience Hub/pwa",
 
         
         

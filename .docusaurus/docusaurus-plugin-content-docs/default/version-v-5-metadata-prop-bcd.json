@@ -673,7 +673,7 @@
         "items": [
           {
             "type": "link",
-            "label": "ion-action-sheet",
+            "label": "Installation",
             "href": "/docs/v5/api/action-sheet"
           }
         ],

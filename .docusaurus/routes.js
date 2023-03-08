@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/docs/search',
-    component: ComponentCreator('/docs/search','302'),
+    component: ComponentCreator('/docs/search','c5a'),
     exact: true
   },
   {
@@ -2871,7 +2871,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/','9ef'),
+    component: ComponentCreator('/docs/','6dd'),
     routes: [
       {
         path: '/docs/',
@@ -2902,6 +2902,23 @@ export default [
         component: ComponentCreator('/docs/api/action-sheet','c2b'),
         exact: true,
         'sidebar': "api"
+      },
+      {
+        path: '/docs/api/action-sheet copy',
+        component: ComponentCreator('/docs/api/action-sheet copy','04e'),
+        exact: true,
+        'sidebar': "api"
+      },
+      {
+        path: '/docs/api/action-sheet copy 2',
+        component: ComponentCreator('/docs/api/action-sheet copy 2','9ae'),
+        exact: true,
+        'sidebar': "api"
+      },
+      {
+        path: '/docs/api/action-sheet copy 3',
+        component: ComponentCreator('/docs/api/action-sheet copy 3','20b'),
+        exact: true
       },
       {
         path: '/docs/api/alert',
@@ -3452,6 +3469,11 @@ export default [
         'sidebar': "docs"
       },
       {
+        path: '/docs/Audience Hub/pwa',
+        component: ComponentCreator('/docs/Audience Hub/pwa','f83'),
+        exact: true
+      },
+      {
         path: '/docs/Audience Hub/scaffolding',
         component: ComponentCreator('/docs/Audience Hub/scaffolding','7c3'),
         exact: true,
@@ -3812,9 +3834,8 @@ export default [
       },
       {
         path: '/docs/components',
-        component: ComponentCreator('/docs/components','e19'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/components','0b0'),
+        exact: true
       },
       {
         path: '/docs/Content Hub/Enrich/dataorg',
@@ -4023,6 +4044,11 @@ export default [
         component: ComponentCreator('/docs/DXM Hub/pages','a74'),
         exact: true,
         'sidebar': "docs"
+      },
+      {
+        path: '/docs/DXM Hub/pwa',
+        component: ComponentCreator('/docs/DXM Hub/pwa','c49'),
+        exact: true
       },
       {
         path: '/docs/DXM Hub/storage',

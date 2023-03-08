@@ -74,8 +74,8 @@ export default {
       "hideOnScroll": true,
       "logo": {
         "alt": "Site Logo",
-        "src": "https://d1r1e7xjkfj7nz.cloudfront.net/bloxlight.png",
-        "srcDark": "https://d1r1e7xjkfj7nz.cloudfront.net/bloxdark.png",
+        "src": "/img/logos/bloxlight.png",
+        "srcDark": "/img/logos/bloxdark.png",
         "href": "/",
         "target": "_self",
         "width": 139,
@@ -144,8 +144,8 @@ export default {
           "position": "right",
           "icon": {
             "alt": "twitter logo",
-            "src": "https://d1r1e7xjkfj7nz.cloudfront.net/twitter.svg",
-            "href": "https://d1r1e7xjkfj7nz.cloudfront.net/twitter.svg",
+            "src": "/logos/twitter.svg",
+            "href": "https://twitter.com/Ionicframework",
             "target": "_blank"
           }
         }
@@ -186,10 +186,10 @@ export default {
       "docusaurus-plugin-module-alias",
       {
         "alias": {
-          "styled-components": "/Users/silasashar/blox-revamp1/node_modules/styled-components",
-          "react": "/Users/silasashar/blox-revamp1/node_modules/react",
-          "react-dom": "/Users/silasashar/blox-revamp1/node_modules/react-dom",
-          "@components": "/Users/silasashar/blox-revamp1/src/components"
+          "styled-components": "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/styled-components",
+          "react": "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/react",
+          "react-dom": "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/react-dom",
+          "@components": "/Users/silasashar/Documents/GitHub/blox-support-site/src/components"
         }
       }
     ],
@@ -197,7 +197,7 @@ export default {
       "@docusaurus/plugin-content-docs",
       {
         "routeBasePath": "/",
-        "sidebarPath": "/Users/silasashar/blox-revamp1/sidebars.js",
+        "sidebarPath": "/Users/silasashar/Documents/GitHub/blox-support-site/sidebars.js",
         "exclude": [
           "README.md"
         ],
@@ -218,16 +218,16 @@ export default {
   ],
   "themes": [
     [
-      "/Users/silasashar/blox-revamp1/docusaurus-theme-classic",
+      "/Users/silasashar/Documents/GitHub/blox-support-site/docusaurus-theme-classic",
       {
         "customCss": [
-          "/Users/silasashar/blox-revamp1/node_modules/modern-normalize/modern-normalize.css",
-          "/Users/silasashar/blox-revamp1/node_modules/@ionic-internal/ionic-ds/dist/tokens/tokens.css",
-          "/Users/silasashar/blox-revamp1/src/styles/custom.scss"
+          "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/modern-normalize/modern-normalize.css",
+          "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/@ionic-internal/ionic-ds/dist/tokens/tokens.css",
+          "/Users/silasashar/Documents/GitHub/blox-support-site/src/styles/custom.scss"
         ]
       }
     ],
-    "/Users/silasashar/blox-revamp1/node_modules/@docusaurus/theme-search-algolia"
+    "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/@docusaurus/theme-search-algolia"
   ],
   "customFields": {},
   "baseUrlIssueBanner": true,

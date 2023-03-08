@@ -157,21 +157,26 @@
         "items": [
           {
             "type": "link",
-            "label": "UI Components",
-            "href": "/docs/components"
+            "label": "Installation",
+            "href": "/docs/api/action-sheet"
           }
         ],
         "collapsible": true
       },
       {
         "type": "category",
-        "label": "Action Sheet",
+        "label": "Catalog",
         "collapsed": false,
         "items": [
           {
             "type": "link",
-            "label": "ion-action-sheet",
-            "href": "/docs/api/action-sheet"
+            "label": "Catalog",
+            "href": "/docs/api/action-sheet copy"
+          },
+          {
+            "type": "link",
+            "label": "Catalog Manager",
+            "href": "/docs/api/action-sheet copy 2"
           }
         ],
         "collapsible": true

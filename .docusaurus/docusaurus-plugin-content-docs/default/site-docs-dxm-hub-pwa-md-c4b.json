@@ -14,10 +14,5 @@
   "frontMatter": {
     "title": "DXM - FAQ",
     "sidebar_label": "FAQ's"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Template",
-    "permalink": "/docs/DXM Hub/Template"
   }
 }
