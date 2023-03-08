@@ -2871,7 +2871,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/','605'),
+    component: ComponentCreator('/docs/','05e'),
     routes: [
       {
         path: '/docs/',
@@ -2902,6 +2902,21 @@ export default [
         component: ComponentCreator('/docs/api/action-sheet','c2b'),
         exact: true,
         'sidebar': "api"
+      },
+      {
+        path: '/docs/api/action-sheet copy',
+        component: ComponentCreator('/docs/api/action-sheet copy','c06'),
+        exact: true
+      },
+      {
+        path: '/docs/api/action-sheet copy 2',
+        component: ComponentCreator('/docs/api/action-sheet copy 2','482'),
+        exact: true
+      },
+      {
+        path: '/docs/api/action-sheet copy 3',
+        component: ComponentCreator('/docs/api/action-sheet copy 3','20b'),
+        exact: true
       },
       {
         path: '/docs/api/alert',
@@ -4029,6 +4044,11 @@ export default [
         component: ComponentCreator('/docs/DXM Hub/pages','a74'),
         exact: true,
         'sidebar': "docs"
+      },
+      {
+        path: '/docs/DXM Hub/pwa',
+        component: ComponentCreator('/docs/DXM Hub/pwa','c49'),
+        exact: true
       },
       {
         path: '/docs/DXM Hub/storage',

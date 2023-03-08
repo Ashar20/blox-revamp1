@@ -63,7 +63,7 @@
               },
               "sidebar": "api",
               "previous": {
-                "title": "ion-action-sheet",
+                "title": "action-sheet",
                 "permalink": "/docs/api/action-sheet"
               },
               "next": {
@@ -101,8 +101,8 @@
               "unversionedId": "api/action-sheet",
               "id": "api/action-sheet",
               "isDocsHomePage": false,
-              "title": "ion-action-sheet",
-              "description": "ion-action-sheet | Action Sheet Dialog for iOS and Android Apps",
+              "title": "action-sheet",
+              "description": "",
               "source": "@site/docs/api/action-sheet.md",
               "sourceDirName": "api",
               "slug": "/api/action-sheet",
@@ -110,9 +110,7 @@
               "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {
-                "title": "ion-action-sheet"
-              },
+              "frontMatter": {},
               "sidebar": "api",
               "previous": {
                 "title": "UI Components",
@@ -121,6 +119,60 @@
               "next": {
                 "title": "ion-accordion",
                 "permalink": "/docs/api/accordion"
+              }
+            },
+            {
+              "unversionedId": "api/action-sheet copy",
+              "id": "api/action-sheet copy",
+              "isDocsHomePage": false,
+              "title": "  Catalog",
+              "description": "Catalog(",
+              "source": "@site/docs/api/action-sheet copy.md",
+              "sourceDirName": "api",
+              "slug": "/api/action-sheet copy",
+              "permalink": "/docs/api/action-sheet copy",
+              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "  Catalog",
+                "sidebar_label": "Catalog"
+              }
+            },
+            {
+              "unversionedId": "api/action-sheet copy 2",
+              "id": "api/action-sheet copy 2",
+              "isDocsHomePage": false,
+              "title": "  Catalog",
+              "description": "Click me",
+              "source": "@site/docs/api/action-sheet copy 2.md",
+              "sourceDirName": "api",
+              "slug": "/api/action-sheet copy 2",
+              "permalink": "/docs/api/action-sheet copy 2",
+              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy 2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "  Catalog",
+                "sidebar_label": "Catalog Manager"
+              }
+            },
+            {
+              "unversionedId": "api/action-sheet copy 3",
+              "id": "api/action-sheet copy 3",
+              "isDocsHomePage": false,
+              "title": "  Catalog",
+              "description": "class Schema(blox.base.base.Blox)",
+              "source": "@site/docs/api/action-sheet copy 3.md",
+              "sourceDirName": "api",
+              "slug": "/api/action-sheet copy 3",
+              "permalink": "/docs/api/action-sheet copy 3",
+              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy 3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "  Catalog",
+                "sidebar_label": "Schema"
               }
             },
             {
@@ -154,7 +206,7 @@
               "id": "api/app",
               "isDocsHomePage": false,
               "title": "ion-app",
-              "description": "ion-app: Container Element for an Ionic Application",
+              "description": "from swagger_client.api import CatalogsApi",
               "source": "@site/docs/api/app.md",
               "sourceDirName": "api",
               "slug": "/api/app",
@@ -4137,11 +4189,12 @@
               "version": "current",
               "frontMatter": {
                 "title": "UI Components",
-                "hide_table_of_contents": true
+                "hide_table_of_contents": true,
+                "allow_different_nesting": true
               },
               "sidebar": "api",
               "next": {
-                "title": "ion-action-sheet",
+                "title": "action-sheet",
                 "permalink": "/docs/api/action-sheet"
               }
             },
@@ -4175,8 +4228,8 @@
               "unversionedId": "Content Hub/Enrich/metrics",
               "id": "Content Hub/Enrich/metrics",
               "isDocsHomePage": false,
-              "title": "<<<<<<< HEAD",
-              "description": ">>>>>> 4fba78e (METRICS)",
+              "title": "metrics",
+              "description": "",
               "source": "@site/docs/Content Hub/Enrich/metrics.md",
               "sourceDirName": "Content Hub/Enrich",
               "slug": "/Content Hub/Enrich/metrics",
@@ -4344,8 +4397,8 @@
               "unversionedId": "Content Hub/pwa",
               "id": "Content Hub/pwa",
               "isDocsHomePage": false,
-              "title": "Content Hub - FAQ",
-              "description": "What is Content Hub? What does it do?",
+              "title": "Progressive Web Apps in Angular",
+              "description": "Make Progressive Web Apps (PWA) in Angular - Ionic Tutorial",
               "source": "@site/docs/Content Hub/pwa.md",
               "sourceDirName": "Content Hub",
               "slug": "/Content Hub/pwa",
@@ -4354,7 +4407,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Content Hub - FAQ",
+                "title": "Progressive Web Apps in Angular",
                 "sidebar_label": "FAQ's"
               },
               "sidebar": "docs",
@@ -4905,6 +4958,24 @@
               "next": {
                 "title": "Module",
                 "permalink": "/docs/DXM Hub/Module"
+              }
+            },
+            {
+              "unversionedId": "DXM Hub/pwa",
+              "id": "DXM Hub/pwa",
+              "isDocsHomePage": false,
+              "title": "DXM - FAQ",
+              "description": "",
+              "source": "@site/docs/DXM Hub/pwa.md",
+              "sourceDirName": "DXM Hub",
+              "slug": "/DXM Hub/pwa",
+              "permalink": "/docs/DXM Hub/pwa",
+              "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/pwa.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "DXM - FAQ",
+                "sidebar_label": "FAQ's"
               }
             },
             {

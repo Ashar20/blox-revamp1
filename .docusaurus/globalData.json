@@ -138,6 +138,18 @@
               "sidebar": "api"
             },
             {
+              "id": "api/action-sheet copy",
+              "path": "/docs/api/action-sheet copy"
+            },
+            {
+              "id": "api/action-sheet copy 2",
+              "path": "/docs/api/action-sheet copy 2"
+            },
+            {
+              "id": "api/action-sheet copy 3",
+              "path": "/docs/api/action-sheet copy 3"
+            },
+            {
               "id": "api/alert",
               "path": "/docs/api/alert",
               "sidebar": "api"
@@ -1070,6 +1082,10 @@
               "id": "DXM Hub/pages",
               "path": "/docs/DXM Hub/pages",
               "sidebar": "docs"
+            },
+            {
+              "id": "DXM Hub/pwa",
+              "path": "/docs/DXM Hub/pwa"
             },
             {
               "id": "DXM Hub/storage",

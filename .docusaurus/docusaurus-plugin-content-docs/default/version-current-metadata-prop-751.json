@@ -175,7 +175,7 @@
         "items": [
           {
             "type": "link",
-            "label": "ion-action-sheet",
+            "label": "action-sheet",
             "href": "/docs/api/action-sheet"
           }
         ],

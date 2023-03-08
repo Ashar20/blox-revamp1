@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "  Catalog",
     "sidebar_label": "Catalog"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "Installation",
-    "permalink": "/docs/api/action-sheet"
-  },
-  "next": {
-    "title": "Catalog Manager",
-    "permalink": "/docs/api/action-sheet copy 2"
   }
 }

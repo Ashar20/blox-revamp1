@@ -13,11 +13,12 @@
   "version": "current",
   "frontMatter": {
     "title": "UI Components",
-    "hide_table_of_contents": true
+    "hide_table_of_contents": true,
+    "allow_different_nesting": true
   },
   "sidebar": "api",
   "next": {
-    "title": "ion-action-sheet",
+    "title": "action-sheet",
     "permalink": "/docs/api/action-sheet"
   }
 }

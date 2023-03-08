@@ -1,21 +1,18 @@
 ---
 title: UI Components
 hide_table_of_contents: true
+allow_different_nesting: true
 ---
 
 ### What is Blox Python Client?
 
 The Blox SDK allows access to the capabilities of Blox. We currently support a Python client.
 
-
 ### Goal
 
 To install Blox SDK and start using the APIs
 
-
 ### Prerequisites
-
-
 
 * Blox Account API_KEY
 * python3 and virtualenv to be installed in your work environment
@@ -23,7 +20,6 @@ To install Blox SDK and start using the APIs
 _NOTE : Blox Python client does not allow any admin-level operation._
 
 _DISCLAIMER : Currently, any modification/creation of any entity done through the SDK will not reflect in the Blox Application. However, changes made in Blox application will be observable through the SDK._
-
 
 ### Getting started
 
@@ -33,8 +29,7 @@ Install the wheel object using pip
 
 You will be prompted to provide credentials for the installation
 
-pip install https://pidev.madstreetden.xyz/packages/blox-0.0.6-py3-none-any.whl
-
+pip install <https://pidev.madstreetden.xyz/packages/blox-0.0.6-py3-none-any.whl>
 
 ### Steps to instantiate
 
@@ -48,25 +43,19 @@ Refer to the list of Blox python sub-modules from the left panel. All sub-module
 
 module_manager = blox.get('MODULE_NAME')
 
-
 ## **Content Onboarding**
 
-
-### Goal
+**Goal**
 
 Blox allows you to upload any kind of structured content, a catalog, through various connectors.
 
-
-### Prerequisites
-
-
+**Prerequisites**
 
 1. Python SDK (Link to SDK installation)
 2. Valid Blox Account (Link to account creation)
 3. Supported data format (Link to documentation)
 4. Supported data sources (Link to documentation)
 5. Data to be onboarded
-
 
 ### 1. Create a catalog
 
@@ -76,7 +65,6 @@ catalog_manager = blox.get('catalog')
 
 catalog = catalog_manager.create(name='apparel')
 
-
 ### 2. Discover connectors
 
 Discover the predefined connectors supported by the system. Every connector configuration will have the data access details which includes path, authentication etc
@@ -85,8 +73,7 @@ connector_manager = blox.get('connector')
 
 connector_manager.list()
 
-_NOTE: Currently, only S3 connectors are operational_
-
+:::NOTE: Currently, only S3 connectors are operational:::
 
 ### 3. Add a data source
 
@@ -108,7 +95,7 @@ datasource = {
 
   "mode": "incremental", _# (incremental | full_sync)_
 
-  "schedule": "0 0/30 * * * ?"  _# cron_
+  "schedule": "0 0/30 ** * ?"  _# cron_
 
 }
 
@@ -122,20 +109,19 @@ We can also infer the schema of a data source. It could be useful in setting the
 
 catalog.datasources[0].infer_schema()
 
-
 ### 4. Set extraction config
 
 If we want the catalog to pass through enrichment flows to extract tags, then we need to specify the extraction configs in the catalog configuration. There are preset models available which can be reused or you can build your own model using Enrich flow and use the same here.
 
-_NOTE: Only the type:DIGESTION extraction configs can be used_
+:::NOTE: Only the type:DIGESTION extraction configs can be used:::
 
 Discover the existing extraction configs
 
 extraction_config_manager = blox.get('extraction_config')
 
-extraction_config = extraction_config_manager.list(type='digestion')[0]
+extraction_config = extraction_config_manager.list[type='digestion'](0)
 
-extraction_config_manager.__dict__
+extraction_config_manager.**dict**
 
 Set the extraction config in catalog schema
 
@@ -158,7 +144,6 @@ catalog.config = {
 }
 
 catalog.save()
-
 
 ### 5. Set Schema
 
@@ -242,12 +227,9 @@ catalog = catalog_manager.get('CATALOG_ID') _# Get upto-date instance_
 
 catalog.schema.fields
 
-
 ### 6. Process the catalog
 
 There are two parts to processing a catalog
-
-
 
 1. The required resources should be provisioned and scheduling should be enabled
 2. Processing of data
@@ -264,14 +246,12 @@ catalog.status
 
 Possible values for catalog status :
 
-
-
 1. NOT READY - Resources provisioning is not done
 2. READY - Resources provisioning was successful
 3. UPDATING - Catalog update is in progress
 4. DELETING - Catalog delete is in progress
 
-_NOTE: A catalog needs to be in READY state for it to be useable_
+# NOTE: A catalog needs to be in READY state for it to be useable
 
 How to check the progress of the catalog processing after provisioning is ready:
 
@@ -281,8 +261,7 @@ Run method overrides the schedule and start a run immediately
 
 catalog.datasources[0].run()
 
-
-### 7. Explore the catalog
+ 7. Explore the catalog
 
 Once the catalog is in READY state, we can get the summary of the catalog
 
@@ -300,11 +279,7 @@ In order to search for a particular text, supply a search_text param
 
 catalog.list_records(search_text='Levi', sort_by='price')
 
-
-### Glossary
-
-
-#### Connectors
+## Connectors
 
 A connector is a preset configuration of a data source. The discover connector API returns the required credentials and configurations necessary to create a 'DataSource' of the corresponding type of connector. The connectors supported are: s3, sftp, kafka
 
@@ -312,7 +287,7 @@ S3 - Connect and process catalog data from S3 files
 
 Connector configuration required:
 
-
+```
 <table>
   <tr>
    <td><strong>Parameter</strong>
@@ -405,13 +380,13 @@ Connector configuration required:
    </td>
   </tr>
 </table>
-
+```
 
 Kafka - Connect and process catalog data from Kafka
 
 Connector configuration required:
 
-
+```
 <table>
   <tr>
    <td><strong>Parameter</strong>
@@ -474,21 +449,19 @@ Connector configuration required:
    </td>
   </tr>
 </table>
+```
 
-
-
-
-1.  \
+1. \
 Catalog - Defines the configuration and the data for the content to be onboarded (Configs+Feed)
     1. Data source - Defines the source from where the data should be onboarded in the system
     2. Type - Defines the type of the connector that is used to connect to the data source
     3. Mode - Defines if a data that we receive is going to be incremental or full sync
 
+        1.
 
-
-        1. 
 Full Sync - In this mode, we process the entire catalog every day or at any cadence that is agreed upon. The following rules are applied to make the updates:
 
+```
 <table>
   <tr>
    <td><strong>Scenario</strong>
@@ -523,13 +496,12 @@ Full Sync - In this mode, we process the entire catalog every day or at any cade
    </td>
   </tr>
 </table>
+```
 
-
-
-
-        2. 
- \
+        2.
 Delta Mode - In this mode, we process only the delta updates on a daily basis or on any cadence that is agreed upon. The following rules are applied to make the updates:
+
+```
 
 <table>
   <tr>
@@ -565,9 +537,7 @@ Delta Mode - In this mode, we process only the delta updates on a daily basis or
    </td>
   </tr>
 </table>
-
-
-
+```
 
     4.  \
 Schedule - Defines the schedule for syncing the catalog on a regular basis. [CronTrigger formats](http://www.quartz-scheduler.org/documentation/quartz-2.1.7/tutorials/tutorial-lesson-06.html) are used to specify the schedules
@@ -594,14 +564,11 @@ Schedule - Defines the schedule for syncing the catalog on a regular basis. [Cro
     6. Extraction Config - Defines the configuration to extract tags from the records based on the models built and deployed
 2. Feed - Data for the catalog
 
-
 ## **Events Onboarding**
 
-
-### Goal
+Goal
 
 Event definitions need to be setup in order to make use of Blox's powerful personalization capabilities
-
 
 ### Create an event definition
 
@@ -705,20 +672,17 @@ entity = definition_manager.create(name='addToWishlist',template=t_obj,descripti
 
     }])
 
-
 ### Enable Event Definition
 
 In order to create the event or track it, the event pipeline must be enabled
 
 definition_manager.enable()
 
-
 ### Get event pipeline status
 
 We can track the status of the pipeline using the following get status method
 
 definition_manger.get_status()
-
 
 ### Create event (track event)
 
@@ -734,7 +698,6 @@ track_payload = {
 
 event.create_event(body = track_payload)
 
-
 ## **Logging**
 
 The client writes its logs to the logger named BLOX_SDK_LOGGER; This can be set to stdout using the below function:
@@ -743,17 +706,16 @@ The client writes its logs to the logger named BLOX_SDK_LOGGER; This can be set 
 
     _"""_
 
-_   function to set a i/o stream handling logger. _
+_function to set a i/o stream handling logger._
 
-_    That prints the logs in std for the given level and format._
+_That prints the logs in std for the given level and format._
 
-_    Args:_
+_Args:_
 
-_        level (logging, optional): Minimum Level of the log. Defaults to logging.DEBUG._
+_level (logging, optional): Minimum Level of the log. Defaults to logging.DEBUG._
 
-_        format (str, optional): Format of the log. Defaults to '%(asctime)s - %(name)s - %(funcName)s - %(filename)s - %(levelname)s - %(message)s'._
-
-_    """_
+_format (str, optional): Format of the log. Defaults to '%(asctime)s - %(name)s - %(funcName)s - %(filename)s - %(levelname)s - %(message)s'._
+    _"""_
 
     **from** **logging** **import** StreamHandler
 
@@ -773,6 +735,3 @@ _    """_
 
 
         new_logger.setLevel(logging.DEBUG)
-
-
-
