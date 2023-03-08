@@ -7,7 +7,7 @@
   "source": "@site/docs/DXM Hub/pages.md",
   "sourceDirName": "DXM Hub",
   "slug": "/DXM Hub/pages",
-  "permalink": "/developer/docs/DXM Hub/pages",
+  "permalink": "/docs/DXM Hub/pages",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/pages.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Experience",
-    "permalink": "/developer/docs/DXM Hub/exp"
+    "permalink": "/docs/DXM Hub/exp"
   },
   "next": {
     "title": "Module",
-    "permalink": "/developer/docs/DXM Hub/Module"
+    "permalink": "/docs/DXM Hub/Module"
   }
 }

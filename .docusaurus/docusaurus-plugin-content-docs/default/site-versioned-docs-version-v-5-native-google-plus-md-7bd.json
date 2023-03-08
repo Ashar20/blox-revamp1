@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/google-plus.md",
   "sourceDirName": "native",
   "slug": "/native/google-plus",
-  "permalink": "/developer/docs/v5/native/google-plus",
+  "permalink": "/docs/v5/native/google-plus",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/google-plus/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Google Nearby",
-    "permalink": "/developer/docs/v5/native/google-nearby"
+    "permalink": "/docs/v5/native/google-nearby"
   },
   "next": {
     "title": "Health Kit",
-    "permalink": "/developer/docs/v5/native/health-kit"
+    "permalink": "/docs/v5/native/health-kit"
   }
 }

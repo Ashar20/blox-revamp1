@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/all-in-one-sdk.md",
   "sourceDirName": "native",
   "slug": "/native/all-in-one-sdk",
-  "permalink": "/developer/docs/v5/native/all-in-one-sdk",
+  "permalink": "/docs/v5/native/all-in-one-sdk",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/all-in-one-sdk/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "AES256",
-    "permalink": "/developer/docs/v5/native/aes-256"
+    "permalink": "/docs/v5/native/aes-256"
   },
   "next": {
     "title": "Analytics Firebase",
-    "permalink": "/developer/docs/v5/native/analytics-firebase"
+    "permalink": "/docs/v5/native/analytics-firebase"
   }
 }

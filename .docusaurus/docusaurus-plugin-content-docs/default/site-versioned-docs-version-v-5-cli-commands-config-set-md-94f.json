@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/config-set.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/config-set",
-  "permalink": "/developer/docs/v5/cli/commands/config-set",
+  "permalink": "/docs/v5/cli/commands/config-set",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/config/set.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "config get",
-    "permalink": "/developer/docs/v5/cli/commands/config-get"
+    "permalink": "/docs/v5/cli/commands/config-get"
   },
   "next": {
     "title": "config unset",
-    "permalink": "/developer/docs/v5/cli/commands/config-unset"
+    "permalink": "/docs/v5/cli/commands/config-unset"
   }
 }

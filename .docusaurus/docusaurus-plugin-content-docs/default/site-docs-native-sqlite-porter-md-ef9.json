@@ -7,7 +7,7 @@
   "source": "@site/docs/native/sqlite-porter.md",
   "sourceDirName": "native",
   "slug": "/native/sqlite-porter",
-  "permalink": "/developer/docs/native/sqlite-porter",
+  "permalink": "/docs/native/sqlite-porter",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sqlite-porter/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Sqlite Db Copy",
-    "permalink": "/developer/docs/native/sqlite-db-copy"
+    "permalink": "/docs/native/sqlite-db-copy"
   },
   "next": {
     "title": "SQLite ",
-    "permalink": "/developer/docs/native/sqlite"
+    "permalink": "/docs/native/sqlite"
   }
 }

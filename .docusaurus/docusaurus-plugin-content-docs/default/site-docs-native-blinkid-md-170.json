@@ -7,7 +7,7 @@
   "source": "@site/docs/native/blinkid.md",
   "sourceDirName": "native",
   "slug": "/native/blinkid",
-  "permalink": "/developer/docs/native/blinkid",
+  "permalink": "/docs/native/blinkid",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/blinkid/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "BLE",
-    "permalink": "/developer/docs/native/ble"
+    "permalink": "/docs/native/ble"
   },
   "next": {
     "title": "Bluetooth Classic Serial Port",
-    "permalink": "/developer/docs/native/bluetooth-classic-serial-port"
+    "permalink": "/docs/native/bluetooth-classic-serial-port"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/battery-status.md",
   "sourceDirName": "native",
   "slug": "/native/battery-status",
-  "permalink": "/developer/docs/native/battery-status",
+  "permalink": "/docs/native/battery-status",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/battery-status/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Barcode Scanner",
-    "permalink": "/developer/docs/native/barcode-scanner"
+    "permalink": "/docs/native/barcode-scanner"
   },
   "next": {
     "title": "BioCatch",
-    "permalink": "/developer/docs/native/biocatch"
+    "permalink": "/docs/native/biocatch"
   }
 }

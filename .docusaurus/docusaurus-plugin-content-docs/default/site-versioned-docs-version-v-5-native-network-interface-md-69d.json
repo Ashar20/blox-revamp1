@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/network-interface.md",
   "sourceDirName": "native",
   "slug": "/native/network-interface",
-  "permalink": "/developer/docs/v5/native/network-interface",
+  "permalink": "/docs/v5/native/network-interface",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/network-interface/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Native Storage",
-    "permalink": "/developer/docs/v5/native/native-storage"
+    "permalink": "/docs/v5/native/native-storage"
   },
   "next": {
     "title": "Network",
-    "permalink": "/developer/docs/v5/native/network"
+    "permalink": "/docs/v5/native/network"
   }
 }

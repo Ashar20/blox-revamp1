@@ -7,7 +7,7 @@
   "source": "@site/docs/native/background-mode.md",
   "sourceDirName": "native",
   "slug": "/native/background-mode",
-  "permalink": "/developer/docs/native/background-mode",
+  "permalink": "/docs/native/background-mode",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/background-mode/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Background Geolocation",
-    "permalink": "/developer/docs/native/background-geolocation"
+    "permalink": "/docs/native/background-geolocation"
   },
   "next": {
     "title": "BackgroundUpload",
-    "permalink": "/developer/docs/native/background-upload"
+    "permalink": "/docs/native/background-upload"
   }
 }

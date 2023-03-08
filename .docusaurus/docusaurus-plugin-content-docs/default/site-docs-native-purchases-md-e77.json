@@ -7,7 +7,7 @@
   "source": "@site/docs/native/purchases.md",
   "sourceDirName": "native",
   "slug": "/native/purchases",
-  "permalink": "/developer/docs/native/purchases",
+  "permalink": "/docs/native/purchases",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/purchases/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "PSPDFKit-Cordova",
-    "permalink": "/developer/docs/native/pspdfkit-cordova"
+    "permalink": "/docs/native/pspdfkit-cordova"
   },
   "next": {
     "title": "Push",
-    "permalink": "/developer/docs/native/push"
+    "permalink": "/docs/native/push"
   }
 }

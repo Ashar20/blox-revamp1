@@ -7,7 +7,7 @@
   "source": "@site/docs/api/tab-button.md",
   "sourceDirName": "api",
   "slug": "/api/tab-button",
-  "permalink": "/developer/docs/api/tab-button",
+  "permalink": "/docs/api/tab-button",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/tab-button.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-tab-bar",
-    "permalink": "/developer/docs/api/tab-bar"
+    "permalink": "/docs/api/tab-bar"
   },
   "next": {
     "title": "ion-toast",
-    "permalink": "/developer/docs/api/toast"
+    "permalink": "/docs/api/toast"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/biocatch.md",
   "sourceDirName": "native",
   "slug": "/native/biocatch",
-  "permalink": "/developer/docs/native/biocatch",
+  "permalink": "/docs/native/biocatch",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/biocatch/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Battery Status",
-    "permalink": "/developer/docs/native/battery-status"
+    "permalink": "/docs/native/battery-status"
   },
   "next": {
     "title": "BiometricWrapper",
-    "permalink": "/developer/docs/native/biometric-wrapper"
+    "permalink": "/docs/native/biometric-wrapper"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/lottie-splash-screen.md",
   "sourceDirName": "native",
   "slug": "/native/lottie-splash-screen",
-  "permalink": "/developer/docs/native/lottie-splash-screen",
+  "permalink": "/docs/native/lottie-splash-screen",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/lottie-splash-screen/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Location Accuracy",
-    "permalink": "/developer/docs/native/location-accuracy"
+    "permalink": "/docs/native/location-accuracy"
   },
   "next": {
     "title": "Media Capture",
-    "permalink": "/developer/docs/native/media-capture"
+    "permalink": "/docs/native/media-capture"
   }
 }

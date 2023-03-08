@@ -7,7 +7,7 @@
   "source": "@site/docs/api/item-group.md",
   "sourceDirName": "api",
   "slug": "/api/item-group",
-  "permalink": "/developer/docs/api/item-group",
+  "permalink": "/docs/api/item-group",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-group.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-item-divider",
-    "permalink": "/developer/docs/api/item-divider"
+    "permalink": "/docs/api/item-divider"
   },
   "next": {
     "title": "ion-item-sliding",
-    "permalink": "/developer/docs/api/item-sliding"
+    "permalink": "/docs/api/item-sliding"
   }
 }

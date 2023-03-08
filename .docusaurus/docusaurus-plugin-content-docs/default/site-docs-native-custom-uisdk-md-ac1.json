@@ -7,7 +7,7 @@
   "source": "@site/docs/native/custom-uisdk.md",
   "sourceDirName": "native",
   "slug": "/native/custom-uisdk",
-  "permalink": "/developer/docs/native/custom-uisdk",
+  "permalink": "/docs/native/custom-uisdk",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/custom-uisdk/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Code Push",
-    "permalink": "/developer/docs/native/code-push"
+    "permalink": "/docs/native/code-push"
   },
   "next": {
     "title": "Deeplinks",
-    "permalink": "/developer/docs/native/deeplinks"
+    "permalink": "/docs/native/deeplinks"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/integrations-enable.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/integrations-enable",
-  "permalink": "/developer/docs/v5/cli/commands/integrations-enable",
+  "permalink": "/docs/v5/cli/commands/integrations-enable",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/integrations/enable.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "integrations disable",
-    "permalink": "/developer/docs/v5/cli/commands/integrations-disable"
+    "permalink": "/docs/v5/cli/commands/integrations-disable"
   },
   "next": {
     "title": "integrations list",
-    "permalink": "/developer/docs/v5/cli/commands/integrations-list"
+    "permalink": "/docs/v5/cli/commands/integrations-list"
   }
 }

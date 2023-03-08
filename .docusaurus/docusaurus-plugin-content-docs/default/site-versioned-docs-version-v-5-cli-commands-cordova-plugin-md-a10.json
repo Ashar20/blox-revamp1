@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/cordova-plugin.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/cordova-plugin",
-  "permalink": "/developer/docs/v5/cli/commands/cordova-plugin",
+  "permalink": "/docs/v5/cli/commands/cordova-plugin",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/plugin.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "cordova platform",
-    "permalink": "/developer/docs/v5/cli/commands/cordova-platform"
+    "permalink": "/docs/v5/cli/commands/cordova-platform"
   },
   "next": {
     "title": "cordova prepare",
-    "permalink": "/developer/docs/v5/cli/commands/cordova-prepare"
+    "permalink": "/docs/v5/cli/commands/cordova-prepare"
   }
 }

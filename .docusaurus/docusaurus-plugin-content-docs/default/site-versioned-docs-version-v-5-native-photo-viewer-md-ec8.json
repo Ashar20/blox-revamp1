@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/photo-viewer.md",
   "sourceDirName": "native",
   "slug": "/native/photo-viewer",
-  "permalink": "/developer/docs/v5/native/photo-viewer",
+  "permalink": "/docs/v5/native/photo-viewer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/photo-viewer/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Photo Library",
-    "permalink": "/developer/docs/v5/native/photo-library"
+    "permalink": "/docs/v5/native/photo-library"
   },
   "next": {
     "title": "Printer",
-    "permalink": "/developer/docs/v5/native/printer"
+    "permalink": "/docs/v5/native/printer"
   }
 }

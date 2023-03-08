@@ -7,7 +7,7 @@
   "source": "@site/docs/api/infinite-scroll-content.md",
   "sourceDirName": "api",
   "slug": "/api/infinite-scroll-content",
-  "permalink": "/developer/docs/api/infinite-scroll-content",
+  "permalink": "/docs/api/infinite-scroll-content",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/infinite-scroll-content.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-infinite-scroll",
-    "permalink": "/developer/docs/api/infinite-scroll"
+    "permalink": "/docs/api/infinite-scroll"
   },
   "next": {
     "title": "ion-input",
-    "permalink": "/developer/docs/api/input"
+    "permalink": "/docs/api/input"
   }
 }

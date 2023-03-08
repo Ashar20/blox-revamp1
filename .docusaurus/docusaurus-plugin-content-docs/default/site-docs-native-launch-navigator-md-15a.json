@@ -7,7 +7,7 @@
   "source": "@site/docs/native/launch-navigator.md",
   "sourceDirName": "native",
   "slug": "/native/launch-navigator",
-  "permalink": "/developer/docs/native/launch-navigator",
+  "permalink": "/docs/native/launch-navigator",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/launch-navigator/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Kommunicate",
-    "permalink": "/developer/docs/native/kommunicate"
+    "permalink": "/docs/native/kommunicate"
   },
   "next": {
     "title": "Launch Review",
-    "permalink": "/developer/docs/native/launch-review"
+    "permalink": "/docs/native/launch-review"
   }
 }

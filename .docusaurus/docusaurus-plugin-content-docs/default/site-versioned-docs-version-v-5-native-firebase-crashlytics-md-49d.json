@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/firebase-crashlytics.md",
   "sourceDirName": "native",
   "slug": "/native/firebase-crashlytics",
-  "permalink": "/developer/docs/v5/native/firebase-crashlytics",
+  "permalink": "/docs/v5/native/firebase-crashlytics",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-crashlytics/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "FirebaseCrash",
-    "permalink": "/developer/docs/v5/native/firebase-crash"
+    "permalink": "/docs/v5/native/firebase-crash"
   },
   "next": {
     "title": "Firebase Dynamic Links",
-    "permalink": "/developer/docs/v5/native/firebase-dynamic-links"
+    "permalink": "/docs/v5/native/firebase-dynamic-links"
   }
 }

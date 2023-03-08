@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/native-page-transitions.md",
   "sourceDirName": "native",
   "slug": "/native/native-page-transitions",
-  "permalink": "/developer/docs/v5/native/native-page-transitions",
+  "permalink": "/docs/v5/native/native-page-transitions",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-page-transitions/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Native Keyboard",
-    "permalink": "/developer/docs/v5/native/native-keyboard"
+    "permalink": "/docs/v5/native/native-keyboard"
   },
   "next": {
     "title": "Native Storage",
-    "permalink": "/developer/docs/v5/native/native-storage"
+    "permalink": "/docs/v5/native/native-storage"
   }
 }

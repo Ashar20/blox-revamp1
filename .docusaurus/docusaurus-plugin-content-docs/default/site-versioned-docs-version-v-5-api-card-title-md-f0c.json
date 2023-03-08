@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/card-title.md",
   "sourceDirName": "api",
   "slug": "/api/card-title",
-  "permalink": "/developer/docs/v5/api/card-title",
+  "permalink": "/docs/v5/api/card-title",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card-title.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-card-subtitle",
-    "permalink": "/developer/docs/v5/api/card-subtitle"
+    "permalink": "/docs/v5/api/card-subtitle"
   },
   "next": {
     "title": "ion-checkbox",
-    "permalink": "/developer/docs/v5/api/checkbox"
+    "permalink": "/docs/v5/api/checkbox"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/api/modal.md",
   "sourceDirName": "api",
   "slug": "/api/modal",
-  "permalink": "/developer/docs/api/modal",
+  "permalink": "/docs/api/modal",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/modal.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-split-pane",
-    "permalink": "/developer/docs/api/split-pane"
+    "permalink": "/docs/api/split-pane"
   },
   "next": {
     "title": "ion-backdrop",
-    "permalink": "/developer/docs/api/backdrop"
+    "permalink": "/docs/api/backdrop"
   }
 }

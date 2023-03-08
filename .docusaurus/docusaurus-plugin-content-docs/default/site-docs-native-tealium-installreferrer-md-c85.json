@@ -7,7 +7,7 @@
   "source": "@site/docs/native/tealium-installreferrer.md",
   "sourceDirName": "native",
   "slug": "/native/tealium-installreferrer",
-  "permalink": "/developer/docs/native/tealium-installreferrer",
+  "permalink": "/docs/native/tealium-installreferrer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/tealium-installreferrer/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "TealiumAdIdentifier",
-    "permalink": "/developer/docs/native/tealium-adidentifier"
+    "permalink": "/docs/native/tealium-adidentifier"
   },
   "next": {
     "title": "Tealium",
-    "permalink": "/developer/docs/native/tealium"
+    "permalink": "/docs/native/tealium"
   }
 }

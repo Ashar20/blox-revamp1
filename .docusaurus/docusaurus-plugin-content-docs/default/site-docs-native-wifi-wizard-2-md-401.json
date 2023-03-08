@@ -7,7 +7,7 @@
   "source": "@site/docs/native/wifi-wizard-2.md",
   "sourceDirName": "native",
   "slug": "/native/wifi-wizard-2",
-  "permalink": "/developer/docs/native/wifi-wizard-2",
+  "permalink": "/docs/native/wifi-wizard-2",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/wifi-wizard-2/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "WheelSelector Plugin",
-    "permalink": "/developer/docs/native/wheel-selector"
+    "permalink": "/docs/native/wheel-selector"
   },
   "next": {
     "title": "Push Notifications - WonderPush",
-    "permalink": "/developer/docs/native/wonderpush"
+    "permalink": "/docs/native/wonderpush"
   }
 }

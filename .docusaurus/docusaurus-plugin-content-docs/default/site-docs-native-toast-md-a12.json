@@ -7,7 +7,7 @@
   "source": "@site/docs/native/toast.md",
   "sourceDirName": "native",
   "slug": "/native/toast",
-  "permalink": "/developer/docs/native/toast",
+  "permalink": "/docs/native/toast",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/toast/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "3D Touch",
-    "permalink": "/developer/docs/native/three-dee-touch"
+    "permalink": "/docs/native/three-dee-touch"
   },
   "next": {
     "title": "Touch ID",
-    "permalink": "/developer/docs/native/touch-id"
+    "permalink": "/docs/native/touch-id"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/adjust.md",
   "sourceDirName": "native",
   "slug": "/native/adjust",
-  "permalink": "/developer/docs/v5/native/adjust",
+  "permalink": "/docs/v5/native/adjust",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/adjust/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Action Sheet",
-    "permalink": "/developer/docs/v5/native/action-sheet"
+    "permalink": "/docs/v5/native/action-sheet"
   },
   "next": {
     "title": "AdMob Plus",
-    "permalink": "/developer/docs/v5/native/admob-plus"
+    "permalink": "/docs/v5/native/admob-plus"
   }
 }

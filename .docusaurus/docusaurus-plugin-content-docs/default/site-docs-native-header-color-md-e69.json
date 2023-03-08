@@ -7,7 +7,7 @@
   "source": "@site/docs/native/header-color.md",
   "sourceDirName": "native",
   "slug": "/native/header-color",
-  "permalink": "/developer/docs/native/header-color",
+  "permalink": "/docs/native/header-color",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/header-color/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Google Plus",
-    "permalink": "/developer/docs/native/google-plus"
+    "permalink": "/docs/native/google-plus"
   },
   "next": {
     "title": "Health Kit",
-    "permalink": "/developer/docs/native/health-kit"
+    "permalink": "/docs/native/health-kit"
   }
 }

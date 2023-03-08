@@ -7,7 +7,7 @@
   "source": "@site/docs/api/fab-list.md",
   "sourceDirName": "api",
   "slug": "/api/fab-list",
-  "permalink": "/developer/docs/api/fab-list",
+  "permalink": "/docs/api/fab-list",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/fab-list.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-fab-button",
-    "permalink": "/developer/docs/api/fab-button"
+    "permalink": "/docs/api/fab-button"
   },
   "next": {
     "title": "ion-grid",
-    "permalink": "/developer/docs/api/grid"
+    "permalink": "/docs/api/grid"
   }
 }

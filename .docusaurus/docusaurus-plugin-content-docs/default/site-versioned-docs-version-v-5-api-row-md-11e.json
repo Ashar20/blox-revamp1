@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/row.md",
   "sourceDirName": "api",
   "slug": "/api/row",
-  "permalink": "/developer/docs/v5/api/row",
+  "permalink": "/docs/v5/api/row",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/row.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-col",
-    "permalink": "/developer/docs/v5/api/col"
+    "permalink": "/docs/v5/api/col"
   },
   "next": {
     "title": "ion-infinite-scroll",
-    "permalink": "/developer/docs/v5/api/infinite-scroll"
+    "permalink": "/docs/v5/api/infinite-scroll"
   }
 }

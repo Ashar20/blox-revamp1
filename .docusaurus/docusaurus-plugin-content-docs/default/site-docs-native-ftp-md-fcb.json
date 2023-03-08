@@ -7,7 +7,7 @@
   "source": "@site/docs/native/ftp.md",
   "sourceDirName": "native",
   "slug": "/native/ftp",
-  "permalink": "/developer/docs/native/ftp",
+  "permalink": "/docs/native/ftp",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ftp/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Foreground Service",
-    "permalink": "/developer/docs/native/foreground-service"
+    "permalink": "/docs/native/foreground-service"
   },
   "next": {
     "title": "Gao De Location",
-    "permalink": "/developer/docs/native/gao-de-location"
+    "permalink": "/docs/native/gao-de-location"
   }
 }

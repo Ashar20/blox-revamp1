@@ -7,7 +7,7 @@
   "source": "@site/docs/native/webengage.md",
   "sourceDirName": "native",
   "slug": "/native/webengage",
-  "permalink": "/developer/docs/native/webengage",
+  "permalink": "/docs/native/webengage",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/webengage/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "WebSocket Server",
-    "permalink": "/developer/docs/native/web-socket-server"
+    "permalink": "/docs/native/web-socket-server"
   },
   "next": {
     "title": "Wechat",
-    "permalink": "/developer/docs/native/wechat"
+    "permalink": "/docs/native/wechat"
   }
 }

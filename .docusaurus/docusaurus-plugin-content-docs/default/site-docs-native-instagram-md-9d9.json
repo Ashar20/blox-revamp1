@@ -7,7 +7,7 @@
   "source": "@site/docs/native/instagram.md",
   "sourceDirName": "native",
   "slug": "/native/instagram",
-  "permalink": "/developer/docs/native/instagram",
+  "permalink": "/docs/native/instagram",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/instagram/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Insomnia",
-    "permalink": "/developer/docs/native/insomnia"
+    "permalink": "/docs/native/insomnia"
   },
   "next": {
     "title": "Intercom",
-    "permalink": "/developer/docs/native/intercom"
+    "permalink": "/docs/native/intercom"
   }
 }

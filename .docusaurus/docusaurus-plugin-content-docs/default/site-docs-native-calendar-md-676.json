@@ -7,7 +7,7 @@
   "source": "@site/docs/native/calendar.md",
   "sourceDirName": "native",
   "slug": "/native/calendar",
-  "permalink": "/developer/docs/native/calendar",
+  "permalink": "/docs/native/calendar",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/calendar/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Build Info",
-    "permalink": "/developer/docs/native/build-info"
+    "permalink": "/docs/native/build-info"
   },
   "next": {
     "title": "Call Directory",
-    "permalink": "/developer/docs/native/call-directory"
+    "permalink": "/docs/native/call-directory"
   }
 }

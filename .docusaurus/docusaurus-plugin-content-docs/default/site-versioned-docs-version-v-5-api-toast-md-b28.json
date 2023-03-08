@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/toast.md",
   "sourceDirName": "api",
   "slug": "/api/toast",
-  "permalink": "/developer/docs/v5/api/toast",
+  "permalink": "/docs/v5/api/toast",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/toast.md",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-tab-button",
-    "permalink": "/developer/docs/v5/api/tab-button"
+    "permalink": "/docs/v5/api/tab-button"
   },
   "next": {
     "title": "ion-toggle",
-    "permalink": "/developer/docs/v5/api/toggle"
+    "permalink": "/docs/v5/api/toggle"
   }
 }

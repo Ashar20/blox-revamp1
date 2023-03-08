@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/ocr.md",
   "sourceDirName": "native",
   "slug": "/native/ocr",
-  "permalink": "/developer/docs/v5/native/ocr",
+  "permalink": "/docs/v5/native/ocr",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ocr/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "NFC",
-    "permalink": "/developer/docs/v5/native/nfc"
+    "permalink": "/docs/v5/native/nfc"
   },
   "next": {
     "title": "OneSignal",
-    "permalink": "/developer/docs/v5/native/onesignal"
+    "permalink": "/docs/v5/native/onesignal"
   }
 }

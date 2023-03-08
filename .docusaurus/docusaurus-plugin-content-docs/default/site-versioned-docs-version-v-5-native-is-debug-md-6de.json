@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/is-debug.md",
   "sourceDirName": "native",
   "slug": "/native/is-debug",
-  "permalink": "/developer/docs/v5/native/is-debug",
+  "permalink": "/docs/v5/native/is-debug",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/is-debug/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "ios-aswebauthenticationsession-api",
-    "permalink": "/developer/docs/v5/native/ios-aswebauthenticationsession-api"
+    "permalink": "/docs/v5/native/ios-aswebauthenticationsession-api"
   },
   "next": {
     "title": "Keyboard",
-    "permalink": "/developer/docs/v5/native/keyboard"
+    "permalink": "/docs/v5/native/keyboard"
   }
 }

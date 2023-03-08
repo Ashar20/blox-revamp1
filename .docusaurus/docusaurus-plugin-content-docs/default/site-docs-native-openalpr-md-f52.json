@@ -7,7 +7,7 @@
   "source": "@site/docs/native/openalpr.md",
   "sourceDirName": "native",
   "slug": "/native/openalpr",
-  "permalink": "/developer/docs/native/openalpr",
+  "permalink": "/docs/native/openalpr",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/openalpr/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Open Native Settings",
-    "permalink": "/developer/docs/native/open-native-settings"
+    "permalink": "/docs/native/open-native-settings"
   },
   "next": {
     "title": "PayTabs",
-    "permalink": "/developer/docs/native/paytabs"
+    "permalink": "/docs/native/paytabs"
   }
 }

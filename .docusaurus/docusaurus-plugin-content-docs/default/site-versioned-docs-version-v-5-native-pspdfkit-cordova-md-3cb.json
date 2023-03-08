@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/pspdfkit-cordova.md",
   "sourceDirName": "native",
   "slug": "/native/pspdfkit-cordova",
-  "permalink": "/developer/docs/v5/native/pspdfkit-cordova",
+  "permalink": "/docs/v5/native/pspdfkit-cordova",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/pspdfkit-cordova/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Printer",
-    "permalink": "/developer/docs/v5/native/printer"
+    "permalink": "/docs/v5/native/printer"
   },
   "next": {
     "title": "Purchases",
-    "permalink": "/developer/docs/v5/native/purchases"
+    "permalink": "/docs/v5/native/purchases"
   }
 }

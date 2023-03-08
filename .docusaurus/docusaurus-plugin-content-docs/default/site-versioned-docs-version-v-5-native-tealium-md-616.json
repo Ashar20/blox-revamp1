@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/tealium.md",
   "sourceDirName": "native",
   "slug": "/native/tealium",
-  "permalink": "/developer/docs/v5/native/tealium",
+  "permalink": "/docs/v5/native/tealium",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/tealium/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "TealiumInstallReferrer",
-    "permalink": "/developer/docs/v5/native/tealium-installreferrer"
+    "permalink": "/docs/v5/native/tealium-installreferrer"
   },
   "next": {
     "title": "Theme Detection",
-    "permalink": "/developer/docs/v5/native/theme-detection"
+    "permalink": "/docs/v5/native/theme-detection"
   }
 }

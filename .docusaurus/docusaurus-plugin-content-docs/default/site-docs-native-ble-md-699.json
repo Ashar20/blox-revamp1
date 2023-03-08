@@ -7,7 +7,7 @@
   "source": "@site/docs/native/ble.md",
   "sourceDirName": "native",
   "slug": "/native/ble",
-  "permalink": "/developer/docs/native/ble",
+  "permalink": "/docs/native/ble",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ble/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "BiometricWrapper",
-    "permalink": "/developer/docs/native/biometric-wrapper"
+    "permalink": "/docs/native/biometric-wrapper"
   },
   "next": {
     "title": "BlinkId",
-    "permalink": "/developer/docs/native/blinkid"
+    "permalink": "/docs/native/blinkid"
   }
 }

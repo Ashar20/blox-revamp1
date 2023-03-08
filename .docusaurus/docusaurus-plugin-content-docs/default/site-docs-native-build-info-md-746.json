@@ -7,7 +7,7 @@
   "source": "@site/docs/native/build-info.md",
   "sourceDirName": "native",
   "slug": "/native/build-info",
-  "permalink": "/developer/docs/native/build-info",
+  "permalink": "/docs/native/build-info",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/build-info/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Broadcaster",
-    "permalink": "/developer/docs/native/broadcaster"
+    "permalink": "/docs/native/broadcaster"
   },
   "next": {
     "title": "Calendar",
-    "permalink": "/developer/docs/native/calendar"
+    "permalink": "/docs/native/calendar"
   }
 }

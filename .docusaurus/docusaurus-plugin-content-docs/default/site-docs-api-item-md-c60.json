@@ -7,7 +7,7 @@
   "source": "@site/docs/api/item.md",
   "sourceDirName": "api",
   "slug": "/api/item",
-  "permalink": "/developer/docs/api/item",
+  "permalink": "/docs/api/item",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-textarea",
-    "permalink": "/developer/docs/api/textarea"
+    "permalink": "/docs/api/textarea"
   },
   "next": {
     "title": "ion-item-divider",
-    "permalink": "/developer/docs/api/item-divider"
+    "permalink": "/docs/api/item-divider"
   }
 }

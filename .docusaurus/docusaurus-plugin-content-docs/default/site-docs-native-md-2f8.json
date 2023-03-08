@@ -7,7 +7,7 @@
   "source": "@site/docs/native.md",
   "sourceDirName": ".",
   "slug": "/native",
-  "permalink": "/developer/docs/native",
+  "permalink": "/docs/native",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/native.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "native",
   "next": {
     "title": "Setup",
-    "permalink": "/developer/docs/native/community"
+    "permalink": "/docs/native/community"
   }
 }

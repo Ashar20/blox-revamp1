@@ -7,7 +7,7 @@
   "source": "@site/docs/native/in-app-purchase-2.md",
   "sourceDirName": "native",
   "slug": "/native/in-app-purchase-2",
-  "permalink": "/developer/docs/native/in-app-purchase-2",
+  "permalink": "/docs/native/in-app-purchase-2",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-purchase-2/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "In App Browser",
-    "permalink": "/developer/docs/native/in-app-browser"
+    "permalink": "/docs/native/in-app-browser"
   },
   "next": {
     "title": "In App Review",
-    "permalink": "/developer/docs/native/in-app-review"
+    "permalink": "/docs/native/in-app-review"
   }
 }

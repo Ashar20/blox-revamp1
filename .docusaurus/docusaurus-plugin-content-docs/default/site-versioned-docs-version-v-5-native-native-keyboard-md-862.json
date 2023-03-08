@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/native-keyboard.md",
   "sourceDirName": "native",
   "slug": "/native/native-keyboard",
-  "permalink": "/developer/docs/v5/native/native-keyboard",
+  "permalink": "/docs/v5/native/native-keyboard",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-keyboard/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Native Geocoder",
-    "permalink": "/developer/docs/v5/native/native-geocoder"
+    "permalink": "/docs/v5/native/native-geocoder"
   },
   "next": {
     "title": "Native Page Transitions",
-    "permalink": "/developer/docs/v5/native/native-page-transitions"
+    "permalink": "/docs/v5/native/native-page-transitions"
   }
 }

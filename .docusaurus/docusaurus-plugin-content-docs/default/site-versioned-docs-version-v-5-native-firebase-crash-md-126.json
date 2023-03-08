@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/firebase-crash.md",
   "sourceDirName": "native",
   "slug": "/native/firebase-crash",
-  "permalink": "/developer/docs/v5/native/firebase-crash",
+  "permalink": "/docs/v5/native/firebase-crash",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-crash/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Firebase Config",
-    "permalink": "/developer/docs/v5/native/firebase-config"
+    "permalink": "/docs/v5/native/firebase-config"
   },
   "next": {
     "title": "Firebase Crashlytics",
-    "permalink": "/developer/docs/v5/native/firebase-crashlytics"
+    "permalink": "/docs/v5/native/firebase-crashlytics"
   }
 }

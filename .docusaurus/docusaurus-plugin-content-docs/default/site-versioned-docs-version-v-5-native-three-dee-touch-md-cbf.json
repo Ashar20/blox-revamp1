@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/three-dee-touch.md",
   "sourceDirName": "native",
   "slug": "/native/three-dee-touch",
-  "permalink": "/developer/docs/v5/native/three-dee-touch",
+  "permalink": "/docs/v5/native/three-dee-touch",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/three-dee-touch/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Theme Detection",
-    "permalink": "/developer/docs/v5/native/theme-detection"
+    "permalink": "/docs/v5/native/theme-detection"
   },
   "next": {
     "title": "Toast",
-    "permalink": "/developer/docs/v5/native/toast"
+    "permalink": "/docs/v5/native/toast"
   }
 }

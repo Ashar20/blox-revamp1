@@ -7,7 +7,7 @@
   "source": "@site/docs/react.md",
   "sourceDirName": ".",
   "slug": "/react",
-  "permalink": "/developer/docs/react",
+  "permalink": "/docs/react",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/react.md",
   "tags": [],
   "version": "current",

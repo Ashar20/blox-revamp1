@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/printer.md",
   "sourceDirName": "native",
   "slug": "/native/printer",
-  "permalink": "/developer/docs/v5/native/printer",
+  "permalink": "/docs/v5/native/printer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/printer/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Photo Viewer",
-    "permalink": "/developer/docs/v5/native/photo-viewer"
+    "permalink": "/docs/v5/native/photo-viewer"
   },
   "next": {
     "title": "PSPDFKit-Cordova",
-    "permalink": "/developer/docs/v5/native/pspdfkit-cordova"
+    "permalink": "/docs/v5/native/pspdfkit-cordova"
   }
 }

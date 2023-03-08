@@ -7,7 +7,7 @@
   "source": "@site/docs/api/fab.md",
   "sourceDirName": "api",
   "slug": "/api/fab",
-  "permalink": "/developer/docs/api/fab",
+  "permalink": "/docs/api/fab",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/fab.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-picker",
-    "permalink": "/developer/docs/api/picker"
+    "permalink": "/docs/api/picker"
   },
   "next": {
     "title": "ion-fab-button",
-    "permalink": "/developer/docs/api/fab-button"
+    "permalink": "/docs/api/fab-button"
   }
 }

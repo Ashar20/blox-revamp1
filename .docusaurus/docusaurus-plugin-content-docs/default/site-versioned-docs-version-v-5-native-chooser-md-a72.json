@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/chooser.md",
   "sourceDirName": "native",
   "slug": "/native/chooser",
-  "permalink": "/developer/docs/v5/native/chooser",
+  "permalink": "/docs/v5/native/chooser",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/chooser/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Camera",
-    "permalink": "/developer/docs/v5/native/camera"
+    "permalink": "/docs/v5/native/camera"
   },
   "next": {
     "title": "CleverTap",
-    "permalink": "/developer/docs/v5/native/clevertap"
+    "permalink": "/docs/v5/native/clevertap"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/vue/performance.md",
   "sourceDirName": "vue",
   "slug": "/vue/performance",
-  "permalink": "/developer/docs/v5/vue/performance",
+  "permalink": "/docs/v5/vue/performance",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/performance.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Troubleshooting",
-    "permalink": "/developer/docs/v5/vue/troubleshooting"
+    "permalink": "/docs/v5/vue/troubleshooting"
   },
   "next": {
     "title": "Animations",
-    "permalink": "/developer/docs/v5/utilities/animations"
+    "permalink": "/docs/v5/utilities/animations"
   }
 }

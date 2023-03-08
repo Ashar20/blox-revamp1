@@ -7,7 +7,7 @@
   "source": "@site/docs/native/call-number.md",
   "sourceDirName": "native",
   "slug": "/native/call-number",
-  "permalink": "/developer/docs/native/call-number",
+  "permalink": "/docs/native/call-number",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/call-number/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Call Directory",
-    "permalink": "/developer/docs/native/call-directory"
+    "permalink": "/docs/native/call-directory"
   },
   "next": {
     "title": "Camera Preview",
-    "permalink": "/developer/docs/native/camera-preview"
+    "permalink": "/docs/native/camera-preview"
   }
 }

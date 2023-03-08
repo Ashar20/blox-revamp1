@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/analytics-firebase.md",
   "sourceDirName": "native",
   "slug": "/native/analytics-firebase",
-  "permalink": "/developer/docs/v5/native/analytics-firebase",
+  "permalink": "/docs/v5/native/analytics-firebase",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/analytics-firebase/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "AllInOneSDK",
-    "permalink": "/developer/docs/v5/native/all-in-one-sdk"
+    "permalink": "/docs/v5/native/all-in-one-sdk"
   },
   "next": {
     "title": "Android ExoPlayer",
-    "permalink": "/developer/docs/v5/native/android-exoplayer"
+    "permalink": "/docs/v5/native/android-exoplayer"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/printer.md",
   "sourceDirName": "native",
   "slug": "/native/printer",
-  "permalink": "/developer/docs/native/printer",
+  "permalink": "/docs/native/printer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/printer/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Power Optimization",
-    "permalink": "/developer/docs/native/power-optimization"
+    "permalink": "/docs/native/power-optimization"
   },
   "next": {
     "title": "PSPDFKit-Cordova",
-    "permalink": "/developer/docs/native/pspdfkit-cordova"
+    "permalink": "/docs/native/pspdfkit-cordova"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/DXM Hub/Template.md",
   "sourceDirName": "DXM Hub",
   "slug": "/DXM Hub/Template",
-  "permalink": "/developer/docs/DXM Hub/Template",
+  "permalink": "/docs/DXM Hub/Template",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/Template.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "docs",
   "previous": {
     "title": "Strategy",
-    "permalink": "/developer/docs/DXM Hub/Strategy"
+    "permalink": "/docs/DXM Hub/Strategy"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/native-audio.md",
   "sourceDirName": "native",
   "slug": "/native/native-audio",
-  "permalink": "/developer/docs/native/native-audio",
+  "permalink": "/docs/native/native-audio",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-audio/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Music Controls",
-    "permalink": "/developer/docs/native/music-controls"
+    "permalink": "/docs/native/music-controls"
   },
   "next": {
     "title": "Native Geocoder",
-    "permalink": "/developer/docs/native/native-geocoder"
+    "permalink": "/docs/native/native-geocoder"
   }
 }

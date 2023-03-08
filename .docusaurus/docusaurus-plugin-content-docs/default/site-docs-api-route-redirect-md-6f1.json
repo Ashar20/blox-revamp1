@@ -7,7 +7,7 @@
   "source": "@site/docs/api/route-redirect.md",
   "sourceDirName": "api",
   "slug": "/api/route-redirect",
-  "permalink": "/developer/docs/api/route-redirect",
+  "permalink": "/docs/api/route-redirect",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/route-redirect.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-route",
-    "permalink": "/developer/docs/api/route"
+    "permalink": "/docs/api/route"
   },
   "next": {
     "title": "ion-searchbar",
-    "permalink": "/developer/docs/api/searchbar"
+    "permalink": "/docs/api/searchbar"
   }
 }

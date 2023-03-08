@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/chip.md",
   "sourceDirName": "api",
   "slug": "/api/chip",
-  "permalink": "/developer/docs/v5/api/chip",
+  "permalink": "/docs/v5/api/chip",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/chip.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-checkbox",
-    "permalink": "/developer/docs/v5/api/checkbox"
+    "permalink": "/docs/v5/api/checkbox"
   },
   "next": {
     "title": "ion-app",
-    "permalink": "/developer/docs/v5/api/app"
+    "permalink": "/docs/v5/api/app"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/vue/config.md",
   "sourceDirName": "vue",
   "slug": "/vue/config",
-  "permalink": "/developer/docs/v5/vue/config",
+  "permalink": "/docs/v5/vue/config",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/config.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Navigation/Routing",
-    "permalink": "/developer/docs/v5/vue/navigation"
+    "permalink": "/docs/v5/vue/navigation"
   },
   "next": {
     "title": "Platform",
-    "permalink": "/developer/docs/v5/vue/platform"
+    "permalink": "/docs/v5/vue/platform"
   }
 }

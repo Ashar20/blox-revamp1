@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/app-availability.md",
   "sourceDirName": "native",
   "slug": "/native/app-availability",
-  "permalink": "/developer/docs/v5/native/app-availability",
+  "permalink": "/docs/v5/native/app-availability",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-availability/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Anyline",
-    "permalink": "/developer/docs/v5/native/anyline"
+    "permalink": "/docs/v5/native/anyline"
   },
   "next": {
     "title": "App Center Analytics",
-    "permalink": "/developer/docs/v5/native/app-center-analytics"
+    "permalink": "/docs/v5/native/app-center-analytics"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/api/accordion-group.md",
   "sourceDirName": "api",
   "slug": "/api/accordion-group",
-  "permalink": "/developer/docs/api/accordion-group",
+  "permalink": "/docs/api/accordion-group",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/accordion-group.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-accordion",
-    "permalink": "/developer/docs/api/accordion"
+    "permalink": "/docs/api/accordion"
   },
   "next": {
     "title": "ion-alert",
-    "permalink": "/developer/docs/api/alert"
+    "permalink": "/docs/api/alert"
   }
 }

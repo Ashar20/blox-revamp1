@@ -7,7 +7,7 @@
   "source": "@site/docs/api/button.md",
   "sourceDirName": "api",
   "slug": "/api/button",
-  "permalink": "/developer/docs/api/button",
+  "permalink": "/docs/api/button",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/button.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-breadcrumbs",
-    "permalink": "/developer/docs/api/breadcrumbs"
+    "permalink": "/docs/api/breadcrumbs"
   },
   "next": {
     "title": "ion-ripple-effect",
-    "permalink": "/developer/docs/api/ripple-effect"
+    "permalink": "/docs/api/ripple-effect"
   }
 }

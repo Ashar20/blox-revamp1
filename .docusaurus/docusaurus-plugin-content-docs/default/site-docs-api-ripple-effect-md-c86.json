@@ -7,7 +7,7 @@
   "source": "@site/docs/api/ripple-effect.md",
   "sourceDirName": "api",
   "slug": "/api/ripple-effect",
-  "permalink": "/developer/docs/api/ripple-effect",
+  "permalink": "/docs/api/ripple-effect",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/ripple-effect.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-button",
-    "permalink": "/developer/docs/api/button"
+    "permalink": "/docs/api/button"
   },
   "next": {
     "title": "ion-card",
-    "permalink": "/developer/docs/api/card"
+    "permalink": "/docs/api/card"
   }
 }

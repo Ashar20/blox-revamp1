@@ -7,7 +7,7 @@
   "source": "@site/docs/native/video-player.md",
   "sourceDirName": "native",
   "slug": "/native/video-player",
-  "permalink": "/developer/docs/native/video-player",
+  "permalink": "/docs/native/video-player",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/video-player/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Video Editor",
-    "permalink": "/developer/docs/native/video-editor"
+    "permalink": "/docs/native/video-editor"
   },
   "next": {
     "title": "Web Intent",
-    "permalink": "/developer/docs/native/web-intent"
+    "permalink": "/docs/native/web-intent"
   }
 }

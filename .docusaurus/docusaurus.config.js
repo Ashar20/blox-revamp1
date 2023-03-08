@@ -2,7 +2,7 @@ export default {
   "title": "Blox support",
   "tagline": "Ionic is the app platform for web developers. Build amazing mobile, web, and desktop apps all with one shared code base and open web standards",
   "url": "https://ionicframework.com",
-  "baseUrl": "/developer/docs/",
+  "baseUrl": "/docs/",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -186,10 +186,10 @@ export default {
       "docusaurus-plugin-module-alias",
       {
         "alias": {
-          "styled-components": "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/styled-components",
-          "react": "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/react",
-          "react-dom": "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/react-dom",
-          "@components": "/Users/silasashar/Documents/GitHub/blox-support-site/src/components"
+          "styled-components": "/Users/silasashar/blox-revamp1/node_modules/styled-components",
+          "react": "/Users/silasashar/blox-revamp1/node_modules/react",
+          "react-dom": "/Users/silasashar/blox-revamp1/node_modules/react-dom",
+          "@components": "/Users/silasashar/blox-revamp1/src/components"
         }
       }
     ],
@@ -197,7 +197,7 @@ export default {
       "@docusaurus/plugin-content-docs",
       {
         "routeBasePath": "/",
-        "sidebarPath": "/Users/silasashar/Documents/GitHub/blox-support-site/sidebars.js",
+        "sidebarPath": "/Users/silasashar/blox-revamp1/sidebars.js",
         "exclude": [
           "README.md"
         ],
@@ -218,16 +218,16 @@ export default {
   ],
   "themes": [
     [
-      "/Users/silasashar/Documents/GitHub/blox-support-site/docusaurus-theme-classic",
+      "/Users/silasashar/blox-revamp1/docusaurus-theme-classic",
       {
         "customCss": [
-          "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/modern-normalize/modern-normalize.css",
-          "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/@ionic-internal/ionic-ds/dist/tokens/tokens.css",
-          "/Users/silasashar/Documents/GitHub/blox-support-site/src/styles/custom.scss"
+          "/Users/silasashar/blox-revamp1/node_modules/modern-normalize/modern-normalize.css",
+          "/Users/silasashar/blox-revamp1/node_modules/@ionic-internal/ionic-ds/dist/tokens/tokens.css",
+          "/Users/silasashar/blox-revamp1/src/styles/custom.scss"
         ]
       }
     ],
-    "/Users/silasashar/Documents/GitHub/blox-support-site/node_modules/@docusaurus/theme-search-algolia"
+    "/Users/silasashar/blox-revamp1/node_modules/@docusaurus/theme-search-algolia"
   ],
   "customFields": {},
   "baseUrlIssueBanner": true,

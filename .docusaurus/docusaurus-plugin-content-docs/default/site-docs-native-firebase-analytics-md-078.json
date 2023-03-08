@@ -7,7 +7,7 @@
   "source": "@site/docs/native/firebase-analytics.md",
   "sourceDirName": "native",
   "slug": "/native/firebase-analytics",
-  "permalink": "/developer/docs/native/firebase-analytics",
+  "permalink": "/docs/native/firebase-analytics",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-analytics/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "File",
-    "permalink": "/developer/docs/native/file"
+    "permalink": "/docs/native/file"
   },
   "next": {
     "title": "Firebase Authentication",
-    "permalink": "/developer/docs/native/firebase-authentication"
+    "permalink": "/docs/native/firebase-authentication"
   }
 }

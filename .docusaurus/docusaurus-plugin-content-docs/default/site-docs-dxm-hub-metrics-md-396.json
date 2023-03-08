@@ -7,7 +7,7 @@
   "source": "@site/docs/DXM Hub/Metrics.md",
   "sourceDirName": "DXM Hub",
   "slug": "/DXM Hub/Metrics",
-  "permalink": "/developer/docs/DXM Hub/Metrics",
+  "permalink": "/docs/DXM Hub/Metrics",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/Metrics.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/developer/docs/DXM Hub/Getting Started"
+    "permalink": "/docs/DXM Hub/Getting Started"
   },
   "next": {
     "title": "Experience",
-    "permalink": "/developer/docs/DXM Hub/exp"
+    "permalink": "/docs/DXM Hub/exp"
   }
 }

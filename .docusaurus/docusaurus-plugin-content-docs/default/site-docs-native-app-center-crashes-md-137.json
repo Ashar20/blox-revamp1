@@ -7,7 +7,7 @@
   "source": "@site/docs/native/app-center-crashes.md",
   "sourceDirName": "native",
   "slug": "/native/app-center-crashes",
-  "permalink": "/developer/docs/native/app-center-crashes",
+  "permalink": "/docs/native/app-center-crashes",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-center-crashes/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "App Center Analytics",
-    "permalink": "/developer/docs/native/app-center-analytics"
+    "permalink": "/docs/native/app-center-analytics"
   },
   "next": {
     "title": "App Center Low Memory",
-    "permalink": "/developer/docs/native/app-center-low-memory"
+    "permalink": "/docs/native/app-center-low-memory"
   }
 }

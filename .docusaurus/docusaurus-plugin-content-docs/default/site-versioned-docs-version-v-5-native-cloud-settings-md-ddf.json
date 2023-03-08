@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/cloud-settings.md",
   "sourceDirName": "native",
   "slug": "/native/cloud-settings",
-  "permalink": "/developer/docs/v5/native/cloud-settings",
+  "permalink": "/docs/v5/native/cloud-settings",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/cloud-settings/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Clipboard",
-    "permalink": "/developer/docs/v5/native/clipboard"
+    "permalink": "/docs/v5/native/clipboard"
   },
   "next": {
     "title": "Code Push",
-    "permalink": "/developer/docs/v5/native/code-push"
+    "permalink": "/docs/v5/native/code-push"
   }
 }

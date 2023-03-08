@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/firebase-dynamic-links.md",
   "sourceDirName": "native",
   "slug": "/native/firebase-dynamic-links",
-  "permalink": "/developer/docs/v5/native/firebase-dynamic-links",
+  "permalink": "/docs/v5/native/firebase-dynamic-links",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-dynamic-links/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Firebase Crashlytics",
-    "permalink": "/developer/docs/v5/native/firebase-crashlytics"
+    "permalink": "/docs/v5/native/firebase-crashlytics"
   },
   "next": {
     "title": "Firebase Messaging",
-    "permalink": "/developer/docs/v5/native/firebase-messaging"
+    "permalink": "/docs/v5/native/firebase-messaging"
   }
 }

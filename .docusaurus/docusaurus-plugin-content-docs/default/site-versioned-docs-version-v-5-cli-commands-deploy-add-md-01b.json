@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/deploy-add.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/deploy-add",
-  "permalink": "/developer/docs/v5/cli/commands/deploy-add",
+  "permalink": "/docs/v5/cli/commands/deploy-add",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/deploy/add.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "cordova run",
-    "permalink": "/developer/docs/v5/cli/commands/cordova-run"
+    "permalink": "/docs/v5/cli/commands/cordova-run"
   },
   "next": {
     "title": "deploy build",
-    "permalink": "/developer/docs/v5/cli/commands/deploy-build"
+    "permalink": "/docs/v5/cli/commands/deploy-build"
   }
 }

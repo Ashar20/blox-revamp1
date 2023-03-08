@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/build.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/build",
-  "permalink": "/developer/docs/v5/cli/commands/build",
+  "permalink": "/docs/v5/cli/commands/build",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/build.ts",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "Using a Proxy",
-    "permalink": "/developer/docs/v5/cli/using-a-proxy"
+    "permalink": "/docs/v5/cli/using-a-proxy"
   },
   "next": {
     "title": "capacitor add",
-    "permalink": "/developer/docs/v5/cli/commands/capacitor-add"
+    "permalink": "/docs/v5/cli/commands/capacitor-add"
   }
 }

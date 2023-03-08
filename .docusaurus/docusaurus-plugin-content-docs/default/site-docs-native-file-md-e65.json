@@ -7,7 +7,7 @@
   "source": "@site/docs/native/file.md",
   "sourceDirName": "native",
   "slug": "/native/file",
-  "permalink": "/developer/docs/native/file",
+  "permalink": "/docs/native/file",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "File Transfer ",
-    "permalink": "/developer/docs/native/file-transfer"
+    "permalink": "/docs/native/file-transfer"
   },
   "next": {
     "title": "Firebase Analytics",
-    "permalink": "/developer/docs/native/firebase-analytics"
+    "permalink": "/docs/native/firebase-analytics"
   }
 }

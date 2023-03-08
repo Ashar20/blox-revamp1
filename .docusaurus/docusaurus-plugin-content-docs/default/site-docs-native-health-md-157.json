@@ -7,7 +7,7 @@
   "source": "@site/docs/native/health.md",
   "sourceDirName": "native",
   "slug": "/native/health",
-  "permalink": "/developer/docs/native/health",
+  "permalink": "/docs/native/health",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/health/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Health Kit",
-    "permalink": "/developer/docs/native/health-kit"
+    "permalink": "/docs/native/health-kit"
   },
   "next": {
     "title": "HTTP",
-    "permalink": "/developer/docs/native/http"
+    "permalink": "/docs/native/http"
   }
 }

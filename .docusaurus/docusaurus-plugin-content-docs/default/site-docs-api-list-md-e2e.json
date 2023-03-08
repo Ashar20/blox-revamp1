@@ -7,7 +7,7 @@
   "source": "@site/docs/api/list.md",
   "sourceDirName": "api",
   "slug": "/api/list",
-  "permalink": "/developer/docs/api/list",
+  "permalink": "/docs/api/list",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/list.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-note",
-    "permalink": "/developer/docs/api/note"
+    "permalink": "/docs/api/note"
   },
   "next": {
     "title": "ion-list-header",
-    "permalink": "/developer/docs/api/list-header"
+    "permalink": "/docs/api/list-header"
   }
 }

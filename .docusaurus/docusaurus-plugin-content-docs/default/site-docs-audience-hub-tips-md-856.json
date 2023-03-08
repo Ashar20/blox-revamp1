@@ -7,7 +7,7 @@
   "source": "@site/docs/Audience Hub/tips.md",
   "sourceDirName": "Audience Hub",
   "slug": "/Audience Hub/tips",
-  "permalink": "/developer/docs/Audience Hub/tips",
+  "permalink": "/docs/Audience Hub/tips",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/tips.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/developer/docs/Audience Hub/scaffolding"
+    "permalink": "/docs/Audience Hub/scaffolding"
   },
   "next": {
     "title": "Upload Custom Audience",
-    "permalink": "/developer/docs/Audience Hub/previewing"
+    "permalink": "/docs/Audience Hub/previewing"
   }
 }

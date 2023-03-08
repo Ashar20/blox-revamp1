@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/react/your-first-app/5-adding-mobile.md",
   "sourceDirName": "react/your-first-app",
   "slug": "/react/your-first-app/adding-mobile",
-  "permalink": "/developer/docs/v5/react/your-first-app/adding-mobile",
+  "permalink": "/docs/v5/react/your-first-app/adding-mobile",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/your-first-app/5-adding-mobile.md",
   "tags": [],
   "version": "v5",
@@ -18,10 +18,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Loading Photos",
-    "permalink": "/developer/docs/v5/react/your-first-app/loading-photos"
+    "permalink": "/docs/v5/react/your-first-app/loading-photos"
   },
   "next": {
     "title": "Deploying Mobile",
-    "permalink": "/developer/docs/v5/react/your-first-app/deploying-mobile"
+    "permalink": "/docs/v5/react/your-first-app/deploying-mobile"
   }
 }

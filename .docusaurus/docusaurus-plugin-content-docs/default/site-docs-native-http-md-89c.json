@@ -7,7 +7,7 @@
   "source": "@site/docs/native/http.md",
   "sourceDirName": "native",
   "slug": "/native/http",
-  "permalink": "/developer/docs/native/http",
+  "permalink": "/docs/native/http",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/http/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Health",
-    "permalink": "/developer/docs/native/health"
+    "permalink": "/docs/native/health"
   },
   "next": {
     "title": "Iamport Cordova",
-    "permalink": "/developer/docs/native/iamport-cordova"
+    "permalink": "/docs/native/iamport-cordova"
   }
 }

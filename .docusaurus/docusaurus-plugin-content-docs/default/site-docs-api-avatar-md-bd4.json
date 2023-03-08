@@ -7,7 +7,7 @@
   "source": "@site/docs/api/avatar.md",
   "sourceDirName": "api",
   "slug": "/api/avatar",
-  "permalink": "/developer/docs/api/avatar",
+  "permalink": "/docs/api/avatar",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/avatar.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-virtual-scroll",
-    "permalink": "/developer/docs/api/virtual-scroll"
+    "permalink": "/docs/api/virtual-scroll"
   },
   "next": {
     "title": "ion-img",
-    "permalink": "/developer/docs/api/img"
+    "permalink": "/docs/api/img"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/file-transfer.md",
   "sourceDirName": "native",
   "slug": "/native/file-transfer",
-  "permalink": "/developer/docs/native/file-transfer",
+  "permalink": "/docs/native/file-transfer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file-transfer/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "File Path",
-    "permalink": "/developer/docs/native/file-path"
+    "permalink": "/docs/native/file-path"
   },
   "next": {
     "title": "File",
-    "permalink": "/developer/docs/native/file"
+    "permalink": "/docs/native/file"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/anyline.md",
   "sourceDirName": "native",
   "slug": "/native/anyline",
-  "permalink": "/developer/docs/native/anyline",
+  "permalink": "/docs/native/anyline",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/anyline/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Android Permissions",
-    "permalink": "/developer/docs/native/android-permissions"
+    "permalink": "/docs/native/android-permissions"
   },
   "next": {
     "title": "App Availability",
-    "permalink": "/developer/docs/native/app-availability"
+    "permalink": "/docs/native/app-availability"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/wheel-selector.md",
   "sourceDirName": "native",
   "slug": "/native/wheel-selector",
-  "permalink": "/developer/docs/v5/native/wheel-selector",
+  "permalink": "/docs/v5/native/wheel-selector",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/wheel-selector/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Wechat",
-    "permalink": "/developer/docs/v5/native/wechat"
+    "permalink": "/docs/v5/native/wechat"
   },
   "next": {
     "title": "WifiWizard2",
-    "permalink": "/developer/docs/v5/native/wifi-wizard-2"
+    "permalink": "/docs/v5/native/wifi-wizard-2"
   }
 }

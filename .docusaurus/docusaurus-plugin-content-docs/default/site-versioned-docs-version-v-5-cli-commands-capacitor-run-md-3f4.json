@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/capacitor-run.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/capacitor-run",
-  "permalink": "/developer/docs/v5/cli/commands/capacitor-run",
+  "permalink": "/docs/v5/cli/commands/capacitor-run",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/capacitor/run.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "capacitor open",
-    "permalink": "/developer/docs/v5/cli/commands/capacitor-open"
+    "permalink": "/docs/v5/cli/commands/capacitor-open"
   },
   "next": {
     "title": "capacitor sync",
-    "permalink": "/developer/docs/v5/cli/commands/capacitor-sync"
+    "permalink": "/docs/v5/cli/commands/capacitor-sync"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/dfu-update.md",
   "sourceDirName": "native",
   "slug": "/native/dfu-update",
-  "permalink": "/developer/docs/v5/native/dfu-update",
+  "permalink": "/docs/v5/native/dfu-update",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/dfu-update/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Device",
-    "permalink": "/developer/docs/v5/native/device"
+    "permalink": "/docs/v5/native/device"
   },
   "next": {
     "title": "Diagnostic",
-    "permalink": "/developer/docs/v5/native/diagnostic"
+    "permalink": "/docs/v5/native/diagnostic"
   }
 }

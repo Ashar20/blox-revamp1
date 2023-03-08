@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/broadcaster.md",
   "sourceDirName": "native",
   "slug": "/native/broadcaster",
-  "permalink": "/developer/docs/v5/native/broadcaster",
+  "permalink": "/docs/v5/native/broadcaster",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/broadcaster/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "BranchIo",
-    "permalink": "/developer/docs/v5/native/branch-io"
+    "permalink": "/docs/v5/native/branch-io"
   },
   "next": {
     "title": "Build Info",
-    "permalink": "/developer/docs/v5/native/build-info"
+    "permalink": "/docs/v5/native/build-info"
   }
 }

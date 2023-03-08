@@ -7,7 +7,7 @@
   "source": "@site/docs/native/local-notifications.md",
   "sourceDirName": "native",
   "slug": "/native/local-notifications",
-  "permalink": "/developer/docs/native/local-notifications",
+  "permalink": "/docs/native/local-notifications",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/local-notifications/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "LocalBackup",
-    "permalink": "/developer/docs/native/local-backup"
+    "permalink": "/docs/native/local-backup"
   },
   "next": {
     "title": "Location Accuracy",
-    "permalink": "/developer/docs/native/location-accuracy"
+    "permalink": "/docs/native/location-accuracy"
   }
 }

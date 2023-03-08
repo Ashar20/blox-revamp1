@@ -7,7 +7,7 @@
   "source": "@site/docs/native/streaming-media.md",
   "sourceDirName": "native",
   "slug": "/native/streaming-media",
-  "permalink": "/developer/docs/native/streaming-media",
+  "permalink": "/docs/native/streaming-media",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/streaming-media/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Status Bar",
-    "permalink": "/developer/docs/native/status-bar"
+    "permalink": "/docs/native/status-bar"
   },
   "next": {
     "title": "Stripe",
-    "permalink": "/developer/docs/native/stripe"
+    "permalink": "/docs/native/stripe"
   }
 }

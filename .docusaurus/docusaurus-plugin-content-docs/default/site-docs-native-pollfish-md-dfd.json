@@ -7,7 +7,7 @@
   "source": "@site/docs/native/pollfish.md",
   "sourceDirName": "native",
   "slug": "/native/pollfish",
-  "permalink": "/developer/docs/native/pollfish",
+  "permalink": "/docs/native/pollfish",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/pollfish/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Photo Viewer",
-    "permalink": "/developer/docs/native/photo-viewer"
+    "permalink": "/docs/native/photo-viewer"
   },
   "next": {
     "title": "Power Optimization",
-    "permalink": "/developer/docs/native/power-optimization"
+    "permalink": "/docs/native/power-optimization"
   }
 }

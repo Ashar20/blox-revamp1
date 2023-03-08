@@ -7,7 +7,7 @@
   "source": "@site/docs/cli/commands/start.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/start",
-  "permalink": "/developer/docs/cli/commands/start",
+  "permalink": "/docs/cli/commands/start",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/start.ts",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "cli",
   "previous": {
     "title": "ssl generate",
-    "permalink": "/developer/docs/cli/commands/ssl-generate"
+    "permalink": "/docs/cli/commands/ssl-generate"
   }
 }

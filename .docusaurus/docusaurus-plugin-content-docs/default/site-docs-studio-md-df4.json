@@ -7,7 +7,7 @@
   "source": "@site/docs/studio.md",
   "sourceDirName": ".",
   "slug": "/studio",
-  "permalink": "/developer/docs/studio",
+  "permalink": "/docs/studio",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/studio.md",
   "tags": [],
   "version": "current",

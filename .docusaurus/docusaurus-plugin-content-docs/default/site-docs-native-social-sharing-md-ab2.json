@@ -7,7 +7,7 @@
   "source": "@site/docs/native/social-sharing.md",
   "sourceDirName": "native",
   "slug": "/native/social-sharing",
-  "permalink": "/developer/docs/native/social-sharing",
+  "permalink": "/docs/native/social-sharing",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/social-sharing/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "SMS",
-    "permalink": "/developer/docs/native/sms"
+    "permalink": "/docs/native/sms"
   },
   "next": {
     "title": "Speech Recognition",
-    "permalink": "/developer/docs/native/speech-recognition"
+    "permalink": "/docs/native/speech-recognition"
   }
 }

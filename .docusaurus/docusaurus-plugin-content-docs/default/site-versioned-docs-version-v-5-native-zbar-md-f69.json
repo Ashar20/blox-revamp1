@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/zbar.md",
   "sourceDirName": "native",
   "slug": "/native/zbar",
-  "permalink": "/developer/docs/v5/native/zbar",
+  "permalink": "/docs/v5/native/zbar",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/zbar/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Youtube Video Player",
-    "permalink": "/developer/docs/v5/native/youtube-video-player"
+    "permalink": "/docs/v5/native/youtube-video-player"
   },
   "next": {
     "title": "Zeroconf",
-    "permalink": "/developer/docs/v5/native/zeroconf"
+    "permalink": "/docs/v5/native/zeroconf"
   }
 }

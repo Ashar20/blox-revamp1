@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/metrix.md",
   "sourceDirName": "native",
   "slug": "/native/metrix",
-  "permalink": "/developer/docs/v5/native/metrix",
+  "permalink": "/docs/v5/native/metrix",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/metrix/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Media",
-    "permalink": "/developer/docs/v5/native/media"
+    "permalink": "/docs/v5/native/media"
   },
   "next": {
     "title": "Mixpanel",
-    "permalink": "/developer/docs/v5/native/mixpanel"
+    "permalink": "/docs/v5/native/mixpanel"
   }
 }

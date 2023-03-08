@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/file-path.md",
   "sourceDirName": "native",
   "slug": "/native/file-path",
-  "permalink": "/developer/docs/v5/native/file-path",
+  "permalink": "/docs/v5/native/file-path",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/file-path/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "File Opener",
-    "permalink": "/developer/docs/v5/native/file-opener"
+    "permalink": "/docs/v5/native/file-opener"
   },
   "next": {
     "title": "File Transfer ",
-    "permalink": "/developer/docs/v5/native/file-transfer"
+    "permalink": "/docs/v5/native/file-transfer"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/firebase-vision.md",
   "sourceDirName": "native",
   "slug": "/native/firebase-vision",
-  "permalink": "/developer/docs/v5/native/firebase-vision",
+  "permalink": "/docs/v5/native/firebase-vision",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-vision/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Firebase Messaging",
-    "permalink": "/developer/docs/v5/native/firebase-messaging"
+    "permalink": "/docs/v5/native/firebase-messaging"
   },
   "next": {
     "title": "Firebase X",
-    "permalink": "/developer/docs/v5/native/firebase-x"
+    "permalink": "/docs/v5/native/firebase-x"
   }
 }

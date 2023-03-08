@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/developing/ios.md",
   "sourceDirName": "developing",
   "slug": "/developing/ios",
-  "permalink": "/developer/docs/v5/developing/ios",
+  "permalink": "/docs/v5/developing/ios",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/ios.md",
   "tags": [],
   "version": "v5",
@@ -18,10 +18,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Scaffolding",
-    "permalink": "/developer/docs/v5/developing/scaffolding"
+    "permalink": "/docs/v5/developing/scaffolding"
   },
   "next": {
     "title": "Developing for Android",
-    "permalink": "/developer/docs/v5/developing/android"
+    "permalink": "/docs/v5/developing/android"
   }
 }

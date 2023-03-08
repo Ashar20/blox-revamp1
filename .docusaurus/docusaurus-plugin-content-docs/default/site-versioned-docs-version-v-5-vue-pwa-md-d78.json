@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/vue/pwa.md",
   "sourceDirName": "vue",
   "slug": "/vue/pwa",
-  "permalink": "/developer/docs/v5/vue/pwa",
+  "permalink": "/docs/v5/vue/pwa",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/pwa.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Platform",
-    "permalink": "/developer/docs/v5/vue/platform"
+    "permalink": "/docs/v5/vue/platform"
   },
   "next": {
     "title": "Storage",
-    "permalink": "/developer/docs/v5/vue/storage"
+    "permalink": "/docs/v5/vue/storage"
   }
 }

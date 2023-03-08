@@ -7,7 +7,7 @@
   "source": "@site/docs/native/safari-view-controller.md",
   "sourceDirName": "native",
   "slug": "/native/safari-view-controller",
-  "permalink": "/developer/docs/native/safari-view-controller",
+  "permalink": "/docs/native/safari-view-controller",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/safari-view-controller/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "PushapePush",
-    "permalink": "/developer/docs/native/pushape-push"
+    "permalink": "/docs/native/pushape-push"
   },
   "next": {
     "title": "Screen Orientation",
-    "permalink": "/developer/docs/native/screen-orientation"
+    "permalink": "/docs/native/screen-orientation"
   }
 }

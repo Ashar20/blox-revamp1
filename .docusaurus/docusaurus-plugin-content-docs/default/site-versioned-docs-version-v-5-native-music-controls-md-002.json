@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/music-controls.md",
   "sourceDirName": "native",
   "slug": "/native/music-controls",
-  "permalink": "/developer/docs/v5/native/music-controls",
+  "permalink": "/docs/v5/native/music-controls",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/music-controls/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Multiple Documents Picker",
-    "permalink": "/developer/docs/v5/native/multiple-document-picker"
+    "permalink": "/docs/v5/native/multiple-document-picker"
   },
   "next": {
     "title": "Native Audio",
-    "permalink": "/developer/docs/v5/native/native-audio"
+    "permalink": "/docs/v5/native/native-audio"
   }
 }

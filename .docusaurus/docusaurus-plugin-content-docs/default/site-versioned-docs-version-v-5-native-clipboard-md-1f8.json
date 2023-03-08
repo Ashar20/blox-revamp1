@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/clipboard.md",
   "sourceDirName": "native",
   "slug": "/native/clipboard",
-  "permalink": "/developer/docs/v5/native/clipboard",
+  "permalink": "/docs/v5/native/clipboard",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/clipboard/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "CleverTap",
-    "permalink": "/developer/docs/v5/native/clevertap"
+    "permalink": "/docs/v5/native/clevertap"
   },
   "next": {
     "title": "Cloud Settings",
-    "permalink": "/developer/docs/v5/native/cloud-settings"
+    "permalink": "/docs/v5/native/cloud-settings"
   }
 }

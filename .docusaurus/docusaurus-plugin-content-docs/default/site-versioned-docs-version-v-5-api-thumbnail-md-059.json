@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/thumbnail.md",
   "sourceDirName": "api",
   "slug": "/api/thumbnail",
-  "permalink": "/developer/docs/v5/api/thumbnail",
+  "permalink": "/docs/v5/api/thumbnail",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/thumbnail.md",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-img",
-    "permalink": "/developer/docs/v5/api/img"
+    "permalink": "/docs/v5/api/img"
   },
   "next": {
     "title": "ion-menu",
-    "permalink": "/developer/docs/v5/api/menu"
+    "permalink": "/docs/v5/api/menu"
   }
 }

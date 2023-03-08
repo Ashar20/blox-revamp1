@@ -7,7 +7,7 @@
   "source": "@site/docs/native/photo-viewer.md",
   "sourceDirName": "native",
   "slug": "/native/photo-viewer",
-  "permalink": "/developer/docs/native/photo-viewer",
+  "permalink": "/docs/native/photo-viewer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/photo-viewer/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Photo Library",
-    "permalink": "/developer/docs/native/photo-library"
+    "permalink": "/docs/native/photo-library"
   },
   "next": {
     "title": "Pollfish",
-    "permalink": "/developer/docs/native/pollfish"
+    "permalink": "/docs/native/pollfish"
   }
 }

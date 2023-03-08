@@ -7,7 +7,7 @@
   "source": "@site/docs/native/firebase-config.md",
   "sourceDirName": "native",
   "slug": "/native/firebase-config",
-  "permalink": "/developer/docs/native/firebase-config",
+  "permalink": "/docs/native/firebase-config",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase-config/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Firebase Authentication",
-    "permalink": "/developer/docs/native/firebase-authentication"
+    "permalink": "/docs/native/firebase-authentication"
   },
   "next": {
     "title": "FirebaseCrash",
-    "permalink": "/developer/docs/native/firebase-crash"
+    "permalink": "/docs/native/firebase-crash"
   }
 }

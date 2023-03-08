@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native-community.md",
   "sourceDirName": ".",
   "slug": "/native/community",
-  "permalink": "/developer/docs/v5/native/community",
+  "permalink": "/docs/v5/native/community",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/native-community.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Native APIs",
-    "permalink": "/developer/docs/v5/native"
+    "permalink": "/docs/v5/native"
   },
   "next": {
     "title": "FAQ",
-    "permalink": "/developer/docs/v5/native/faq"
+    "permalink": "/docs/v5/native/faq"
   }
 }

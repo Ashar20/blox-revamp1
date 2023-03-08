@@ -7,7 +7,7 @@
   "source": "@site/docs/native/sqlite.md",
   "sourceDirName": "native",
   "slug": "/native/sqlite",
-  "permalink": "/developer/docs/native/sqlite",
+  "permalink": "/docs/native/sqlite",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sqlite/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "SQLite Porter",
-    "permalink": "/developer/docs/native/sqlite-porter"
+    "permalink": "/docs/native/sqlite-porter"
   },
   "next": {
     "title": "StarPRNT",
-    "permalink": "/developer/docs/native/star-prnt"
+    "permalink": "/docs/native/star-prnt"
   }
 }

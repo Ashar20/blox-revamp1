@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/iamport-cordova.md",
   "sourceDirName": "native",
   "slug": "/native/iamport-cordova",
-  "permalink": "/developer/docs/v5/native/iamport-cordova",
+  "permalink": "/docs/v5/native/iamport-cordova",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/iamport-cordova/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "HTTP",
-    "permalink": "/developer/docs/v5/native/http"
+    "permalink": "/docs/v5/native/http"
   },
   "next": {
     "title": "IBeacon",
-    "permalink": "/developer/docs/v5/native/ibeacon"
+    "permalink": "/docs/v5/native/ibeacon"
   }
 }

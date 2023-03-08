@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/vue/your-first-app/4-loading-photos.md",
   "sourceDirName": "vue/your-first-app",
   "slug": "/vue/your-first-app/loading-photos",
-  "permalink": "/developer/docs/v5/vue/your-first-app/loading-photos",
+  "permalink": "/docs/v5/vue/your-first-app/loading-photos",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/your-first-app/4-loading-photos.md",
   "tags": [],
   "version": "v5",
@@ -18,10 +18,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Saving Photos",
-    "permalink": "/developer/docs/v5/vue/your-first-app/saving-photos"
+    "permalink": "/docs/v5/vue/your-first-app/saving-photos"
   },
   "next": {
     "title": "Adding Mobile",
-    "permalink": "/developer/docs/v5/vue/your-first-app/adding-mobile"
+    "permalink": "/docs/v5/vue/your-first-app/adding-mobile"
   }
 }

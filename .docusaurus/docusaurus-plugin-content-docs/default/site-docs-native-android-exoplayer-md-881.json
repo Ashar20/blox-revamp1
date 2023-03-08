@@ -7,7 +7,7 @@
   "source": "@site/docs/native/android-exoplayer.md",
   "sourceDirName": "native",
   "slug": "/native/android-exoplayer",
-  "permalink": "/developer/docs/native/android-exoplayer",
+  "permalink": "/docs/native/android-exoplayer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/android-exoplayer/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Analytics Firebase",
-    "permalink": "/developer/docs/native/analytics-firebase"
+    "permalink": "/docs/native/analytics-firebase"
   },
   "next": {
     "title": "Android Full Screen",
-    "permalink": "/developer/docs/native/android-full-screen"
+    "permalink": "/docs/native/android-full-screen"
   }
 }

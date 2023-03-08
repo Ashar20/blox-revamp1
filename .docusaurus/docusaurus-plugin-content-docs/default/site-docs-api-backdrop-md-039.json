@@ -7,7 +7,7 @@
   "source": "@site/docs/api/backdrop.md",
   "sourceDirName": "api",
   "slug": "/api/backdrop",
-  "permalink": "/developer/docs/api/backdrop",
+  "permalink": "/docs/api/backdrop",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/backdrop.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-modal",
-    "permalink": "/developer/docs/api/modal"
+    "permalink": "/docs/api/modal"
   },
   "next": {
     "title": "ion-nav",
-    "permalink": "/developer/docs/api/nav"
+    "permalink": "/docs/api/nav"
   }
 }

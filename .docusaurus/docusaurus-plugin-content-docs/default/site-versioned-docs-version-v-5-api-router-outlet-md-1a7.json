@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/router-outlet.md",
   "sourceDirName": "api",
   "slug": "/api/router-outlet",
-  "permalink": "/developer/docs/v5/api/router-outlet",
+  "permalink": "/docs/v5/api/router-outlet",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/router-outlet.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-router-link",
-    "permalink": "/developer/docs/v5/api/router-link"
+    "permalink": "/docs/v5/api/router-link"
   },
   "next": {
     "title": "ion-route",
-    "permalink": "/developer/docs/v5/api/route"
+    "permalink": "/docs/v5/api/route"
   }
 }

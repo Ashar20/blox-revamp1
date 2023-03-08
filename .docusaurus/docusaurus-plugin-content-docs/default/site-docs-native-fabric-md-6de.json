@@ -7,7 +7,7 @@
   "source": "@site/docs/native/fabric.md",
   "sourceDirName": "native",
   "slug": "/native/fabric",
-  "permalink": "/developer/docs/native/fabric",
+  "permalink": "/docs/native/fabric",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/fabric/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Email Composer",
-    "permalink": "/developer/docs/native/email-composer"
+    "permalink": "/docs/native/email-composer"
   },
   "next": {
     "title": "Facebook",
-    "permalink": "/developer/docs/native/facebook"
+    "permalink": "/docs/native/facebook"
   }
 }

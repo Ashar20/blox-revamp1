@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/spinner.md",
   "sourceDirName": "api",
   "slug": "/api/spinner",
-  "permalink": "/developer/docs/v5/api/spinner",
+  "permalink": "/docs/v5/api/spinner",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/spinner.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-skeleton-text",
-    "permalink": "/developer/docs/v5/api/skeleton-text"
+    "permalink": "/docs/v5/api/skeleton-text"
   },
   "next": {
     "title": "ion-radio",
-    "permalink": "/developer/docs/v5/api/radio"
+    "permalink": "/docs/v5/api/radio"
   }
 }

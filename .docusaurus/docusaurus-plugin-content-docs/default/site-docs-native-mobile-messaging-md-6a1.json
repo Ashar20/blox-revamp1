@@ -7,7 +7,7 @@
   "source": "@site/docs/native/mobile-messaging.md",
   "sourceDirName": "native",
   "slug": "/native/mobile-messaging",
-  "permalink": "/developer/docs/native/mobile-messaging",
+  "permalink": "/docs/native/mobile-messaging",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/mobile-messaging/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "MLKitTranslate",
-    "permalink": "/developer/docs/native/mlkit-translate"
+    "permalink": "/docs/native/mlkit-translate"
   },
   "next": {
     "title": "Multiple Documents Picker",
-    "permalink": "/developer/docs/native/multiple-document-picker"
+    "permalink": "/docs/native/multiple-document-picker"
   }
 }

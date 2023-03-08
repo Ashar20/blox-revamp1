@@ -7,7 +7,7 @@
   "source": "@site/docs/native/app-center-analytics.md",
   "sourceDirName": "native",
   "slug": "/native/app-center-analytics",
-  "permalink": "/developer/docs/native/app-center-analytics",
+  "permalink": "/docs/native/app-center-analytics",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-center-analytics/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "App Availability",
-    "permalink": "/developer/docs/native/app-availability"
+    "permalink": "/docs/native/app-availability"
   },
   "next": {
     "title": "App Center Crashes",
-    "permalink": "/developer/docs/native/app-center-crashes"
+    "permalink": "/docs/native/app-center-crashes"
   }
 }

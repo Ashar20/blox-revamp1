@@ -7,7 +7,7 @@
   "source": "@site/docs/Content Hub/update-a-catalog.md",
   "sourceDirName": "Content Hub",
   "slug": "/Content Hub/update-a-catalog",
-  "permalink": "/developer/docs/Content Hub/update-a-catalog",
+  "permalink": "/docs/Content Hub/update-a-catalog",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/update-a-catalog.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Create a catalog",
-    "permalink": "/developer/docs/Content Hub/overview"
+    "permalink": "/docs/Content Hub/overview"
   },
   "next": {
     "title": "Explore a catalog",
-    "permalink": "/developer/docs/Content Hub/Explore-a-catalog"
+    "permalink": "/docs/Content Hub/Explore-a-catalog"
   }
 }

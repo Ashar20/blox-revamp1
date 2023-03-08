@@ -7,7 +7,7 @@
   "source": "@site/docs/api/menu-button.md",
   "sourceDirName": "api",
   "slug": "/api/menu-button",
-  "permalink": "/developer/docs/api/menu-button",
+  "permalink": "/docs/api/menu-button",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu-button.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-menu",
-    "permalink": "/developer/docs/api/menu"
+    "permalink": "/docs/api/menu"
   },
   "next": {
     "title": "ion-menu-toggle",
-    "permalink": "/developer/docs/api/menu-toggle"
+    "permalink": "/docs/api/menu-toggle"
   }
 }

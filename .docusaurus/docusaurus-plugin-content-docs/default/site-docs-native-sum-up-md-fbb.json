@@ -7,7 +7,7 @@
   "source": "@site/docs/native/sum-up.md",
   "sourceDirName": "native",
   "slug": "/native/sum-up",
-  "permalink": "/developer/docs/native/sum-up",
+  "permalink": "/docs/native/sum-up",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sum-up/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Stripe",
-    "permalink": "/developer/docs/native/stripe"
+    "permalink": "/docs/native/stripe"
   },
   "next": {
     "title": "System Alert Window Permission",
-    "permalink": "/developer/docs/native/system-alert-window-permission"
+    "permalink": "/docs/native/system-alert-window-permission"
   }
 }

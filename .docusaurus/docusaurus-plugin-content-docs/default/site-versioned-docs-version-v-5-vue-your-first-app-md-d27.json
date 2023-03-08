@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/vue/your-first-app.md",
   "sourceDirName": "vue",
   "slug": "/vue/your-first-app",
-  "permalink": "/developer/docs/v5/vue/your-first-app",
+  "permalink": "/docs/v5/vue/your-first-app",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/vue/your-first-app.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Quickstart",
-    "permalink": "/developer/docs/v5/vue/quickstart"
+    "permalink": "/docs/v5/vue/quickstart"
   },
   "next": {
     "title": "Taking Photos",
-    "permalink": "/developer/docs/v5/vue/your-first-app/taking-photos"
+    "permalink": "/docs/v5/vue/your-first-app/taking-photos"
   }
 }

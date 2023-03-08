@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/serve.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/serve",
-  "permalink": "/developer/docs/v5/cli/commands/serve",
+  "permalink": "/docs/v5/cli/commands/serve",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/serve.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "repair",
-    "permalink": "/developer/docs/v5/cli/commands/repair"
+    "permalink": "/docs/v5/cli/commands/repair"
   },
   "next": {
     "title": "signup",
-    "permalink": "/developer/docs/v5/cli/commands/signup"
+    "permalink": "/docs/v5/cli/commands/signup"
   }
 }

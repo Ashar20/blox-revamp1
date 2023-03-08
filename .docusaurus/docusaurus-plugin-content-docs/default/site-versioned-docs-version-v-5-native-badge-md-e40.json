@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/badge.md",
   "sourceDirName": "native",
   "slug": "/native/badge",
-  "permalink": "/developer/docs/v5/native/badge",
+  "permalink": "/docs/v5/native/badge",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/badge/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "BackgroundUpload",
-    "permalink": "/developer/docs/v5/native/background-upload"
+    "permalink": "/docs/v5/native/background-upload"
   },
   "next": {
     "title": "Barcode Scanner",
-    "permalink": "/developer/docs/v5/native/barcode-scanner"
+    "permalink": "/docs/v5/native/barcode-scanner"
   }
 }

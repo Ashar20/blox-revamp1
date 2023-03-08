@@ -7,7 +7,7 @@
   "source": "@site/docs/native/device.md",
   "sourceDirName": "native",
   "slug": "/native/device",
-  "permalink": "/developer/docs/native/device",
+  "permalink": "/docs/native/device",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Device Orientation",
-    "permalink": "/developer/docs/native/device-orientation"
+    "permalink": "/docs/native/device-orientation"
   },
   "next": {
     "title": "Dfu Update",
-    "permalink": "/developer/docs/native/dfu-update"
+    "permalink": "/docs/native/dfu-update"
   }
 }

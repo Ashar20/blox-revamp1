@@ -7,7 +7,7 @@
   "source": "@site/docs/native/device-accounts.md",
   "sourceDirName": "native",
   "slug": "/native/device-accounts",
-  "permalink": "/developer/docs/native/device-accounts",
+  "permalink": "/docs/native/device-accounts",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device-accounts/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Deeplinks",
-    "permalink": "/developer/docs/native/deeplinks"
+    "permalink": "/docs/native/deeplinks"
   },
   "next": {
     "title": "Device Motion",
-    "permalink": "/developer/docs/native/device-motion"
+    "permalink": "/docs/native/device-motion"
   }
 }

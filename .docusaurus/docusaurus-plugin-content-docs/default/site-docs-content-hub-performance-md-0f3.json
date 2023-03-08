@@ -7,7 +7,7 @@
   "source": "@site/docs/Content Hub/performance.md",
   "sourceDirName": "Content Hub",
   "slug": "/Content Hub/performance",
-  "permalink": "/developer/docs/Content Hub/performance",
+  "permalink": "/docs/Content Hub/performance",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/performance.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Create a project",
-    "permalink": "/developer/docs/Content Hub/Enrich/project"
+    "permalink": "/docs/Content Hub/Enrich/project"
   },
   "next": {
     "title": "FAQ's",
-    "permalink": "/developer/docs/Content Hub/pwa"
+    "permalink": "/docs/Content Hub/pwa"
   }
 }

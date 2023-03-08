@@ -7,7 +7,7 @@
   "source": "@site/docs/native/sign-in-with-apple.md",
   "sourceDirName": "native",
   "slug": "/native/sign-in-with-apple",
-  "permalink": "/developer/docs/native/sign-in-with-apple",
+  "permalink": "/docs/native/sign-in-with-apple",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sign-in-with-apple/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Shake",
-    "permalink": "/developer/docs/native/shake"
+    "permalink": "/docs/native/shake"
   },
   "next": {
     "title": "Smartlook",
-    "permalink": "/developer/docs/native/smartlook"
+    "permalink": "/docs/native/smartlook"
   }
 }

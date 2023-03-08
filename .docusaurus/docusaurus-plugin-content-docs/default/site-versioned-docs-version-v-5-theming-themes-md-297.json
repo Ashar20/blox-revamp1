@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/theming/themes.md",
   "sourceDirName": "theming",
   "slug": "/theming/themes",
-  "permalink": "/developer/docs/v5/theming/themes",
+  "permalink": "/docs/v5/theming/themes",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/themes.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Colors",
-    "permalink": "/developer/docs/v5/theming/colors"
+    "permalink": "/docs/v5/theming/colors"
   },
   "next": {
     "title": "Dark Mode",
-    "permalink": "/developer/docs/v5/theming/dark-mode"
+    "permalink": "/docs/v5/theming/dark-mode"
   }
 }

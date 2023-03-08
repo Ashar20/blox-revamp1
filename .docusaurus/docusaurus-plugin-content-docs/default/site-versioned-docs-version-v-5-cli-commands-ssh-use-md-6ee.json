@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/ssh-use.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/ssh-use",
-  "permalink": "/developer/docs/v5/cli/commands/ssh-use",
+  "permalink": "/docs/v5/cli/commands/ssh-use",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/ssh/use.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "ssh setup",
-    "permalink": "/developer/docs/v5/cli/commands/ssh-setup"
+    "permalink": "/docs/v5/cli/commands/ssh-setup"
   },
   "next": {
     "title": "ssl generate",
-    "permalink": "/developer/docs/v5/cli/commands/ssl-generate"
+    "permalink": "/docs/v5/cli/commands/ssl-generate"
   }
 }

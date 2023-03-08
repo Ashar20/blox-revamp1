@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/intro/next.md",
   "sourceDirName": "intro",
   "slug": "/intro/next",
-  "permalink": "/developer/docs/v5/intro/next",
+  "permalink": "/docs/v5/intro/next",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/intro/next.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Packages & CDN",
-    "permalink": "/developer/docs/v5/intro/cdn"
+    "permalink": "/docs/v5/intro/cdn"
   },
   "next": {
     "title": "Starting",
-    "permalink": "/developer/docs/v5/developing/starting"
+    "permalink": "/docs/v5/developing/starting"
   }
 }

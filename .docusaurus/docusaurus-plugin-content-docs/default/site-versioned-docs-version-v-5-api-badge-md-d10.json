@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/badge.md",
   "sourceDirName": "api",
   "slug": "/api/badge",
-  "permalink": "/developer/docs/v5/api/badge",
+  "permalink": "/docs/v5/api/badge",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/badge.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-alert",
-    "permalink": "/developer/docs/v5/api/alert"
+    "permalink": "/docs/v5/api/alert"
   },
   "next": {
     "title": "ion-button",
-    "permalink": "/developer/docs/v5/api/button"
+    "permalink": "/docs/v5/api/button"
   }
 }

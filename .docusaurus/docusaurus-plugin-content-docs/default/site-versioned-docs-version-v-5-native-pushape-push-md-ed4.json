@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/pushape-push.md",
   "sourceDirName": "native",
   "slug": "/native/pushape-push",
-  "permalink": "/developer/docs/v5/native/pushape-push",
+  "permalink": "/docs/v5/native/pushape-push",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/pushape-push/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Push",
-    "permalink": "/developer/docs/v5/native/push"
+    "permalink": "/docs/v5/native/push"
   },
   "next": {
     "title": "Safari View Controller",
-    "permalink": "/developer/docs/v5/native/safari-view-controller"
+    "permalink": "/docs/v5/native/safari-view-controller"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/apple-wallet.md",
   "sourceDirName": "native",
   "slug": "/native/apple-wallet",
-  "permalink": "/developer/docs/native/apple-wallet",
+  "permalink": "/docs/native/apple-wallet",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/apple-wallet/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "App Version",
-    "permalink": "/developer/docs/native/app-version"
+    "permalink": "/docs/native/app-version"
   },
   "next": {
     "title": "Appsflyer",
-    "permalink": "/developer/docs/native/appsflyer"
+    "permalink": "/docs/native/appsflyer"
   }
 }

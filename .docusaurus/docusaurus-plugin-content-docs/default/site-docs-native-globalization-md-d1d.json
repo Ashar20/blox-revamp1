@@ -7,7 +7,7 @@
   "source": "@site/docs/native/globalization.md",
   "sourceDirName": "native",
   "slug": "/native/globalization",
-  "permalink": "/developer/docs/native/globalization",
+  "permalink": "/docs/native/globalization",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/globalization/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Geolocation",
-    "permalink": "/developer/docs/native/geolocation"
+    "permalink": "/docs/native/geolocation"
   },
   "next": {
     "title": "Google Analytics",
-    "permalink": "/developer/docs/native/google-analytics"
+    "permalink": "/docs/native/google-analytics"
   }
 }

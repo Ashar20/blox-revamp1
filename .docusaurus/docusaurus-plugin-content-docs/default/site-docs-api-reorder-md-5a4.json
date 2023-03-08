@@ -7,7 +7,7 @@
   "source": "@site/docs/api/reorder.md",
   "sourceDirName": "api",
   "slug": "/api/reorder",
-  "permalink": "/developer/docs/api/reorder",
+  "permalink": "/docs/api/reorder",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/reorder.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-refresher-content",
-    "permalink": "/developer/docs/api/refresher-content"
+    "permalink": "/docs/api/refresher-content"
   },
   "next": {
     "title": "ion-reorder-group",
-    "permalink": "/developer/docs/api/reorder-group"
+    "permalink": "/docs/api/reorder-group"
   }
 }

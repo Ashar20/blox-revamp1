@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/react/your-first-app/2-taking-photos.md",
   "sourceDirName": "react/your-first-app",
   "slug": "/react/your-first-app/taking-photos",
-  "permalink": "/developer/docs/v5/react/your-first-app/taking-photos",
+  "permalink": "/docs/v5/react/your-first-app/taking-photos",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/your-first-app/2-taking-photos.md",
   "tags": [],
   "version": "v5",
@@ -18,10 +18,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Build Your First App",
-    "permalink": "/developer/docs/v5/react/your-first-app"
+    "permalink": "/docs/v5/react/your-first-app"
   },
   "next": {
     "title": "Saving Photos",
-    "permalink": "/developer/docs/v5/react/your-first-app/saving-photos"
+    "permalink": "/docs/v5/react/your-first-app/saving-photos"
   }
 }

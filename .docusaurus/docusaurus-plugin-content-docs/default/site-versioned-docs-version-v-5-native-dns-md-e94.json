@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/dns.md",
   "sourceDirName": "native",
   "slug": "/native/dns",
-  "permalink": "/developer/docs/v5/native/dns",
+  "permalink": "/docs/v5/native/dns",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/dns/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Dialogs",
-    "permalink": "/developer/docs/v5/native/dialogs"
+    "permalink": "/docs/v5/native/dialogs"
   },
   "next": {
     "title": "iOS DocumentPicker",
-    "permalink": "/developer/docs/v5/native/document-picker"
+    "permalink": "/docs/v5/native/document-picker"
   }
 }

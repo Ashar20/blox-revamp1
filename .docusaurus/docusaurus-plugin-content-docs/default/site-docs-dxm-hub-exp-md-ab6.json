@@ -7,7 +7,7 @@
   "source": "@site/docs/DXM Hub/exp.md",
   "sourceDirName": "DXM Hub",
   "slug": "/DXM Hub/exp",
-  "permalink": "/developer/docs/DXM Hub/exp",
+  "permalink": "/docs/DXM Hub/exp",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/exp.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Metrics",
-    "permalink": "/developer/docs/DXM Hub/Metrics"
+    "permalink": "/docs/DXM Hub/Metrics"
   },
   "next": {
     "title": "Pages",
-    "permalink": "/developer/docs/DXM Hub/pages"
+    "permalink": "/docs/DXM Hub/pages"
   }
 }

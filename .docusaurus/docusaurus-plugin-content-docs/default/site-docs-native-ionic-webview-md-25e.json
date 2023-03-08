@@ -7,7 +7,7 @@
   "source": "@site/docs/native/ionic-webview.md",
   "sourceDirName": "native",
   "slug": "/native/ionic-webview",
-  "permalink": "/developer/docs/native/ionic-webview",
+  "permalink": "/docs/native/ionic-webview",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ionic-webview/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Intercom",
-    "permalink": "/developer/docs/native/intercom"
+    "permalink": "/docs/native/intercom"
   },
   "next": {
     "title": "ios-aswebauthenticationsession-api",
-    "permalink": "/developer/docs/native/ios-aswebauthenticationsession-api"
+    "permalink": "/docs/native/ios-aswebauthenticationsession-api"
   }
 }

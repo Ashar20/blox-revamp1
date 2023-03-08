@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Audience Hub/pwa",
+  "id": "Audience Hub/pwa",
+  "isDocsHomePage": false,
+  "title": "Audience Hub - FAQ",
+  "description": "What is an Audience?",
+  "source": "@site/docs/Audience Hub/pwa.md",
+  "sourceDirName": "Audience Hub",
+  "slug": "/Audience Hub/pwa",
+  "permalink": "/docs/Audience Hub/pwa",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/pwa.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Audience Hub - FAQ",
+    "sidebar_label": "FAQ's"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upload Custom Audience",
+    "permalink": "/docs/Audience Hub/previewing"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/DXM Hub/Getting Started"
+  }
+}

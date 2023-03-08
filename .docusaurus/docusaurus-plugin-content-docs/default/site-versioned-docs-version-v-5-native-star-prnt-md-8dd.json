@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/star-prnt.md",
   "sourceDirName": "native",
   "slug": "/native/star-prnt",
-  "permalink": "/developer/docs/v5/native/star-prnt",
+  "permalink": "/docs/v5/native/star-prnt",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/star-prnt/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "SQLite ",
-    "permalink": "/developer/docs/v5/native/sqlite"
+    "permalink": "/docs/v5/native/sqlite"
   },
   "next": {
     "title": "Status Bar",
-    "permalink": "/developer/docs/v5/native/status-bar"
+    "permalink": "/docs/v5/native/status-bar"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/api/radio-group.md",
   "sourceDirName": "api",
   "slug": "/api/radio-group",
-  "permalink": "/developer/docs/api/radio-group",
+  "permalink": "/docs/api/radio-group",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/radio-group.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-radio",
-    "permalink": "/developer/docs/api/radio"
+    "permalink": "/docs/api/radio"
   },
   "next": {
     "title": "ion-range",
-    "permalink": "/developer/docs/api/range"
+    "permalink": "/docs/api/range"
   }
 }

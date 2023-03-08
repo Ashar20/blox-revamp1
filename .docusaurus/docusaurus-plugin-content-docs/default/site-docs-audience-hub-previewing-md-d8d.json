@@ -7,7 +7,7 @@
   "source": "@site/docs/Audience Hub/previewing.md",
   "sourceDirName": "Audience Hub",
   "slug": "/Audience Hub/previewing",
-  "permalink": "/developer/docs/Audience Hub/previewing",
+  "permalink": "/docs/Audience Hub/previewing",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Audience Hub/previewing.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Audience listing",
-    "permalink": "/developer/docs/Audience Hub/tips"
+    "permalink": "/docs/Audience Hub/tips"
   },
   "next": {
     "title": "Getting Started",
-    "permalink": "/developer/docs/DXM Hub/Getting Started"
+    "permalink": "/docs/DXM Hub/Getting Started"
   }
 }

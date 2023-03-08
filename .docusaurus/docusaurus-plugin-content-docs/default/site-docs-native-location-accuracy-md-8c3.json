@@ -7,7 +7,7 @@
   "source": "@site/docs/native/location-accuracy.md",
   "sourceDirName": "native",
   "slug": "/native/location-accuracy",
-  "permalink": "/developer/docs/native/location-accuracy",
+  "permalink": "/docs/native/location-accuracy",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/location-accuracy/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Local Notifications",
-    "permalink": "/developer/docs/native/local-notifications"
+    "permalink": "/docs/native/local-notifications"
   },
   "next": {
     "title": "Lottie Splash Screen",
-    "permalink": "/developer/docs/native/lottie-splash-screen"
+    "permalink": "/docs/native/lottie-splash-screen"
   }
 }

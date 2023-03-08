@@ -7,7 +7,7 @@
   "source": "@site/docs/native/abbyy-rtr.md",
   "sourceDirName": "native",
   "slug": "/native/abbyy-rtr",
-  "permalink": "/developer/docs/native/abbyy-rtr",
+  "permalink": "/docs/native/abbyy-rtr",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/abbyy-rtr/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "FAQ",
-    "permalink": "/developer/docs/native/faq"
+    "permalink": "/docs/native/faq"
   },
   "next": {
     "title": "Action Sheet",
-    "permalink": "/developer/docs/native/action-sheet"
+    "permalink": "/docs/native/action-sheet"
   }
 }

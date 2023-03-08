@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/device-orientation.md",
   "sourceDirName": "native",
   "slug": "/native/device-orientation",
-  "permalink": "/developer/docs/v5/native/device-orientation",
+  "permalink": "/docs/v5/native/device-orientation",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device-orientation/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Device Motion",
-    "permalink": "/developer/docs/v5/native/device-motion"
+    "permalink": "/docs/v5/native/device-motion"
   },
   "next": {
     "title": "Device",
-    "permalink": "/developer/docs/v5/native/device"
+    "permalink": "/docs/v5/native/device"
   }
 }

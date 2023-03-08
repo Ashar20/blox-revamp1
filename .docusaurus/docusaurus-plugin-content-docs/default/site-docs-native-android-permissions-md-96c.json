@@ -7,7 +7,7 @@
   "source": "@site/docs/native/android-permissions.md",
   "sourceDirName": "native",
   "slug": "/native/android-permissions",
-  "permalink": "/developer/docs/native/android-permissions",
+  "permalink": "/docs/native/android-permissions",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/android-permissions/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Android Notch",
-    "permalink": "/developer/docs/native/android-notch"
+    "permalink": "/docs/native/android-notch"
   },
   "next": {
     "title": "Anyline",
-    "permalink": "/developer/docs/native/anyline"
+    "permalink": "/docs/native/anyline"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/email-composer.md",
   "sourceDirName": "native",
   "slug": "/native/email-composer",
-  "permalink": "/developer/docs/v5/native/email-composer",
+  "permalink": "/docs/v5/native/email-composer",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/email-composer/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Document Viewer",
-    "permalink": "/developer/docs/v5/native/document-viewer"
+    "permalink": "/docs/v5/native/document-viewer"
   },
   "next": {
     "title": "Answers",
-    "permalink": "/developer/docs/v5/native/fabric"
+    "permalink": "/docs/v5/native/fabric"
   }
 }

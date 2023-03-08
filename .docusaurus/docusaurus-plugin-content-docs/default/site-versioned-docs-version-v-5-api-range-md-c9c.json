@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/range.md",
   "sourceDirName": "api",
   "slug": "/api/range",
-  "permalink": "/developer/docs/v5/api/range",
+  "permalink": "/docs/v5/api/range",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/range.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-radio-group",
-    "permalink": "/developer/docs/v5/api/radio-group"
+    "permalink": "/docs/v5/api/radio-group"
   },
   "next": {
     "title": "ion-refresher",
-    "permalink": "/developer/docs/v5/api/refresher"
+    "permalink": "/docs/v5/api/refresher"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/cli/commands/logout.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/logout",
-  "permalink": "/developer/docs/cli/commands/logout",
+  "permalink": "/docs/cli/commands/logout",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/logout.ts",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "cli",
   "previous": {
     "title": "login",
-    "permalink": "/developer/docs/cli/commands/login"
+    "permalink": "/docs/cli/commands/login"
   },
   "next": {
     "title": "package build",
-    "permalink": "/developer/docs/cli/commands/package-build"
+    "permalink": "/docs/cli/commands/package-build"
   }
 }

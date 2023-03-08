@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/layout/grid.md",
   "sourceDirName": "layout",
   "slug": "/layout/grid",
-  "permalink": "/developer/docs/v5/layout/grid",
+  "permalink": "/docs/v5/layout/grid",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/layout/grid.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Structure",
-    "permalink": "/developer/docs/v5/layout/structure"
+    "permalink": "/docs/v5/layout/structure"
   },
   "next": {
     "title": "Global Stylesheets",
-    "permalink": "/developer/docs/v5/layout/global-stylesheets"
+    "permalink": "/docs/v5/layout/global-stylesheets"
   }
 }

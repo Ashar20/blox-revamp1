@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/init.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/init",
-  "permalink": "/developer/docs/v5/cli/commands/init",
+  "permalink": "/docs/v5/cli/commands/init",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/init.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "info",
-    "permalink": "/developer/docs/v5/cli/commands/info"
+    "permalink": "/docs/v5/cli/commands/info"
   },
   "next": {
     "title": "integrations disable",
-    "permalink": "/developer/docs/v5/cli/commands/integrations-disable"
+    "permalink": "/docs/v5/cli/commands/integrations-disable"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/native/line-login.md",
   "sourceDirName": "native",
   "slug": "/native/line-login",
-  "permalink": "/developer/docs/native/line-login",
+  "permalink": "/docs/native/line-login",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/line-login/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Launch Review",
-    "permalink": "/developer/docs/native/launch-review"
+    "permalink": "/docs/native/launch-review"
   },
   "next": {
     "title": "LocalBackup",
-    "permalink": "/developer/docs/native/local-backup"
+    "permalink": "/docs/native/local-backup"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/components.md",
   "sourceDirName": ".",
   "slug": "/components",
-  "permalink": "/developer/docs/v5/components",
+  "permalink": "/docs/v5/components",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/components.md",
   "tags": [],
   "version": "v5",
@@ -19,6 +19,6 @@
   "sidebar": "version-v5/api",
   "next": {
     "title": "ion-action-sheet",
-    "permalink": "/developer/docs/v5/api/action-sheet"
+    "permalink": "/docs/v5/api/action-sheet"
   }
 }

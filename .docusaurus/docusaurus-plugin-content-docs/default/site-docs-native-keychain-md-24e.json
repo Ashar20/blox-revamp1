@@ -7,7 +7,7 @@
   "source": "@site/docs/native/keychain.md",
   "sourceDirName": "native",
   "slug": "/native/keychain",
-  "permalink": "/developer/docs/native/keychain",
+  "permalink": "/docs/native/keychain",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/keychain/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Keyboard",
-    "permalink": "/developer/docs/native/keyboard"
+    "permalink": "/docs/native/keyboard"
   },
   "next": {
     "title": "Kommunicate",
-    "permalink": "/developer/docs/native/kommunicate"
+    "permalink": "/docs/native/kommunicate"
   }
 }

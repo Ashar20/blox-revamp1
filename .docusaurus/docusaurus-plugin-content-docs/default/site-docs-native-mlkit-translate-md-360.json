@@ -7,7 +7,7 @@
   "source": "@site/docs/native/mlkit-translate.md",
   "sourceDirName": "native",
   "slug": "/native/mlkit-translate",
-  "permalink": "/developer/docs/native/mlkit-translate",
+  "permalink": "/docs/native/mlkit-translate",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/mlkit-translate/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Mixpanel",
-    "permalink": "/developer/docs/native/mixpanel"
+    "permalink": "/docs/native/mixpanel"
   },
   "next": {
     "title": "Mobile Messaging",
-    "permalink": "/developer/docs/native/mobile-messaging"
+    "permalink": "/docs/native/mobile-messaging"
   }
 }

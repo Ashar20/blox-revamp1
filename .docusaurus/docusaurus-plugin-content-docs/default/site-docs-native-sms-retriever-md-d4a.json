@@ -7,7 +7,7 @@
   "source": "@site/docs/native/sms-retriever.md",
   "sourceDirName": "native",
   "slug": "/native/sms-retriever",
-  "permalink": "/developer/docs/native/sms-retriever",
+  "permalink": "/docs/native/sms-retriever",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/sms-retriever/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Smartlook",
-    "permalink": "/developer/docs/native/smartlook"
+    "permalink": "/docs/native/smartlook"
   },
   "next": {
     "title": "SMS",
-    "permalink": "/developer/docs/native/sms"
+    "permalink": "/docs/native/sms"
   }
 }

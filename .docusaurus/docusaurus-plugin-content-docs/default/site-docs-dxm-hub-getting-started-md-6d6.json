@@ -7,7 +7,7 @@
   "source": "@site/docs/DXM Hub/Getting Started.md",
   "sourceDirName": "DXM Hub",
   "slug": "/DXM Hub/Getting Started",
-  "permalink": "/developer/docs/DXM Hub/Getting Started",
+  "permalink": "/docs/DXM Hub/Getting Started",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/DXM Hub/Getting Started.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Upload Custom Audience",
-    "permalink": "/developer/docs/Audience Hub/previewing"
+    "permalink": "/docs/Audience Hub/previewing"
   },
   "next": {
     "title": "Metrics",
-    "permalink": "/developer/docs/DXM Hub/Metrics"
+    "permalink": "/docs/DXM Hub/Metrics"
   }
 }

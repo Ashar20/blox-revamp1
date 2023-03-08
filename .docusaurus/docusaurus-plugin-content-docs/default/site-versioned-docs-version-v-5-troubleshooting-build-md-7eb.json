@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/troubleshooting/build.md",
   "sourceDirName": "troubleshooting",
   "slug": "/troubleshooting/build",
-  "permalink": "/developer/docs/v5/troubleshooting/build",
+  "permalink": "/docs/v5/troubleshooting/build",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/troubleshooting/build.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Debugging",
-    "permalink": "/developer/docs/v5/troubleshooting/debugging"
+    "permalink": "/docs/v5/troubleshooting/debugging"
   },
   "next": {
     "title": "Runtime Issues",
-    "permalink": "/developer/docs/v5/troubleshooting/runtime"
+    "permalink": "/docs/v5/troubleshooting/runtime"
   }
 }

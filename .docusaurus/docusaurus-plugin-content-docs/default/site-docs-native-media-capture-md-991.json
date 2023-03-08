@@ -7,7 +7,7 @@
   "source": "@site/docs/native/media-capture.md",
   "sourceDirName": "native",
   "slug": "/native/media-capture",
-  "permalink": "/developer/docs/native/media-capture",
+  "permalink": "/docs/native/media-capture",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/media-capture/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Lottie Splash Screen",
-    "permalink": "/developer/docs/native/lottie-splash-screen"
+    "permalink": "/docs/native/lottie-splash-screen"
   },
   "next": {
     "title": "Media",
-    "permalink": "/developer/docs/native/media"
+    "permalink": "/docs/native/media"
   }
 }

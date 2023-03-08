@@ -7,7 +7,7 @@
   "source": "@site/docs/Content Hub/pwa.md",
   "sourceDirName": "Content Hub",
   "slug": "/Content Hub/pwa",
-  "permalink": "/developer/docs/Content Hub/pwa",
+  "permalink": "/docs/Content Hub/pwa",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/pwa.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Catalog Listing",
-    "permalink": "/developer/docs/Content Hub/performance"
+    "permalink": "/docs/Content Hub/performance"
   },
   "next": {
     "title": "Getting Started",
-    "permalink": "/developer/docs/Audience Hub/scaffolding"
+    "permalink": "/docs/Audience Hub/scaffolding"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/api/picker.md",
   "sourceDirName": "api",
   "slug": "/api/picker",
-  "permalink": "/developer/docs/api/picker",
+  "permalink": "/docs/api/picker",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/picker.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-datetime-button",
-    "permalink": "/developer/docs/api/datetime-button"
+    "permalink": "/docs/api/datetime-button"
   },
   "next": {
     "title": "ion-fab",
-    "permalink": "/developer/docs/api/fab"
+    "permalink": "/docs/api/fab"
   }
 }

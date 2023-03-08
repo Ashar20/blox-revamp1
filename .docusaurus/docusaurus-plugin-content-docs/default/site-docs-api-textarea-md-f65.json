@@ -7,7 +7,7 @@
   "source": "@site/docs/api/textarea.md",
   "sourceDirName": "api",
   "slug": "/api/textarea",
-  "permalink": "/developer/docs/api/textarea",
+  "permalink": "/docs/api/textarea",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/textarea.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-input",
-    "permalink": "/developer/docs/api/input"
+    "permalink": "/docs/api/input"
   },
   "next": {
     "title": "ion-item",
-    "permalink": "/developer/docs/api/item"
+    "permalink": "/docs/api/item"
   }
 }

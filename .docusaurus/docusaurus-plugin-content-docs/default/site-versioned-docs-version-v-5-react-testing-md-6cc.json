@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/react/testing.md",
   "sourceDirName": "react",
   "slug": "/react/testing",
-  "permalink": "/developer/docs/v5/react/testing",
+  "permalink": "/docs/v5/react/testing",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/react/testing.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Storage",
-    "permalink": "/developer/docs/v5/react/storage"
+    "permalink": "/docs/v5/react/storage"
   },
   "next": {
     "title": "Performance",
-    "permalink": "/developer/docs/v5/react/performance"
+    "permalink": "/docs/v5/react/performance"
   }
 }

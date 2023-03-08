@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/stripe.md",
   "sourceDirName": "native",
   "slug": "/native/stripe",
-  "permalink": "/developer/docs/v5/native/stripe",
+  "permalink": "/docs/v5/native/stripe",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/stripe/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Streaming Media",
-    "permalink": "/developer/docs/v5/native/streaming-media"
+    "permalink": "/docs/v5/native/streaming-media"
   },
   "next": {
     "title": "SumUp",
-    "permalink": "/developer/docs/v5/native/sum-up"
+    "permalink": "/docs/v5/native/sum-up"
   }
 }

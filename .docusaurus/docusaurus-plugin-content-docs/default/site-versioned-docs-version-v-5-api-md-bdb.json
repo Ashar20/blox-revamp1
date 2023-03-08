@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api.md",
   "sourceDirName": ".",
   "slug": "/api",
-  "permalink": "/developer/docs/v5/api",
+  "permalink": "/docs/v5/api",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/api.md",
   "tags": [],
   "version": "v5",
@@ -17,6 +17,6 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-text",
-    "permalink": "/developer/docs/v5/api/text"
+    "permalink": "/docs/v5/api/text"
   }
 }

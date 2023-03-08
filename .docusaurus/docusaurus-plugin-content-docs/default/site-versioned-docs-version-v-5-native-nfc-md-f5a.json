@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/nfc.md",
   "sourceDirName": "native",
   "slug": "/native/nfc",
-  "permalink": "/developer/docs/v5/native/nfc",
+  "permalink": "/docs/v5/native/nfc",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/nfc/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Network",
-    "permalink": "/developer/docs/v5/native/network"
+    "permalink": "/docs/v5/native/network"
   },
   "next": {
     "title": "OCR",
-    "permalink": "/developer/docs/v5/native/ocr"
+    "permalink": "/docs/v5/native/ocr"
   }
 }

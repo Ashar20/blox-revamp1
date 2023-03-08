@@ -7,7 +7,7 @@
   "source": "@site/docs/native/admob.md",
   "sourceDirName": "native",
   "slug": "/native/admob",
-  "permalink": "/developer/docs/native/admob",
+  "permalink": "/docs/native/admob",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/admob/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "AdMob Plus",
-    "permalink": "/developer/docs/native/admob-plus"
+    "permalink": "/docs/native/admob-plus"
   },
   "next": {
     "title": "AES256",
-    "permalink": "/developer/docs/native/aes-256"
+    "permalink": "/docs/native/aes-256"
   }
 }

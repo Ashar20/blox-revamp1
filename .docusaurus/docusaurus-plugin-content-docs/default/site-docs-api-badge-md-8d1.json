@@ -7,7 +7,7 @@
   "source": "@site/docs/api/badge.md",
   "sourceDirName": "api",
   "slug": "/api/badge",
-  "permalink": "/developer/docs/api/badge",
+  "permalink": "/docs/api/badge",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/badge.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-alert",
-    "permalink": "/developer/docs/api/alert"
+    "permalink": "/docs/api/alert"
   },
   "next": {
     "title": "ion-breadcrumb",
-    "permalink": "/developer/docs/api/breadcrumb"
+    "permalink": "/docs/api/breadcrumb"
   }
 }

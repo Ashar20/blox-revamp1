@@ -7,7 +7,7 @@
   "source": "@site/docs/api/grid.md",
   "sourceDirName": "api",
   "slug": "/api/grid",
-  "permalink": "/developer/docs/api/grid",
+  "permalink": "/docs/api/grid",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/grid.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-fab-list",
-    "permalink": "/developer/docs/api/fab-list"
+    "permalink": "/docs/api/fab-list"
   },
   "next": {
     "title": "ion-col",
-    "permalink": "/developer/docs/api/col"
+    "permalink": "/docs/api/col"
   }
 }

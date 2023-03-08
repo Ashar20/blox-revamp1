@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/input.md",
   "sourceDirName": "api",
   "slug": "/api/input",
-  "permalink": "/developer/docs/v5/api/input",
+  "permalink": "/docs/v5/api/input",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/input.md",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-infinite-scroll-content",
-    "permalink": "/developer/docs/v5/api/infinite-scroll-content"
+    "permalink": "/docs/v5/api/infinite-scroll-content"
   },
   "next": {
     "title": "ion-textarea",
-    "permalink": "/developer/docs/v5/api/textarea"
+    "permalink": "/docs/v5/api/textarea"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/google-nearby.md",
   "sourceDirName": "native",
   "slug": "/native/google-nearby",
-  "permalink": "/developer/docs/v5/native/google-nearby",
+  "permalink": "/docs/v5/native/google-nearby",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/google-nearby/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Google Analytics",
-    "permalink": "/developer/docs/v5/native/google-analytics"
+    "permalink": "/docs/v5/native/google-analytics"
   },
   "next": {
     "title": "Google Plus",
-    "permalink": "/developer/docs/v5/native/google-plus"
+    "permalink": "/docs/v5/native/google-plus"
   }
 }

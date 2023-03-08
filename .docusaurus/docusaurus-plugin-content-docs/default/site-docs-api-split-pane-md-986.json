@@ -7,7 +7,7 @@
   "source": "@site/docs/api/split-pane.md",
   "sourceDirName": "api",
   "slug": "/api/split-pane",
-  "permalink": "/developer/docs/api/split-pane",
+  "permalink": "/docs/api/split-pane",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/split-pane.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-menu-toggle",
-    "permalink": "/developer/docs/api/menu-toggle"
+    "permalink": "/docs/api/menu-toggle"
   },
   "next": {
     "title": "ion-modal",
-    "permalink": "/developer/docs/api/modal"
+    "permalink": "/docs/api/modal"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/device-motion.md",
   "sourceDirName": "native",
   "slug": "/native/device-motion",
-  "permalink": "/developer/docs/v5/native/device-motion",
+  "permalink": "/docs/v5/native/device-motion",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/device-motion/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Device Accounts",
-    "permalink": "/developer/docs/v5/native/device-accounts"
+    "permalink": "/docs/v5/native/device-accounts"
   },
   "next": {
     "title": "Device Orientation",
-    "permalink": "/developer/docs/v5/native/device-orientation"
+    "permalink": "/docs/v5/native/device-orientation"
   }
 }

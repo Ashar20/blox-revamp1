@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/media.md",
   "sourceDirName": "native",
   "slug": "/native/media",
-  "permalink": "/developer/docs/v5/native/media",
+  "permalink": "/docs/v5/native/media",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/media/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Media Capture",
-    "permalink": "/developer/docs/v5/native/media-capture"
+    "permalink": "/docs/v5/native/media-capture"
   },
   "next": {
     "title": "Metrix",
-    "permalink": "/developer/docs/v5/native/metrix"
+    "permalink": "/docs/v5/native/metrix"
   }
 }

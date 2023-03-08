@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/local-notifications.md",
   "sourceDirName": "native",
   "slug": "/native/local-notifications",
-  "permalink": "/developer/docs/v5/native/local-notifications",
+  "permalink": "/docs/v5/native/local-notifications",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/local-notifications/index.ts",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Line Login",
-    "permalink": "/developer/docs/v5/native/line-login"
+    "permalink": "/docs/v5/native/line-login"
   },
   "next": {
     "title": "Location Accuracy",
-    "permalink": "/developer/docs/v5/native/location-accuracy"
+    "permalink": "/docs/v5/native/location-accuracy"
   }
 }

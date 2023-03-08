@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/taptic-engine.md",
   "sourceDirName": "native",
   "slug": "/native/taptic-engine",
-  "permalink": "/developer/docs/v5/native/taptic-engine",
+  "permalink": "/docs/v5/native/taptic-engine",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/taptic-engine/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "SumUp",
-    "permalink": "/developer/docs/v5/native/sum-up"
+    "permalink": "/docs/v5/native/sum-up"
   },
   "next": {
     "title": "TealiumAdIdentifier",
-    "permalink": "/developer/docs/v5/native/tealium-adidentifier"
+    "permalink": "/docs/v5/native/tealium-adidentifier"
   }
 }

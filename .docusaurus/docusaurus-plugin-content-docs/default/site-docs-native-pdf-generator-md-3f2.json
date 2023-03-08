@@ -7,7 +7,7 @@
   "source": "@site/docs/native/pdf-generator.md",
   "sourceDirName": "native",
   "slug": "/native/pdf-generator",
-  "permalink": "/developer/docs/native/pdf-generator",
+  "permalink": "/docs/native/pdf-generator",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/pdf-generator/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "PayTabs",
-    "permalink": "/developer/docs/native/paytabs"
+    "permalink": "/docs/native/paytabs"
   },
   "next": {
     "title": "Photo Library",
-    "permalink": "/developer/docs/native/photo-library"
+    "permalink": "/docs/native/photo-library"
   }
 }

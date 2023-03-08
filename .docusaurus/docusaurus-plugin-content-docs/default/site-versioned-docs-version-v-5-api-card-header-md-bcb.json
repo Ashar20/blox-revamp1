@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/card-header.md",
   "sourceDirName": "api",
   "slug": "/api/card-header",
-  "permalink": "/developer/docs/v5/api/card-header",
+  "permalink": "/docs/v5/api/card-header",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/card-header.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-card-content",
-    "permalink": "/developer/docs/v5/api/card-content"
+    "permalink": "/docs/v5/api/card-content"
   },
   "next": {
     "title": "ion-card-subtitle",
-    "permalink": "/developer/docs/v5/api/card-subtitle"
+    "permalink": "/docs/v5/api/card-subtitle"
   }
 }

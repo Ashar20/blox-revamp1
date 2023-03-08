@@ -7,7 +7,7 @@
   "source": "@site/docs/api/label.md",
   "sourceDirName": "api",
   "slug": "/api/label",
-  "permalink": "/developer/docs/api/label",
+  "permalink": "/docs/api/label",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/label.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-item-option",
-    "permalink": "/developer/docs/api/item-option"
+    "permalink": "/docs/api/item-option"
   },
   "next": {
     "title": "ion-note",
-    "permalink": "/developer/docs/api/note"
+    "permalink": "/docs/api/note"
   }
 }

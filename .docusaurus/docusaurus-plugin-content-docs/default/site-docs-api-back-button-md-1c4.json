@@ -7,7 +7,7 @@
   "source": "@site/docs/api/back-button.md",
   "sourceDirName": "api",
   "slug": "/api/back-button",
-  "permalink": "/developer/docs/api/back-button",
+  "permalink": "/docs/api/back-button",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/back-button.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-buttons",
-    "permalink": "/developer/docs/api/buttons"
+    "permalink": "/docs/api/buttons"
   },
   "next": {
     "title": "ion-text",
-    "permalink": "/developer/docs/api/text"
+    "permalink": "/docs/api/text"
   }
 }

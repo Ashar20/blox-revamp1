@@ -7,7 +7,7 @@
   "source": "@site/docs/api/img.md",
   "sourceDirName": "api",
   "slug": "/api/img",
-  "permalink": "/developer/docs/api/img",
+  "permalink": "/docs/api/img",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/img.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-avatar",
-    "permalink": "/developer/docs/api/avatar"
+    "permalink": "/docs/api/avatar"
   },
   "next": {
     "title": "ion-thumbnail",
-    "permalink": "/developer/docs/api/thumbnail"
+    "permalink": "/docs/api/thumbnail"
   }
 }

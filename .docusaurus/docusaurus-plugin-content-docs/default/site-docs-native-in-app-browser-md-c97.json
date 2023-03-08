@@ -7,7 +7,7 @@
   "source": "@site/docs/native/in-app-browser.md",
   "sourceDirName": "native",
   "slug": "/native/in-app-browser",
-  "permalink": "/developer/docs/native/in-app-browser",
+  "permalink": "/docs/native/in-app-browser",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-browser/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Imap",
-    "permalink": "/developer/docs/native/imap"
+    "permalink": "/docs/native/imap"
   },
   "next": {
     "title": "In App Purchase 2",
-    "permalink": "/developer/docs/native/in-app-purchase-2"
+    "permalink": "/docs/native/in-app-purchase-2"
   }
 }

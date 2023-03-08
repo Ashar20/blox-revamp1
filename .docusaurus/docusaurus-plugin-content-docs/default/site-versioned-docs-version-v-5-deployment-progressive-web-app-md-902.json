@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/deployment/progressive-web-app.md",
   "sourceDirName": "deployment",
   "slug": "/deployment/progressive-web-app",
-  "permalink": "/developer/docs/v5/deployment/progressive-web-app",
+  "permalink": "/docs/v5/deployment/progressive-web-app",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/deployment/progressive-web-app.md",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Android Play Store",
-    "permalink": "/developer/docs/v5/deployment/play-store"
+    "permalink": "/docs/v5/deployment/play-store"
   },
   "next": {
     "title": "Electron Desktop App",
-    "permalink": "/developer/docs/v5/deployment/desktop-app"
+    "permalink": "/docs/v5/deployment/desktop-app"
   }
 }

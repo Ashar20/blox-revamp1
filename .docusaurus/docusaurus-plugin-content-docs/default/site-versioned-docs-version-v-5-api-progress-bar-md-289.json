@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/progress-bar.md",
   "sourceDirName": "api",
   "slug": "/api/progress-bar",
-  "permalink": "/developer/docs/v5/api/progress-bar",
+  "permalink": "/docs/v5/api/progress-bar",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/progress-bar.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-loading",
-    "permalink": "/developer/docs/v5/api/loading"
+    "permalink": "/docs/v5/api/loading"
   },
   "next": {
     "title": "ion-skeleton-text",
-    "permalink": "/developer/docs/v5/api/skeleton-text"
+    "permalink": "/docs/v5/api/skeleton-text"
   }
 }

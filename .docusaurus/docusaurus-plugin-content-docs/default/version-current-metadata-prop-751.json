@@ -16,12 +16,12 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/developer/docs/"
+            "href": "/docs/"
           },
           {
             "type": "link",
             "label": "Blox integration",
-            "href": "/developer/docs/intro/upgrading-to-ionic-6"
+            "href": "/docs/intro/upgrading-to-ionic-6"
           }
         ],
         "collapsible": true
@@ -34,17 +34,17 @@
           {
             "type": "link",
             "label": "Create a catalog",
-            "href": "/developer/docs/Content Hub/overview"
+            "href": "/docs/Content Hub/overview"
           },
           {
             "type": "link",
             "label": "Update a catalog",
-            "href": "/developer/docs/Content Hub/update-a-catalog"
+            "href": "/docs/Content Hub/update-a-catalog"
           },
           {
             "type": "link",
             "label": "Explore a catalog",
-            "href": "/developer/docs/Content Hub/Explore-a-catalog"
+            "href": "/docs/Content Hub/Explore-a-catalog"
           },
           {
             "type": "category",
@@ -53,17 +53,17 @@
               {
                 "type": "link",
                 "label": "Metrics",
-                "href": "/developer/docs/Content Hub/Enrich/metrics"
+                "href": "/docs/Content Hub/Enrich/metrics"
               },
               {
                 "type": "link",
                 "label": "Data organization",
-                "href": "/developer/docs/Content Hub/Enrich/dataorg"
+                "href": "/docs/Content Hub/Enrich/dataorg"
               },
               {
                 "type": "link",
                 "label": "Create a project",
-                "href": "/developer/docs/Content Hub/Enrich/project"
+                "href": "/docs/Content Hub/Enrich/project"
               }
             ],
             "collapsible": true,
@@ -72,12 +72,12 @@
           {
             "type": "link",
             "label": "Catalog Listing",
-            "href": "/developer/docs/Content Hub/performance"
+            "href": "/docs/Content Hub/performance"
           },
           {
             "type": "link",
             "label": "FAQ's",
-            "href": "/developer/docs/Content Hub/pwa"
+            "href": "/docs/Content Hub/pwa"
           }
         ],
         "collapsible": true
@@ -90,17 +90,17 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/developer/docs/Audience Hub/scaffolding"
+            "href": "/docs/Audience Hub/scaffolding"
           },
           {
             "type": "link",
             "label": "Audience listing",
-            "href": "/developer/docs/Audience Hub/tips"
+            "href": "/docs/Audience Hub/tips"
           },
           {
             "type": "link",
             "label": "Upload Custom Audience",
-            "href": "/developer/docs/Audience Hub/previewing"
+            "href": "/docs/Audience Hub/previewing"
           }
         ],
         "collapsible": true
@@ -113,37 +113,37 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/developer/docs/DXM Hub/Getting Started"
+            "href": "/docs/DXM Hub/Getting Started"
           },
           {
             "type": "link",
             "label": "Metrics",
-            "href": "/developer/docs/DXM Hub/Metrics"
+            "href": "/docs/DXM Hub/Metrics"
           },
           {
             "type": "link",
             "label": "Experience",
-            "href": "/developer/docs/DXM Hub/exp"
+            "href": "/docs/DXM Hub/exp"
           },
           {
             "type": "link",
             "label": "Pages",
-            "href": "/developer/docs/DXM Hub/pages"
+            "href": "/docs/DXM Hub/pages"
           },
           {
             "type": "link",
             "label": "Module",
-            "href": "/developer/docs/DXM Hub/Module"
+            "href": "/docs/DXM Hub/Module"
           },
           {
             "type": "link",
             "label": "Strategy",
-            "href": "/developer/docs/DXM Hub/Strategy"
+            "href": "/docs/DXM Hub/Strategy"
           },
           {
             "type": "link",
             "label": "Template",
-            "href": "/developer/docs/DXM Hub/Template"
+            "href": "/docs/DXM Hub/Template"
           }
         ],
         "collapsible": true
@@ -158,7 +158,7 @@
           {
             "type": "link",
             "label": "UI Components",
-            "href": "/developer/docs/components"
+            "href": "/docs/components"
           }
         ],
         "collapsible": true
@@ -171,7 +171,7 @@
           {
             "type": "link",
             "label": "ion-action-sheet",
-            "href": "/developer/docs/api/action-sheet"
+            "href": "/docs/api/action-sheet"
           }
         ],
         "collapsible": true
@@ -184,12 +184,12 @@
           {
             "type": "link",
             "label": "ion-accordion",
-            "href": "/developer/docs/api/accordion"
+            "href": "/docs/api/accordion"
           },
           {
             "type": "link",
             "label": "ion-accordion-group",
-            "href": "/developer/docs/api/accordion-group"
+            "href": "/docs/api/accordion-group"
           }
         ],
         "collapsible": true
@@ -202,7 +202,7 @@
           {
             "type": "link",
             "label": "ion-alert",
-            "href": "/developer/docs/api/alert"
+            "href": "/docs/api/alert"
           }
         ],
         "collapsible": true
@@ -215,7 +215,7 @@
           {
             "type": "link",
             "label": "ion-badge",
-            "href": "/developer/docs/api/badge"
+            "href": "/docs/api/badge"
           }
         ],
         "collapsible": true
@@ -228,12 +228,12 @@
           {
             "type": "link",
             "label": "ion-breadcrumb",
-            "href": "/developer/docs/api/breadcrumb"
+            "href": "/docs/api/breadcrumb"
           },
           {
             "type": "link",
             "label": "ion-breadcrumbs",
-            "href": "/developer/docs/api/breadcrumbs"
+            "href": "/docs/api/breadcrumbs"
           }
         ],
         "collapsible": true
@@ -246,12 +246,12 @@
           {
             "type": "link",
             "label": "ion-button",
-            "href": "/developer/docs/api/button"
+            "href": "/docs/api/button"
           },
           {
             "type": "link",
             "label": "ion-ripple-effect",
-            "href": "/developer/docs/api/ripple-effect"
+            "href": "/docs/api/ripple-effect"
           }
         ],
         "collapsible": true
@@ -264,27 +264,27 @@
           {
             "type": "link",
             "label": "ion-card",
-            "href": "/developer/docs/api/card"
+            "href": "/docs/api/card"
           },
           {
             "type": "link",
             "label": "ion-card-content",
-            "href": "/developer/docs/api/card-content"
+            "href": "/docs/api/card-content"
           },
           {
             "type": "link",
             "label": "ion-card-header",
-            "href": "/developer/docs/api/card-header"
+            "href": "/docs/api/card-header"
           },
           {
             "type": "link",
             "label": "ion-card-subtitle",
-            "href": "/developer/docs/api/card-subtitle"
+            "href": "/docs/api/card-subtitle"
           },
           {
             "type": "link",
             "label": "ion-card-title",
-            "href": "/developer/docs/api/card-title"
+            "href": "/docs/api/card-title"
           }
         ],
         "collapsible": true
@@ -297,7 +297,7 @@
           {
             "type": "link",
             "label": "ion-checkbox",
-            "href": "/developer/docs/api/checkbox"
+            "href": "/docs/api/checkbox"
           }
         ],
         "collapsible": true
@@ -310,7 +310,7 @@
           {
             "type": "link",
             "label": "ion-chip",
-            "href": "/developer/docs/api/chip"
+            "href": "/docs/api/chip"
           }
         ],
         "collapsible": true
@@ -323,12 +323,12 @@
           {
             "type": "link",
             "label": "ion-app",
-            "href": "/developer/docs/api/app"
+            "href": "/docs/api/app"
           },
           {
             "type": "link",
             "label": "ion-content",
-            "href": "/developer/docs/api/content"
+            "href": "/docs/api/content"
           }
         ],
         "collapsible": true
@@ -341,17 +341,17 @@
           {
             "type": "link",
             "label": "ion-datetime",
-            "href": "/developer/docs/api/datetime"
+            "href": "/docs/api/datetime"
           },
           {
             "type": "link",
             "label": "ion-datetime-button",
-            "href": "/developer/docs/api/datetime-button"
+            "href": "/docs/api/datetime-button"
           },
           {
             "type": "link",
             "label": "ion-picker",
-            "href": "/developer/docs/api/picker"
+            "href": "/docs/api/picker"
           }
         ],
         "collapsible": true
@@ -364,17 +364,17 @@
           {
             "type": "link",
             "label": "ion-fab",
-            "href": "/developer/docs/api/fab"
+            "href": "/docs/api/fab"
           },
           {
             "type": "link",
             "label": "ion-fab-button",
-            "href": "/developer/docs/api/fab-button"
+            "href": "/docs/api/fab-button"
           },
           {
             "type": "link",
             "label": "ion-fab-list",
-            "href": "/developer/docs/api/fab-list"
+            "href": "/docs/api/fab-list"
           }
         ],
         "collapsible": true
@@ -387,17 +387,17 @@
           {
             "type": "link",
             "label": "ion-grid",
-            "href": "/developer/docs/api/grid"
+            "href": "/docs/api/grid"
           },
           {
             "type": "link",
             "label": "ion-col",
-            "href": "/developer/docs/api/col"
+            "href": "/docs/api/col"
           },
           {
             "type": "link",
             "label": "ion-row",
-            "href": "/developer/docs/api/row"
+            "href": "/docs/api/row"
           }
         ],
         "collapsible": true
@@ -410,12 +410,12 @@
           {
             "type": "link",
             "label": "ion-infinite-scroll",
-            "href": "/developer/docs/api/infinite-scroll"
+            "href": "/docs/api/infinite-scroll"
           },
           {
             "type": "link",
             "label": "ion-infinite-scroll-content",
-            "href": "/developer/docs/api/infinite-scroll-content"
+            "href": "/docs/api/infinite-scroll-content"
           }
         ],
         "collapsible": true
@@ -441,12 +441,12 @@
           {
             "type": "link",
             "label": "ion-input",
-            "href": "/developer/docs/api/input"
+            "href": "/docs/api/input"
           },
           {
             "type": "link",
             "label": "ion-textarea",
-            "href": "/developer/docs/api/textarea"
+            "href": "/docs/api/textarea"
           }
         ],
         "collapsible": true
@@ -459,42 +459,42 @@
           {
             "type": "link",
             "label": "ion-item",
-            "href": "/developer/docs/api/item"
+            "href": "/docs/api/item"
           },
           {
             "type": "link",
             "label": "ion-item-divider",
-            "href": "/developer/docs/api/item-divider"
+            "href": "/docs/api/item-divider"
           },
           {
             "type": "link",
             "label": "ion-item-group",
-            "href": "/developer/docs/api/item-group"
+            "href": "/docs/api/item-group"
           },
           {
             "type": "link",
             "label": "ion-item-sliding",
-            "href": "/developer/docs/api/item-sliding"
+            "href": "/docs/api/item-sliding"
           },
           {
             "type": "link",
             "label": "ion-item-options",
-            "href": "/developer/docs/api/item-options"
+            "href": "/docs/api/item-options"
           },
           {
             "type": "link",
             "label": "ion-item-option",
-            "href": "/developer/docs/api/item-option"
+            "href": "/docs/api/item-option"
           },
           {
             "type": "link",
             "label": "ion-label",
-            "href": "/developer/docs/api/label"
+            "href": "/docs/api/label"
           },
           {
             "type": "link",
             "label": "ion-note",
-            "href": "/developer/docs/api/note"
+            "href": "/docs/api/note"
           }
         ],
         "collapsible": true
@@ -507,17 +507,17 @@
           {
             "type": "link",
             "label": "ion-list",
-            "href": "/developer/docs/api/list"
+            "href": "/docs/api/list"
           },
           {
             "type": "link",
             "label": "ion-list-header",
-            "href": "/developer/docs/api/list-header"
+            "href": "/docs/api/list-header"
           },
           {
             "type": "link",
             "label": "ion-virtual-scroll",
-            "href": "/developer/docs/api/virtual-scroll"
+            "href": "/docs/api/virtual-scroll"
           }
         ],
         "collapsible": true
@@ -530,7 +530,7 @@
           {
             "type": "link",
             "label": "ion-avatar",
-            "href": "/developer/docs/api/avatar"
+            "href": "/docs/api/avatar"
           },
           {
             "type": "link",
@@ -540,12 +540,12 @@
           {
             "type": "link",
             "label": "ion-img",
-            "href": "/developer/docs/api/img"
+            "href": "/docs/api/img"
           },
           {
             "type": "link",
             "label": "ion-thumbnail",
-            "href": "/developer/docs/api/thumbnail"
+            "href": "/docs/api/thumbnail"
           }
         ],
         "collapsible": true
@@ -558,22 +558,22 @@
           {
             "type": "link",
             "label": "ion-menu",
-            "href": "/developer/docs/api/menu"
+            "href": "/docs/api/menu"
           },
           {
             "type": "link",
             "label": "ion-menu-button",
-            "href": "/developer/docs/api/menu-button"
+            "href": "/docs/api/menu-button"
           },
           {
             "type": "link",
             "label": "ion-menu-toggle",
-            "href": "/developer/docs/api/menu-toggle"
+            "href": "/docs/api/menu-toggle"
           },
           {
             "type": "link",
             "label": "ion-split-pane",
-            "href": "/developer/docs/api/split-pane"
+            "href": "/docs/api/split-pane"
           }
         ],
         "collapsible": true
@@ -586,12 +586,12 @@
           {
             "type": "link",
             "label": "ion-modal",
-            "href": "/developer/docs/api/modal"
+            "href": "/docs/api/modal"
           },
           {
             "type": "link",
             "label": "ion-backdrop",
-            "href": "/developer/docs/api/backdrop"
+            "href": "/docs/api/backdrop"
           }
         ],
         "collapsible": true
@@ -604,12 +604,12 @@
           {
             "type": "link",
             "label": "ion-nav",
-            "href": "/developer/docs/api/nav"
+            "href": "/docs/api/nav"
           },
           {
             "type": "link",
             "label": "ion-nav-link",
-            "href": "/developer/docs/api/nav-link"
+            "href": "/docs/api/nav-link"
           }
         ],
         "collapsible": true
@@ -622,7 +622,7 @@
           {
             "type": "link",
             "label": "ion-popover",
-            "href": "/developer/docs/api/popover"
+            "href": "/docs/api/popover"
           }
         ],
         "collapsible": true
@@ -635,22 +635,22 @@
           {
             "type": "link",
             "label": "ion-loading",
-            "href": "/developer/docs/api/loading"
+            "href": "/docs/api/loading"
           },
           {
             "type": "link",
             "label": "ion-progress-bar",
-            "href": "/developer/docs/api/progress-bar"
+            "href": "/docs/api/progress-bar"
           },
           {
             "type": "link",
             "label": "ion-skeleton-text",
-            "href": "/developer/docs/api/skeleton-text"
+            "href": "/docs/api/skeleton-text"
           },
           {
             "type": "link",
             "label": "ion-spinner",
-            "href": "/developer/docs/api/spinner"
+            "href": "/docs/api/spinner"
           }
         ],
         "collapsible": true
@@ -663,12 +663,12 @@
           {
             "type": "link",
             "label": "ion-radio",
-            "href": "/developer/docs/api/radio"
+            "href": "/docs/api/radio"
           },
           {
             "type": "link",
             "label": "ion-radio-group",
-            "href": "/developer/docs/api/radio-group"
+            "href": "/docs/api/radio-group"
           }
         ],
         "collapsible": true
@@ -681,7 +681,7 @@
           {
             "type": "link",
             "label": "ion-range",
-            "href": "/developer/docs/api/range"
+            "href": "/docs/api/range"
           }
         ],
         "collapsible": true
@@ -694,12 +694,12 @@
           {
             "type": "link",
             "label": "ion-refresher",
-            "href": "/developer/docs/api/refresher"
+            "href": "/docs/api/refresher"
           },
           {
             "type": "link",
             "label": "ion-refresher-content",
-            "href": "/developer/docs/api/refresher-content"
+            "href": "/docs/api/refresher-content"
           }
         ],
         "collapsible": true
@@ -712,12 +712,12 @@
           {
             "type": "link",
             "label": "ion-reorder",
-            "href": "/developer/docs/api/reorder"
+            "href": "/docs/api/reorder"
           },
           {
             "type": "link",
             "label": "ion-reorder-group",
-            "href": "/developer/docs/api/reorder-group"
+            "href": "/docs/api/reorder-group"
           }
         ],
         "collapsible": true
@@ -730,27 +730,27 @@
           {
             "type": "link",
             "label": "ion-router",
-            "href": "/developer/docs/api/router"
+            "href": "/docs/api/router"
           },
           {
             "type": "link",
             "label": "ion-router-link",
-            "href": "/developer/docs/api/router-link"
+            "href": "/docs/api/router-link"
           },
           {
             "type": "link",
             "label": "ion-router-outlet",
-            "href": "/developer/docs/api/router-outlet"
+            "href": "/docs/api/router-outlet"
           },
           {
             "type": "link",
             "label": "ion-route",
-            "href": "/developer/docs/api/route"
+            "href": "/docs/api/route"
           },
           {
             "type": "link",
             "label": "ion-route-redirect",
-            "href": "/developer/docs/api/route-redirect"
+            "href": "/docs/api/route-redirect"
           }
         ],
         "collapsible": true
@@ -763,7 +763,7 @@
           {
             "type": "link",
             "label": "ion-searchbar",
-            "href": "/developer/docs/api/searchbar"
+            "href": "/docs/api/searchbar"
           }
         ],
         "collapsible": true
@@ -776,12 +776,12 @@
           {
             "type": "link",
             "label": "ion-segment",
-            "href": "/developer/docs/api/segment"
+            "href": "/docs/api/segment"
           },
           {
             "type": "link",
             "label": "ion-segment-button",
-            "href": "/developer/docs/api/segment-button"
+            "href": "/docs/api/segment-button"
           }
         ],
         "collapsible": true
@@ -794,12 +794,12 @@
           {
             "type": "link",
             "label": "ion-select",
-            "href": "/developer/docs/api/select"
+            "href": "/docs/api/select"
           },
           {
             "type": "link",
             "label": "ion-select-option",
-            "href": "/developer/docs/api/select-option"
+            "href": "/docs/api/select-option"
           }
         ],
         "collapsible": true
@@ -812,12 +812,12 @@
           {
             "type": "link",
             "label": "ion-slides",
-            "href": "/developer/docs/api/slides"
+            "href": "/docs/api/slides"
           },
           {
             "type": "link",
             "label": "ion-slide",
-            "href": "/developer/docs/api/slide"
+            "href": "/docs/api/slide"
           }
         ],
         "collapsible": true
@@ -830,22 +830,22 @@
           {
             "type": "link",
             "label": "ion-tabs",
-            "href": "/developer/docs/api/tabs"
+            "href": "/docs/api/tabs"
           },
           {
             "type": "link",
             "label": "ion-tab",
-            "href": "/developer/docs/api/tab"
+            "href": "/docs/api/tab"
           },
           {
             "type": "link",
             "label": "ion-tab-bar",
-            "href": "/developer/docs/api/tab-bar"
+            "href": "/docs/api/tab-bar"
           },
           {
             "type": "link",
             "label": "ion-tab-button",
-            "href": "/developer/docs/api/tab-button"
+            "href": "/docs/api/tab-button"
           }
         ],
         "collapsible": true
@@ -858,7 +858,7 @@
           {
             "type": "link",
             "label": "ion-toast",
-            "href": "/developer/docs/api/toast"
+            "href": "/docs/api/toast"
           }
         ],
         "collapsible": true
@@ -871,7 +871,7 @@
           {
             "type": "link",
             "label": "ion-toggle",
-            "href": "/developer/docs/api/toggle"
+            "href": "/docs/api/toggle"
           }
         ],
         "collapsible": true
@@ -884,32 +884,32 @@
           {
             "type": "link",
             "label": "ion-toolbar",
-            "href": "/developer/docs/api/toolbar"
+            "href": "/docs/api/toolbar"
           },
           {
             "type": "link",
             "label": "ion-header",
-            "href": "/developer/docs/api/header"
+            "href": "/docs/api/header"
           },
           {
             "type": "link",
             "label": "ion-footer",
-            "href": "/developer/docs/api/footer"
+            "href": "/docs/api/footer"
           },
           {
             "type": "link",
             "label": "ion-title",
-            "href": "/developer/docs/api/title"
+            "href": "/docs/api/title"
           },
           {
             "type": "link",
             "label": "ion-buttons",
-            "href": "/developer/docs/api/buttons"
+            "href": "/docs/api/buttons"
           },
           {
             "type": "link",
             "label": "ion-back-button",
-            "href": "/developer/docs/api/back-button"
+            "href": "/docs/api/back-button"
           }
         ],
         "collapsible": true
@@ -922,7 +922,7 @@
           {
             "type": "link",
             "label": "ion-text",
-            "href": "/developer/docs/api/text"
+            "href": "/docs/api/text"
           }
         ],
         "collapsible": true
@@ -935,7 +935,7 @@
           {
             "type": "link",
             "label": "API Index",
-            "href": "/developer/docs/api"
+            "href": "/docs/api"
           }
         ],
         "collapsible": true
@@ -950,22 +950,22 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/developer/docs/cli"
+            "href": "/docs/cli"
           },
           {
             "type": "link",
             "label": "Configuration",
-            "href": "/developer/docs/cli/configuration"
+            "href": "/docs/cli/configuration"
           },
           {
             "type": "link",
             "label": "Live Reload",
-            "href": "/developer/docs/cli/livereload"
+            "href": "/docs/cli/livereload"
           },
           {
             "type": "link",
             "label": "Using a Proxy",
-            "href": "/developer/docs/cli/using-a-proxy"
+            "href": "/docs/cli/using-a-proxy"
           },
           {
             "type": "link",
@@ -983,267 +983,267 @@
           {
             "type": "link",
             "label": "build",
-            "href": "/developer/docs/cli/commands/build"
+            "href": "/docs/cli/commands/build"
           },
           {
             "type": "link",
             "label": "capacitor add",
-            "href": "/developer/docs/cli/commands/capacitor-add"
+            "href": "/docs/cli/commands/capacitor-add"
           },
           {
             "type": "link",
             "label": "capacitor build",
-            "href": "/developer/docs/cli/commands/capacitor-build"
+            "href": "/docs/cli/commands/capacitor-build"
           },
           {
             "type": "link",
             "label": "capacitor copy",
-            "href": "/developer/docs/cli/commands/capacitor-copy"
+            "href": "/docs/cli/commands/capacitor-copy"
           },
           {
             "type": "link",
             "label": "capacitor open",
-            "href": "/developer/docs/cli/commands/capacitor-open"
+            "href": "/docs/cli/commands/capacitor-open"
           },
           {
             "type": "link",
             "label": "capacitor run",
-            "href": "/developer/docs/cli/commands/capacitor-run"
+            "href": "/docs/cli/commands/capacitor-run"
           },
           {
             "type": "link",
             "label": "capacitor sync",
-            "href": "/developer/docs/cli/commands/capacitor-sync"
+            "href": "/docs/cli/commands/capacitor-sync"
           },
           {
             "type": "link",
             "label": "capacitor update",
-            "href": "/developer/docs/cli/commands/capacitor-update"
+            "href": "/docs/cli/commands/capacitor-update"
           },
           {
             "type": "link",
             "label": "completion",
-            "href": "/developer/docs/cli/commands/completion"
+            "href": "/docs/cli/commands/completion"
           },
           {
             "type": "link",
             "label": "config get",
-            "href": "/developer/docs/cli/commands/config-get"
+            "href": "/docs/cli/commands/config-get"
           },
           {
             "type": "link",
             "label": "config set",
-            "href": "/developer/docs/cli/commands/config-set"
+            "href": "/docs/cli/commands/config-set"
           },
           {
             "type": "link",
             "label": "config unset",
-            "href": "/developer/docs/cli/commands/config-unset"
+            "href": "/docs/cli/commands/config-unset"
           },
           {
             "type": "link",
             "label": "cordova build",
-            "href": "/developer/docs/cli/commands/cordova-build"
+            "href": "/docs/cli/commands/cordova-build"
           },
           {
             "type": "link",
             "label": "cordova compile",
-            "href": "/developer/docs/cli/commands/cordova-compile"
+            "href": "/docs/cli/commands/cordova-compile"
           },
           {
             "type": "link",
             "label": "cordova emulate",
-            "href": "/developer/docs/cli/commands/cordova-emulate"
+            "href": "/docs/cli/commands/cordova-emulate"
           },
           {
             "type": "link",
             "label": "cordova platform",
-            "href": "/developer/docs/cli/commands/cordova-platform"
+            "href": "/docs/cli/commands/cordova-platform"
           },
           {
             "type": "link",
             "label": "cordova plugin",
-            "href": "/developer/docs/cli/commands/cordova-plugin"
+            "href": "/docs/cli/commands/cordova-plugin"
           },
           {
             "type": "link",
             "label": "cordova prepare",
-            "href": "/developer/docs/cli/commands/cordova-prepare"
+            "href": "/docs/cli/commands/cordova-prepare"
           },
           {
             "type": "link",
             "label": "cordova requirements",
-            "href": "/developer/docs/cli/commands/cordova-requirements"
+            "href": "/docs/cli/commands/cordova-requirements"
           },
           {
             "type": "link",
             "label": "cordova resources",
-            "href": "/developer/docs/cli/commands/cordova-resources"
+            "href": "/docs/cli/commands/cordova-resources"
           },
           {
             "type": "link",
             "label": "cordova run",
-            "href": "/developer/docs/cli/commands/cordova-run"
+            "href": "/docs/cli/commands/cordova-run"
           },
           {
             "type": "link",
             "label": "deploy add",
-            "href": "/developer/docs/cli/commands/deploy-add"
+            "href": "/docs/cli/commands/deploy-add"
           },
           {
             "type": "link",
             "label": "deploy build",
-            "href": "/developer/docs/cli/commands/deploy-build"
+            "href": "/docs/cli/commands/deploy-build"
           },
           {
             "type": "link",
             "label": "deploy configure",
-            "href": "/developer/docs/cli/commands/deploy-configure"
+            "href": "/docs/cli/commands/deploy-configure"
           },
           {
             "type": "link",
             "label": "deploy manifest",
-            "href": "/developer/docs/cli/commands/deploy-manifest"
+            "href": "/docs/cli/commands/deploy-manifest"
           },
           {
             "type": "link",
             "label": "docs",
-            "href": "/developer/docs/cli/commands/docs"
+            "href": "/docs/cli/commands/docs"
           },
           {
             "type": "link",
             "label": "doctor check",
-            "href": "/developer/docs/cli/commands/doctor-check"
+            "href": "/docs/cli/commands/doctor-check"
           },
           {
             "type": "link",
             "label": "doctor list",
-            "href": "/developer/docs/cli/commands/doctor-list"
+            "href": "/docs/cli/commands/doctor-list"
           },
           {
             "type": "link",
             "label": "doctor treat",
-            "href": "/developer/docs/cli/commands/doctor-treat"
+            "href": "/docs/cli/commands/doctor-treat"
           },
           {
             "type": "link",
             "label": "enterprise register",
-            "href": "/developer/docs/cli/commands/enterprise-register"
+            "href": "/docs/cli/commands/enterprise-register"
           },
           {
             "type": "link",
             "label": "generate",
-            "href": "/developer/docs/cli/commands/generate"
+            "href": "/docs/cli/commands/generate"
           },
           {
             "type": "link",
             "label": "git remote",
-            "href": "/developer/docs/cli/commands/git-remote"
+            "href": "/docs/cli/commands/git-remote"
           },
           {
             "type": "link",
             "label": "info",
-            "href": "/developer/docs/cli/commands/info"
+            "href": "/docs/cli/commands/info"
           },
           {
             "type": "link",
             "label": "init",
-            "href": "/developer/docs/cli/commands/init"
+            "href": "/docs/cli/commands/init"
           },
           {
             "type": "link",
             "label": "integrations disable",
-            "href": "/developer/docs/cli/commands/integrations-disable"
+            "href": "/docs/cli/commands/integrations-disable"
           },
           {
             "type": "link",
             "label": "integrations enable",
-            "href": "/developer/docs/cli/commands/integrations-enable"
+            "href": "/docs/cli/commands/integrations-enable"
           },
           {
             "type": "link",
             "label": "integrations list",
-            "href": "/developer/docs/cli/commands/integrations-list"
+            "href": "/docs/cli/commands/integrations-list"
           },
           {
             "type": "link",
             "label": "link",
-            "href": "/developer/docs/cli/commands/link"
+            "href": "/docs/cli/commands/link"
           },
           {
             "type": "link",
             "label": "login",
-            "href": "/developer/docs/cli/commands/login"
+            "href": "/docs/cli/commands/login"
           },
           {
             "type": "link",
             "label": "logout",
-            "href": "/developer/docs/cli/commands/logout"
+            "href": "/docs/cli/commands/logout"
           },
           {
             "type": "link",
             "label": "package build",
-            "href": "/developer/docs/cli/commands/package-build"
+            "href": "/docs/cli/commands/package-build"
           },
           {
             "type": "link",
             "label": "package deploy",
-            "href": "/developer/docs/cli/commands/package-deploy"
+            "href": "/docs/cli/commands/package-deploy"
           },
           {
             "type": "link",
             "label": "repair",
-            "href": "/developer/docs/cli/commands/repair"
+            "href": "/docs/cli/commands/repair"
           },
           {
             "type": "link",
             "label": "serve",
-            "href": "/developer/docs/cli/commands/serve"
+            "href": "/docs/cli/commands/serve"
           },
           {
             "type": "link",
             "label": "signup",
-            "href": "/developer/docs/cli/commands/signup"
+            "href": "/docs/cli/commands/signup"
           },
           {
             "type": "link",
             "label": "ssh add",
-            "href": "/developer/docs/cli/commands/ssh-add"
+            "href": "/docs/cli/commands/ssh-add"
           },
           {
             "type": "link",
             "label": "ssh delete",
-            "href": "/developer/docs/cli/commands/ssh-delete"
+            "href": "/docs/cli/commands/ssh-delete"
           },
           {
             "type": "link",
             "label": "ssh generate",
-            "href": "/developer/docs/cli/commands/ssh-generate"
+            "href": "/docs/cli/commands/ssh-generate"
           },
           {
             "type": "link",
             "label": "ssh list",
-            "href": "/developer/docs/cli/commands/ssh-list"
+            "href": "/docs/cli/commands/ssh-list"
           },
           {
             "type": "link",
             "label": "ssh setup",
-            "href": "/developer/docs/cli/commands/ssh-setup"
+            "href": "/docs/cli/commands/ssh-setup"
           },
           {
             "type": "link",
             "label": "ssh use",
-            "href": "/developer/docs/cli/commands/ssh-use"
+            "href": "/docs/cli/commands/ssh-use"
           },
           {
             "type": "link",
             "label": "ssl generate",
-            "href": "/developer/docs/cli/commands/ssl-generate"
+            "href": "/docs/cli/commands/ssl-generate"
           },
           {
             "type": "link",
             "label": "start",
-            "href": "/developer/docs/cli/commands/start"
+            "href": "/docs/cli/commands/start"
           }
         ],
         "collapsible": true
@@ -1258,17 +1258,17 @@
           {
             "type": "link",
             "label": "Native APIs",
-            "href": "/developer/docs/native"
+            "href": "/docs/native"
           },
           {
             "type": "link",
             "label": "Setup",
-            "href": "/developer/docs/native/community"
+            "href": "/docs/native/community"
           },
           {
             "type": "link",
             "label": "FAQ",
-            "href": "/developer/docs/native/faq"
+            "href": "/docs/native/faq"
           },
           {
             "type": "link",
@@ -1286,1002 +1286,1002 @@
           {
             "type": "link",
             "label": "ABBYY Real-Time Recognition",
-            "href": "/developer/docs/native/abbyy-rtr"
+            "href": "/docs/native/abbyy-rtr"
           },
           {
             "type": "link",
             "label": "Action Sheet",
-            "href": "/developer/docs/native/action-sheet"
+            "href": "/docs/native/action-sheet"
           },
           {
             "type": "link",
             "label": "Adjust",
-            "href": "/developer/docs/native/adjust"
+            "href": "/docs/native/adjust"
           },
           {
             "type": "link",
             "label": "AdMob Plus",
-            "href": "/developer/docs/native/admob-plus"
+            "href": "/docs/native/admob-plus"
           },
           {
             "type": "link",
             "label": "AdMob",
-            "href": "/developer/docs/native/admob"
+            "href": "/docs/native/admob"
           },
           {
             "type": "link",
             "label": "AES256",
-            "href": "/developer/docs/native/aes-256"
+            "href": "/docs/native/aes-256"
           },
           {
             "type": "link",
             "label": "AllInOneSDK",
-            "href": "/developer/docs/native/all-in-one-sdk"
+            "href": "/docs/native/all-in-one-sdk"
           },
           {
             "type": "link",
             "label": "Analytics Firebase",
-            "href": "/developer/docs/native/analytics-firebase"
+            "href": "/docs/native/analytics-firebase"
           },
           {
             "type": "link",
             "label": "Android ExoPlayer",
-            "href": "/developer/docs/native/android-exoplayer"
+            "href": "/docs/native/android-exoplayer"
           },
           {
             "type": "link",
             "label": "Android Full Screen",
-            "href": "/developer/docs/native/android-full-screen"
+            "href": "/docs/native/android-full-screen"
           },
           {
             "type": "link",
             "label": "Android Notch",
-            "href": "/developer/docs/native/android-notch"
+            "href": "/docs/native/android-notch"
           },
           {
             "type": "link",
             "label": "Android Permissions",
-            "href": "/developer/docs/native/android-permissions"
+            "href": "/docs/native/android-permissions"
           },
           {
             "type": "link",
             "label": "Anyline",
-            "href": "/developer/docs/native/anyline"
+            "href": "/docs/native/anyline"
           },
           {
             "type": "link",
             "label": "App Availability",
-            "href": "/developer/docs/native/app-availability"
+            "href": "/docs/native/app-availability"
           },
           {
             "type": "link",
             "label": "App Center Analytics",
-            "href": "/developer/docs/native/app-center-analytics"
+            "href": "/docs/native/app-center-analytics"
           },
           {
             "type": "link",
             "label": "App Center Crashes",
-            "href": "/developer/docs/native/app-center-crashes"
+            "href": "/docs/native/app-center-crashes"
           },
           {
             "type": "link",
             "label": "App Center Low Memory",
-            "href": "/developer/docs/native/app-center-low-memory"
+            "href": "/docs/native/app-center-low-memory"
           },
           {
             "type": "link",
             "label": "App Center Push",
-            "href": "/developer/docs/native/app-center-push"
+            "href": "/docs/native/app-center-push"
           },
           {
             "type": "link",
             "label": "App Preferences",
-            "href": "/developer/docs/native/app-preferences"
+            "href": "/docs/native/app-preferences"
           },
           {
             "type": "link",
             "label": "App Rate",
-            "href": "/developer/docs/native/app-rate"
+            "href": "/docs/native/app-rate"
           },
           {
             "type": "link",
             "label": "App Version",
-            "href": "/developer/docs/native/app-version"
+            "href": "/docs/native/app-version"
           },
           {
             "type": "link",
             "label": "Apple Wallet",
-            "href": "/developer/docs/native/apple-wallet"
+            "href": "/docs/native/apple-wallet"
           },
           {
             "type": "link",
             "label": "Appsflyer",
-            "href": "/developer/docs/native/appsflyer"
+            "href": "/docs/native/appsflyer"
           },
           {
             "type": "link",
             "label": "Background Fetch",
-            "href": "/developer/docs/native/background-fetch"
+            "href": "/docs/native/background-fetch"
           },
           {
             "type": "link",
             "label": "Background Geolocation",
-            "href": "/developer/docs/native/background-geolocation"
+            "href": "/docs/native/background-geolocation"
           },
           {
             "type": "link",
             "label": "Background Mode",
-            "href": "/developer/docs/native/background-mode"
+            "href": "/docs/native/background-mode"
           },
           {
             "type": "link",
             "label": "BackgroundUpload",
-            "href": "/developer/docs/native/background-upload"
+            "href": "/docs/native/background-upload"
           },
           {
             "type": "link",
             "label": "Badge",
-            "href": "/developer/docs/native/badge"
+            "href": "/docs/native/badge"
           },
           {
             "type": "link",
             "label": "Barcode Scanner",
-            "href": "/developer/docs/native/barcode-scanner"
+            "href": "/docs/native/barcode-scanner"
           },
           {
             "type": "link",
             "label": "Battery Status",
-            "href": "/developer/docs/native/battery-status"
+            "href": "/docs/native/battery-status"
           },
           {
             "type": "link",
             "label": "BioCatch",
-            "href": "/developer/docs/native/biocatch"
+            "href": "/docs/native/biocatch"
           },
           {
             "type": "link",
             "label": "BiometricWrapper",
-            "href": "/developer/docs/native/biometric-wrapper"
+            "href": "/docs/native/biometric-wrapper"
           },
           {
             "type": "link",
             "label": "BLE",
-            "href": "/developer/docs/native/ble"
+            "href": "/docs/native/ble"
           },
           {
             "type": "link",
             "label": "BlinkId",
-            "href": "/developer/docs/native/blinkid"
+            "href": "/docs/native/blinkid"
           },
           {
             "type": "link",
             "label": "Bluetooth Classic Serial Port",
-            "href": "/developer/docs/native/bluetooth-classic-serial-port"
+            "href": "/docs/native/bluetooth-classic-serial-port"
           },
           {
             "type": "link",
             "label": "BluetoothLE",
-            "href": "/developer/docs/native/bluetooth-le"
+            "href": "/docs/native/bluetooth-le"
           },
           {
             "type": "link",
             "label": "Bluetooth Serial",
-            "href": "/developer/docs/native/bluetooth-serial"
+            "href": "/docs/native/bluetooth-serial"
           },
           {
             "type": "link",
             "label": "BranchIo",
-            "href": "/developer/docs/native/branch-io"
+            "href": "/docs/native/branch-io"
           },
           {
             "type": "link",
             "label": "Broadcaster",
-            "href": "/developer/docs/native/broadcaster"
+            "href": "/docs/native/broadcaster"
           },
           {
             "type": "link",
             "label": "Build Info",
-            "href": "/developer/docs/native/build-info"
+            "href": "/docs/native/build-info"
           },
           {
             "type": "link",
             "label": "Calendar",
-            "href": "/developer/docs/native/calendar"
+            "href": "/docs/native/calendar"
           },
           {
             "type": "link",
             "label": "Call Directory",
-            "href": "/developer/docs/native/call-directory"
+            "href": "/docs/native/call-directory"
           },
           {
             "type": "link",
             "label": "Call Number",
-            "href": "/developer/docs/native/call-number"
+            "href": "/docs/native/call-number"
           },
           {
             "type": "link",
             "label": "Camera Preview",
-            "href": "/developer/docs/native/camera-preview"
+            "href": "/docs/native/camera-preview"
           },
           {
             "type": "link",
             "label": "Camera",
-            "href": "/developer/docs/native/camera"
+            "href": "/docs/native/camera"
           },
           {
             "type": "link",
             "label": "Chooser",
-            "href": "/developer/docs/native/chooser"
+            "href": "/docs/native/chooser"
           },
           {
             "type": "link",
             "label": "CleverTap",
-            "href": "/developer/docs/native/clevertap"
+            "href": "/docs/native/clevertap"
           },
           {
             "type": "link",
             "label": "Clipboard",
-            "href": "/developer/docs/native/clipboard"
+            "href": "/docs/native/clipboard"
           },
           {
             "type": "link",
             "label": "Cloud Settings",
-            "href": "/developer/docs/native/cloud-settings"
+            "href": "/docs/native/cloud-settings"
           },
           {
             "type": "link",
             "label": "Code Push",
-            "href": "/developer/docs/native/code-push"
+            "href": "/docs/native/code-push"
           },
           {
             "type": "link",
             "label": "CustomUISDK",
-            "href": "/developer/docs/native/custom-uisdk"
+            "href": "/docs/native/custom-uisdk"
           },
           {
             "type": "link",
             "label": "Deeplinks",
-            "href": "/developer/docs/native/deeplinks"
+            "href": "/docs/native/deeplinks"
           },
           {
             "type": "link",
             "label": "Device Accounts",
-            "href": "/developer/docs/native/device-accounts"
+            "href": "/docs/native/device-accounts"
           },
           {
             "type": "link",
             "label": "Device Motion",
-            "href": "/developer/docs/native/device-motion"
+            "href": "/docs/native/device-motion"
           },
           {
             "type": "link",
             "label": "Device Orientation",
-            "href": "/developer/docs/native/device-orientation"
+            "href": "/docs/native/device-orientation"
           },
           {
             "type": "link",
             "label": "Device",
-            "href": "/developer/docs/native/device"
+            "href": "/docs/native/device"
           },
           {
             "type": "link",
             "label": "Dfu Update",
-            "href": "/developer/docs/native/dfu-update"
+            "href": "/docs/native/dfu-update"
           },
           {
             "type": "link",
             "label": "Diagnostic",
-            "href": "/developer/docs/native/diagnostic"
+            "href": "/docs/native/diagnostic"
           },
           {
             "type": "link",
             "label": "Dialogs",
-            "href": "/developer/docs/native/dialogs"
+            "href": "/docs/native/dialogs"
           },
           {
             "type": "link",
             "label": "DNS",
-            "href": "/developer/docs/native/dns"
+            "href": "/docs/native/dns"
           },
           {
             "type": "link",
             "label": "iOS DocumentPicker",
-            "href": "/developer/docs/native/document-picker"
+            "href": "/docs/native/document-picker"
           },
           {
             "type": "link",
             "label": "Document Scanner",
-            "href": "/developer/docs/native/document-scanner"
+            "href": "/docs/native/document-scanner"
           },
           {
             "type": "link",
             "label": "Document Viewer",
-            "href": "/developer/docs/native/document-viewer"
+            "href": "/docs/native/document-viewer"
           },
           {
             "type": "link",
             "label": "Email Composer",
-            "href": "/developer/docs/native/email-composer"
+            "href": "/docs/native/email-composer"
           },
           {
             "type": "link",
             "label": "Answers",
-            "href": "/developer/docs/native/fabric"
+            "href": "/docs/native/fabric"
           },
           {
             "type": "link",
             "label": "Facebook",
-            "href": "/developer/docs/native/facebook"
+            "href": "/docs/native/facebook"
           },
           {
             "type": "link",
             "label": "FCM",
-            "href": "/developer/docs/native/fcm"
+            "href": "/docs/native/fcm"
           },
           {
             "type": "link",
             "label": "File Opener",
-            "href": "/developer/docs/native/file-opener"
+            "href": "/docs/native/file-opener"
           },
           {
             "type": "link",
             "label": "File Path",
-            "href": "/developer/docs/native/file-path"
+            "href": "/docs/native/file-path"
           },
           {
             "type": "link",
             "label": "File Transfer ",
-            "href": "/developer/docs/native/file-transfer"
+            "href": "/docs/native/file-transfer"
           },
           {
             "type": "link",
             "label": "File",
-            "href": "/developer/docs/native/file"
+            "href": "/docs/native/file"
           },
           {
             "type": "link",
             "label": "Firebase Analytics",
-            "href": "/developer/docs/native/firebase-analytics"
+            "href": "/docs/native/firebase-analytics"
           },
           {
             "type": "link",
             "label": "Firebase Authentication",
-            "href": "/developer/docs/native/firebase-authentication"
+            "href": "/docs/native/firebase-authentication"
           },
           {
             "type": "link",
             "label": "Firebase Config",
-            "href": "/developer/docs/native/firebase-config"
+            "href": "/docs/native/firebase-config"
           },
           {
             "type": "link",
             "label": "FirebaseCrash",
-            "href": "/developer/docs/native/firebase-crash"
+            "href": "/docs/native/firebase-crash"
           },
           {
             "type": "link",
             "label": "Firebase Crashlytics",
-            "href": "/developer/docs/native/firebase-crashlytics"
+            "href": "/docs/native/firebase-crashlytics"
           },
           {
             "type": "link",
             "label": "Firebase Dynamic Links",
-            "href": "/developer/docs/native/firebase-dynamic-links"
+            "href": "/docs/native/firebase-dynamic-links"
           },
           {
             "type": "link",
             "label": "Firebase Messaging",
-            "href": "/developer/docs/native/firebase-messaging"
+            "href": "/docs/native/firebase-messaging"
           },
           {
             "type": "link",
             "label": "Firebase Vision",
-            "href": "/developer/docs/native/firebase-vision"
+            "href": "/docs/native/firebase-vision"
           },
           {
             "type": "link",
             "label": "Firebase X",
-            "href": "/developer/docs/native/firebase-x"
+            "href": "/docs/native/firebase-x"
           },
           {
             "type": "link",
             "label": "Firebase",
-            "href": "/developer/docs/native/firebase"
+            "href": "/docs/native/firebase"
           },
           {
             "type": "link",
             "label": "Flashlight",
-            "href": "/developer/docs/native/flashlight"
+            "href": "/docs/native/flashlight"
           },
           {
             "type": "link",
             "label": "Foreground Service",
-            "href": "/developer/docs/native/foreground-service"
+            "href": "/docs/native/foreground-service"
           },
           {
             "type": "link",
             "label": "FTP",
-            "href": "/developer/docs/native/ftp"
+            "href": "/docs/native/ftp"
           },
           {
             "type": "link",
             "label": "Gao De Location",
-            "href": "/developer/docs/native/gao-de-location"
+            "href": "/docs/native/gao-de-location"
           },
           {
             "type": "link",
             "label": "Ge Tui Sdk Plugin",
-            "href": "/developer/docs/native/ge-tui-sdk-plugin"
+            "href": "/docs/native/ge-tui-sdk-plugin"
           },
           {
             "type": "link",
             "label": "Geolocation",
-            "href": "/developer/docs/native/geolocation"
+            "href": "/docs/native/geolocation"
           },
           {
             "type": "link",
             "label": "Globalization",
-            "href": "/developer/docs/native/globalization"
+            "href": "/docs/native/globalization"
           },
           {
             "type": "link",
             "label": "Google Analytics",
-            "href": "/developer/docs/native/google-analytics"
+            "href": "/docs/native/google-analytics"
           },
           {
             "type": "link",
             "label": "Google Nearby",
-            "href": "/developer/docs/native/google-nearby"
+            "href": "/docs/native/google-nearby"
           },
           {
             "type": "link",
             "label": "Google Plus",
-            "href": "/developer/docs/native/google-plus"
+            "href": "/docs/native/google-plus"
           },
           {
             "type": "link",
             "label": "Header Color",
-            "href": "/developer/docs/native/header-color"
+            "href": "/docs/native/header-color"
           },
           {
             "type": "link",
             "label": "Health Kit",
-            "href": "/developer/docs/native/health-kit"
+            "href": "/docs/native/health-kit"
           },
           {
             "type": "link",
             "label": "Health",
-            "href": "/developer/docs/native/health"
+            "href": "/docs/native/health"
           },
           {
             "type": "link",
             "label": "HTTP",
-            "href": "/developer/docs/native/http"
+            "href": "/docs/native/http"
           },
           {
             "type": "link",
             "label": "Iamport Cordova",
-            "href": "/developer/docs/native/iamport-cordova"
+            "href": "/docs/native/iamport-cordova"
           },
           {
             "type": "link",
             "label": "IBeacon",
-            "href": "/developer/docs/native/ibeacon"
+            "href": "/docs/native/ibeacon"
           },
           {
             "type": "link",
             "label": "Image Picker",
-            "href": "/developer/docs/native/image-picker"
+            "href": "/docs/native/image-picker"
           },
           {
             "type": "link",
             "label": "Imap",
-            "href": "/developer/docs/native/imap"
+            "href": "/docs/native/imap"
           },
           {
             "type": "link",
             "label": "In App Browser",
-            "href": "/developer/docs/native/in-app-browser"
+            "href": "/docs/native/in-app-browser"
           },
           {
             "type": "link",
             "label": "In App Purchase 2",
-            "href": "/developer/docs/native/in-app-purchase-2"
+            "href": "/docs/native/in-app-purchase-2"
           },
           {
             "type": "link",
             "label": "In App Review",
-            "href": "/developer/docs/native/in-app-review"
+            "href": "/docs/native/in-app-review"
           },
           {
             "type": "link",
             "label": "Insomnia",
-            "href": "/developer/docs/native/insomnia"
+            "href": "/docs/native/insomnia"
           },
           {
             "type": "link",
             "label": "Instagram",
-            "href": "/developer/docs/native/instagram"
+            "href": "/docs/native/instagram"
           },
           {
             "type": "link",
             "label": "Intercom",
-            "href": "/developer/docs/native/intercom"
+            "href": "/docs/native/intercom"
           },
           {
             "type": "link",
             "label": "Ionic Webview",
-            "href": "/developer/docs/native/ionic-webview"
+            "href": "/docs/native/ionic-webview"
           },
           {
             "type": "link",
             "label": "ios-aswebauthenticationsession-api",
-            "href": "/developer/docs/native/ios-aswebauthenticationsession-api"
+            "href": "/docs/native/ios-aswebauthenticationsession-api"
           },
           {
             "type": "link",
             "label": "Is Debug",
-            "href": "/developer/docs/native/is-debug"
+            "href": "/docs/native/is-debug"
           },
           {
             "type": "link",
             "label": "Keyboard",
-            "href": "/developer/docs/native/keyboard"
+            "href": "/docs/native/keyboard"
           },
           {
             "type": "link",
             "label": "Keychain",
-            "href": "/developer/docs/native/keychain"
+            "href": "/docs/native/keychain"
           },
           {
             "type": "link",
             "label": "Kommunicate",
-            "href": "/developer/docs/native/kommunicate"
+            "href": "/docs/native/kommunicate"
           },
           {
             "type": "link",
             "label": "Launch Navigator",
-            "href": "/developer/docs/native/launch-navigator"
+            "href": "/docs/native/launch-navigator"
           },
           {
             "type": "link",
             "label": "Launch Review",
-            "href": "/developer/docs/native/launch-review"
+            "href": "/docs/native/launch-review"
           },
           {
             "type": "link",
             "label": "Line Login",
-            "href": "/developer/docs/native/line-login"
+            "href": "/docs/native/line-login"
           },
           {
             "type": "link",
             "label": "LocalBackup",
-            "href": "/developer/docs/native/local-backup"
+            "href": "/docs/native/local-backup"
           },
           {
             "type": "link",
             "label": "Local Notifications",
-            "href": "/developer/docs/native/local-notifications"
+            "href": "/docs/native/local-notifications"
           },
           {
             "type": "link",
             "label": "Location Accuracy",
-            "href": "/developer/docs/native/location-accuracy"
+            "href": "/docs/native/location-accuracy"
           },
           {
             "type": "link",
             "label": "Lottie Splash Screen",
-            "href": "/developer/docs/native/lottie-splash-screen"
+            "href": "/docs/native/lottie-splash-screen"
           },
           {
             "type": "link",
             "label": "Media Capture",
-            "href": "/developer/docs/native/media-capture"
+            "href": "/docs/native/media-capture"
           },
           {
             "type": "link",
             "label": "Media",
-            "href": "/developer/docs/native/media"
+            "href": "/docs/native/media"
           },
           {
             "type": "link",
             "label": "Metrix",
-            "href": "/developer/docs/native/metrix"
+            "href": "/docs/native/metrix"
           },
           {
             "type": "link",
             "label": "Mixpanel",
-            "href": "/developer/docs/native/mixpanel"
+            "href": "/docs/native/mixpanel"
           },
           {
             "type": "link",
             "label": "MLKitTranslate",
-            "href": "/developer/docs/native/mlkit-translate"
+            "href": "/docs/native/mlkit-translate"
           },
           {
             "type": "link",
             "label": "Mobile Messaging",
-            "href": "/developer/docs/native/mobile-messaging"
+            "href": "/docs/native/mobile-messaging"
           },
           {
             "type": "link",
             "label": "Multiple Documents Picker",
-            "href": "/developer/docs/native/multiple-document-picker"
+            "href": "/docs/native/multiple-document-picker"
           },
           {
             "type": "link",
             "label": "Music Controls",
-            "href": "/developer/docs/native/music-controls"
+            "href": "/docs/native/music-controls"
           },
           {
             "type": "link",
             "label": "Native Audio",
-            "href": "/developer/docs/native/native-audio"
+            "href": "/docs/native/native-audio"
           },
           {
             "type": "link",
             "label": "Native Geocoder",
-            "href": "/developer/docs/native/native-geocoder"
+            "href": "/docs/native/native-geocoder"
           },
           {
             "type": "link",
             "label": "Native Keyboard",
-            "href": "/developer/docs/native/native-keyboard"
+            "href": "/docs/native/native-keyboard"
           },
           {
             "type": "link",
             "label": "Native Page Transitions",
-            "href": "/developer/docs/native/native-page-transitions"
+            "href": "/docs/native/native-page-transitions"
           },
           {
             "type": "link",
             "label": "Native Storage",
-            "href": "/developer/docs/native/native-storage"
+            "href": "/docs/native/native-storage"
           },
           {
             "type": "link",
             "label": "Network Interface",
-            "href": "/developer/docs/native/network-interface"
+            "href": "/docs/native/network-interface"
           },
           {
             "type": "link",
             "label": "Network",
-            "href": "/developer/docs/native/network"
+            "href": "/docs/native/network"
           },
           {
             "type": "link",
             "label": "NFC",
-            "href": "/developer/docs/native/nfc"
+            "href": "/docs/native/nfc"
           },
           {
             "type": "link",
             "label": "OCR",
-            "href": "/developer/docs/native/ocr"
+            "href": "/docs/native/ocr"
           },
           {
             "type": "link",
             "label": "OneSignal",
-            "href": "/developer/docs/native/onesignal"
+            "href": "/docs/native/onesignal"
           },
           {
             "type": "link",
             "label": "Open Native Settings",
-            "href": "/developer/docs/native/open-native-settings"
+            "href": "/docs/native/open-native-settings"
           },
           {
             "type": "link",
             "label": "OpenALPR",
-            "href": "/developer/docs/native/openalpr"
+            "href": "/docs/native/openalpr"
           },
           {
             "type": "link",
             "label": "PayTabs",
-            "href": "/developer/docs/native/paytabs"
+            "href": "/docs/native/paytabs"
           },
           {
             "type": "link",
             "label": "PDFGenerator",
-            "href": "/developer/docs/native/pdf-generator"
+            "href": "/docs/native/pdf-generator"
           },
           {
             "type": "link",
             "label": "Photo Library",
-            "href": "/developer/docs/native/photo-library"
+            "href": "/docs/native/photo-library"
           },
           {
             "type": "link",
             "label": "Photo Viewer",
-            "href": "/developer/docs/native/photo-viewer"
+            "href": "/docs/native/photo-viewer"
           },
           {
             "type": "link",
             "label": "Pollfish",
-            "href": "/developer/docs/native/pollfish"
+            "href": "/docs/native/pollfish"
           },
           {
             "type": "link",
             "label": "Power Optimization",
-            "href": "/developer/docs/native/power-optimization"
+            "href": "/docs/native/power-optimization"
           },
           {
             "type": "link",
             "label": "Printer",
-            "href": "/developer/docs/native/printer"
+            "href": "/docs/native/printer"
           },
           {
             "type": "link",
             "label": "PSPDFKit-Cordova",
-            "href": "/developer/docs/native/pspdfkit-cordova"
+            "href": "/docs/native/pspdfkit-cordova"
           },
           {
             "type": "link",
             "label": "Purchases",
-            "href": "/developer/docs/native/purchases"
+            "href": "/docs/native/purchases"
           },
           {
             "type": "link",
             "label": "Push",
-            "href": "/developer/docs/native/push"
+            "href": "/docs/native/push"
           },
           {
             "type": "link",
             "label": "PushapePush",
-            "href": "/developer/docs/native/pushape-push"
+            "href": "/docs/native/pushape-push"
           },
           {
             "type": "link",
             "label": "Safari View Controller",
-            "href": "/developer/docs/native/safari-view-controller"
+            "href": "/docs/native/safari-view-controller"
           },
           {
             "type": "link",
             "label": "Screen Orientation",
-            "href": "/developer/docs/native/screen-orientation"
+            "href": "/docs/native/screen-orientation"
           },
           {
             "type": "link",
             "label": "ServiceDiscovery",
-            "href": "/developer/docs/native/service-discovery"
+            "href": "/docs/native/service-discovery"
           },
           {
             "type": "link",
             "label": "Shake",
-            "href": "/developer/docs/native/shake"
+            "href": "/docs/native/shake"
           },
           {
             "type": "link",
             "label": "Sign In With Apple",
-            "href": "/developer/docs/native/sign-in-with-apple"
+            "href": "/docs/native/sign-in-with-apple"
           },
           {
             "type": "link",
             "label": "Smartlook",
-            "href": "/developer/docs/native/smartlook"
+            "href": "/docs/native/smartlook"
           },
           {
             "type": "link",
             "label": "Sms Retriever",
-            "href": "/developer/docs/native/sms-retriever"
+            "href": "/docs/native/sms-retriever"
           },
           {
             "type": "link",
             "label": "SMS",
-            "href": "/developer/docs/native/sms"
+            "href": "/docs/native/sms"
           },
           {
             "type": "link",
             "label": "Social Sharing",
-            "href": "/developer/docs/native/social-sharing"
+            "href": "/docs/native/social-sharing"
           },
           {
             "type": "link",
             "label": "Speech Recognition",
-            "href": "/developer/docs/native/speech-recognition"
+            "href": "/docs/native/speech-recognition"
           },
           {
             "type": "link",
             "label": "Spinner Dialog",
-            "href": "/developer/docs/native/spinner-dialog"
+            "href": "/docs/native/spinner-dialog"
           },
           {
             "type": "link",
             "label": "Splash Screen",
-            "href": "/developer/docs/native/splash-screen"
+            "href": "/docs/native/splash-screen"
           },
           {
             "type": "link",
             "label": "Spotify Auth",
-            "href": "/developer/docs/native/spotify-auth"
+            "href": "/docs/native/spotify-auth"
           },
           {
             "type": "link",
             "label": "Sqlite Db Copy",
-            "href": "/developer/docs/native/sqlite-db-copy"
+            "href": "/docs/native/sqlite-db-copy"
           },
           {
             "type": "link",
             "label": "SQLite Porter",
-            "href": "/developer/docs/native/sqlite-porter"
+            "href": "/docs/native/sqlite-porter"
           },
           {
             "type": "link",
             "label": "SQLite ",
-            "href": "/developer/docs/native/sqlite"
+            "href": "/docs/native/sqlite"
           },
           {
             "type": "link",
             "label": "StarPRNT",
-            "href": "/developer/docs/native/star-prnt"
+            "href": "/docs/native/star-prnt"
           },
           {
             "type": "link",
             "label": "Status Bar",
-            "href": "/developer/docs/native/status-bar"
+            "href": "/docs/native/status-bar"
           },
           {
             "type": "link",
             "label": "Streaming Media",
-            "href": "/developer/docs/native/streaming-media"
+            "href": "/docs/native/streaming-media"
           },
           {
             "type": "link",
             "label": "Stripe",
-            "href": "/developer/docs/native/stripe"
+            "href": "/docs/native/stripe"
           },
           {
             "type": "link",
             "label": "SumUp",
-            "href": "/developer/docs/native/sum-up"
+            "href": "/docs/native/sum-up"
           },
           {
             "type": "link",
             "label": "System Alert Window Permission",
-            "href": "/developer/docs/native/system-alert-window-permission"
+            "href": "/docs/native/system-alert-window-permission"
           },
           {
             "type": "link",
             "label": "Taptic Engine",
-            "href": "/developer/docs/native/taptic-engine"
+            "href": "/docs/native/taptic-engine"
           },
           {
             "type": "link",
             "label": "TealiumAdIdentifier",
-            "href": "/developer/docs/native/tealium-adidentifier"
+            "href": "/docs/native/tealium-adidentifier"
           },
           {
             "type": "link",
             "label": "TealiumInstallReferrer",
-            "href": "/developer/docs/native/tealium-installreferrer"
+            "href": "/docs/native/tealium-installreferrer"
           },
           {
             "type": "link",
             "label": "Tealium",
-            "href": "/developer/docs/native/tealium"
+            "href": "/docs/native/tealium"
           },
           {
             "type": "link",
             "label": "Text To Speech Advanced",
-            "href": "/developer/docs/native/text-to-speech-advanced"
+            "href": "/docs/native/text-to-speech-advanced"
           },
           {
             "type": "link",
             "label": "Theme Detection",
-            "href": "/developer/docs/native/theme-detection"
+            "href": "/docs/native/theme-detection"
           },
           {
             "type": "link",
             "label": "3D Touch",
-            "href": "/developer/docs/native/three-dee-touch"
+            "href": "/docs/native/three-dee-touch"
           },
           {
             "type": "link",
             "label": "Toast",
-            "href": "/developer/docs/native/toast"
+            "href": "/docs/native/toast"
           },
           {
             "type": "link",
             "label": "Touch ID",
-            "href": "/developer/docs/native/touch-id"
+            "href": "/docs/native/touch-id"
           },
           {
             "type": "link",
             "label": "Unvired Cordova SDK",
-            "href": "/developer/docs/native/unvired-cordova-sdk"
+            "href": "/docs/native/unvired-cordova-sdk"
           },
           {
             "type": "link",
             "label": "Uptime",
-            "href": "/developer/docs/native/uptime"
+            "href": "/docs/native/uptime"
           },
           {
             "type": "link",
             "label": "UrbanAirShip",
-            "href": "/developer/docs/native/urbanairship"
+            "href": "/docs/native/urbanairship"
           },
           {
             "type": "link",
             "label": "Usabilla",
-            "href": "/developer/docs/native/usabilla-cordova-sdk"
+            "href": "/docs/native/usabilla-cordova-sdk"
           },
           {
             "type": "link",
             "label": "Vibes",
-            "href": "/developer/docs/native/vibes"
+            "href": "/docs/native/vibes"
           },
           {
             "type": "link",
             "label": "Vibration",
-            "href": "/developer/docs/native/vibration"
+            "href": "/docs/native/vibration"
           },
           {
             "type": "link",
             "label": "Video Editor",
-            "href": "/developer/docs/native/video-editor"
+            "href": "/docs/native/video-editor"
           },
           {
             "type": "link",
             "label": "Video Player",
-            "href": "/developer/docs/native/video-player"
+            "href": "/docs/native/video-player"
           },
           {
             "type": "link",
             "label": "Web Intent",
-            "href": "/developer/docs/native/web-intent"
+            "href": "/docs/native/web-intent"
           },
           {
             "type": "link",
             "label": "Web Server",
-            "href": "/developer/docs/native/web-server"
+            "href": "/docs/native/web-server"
           },
           {
             "type": "link",
             "label": "WebSocket Server",
-            "href": "/developer/docs/native/web-socket-server"
+            "href": "/docs/native/web-socket-server"
           },
           {
             "type": "link",
             "label": "Webengage",
-            "href": "/developer/docs/native/webengage"
+            "href": "/docs/native/webengage"
           },
           {
             "type": "link",
             "label": "Wechat",
-            "href": "/developer/docs/native/wechat"
+            "href": "/docs/native/wechat"
           },
           {
             "type": "link",
             "label": "WheelSelector Plugin",
-            "href": "/developer/docs/native/wheel-selector"
+            "href": "/docs/native/wheel-selector"
           },
           {
             "type": "link",
             "label": "WifiWizard2",
-            "href": "/developer/docs/native/wifi-wizard-2"
+            "href": "/docs/native/wifi-wizard-2"
           },
           {
             "type": "link",
             "label": "Push Notifications - WonderPush",
-            "href": "/developer/docs/native/wonderpush"
+            "href": "/docs/native/wonderpush"
           },
           {
             "type": "link",
             "label": "Youtube Video Player",
-            "href": "/developer/docs/native/youtube-video-player"
+            "href": "/docs/native/youtube-video-player"
           },
           {
             "type": "link",
             "label": "ZBar",
-            "href": "/developer/docs/native/zbar"
+            "href": "/docs/native/zbar"
           },
           {
             "type": "link",
             "label": "Zeroconf",
-            "href": "/developer/docs/native/zeroconf"
+            "href": "/docs/native/zeroconf"
           },
           {
             "type": "link",
             "label": "Zoom",
-            "href": "/developer/docs/native/zoom"
+            "href": "/docs/native/zoom"
           }
         ],
         "collapsible": true

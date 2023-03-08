@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/theming/css-shadow-parts.md",
   "sourceDirName": "theming",
   "slug": "/theming/css-shadow-parts",
-  "permalink": "/developer/docs/v5/theming/css-shadow-parts",
+  "permalink": "/docs/v5/theming/css-shadow-parts",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/css-shadow-parts.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "CSS Variables",
-    "permalink": "/developer/docs/v5/theming/css-variables"
+    "permalink": "/docs/v5/theming/css-variables"
   },
   "next": {
     "title": "Colors",
-    "permalink": "/developer/docs/v5/theming/colors"
+    "permalink": "/docs/v5/theming/colors"
   }
 }

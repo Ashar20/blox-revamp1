@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/button.md",
   "sourceDirName": "api",
   "slug": "/api/button",
-  "permalink": "/developer/docs/v5/api/button",
+  "permalink": "/docs/v5/api/button",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/button.md",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-badge",
-    "permalink": "/developer/docs/v5/api/badge"
+    "permalink": "/docs/v5/api/badge"
   },
   "next": {
     "title": "ion-ripple-effect",
-    "permalink": "/developer/docs/v5/api/ripple-effect"
+    "permalink": "/docs/v5/api/ripple-effect"
   }
 }

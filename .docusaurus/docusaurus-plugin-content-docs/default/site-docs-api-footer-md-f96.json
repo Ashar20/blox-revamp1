@@ -7,7 +7,7 @@
   "source": "@site/docs/api/footer.md",
   "sourceDirName": "api",
   "slug": "/api/footer",
-  "permalink": "/developer/docs/api/footer",
+  "permalink": "/docs/api/footer",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/footer.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-header",
-    "permalink": "/developer/docs/api/header"
+    "permalink": "/docs/api/header"
   },
   "next": {
     "title": "ion-title",
-    "permalink": "/developer/docs/api/title"
+    "permalink": "/docs/api/title"
   }
 }

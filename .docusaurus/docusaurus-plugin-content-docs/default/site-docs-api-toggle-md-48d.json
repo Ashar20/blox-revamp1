@@ -7,7 +7,7 @@
   "source": "@site/docs/api/toggle.md",
   "sourceDirName": "api",
   "slug": "/api/toggle",
-  "permalink": "/developer/docs/api/toggle",
+  "permalink": "/docs/api/toggle",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/toggle.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-toast",
-    "permalink": "/developer/docs/api/toast"
+    "permalink": "/docs/api/toast"
   },
   "next": {
     "title": "ion-toolbar",
-    "permalink": "/developer/docs/api/toolbar"
+    "permalink": "/docs/api/toolbar"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/api/breadcrumbs.md",
   "sourceDirName": "api",
   "slug": "/api/breadcrumbs",
-  "permalink": "/developer/docs/api/breadcrumbs",
+  "permalink": "/docs/api/breadcrumbs",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/breadcrumbs.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-breadcrumb",
-    "permalink": "/developer/docs/api/breadcrumb"
+    "permalink": "/docs/api/breadcrumb"
   },
   "next": {
     "title": "ion-button",
-    "permalink": "/developer/docs/api/button"
+    "permalink": "/docs/api/button"
   }
 }

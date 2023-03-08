@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/angular/your-first-app/6-deploying-mobile.md",
   "sourceDirName": "angular/your-first-app",
   "slug": "/angular/your-first-app/deploying-mobile",
-  "permalink": "/developer/docs/v5/angular/your-first-app/deploying-mobile",
+  "permalink": "/docs/v5/angular/your-first-app/deploying-mobile",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/angular/your-first-app/6-deploying-mobile.md",
   "tags": [],
   "version": "v5",
@@ -18,10 +18,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Adding Mobile",
-    "permalink": "/developer/docs/v5/angular/your-first-app/adding-mobile"
+    "permalink": "/docs/v5/angular/your-first-app/adding-mobile"
   },
   "next": {
     "title": "Live Reload",
-    "permalink": "/developer/docs/v5/angular/your-first-app/live-reload"
+    "permalink": "/docs/v5/angular/your-first-app/live-reload"
   }
 }

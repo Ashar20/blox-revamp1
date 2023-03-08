@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/nav.md",
   "sourceDirName": "api",
   "slug": "/api/nav",
-  "permalink": "/developer/docs/v5/api/nav",
+  "permalink": "/docs/v5/api/nav",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/nav.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-backdrop",
-    "permalink": "/developer/docs/v5/api/backdrop"
+    "permalink": "/docs/v5/api/backdrop"
   },
   "next": {
     "title": "ion-nav-link",
-    "permalink": "/developer/docs/v5/api/nav-link"
+    "permalink": "/docs/v5/api/nav-link"
   }
 }

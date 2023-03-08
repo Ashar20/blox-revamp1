@@ -7,7 +7,7 @@
   "source": "@site/docs/api/col.md",
   "sourceDirName": "api",
   "slug": "/api/col",
-  "permalink": "/developer/docs/api/col",
+  "permalink": "/docs/api/col",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/col.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-grid",
-    "permalink": "/developer/docs/api/grid"
+    "permalink": "/docs/api/grid"
   },
   "next": {
     "title": "ion-row",
-    "permalink": "/developer/docs/api/row"
+    "permalink": "/docs/api/row"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/intro/upgrading-to-ionic-6.md",
   "sourceDirName": "intro",
   "slug": "/intro/upgrading-to-ionic-6",
-  "permalink": "/developer/docs/intro/upgrading-to-ionic-6",
+  "permalink": "/docs/intro/upgrading-to-ionic-6",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/intro/upgrading-to-ionic-6.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Overview",
-    "permalink": "/developer/docs/"
+    "permalink": "/docs/"
   },
   "next": {
     "title": "Create a catalog",
-    "permalink": "/developer/docs/Content Hub/overview"
+    "permalink": "/docs/Content Hub/overview"
   }
 }

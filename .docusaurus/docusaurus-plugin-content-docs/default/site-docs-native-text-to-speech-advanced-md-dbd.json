@@ -7,7 +7,7 @@
   "source": "@site/docs/native/text-to-speech-advanced.md",
   "sourceDirName": "native",
   "slug": "/native/text-to-speech-advanced",
-  "permalink": "/developer/docs/native/text-to-speech-advanced",
+  "permalink": "/docs/native/text-to-speech-advanced",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/text-to-speech-advanced/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Tealium",
-    "permalink": "/developer/docs/native/tealium"
+    "permalink": "/docs/native/tealium"
   },
   "next": {
     "title": "Theme Detection",
-    "permalink": "/developer/docs/native/theme-detection"
+    "permalink": "/docs/native/theme-detection"
   }
 }

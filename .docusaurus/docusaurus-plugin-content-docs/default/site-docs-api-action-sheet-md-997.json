@@ -7,7 +7,7 @@
   "source": "@site/docs/api/action-sheet.md",
   "sourceDirName": "api",
   "slug": "/api/action-sheet",
-  "permalink": "/developer/docs/api/action-sheet",
+  "permalink": "/docs/api/action-sheet",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "UI Components",
-    "permalink": "/developer/docs/components"
+    "permalink": "/docs/components"
   },
   "next": {
     "title": "ion-accordion",
-    "permalink": "/developer/docs/api/accordion"
+    "permalink": "/docs/api/accordion"
   }
 }

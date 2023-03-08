@@ -7,7 +7,7 @@
   "source": "@site/docs/api/item-sliding.md",
   "sourceDirName": "api",
   "slug": "/api/item-sliding",
-  "permalink": "/developer/docs/api/item-sliding",
+  "permalink": "/docs/api/item-sliding",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-sliding.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-item-group",
-    "permalink": "/developer/docs/api/item-group"
+    "permalink": "/docs/api/item-group"
   },
   "next": {
     "title": "ion-item-options",
-    "permalink": "/developer/docs/api/item-options"
+    "permalink": "/docs/api/item-options"
   }
 }

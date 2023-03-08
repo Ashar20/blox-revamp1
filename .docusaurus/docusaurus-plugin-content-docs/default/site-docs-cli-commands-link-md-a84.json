@@ -7,7 +7,7 @@
   "source": "@site/docs/cli/commands/link.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/link",
-  "permalink": "/developer/docs/cli/commands/link",
+  "permalink": "/docs/cli/commands/link",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/link.ts",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "cli",
   "previous": {
     "title": "integrations list",
-    "permalink": "/developer/docs/cli/commands/integrations-list"
+    "permalink": "/docs/cli/commands/integrations-list"
   },
   "next": {
     "title": "login",
-    "permalink": "/developer/docs/cli/commands/login"
+    "permalink": "/docs/cli/commands/login"
   }
 }

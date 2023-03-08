@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/shake.md",
   "sourceDirName": "native",
   "slug": "/native/shake",
-  "permalink": "/developer/docs/v5/native/shake",
+  "permalink": "/docs/v5/native/shake",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/shake/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "ServiceDiscovery",
-    "permalink": "/developer/docs/v5/native/service-discovery"
+    "permalink": "/docs/v5/native/service-discovery"
   },
   "next": {
     "title": "Sign In With Apple",
-    "permalink": "/developer/docs/v5/native/sign-in-with-apple"
+    "permalink": "/docs/v5/native/sign-in-with-apple"
   }
 }

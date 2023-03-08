@@ -7,7 +7,7 @@
   "source": "@site/docs/developer-resources/posts.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/posts",
-  "permalink": "/developer/docs/developer-resources/posts",
+  "permalink": "/docs/developer-resources/posts",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/developer-resources/posts.md",
   "tags": [],
   "version": "current",

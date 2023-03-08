@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/enterprise-register.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/enterprise-register",
-  "permalink": "/developer/docs/v5/cli/commands/enterprise-register",
+  "permalink": "/docs/v5/cli/commands/enterprise-register",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/enterprise/register.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "doctor treat",
-    "permalink": "/developer/docs/v5/cli/commands/doctor-treat"
+    "permalink": "/docs/v5/cli/commands/doctor-treat"
   },
   "next": {
     "title": "generate",
-    "permalink": "/developer/docs/v5/cli/commands/generate"
+    "permalink": "/docs/v5/cli/commands/generate"
   }
 }

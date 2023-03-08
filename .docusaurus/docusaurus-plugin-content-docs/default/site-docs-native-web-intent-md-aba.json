@@ -7,7 +7,7 @@
   "source": "@site/docs/native/web-intent.md",
   "sourceDirName": "native",
   "slug": "/native/web-intent",
-  "permalink": "/developer/docs/native/web-intent",
+  "permalink": "/docs/native/web-intent",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/web-intent/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Video Player",
-    "permalink": "/developer/docs/native/video-player"
+    "permalink": "/docs/native/video-player"
   },
   "next": {
     "title": "Web Server",
-    "permalink": "/developer/docs/native/web-server"
+    "permalink": "/docs/native/web-server"
   }
 }

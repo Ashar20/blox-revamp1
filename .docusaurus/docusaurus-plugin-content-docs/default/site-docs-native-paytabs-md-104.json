@@ -7,7 +7,7 @@
   "source": "@site/docs/native/paytabs.md",
   "sourceDirName": "native",
   "slug": "/native/paytabs",
-  "permalink": "/developer/docs/native/paytabs",
+  "permalink": "/docs/native/paytabs",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/paytabs/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "OpenALPR",
-    "permalink": "/developer/docs/native/openalpr"
+    "permalink": "/docs/native/openalpr"
   },
   "next": {
     "title": "PDFGenerator",
-    "permalink": "/developer/docs/native/pdf-generator"
+    "permalink": "/docs/native/pdf-generator"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/skeleton-text.md",
   "sourceDirName": "api",
   "slug": "/api/skeleton-text",
-  "permalink": "/developer/docs/v5/api/skeleton-text",
+  "permalink": "/docs/v5/api/skeleton-text",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/skeleton-text.md",
   "tags": [],
   "version": "v5",
@@ -21,10 +21,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-progress-bar",
-    "permalink": "/developer/docs/v5/api/progress-bar"
+    "permalink": "/docs/v5/api/progress-bar"
   },
   "next": {
     "title": "ion-spinner",
-    "permalink": "/developer/docs/v5/api/spinner"
+    "permalink": "/docs/v5/api/spinner"
   }
 }

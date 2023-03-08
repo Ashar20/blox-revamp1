@@ -7,7 +7,7 @@
   "source": "@site/docs/native/intercom.md",
   "sourceDirName": "native",
   "slug": "/native/intercom",
-  "permalink": "/developer/docs/native/intercom",
+  "permalink": "/docs/native/intercom",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/intercom/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Instagram",
-    "permalink": "/developer/docs/native/instagram"
+    "permalink": "/docs/native/instagram"
   },
   "next": {
     "title": "Ionic Webview",
-    "permalink": "/developer/docs/native/ionic-webview"
+    "permalink": "/docs/native/ionic-webview"
   }
 }

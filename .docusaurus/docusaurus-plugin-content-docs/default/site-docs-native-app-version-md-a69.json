@@ -7,7 +7,7 @@
   "source": "@site/docs/native/app-version.md",
   "sourceDirName": "native",
   "slug": "/native/app-version",
-  "permalink": "/developer/docs/native/app-version",
+  "permalink": "/docs/native/app-version",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-version/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "App Rate",
-    "permalink": "/developer/docs/native/app-rate"
+    "permalink": "/docs/native/app-rate"
   },
   "next": {
     "title": "Apple Wallet",
-    "permalink": "/developer/docs/native/apple-wallet"
+    "permalink": "/docs/native/apple-wallet"
   }
 }

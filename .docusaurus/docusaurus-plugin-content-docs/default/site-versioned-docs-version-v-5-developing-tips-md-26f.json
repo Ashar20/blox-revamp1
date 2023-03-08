@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/developing/tips.md",
   "sourceDirName": "developing",
   "slug": "/developing/tips",
-  "permalink": "/developer/docs/v5/developing/tips",
+  "permalink": "/docs/v5/developing/tips",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/tips.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Developing for Android",
-    "permalink": "/developer/docs/v5/developing/android"
+    "permalink": "/docs/v5/developing/android"
   },
   "next": {
     "title": "Hardware Back Button",
-    "permalink": "/developer/docs/v5/developing/hardware-back-button"
+    "permalink": "/docs/v5/developing/hardware-back-button"
   }
 }

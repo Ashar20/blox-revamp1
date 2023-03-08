@@ -7,7 +7,7 @@
   "source": "@site/docs/cli/configuration.md",
   "sourceDirName": "cli",
   "slug": "/cli/configuration",
-  "permalink": "/developer/docs/cli/configuration",
+  "permalink": "/docs/cli/configuration",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/cli/configuration.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "cli",
   "previous": {
     "title": "Overview",
-    "permalink": "/developer/docs/cli"
+    "permalink": "/docs/cli"
   },
   "next": {
     "title": "Live Reload",
-    "permalink": "/developer/docs/cli/livereload"
+    "permalink": "/docs/cli/livereload"
   }
 }

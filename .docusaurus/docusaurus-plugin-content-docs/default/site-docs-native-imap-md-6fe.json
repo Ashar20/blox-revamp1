@@ -7,7 +7,7 @@
   "source": "@site/docs/native/imap.md",
   "sourceDirName": "native",
   "slug": "/native/imap",
-  "permalink": "/developer/docs/native/imap",
+  "permalink": "/docs/native/imap",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/imap/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Image Picker",
-    "permalink": "/developer/docs/native/image-picker"
+    "permalink": "/docs/native/image-picker"
   },
   "next": {
     "title": "In App Browser",
-    "permalink": "/developer/docs/native/in-app-browser"
+    "permalink": "/docs/native/in-app-browser"
   }
 }

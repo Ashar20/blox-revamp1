@@ -7,7 +7,7 @@
   "source": "@site/docs/api/tabs.md",
   "sourceDirName": "api",
   "slug": "/api/tabs",
-  "permalink": "/developer/docs/api/tabs",
+  "permalink": "/docs/api/tabs",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/tabs.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-slide",
-    "permalink": "/developer/docs/api/slide"
+    "permalink": "/docs/api/slide"
   },
   "next": {
     "title": "ion-tab",
-    "permalink": "/developer/docs/api/tab"
+    "permalink": "/docs/api/tab"
   }
 }

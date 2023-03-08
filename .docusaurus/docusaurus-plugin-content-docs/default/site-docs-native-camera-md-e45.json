@@ -7,7 +7,7 @@
   "source": "@site/docs/native/camera.md",
   "sourceDirName": "native",
   "slug": "/native/camera",
-  "permalink": "/developer/docs/native/camera",
+  "permalink": "/docs/native/camera",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/camera/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Camera Preview",
-    "permalink": "/developer/docs/native/camera-preview"
+    "permalink": "/docs/native/camera-preview"
   },
   "next": {
     "title": "Chooser",
-    "permalink": "/developer/docs/native/chooser"
+    "permalink": "/docs/native/chooser"
   }
 }

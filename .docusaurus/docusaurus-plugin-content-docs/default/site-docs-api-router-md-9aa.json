@@ -7,7 +7,7 @@
   "source": "@site/docs/api/router.md",
   "sourceDirName": "api",
   "slug": "/api/router",
-  "permalink": "/developer/docs/api/router",
+  "permalink": "/docs/api/router",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/router.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-reorder-group",
-    "permalink": "/developer/docs/api/reorder-group"
+    "permalink": "/docs/api/reorder-group"
   },
   "next": {
     "title": "ion-router-link",
-    "permalink": "/developer/docs/api/router-link"
+    "permalink": "/docs/api/router-link"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/api/menu-toggle.md",
   "sourceDirName": "api",
   "slug": "/api/menu-toggle",
-  "permalink": "/developer/docs/api/menu-toggle",
+  "permalink": "/docs/api/menu-toggle",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/menu-toggle.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-menu-button",
-    "permalink": "/developer/docs/api/menu-button"
+    "permalink": "/docs/api/menu-button"
   },
   "next": {
     "title": "ion-split-pane",
-    "permalink": "/developer/docs/api/split-pane"
+    "permalink": "/docs/api/split-pane"
   }
 }

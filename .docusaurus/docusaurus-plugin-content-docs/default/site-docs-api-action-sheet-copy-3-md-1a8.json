@@ -1,0 +1,18 @@
+{
+  "unversionedId": "api/action-sheet copy 3",
+  "id": "api/action-sheet copy 3",
+  "isDocsHomePage": false,
+  "title": "  Catalog",
+  "description": "class Schema(blox.base.base.Blox)",
+  "source": "@site/docs/api/action-sheet copy 3.md",
+  "sourceDirName": "api",
+  "slug": "/api/action-sheet copy 3",
+  "permalink": "/docs/api/action-sheet copy 3",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy 3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "  Catalog",
+    "sidebar_label": "Schema"
+  }
+}

@@ -7,7 +7,7 @@
   "source": "@site/docs/api/item-option.md",
   "sourceDirName": "api",
   "slug": "/api/item-option",
-  "permalink": "/developer/docs/api/item-option",
+  "permalink": "/docs/api/item-option",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/item-option.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-item-options",
-    "permalink": "/developer/docs/api/item-options"
+    "permalink": "/docs/api/item-options"
   },
   "next": {
     "title": "ion-label",
-    "permalink": "/developer/docs/api/label"
+    "permalink": "/docs/api/label"
   }
 }

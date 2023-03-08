@@ -7,7 +7,7 @@
   "source": "@site/docs/native/smartlook.md",
   "sourceDirName": "native",
   "slug": "/native/smartlook",
-  "permalink": "/developer/docs/native/smartlook",
+  "permalink": "/docs/native/smartlook",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/smartlook/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Sign In With Apple",
-    "permalink": "/developer/docs/native/sign-in-with-apple"
+    "permalink": "/docs/native/sign-in-with-apple"
   },
   "next": {
     "title": "Sms Retriever",
-    "permalink": "/developer/docs/native/sms-retriever"
+    "permalink": "/docs/native/sms-retriever"
   }
 }

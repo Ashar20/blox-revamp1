@@ -2,8 +2,8 @@
   "unversionedId": "DXM Hub/pwa",
   "id": "DXM Hub/pwa",
   "isDocsHomePage": false,
-  "title": "Progressive Web Apps in Angular",
-  "description": "Make Progressive Web Apps (PWA) in Angular - Ionic Tutorial",
+  "title": "DXM - FAQ",
+  "description": "",
   "source": "@site/docs/DXM Hub/pwa.md",
   "sourceDirName": "DXM Hub",
   "slug": "/DXM Hub/pwa",
@@ -12,7 +12,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Progressive Web Apps in Angular",
+    "title": "DXM - FAQ",
     "sidebar_label": "FAQ's"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Template",
+    "permalink": "/docs/DXM Hub/Template"
   }
 }

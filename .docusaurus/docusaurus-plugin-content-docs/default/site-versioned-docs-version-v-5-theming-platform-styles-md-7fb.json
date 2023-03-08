@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/theming/platform-styles.md",
   "sourceDirName": "theming",
   "slug": "/theming/platform-styles",
-  "permalink": "/developer/docs/v5/theming/platform-styles",
+  "permalink": "/docs/v5/theming/platform-styles",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/platform-styles.md",
   "tags": [],
   "version": "v5",
@@ -20,10 +20,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Basics",
-    "permalink": "/developer/docs/v5/theming/basics"
+    "permalink": "/docs/v5/theming/basics"
   },
   "next": {
     "title": "CSS Variables",
-    "permalink": "/developer/docs/v5/theming/css-variables"
+    "permalink": "/docs/v5/theming/css-variables"
   }
 }

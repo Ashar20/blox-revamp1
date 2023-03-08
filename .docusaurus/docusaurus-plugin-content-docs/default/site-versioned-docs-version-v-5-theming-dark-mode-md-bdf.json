@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/theming/dark-mode.md",
   "sourceDirName": "theming",
   "slug": "/theming/dark-mode",
-  "permalink": "/developer/docs/v5/theming/dark-mode",
+  "permalink": "/docs/v5/theming/dark-mode",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/theming/dark-mode.md",
   "tags": [],
   "version": "v5",
@@ -18,10 +18,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Themes",
-    "permalink": "/developer/docs/v5/theming/themes"
+    "permalink": "/docs/v5/theming/themes"
   },
   "next": {
     "title": "Advanced",
-    "permalink": "/developer/docs/v5/theming/advanced"
+    "permalink": "/docs/v5/theming/advanced"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/slide.md",
   "sourceDirName": "api",
   "slug": "/api/slide",
-  "permalink": "/developer/docs/v5/api/slide",
+  "permalink": "/docs/v5/api/slide",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/slide.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-slides",
-    "permalink": "/developer/docs/v5/api/slides"
+    "permalink": "/docs/v5/api/slides"
   },
   "next": {
     "title": "ion-tabs",
-    "permalink": "/developer/docs/v5/api/tabs"
+    "permalink": "/docs/v5/api/tabs"
   }
 }

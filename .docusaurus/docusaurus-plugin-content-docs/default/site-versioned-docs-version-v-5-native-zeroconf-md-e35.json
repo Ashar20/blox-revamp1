@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/zeroconf.md",
   "sourceDirName": "native",
   "slug": "/native/zeroconf",
-  "permalink": "/developer/docs/v5/native/zeroconf",
+  "permalink": "/docs/v5/native/zeroconf",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/zeroconf/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "ZBar",
-    "permalink": "/developer/docs/v5/native/zbar"
+    "permalink": "/docs/v5/native/zbar"
   },
   "next": {
     "title": "Zoom",
-    "permalink": "/developer/docs/v5/native/zoom"
+    "permalink": "/docs/v5/native/zoom"
   }
 }

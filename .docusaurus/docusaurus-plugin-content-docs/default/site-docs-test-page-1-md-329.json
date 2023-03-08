@@ -7,7 +7,7 @@
   "source": "@site/docs/test/page1.md",
   "sourceDirName": "test",
   "slug": "/test/page1",
-  "permalink": "/developer/docs/test/page1",
+  "permalink": "/docs/test/page1",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/test/page1.md",
   "tags": [],
   "version": "current",

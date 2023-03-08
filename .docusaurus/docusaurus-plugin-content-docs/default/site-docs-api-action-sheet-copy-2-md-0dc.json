@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/action-sheet copy 2",
+  "id": "api/action-sheet copy 2",
+  "isDocsHomePage": false,
+  "title": "  Catalog",
+  "description": "Click me",
+  "source": "@site/docs/api/action-sheet copy 2.md",
+  "sourceDirName": "api",
+  "slug": "/api/action-sheet copy 2",
+  "permalink": "/docs/api/action-sheet copy 2",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy 2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "  Catalog",
+    "sidebar_label": "Catalog Manager"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Catalog",
+    "permalink": "/docs/api/action-sheet copy"
+  },
+  "next": {
+    "title": "ion-accordion",
+    "permalink": "/docs/api/accordion"
+  }
+}

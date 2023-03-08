@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/app.md",
   "sourceDirName": "api",
   "slug": "/api/app",
-  "permalink": "/developer/docs/v5/api/app",
+  "permalink": "/docs/v5/api/app",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/app.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-chip",
-    "permalink": "/developer/docs/v5/api/chip"
+    "permalink": "/docs/v5/api/chip"
   },
   "next": {
     "title": "ion-content",
-    "permalink": "/developer/docs/v5/api/content"
+    "permalink": "/docs/v5/api/content"
   }
 }

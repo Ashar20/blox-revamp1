@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/action-sheet copy",
+  "id": "api/action-sheet copy",
+  "isDocsHomePage": false,
+  "title": "  Catalog",
+  "description": "Catalog(",
+  "source": "@site/docs/api/action-sheet copy.md",
+  "sourceDirName": "api",
+  "slug": "/api/action-sheet copy",
+  "permalink": "/docs/api/action-sheet copy",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "  Catalog",
+    "sidebar_label": "Catalog"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/api/action-sheet"
+  },
+  "next": {
+    "title": "Catalog Manager",
+    "permalink": "/docs/api/action-sheet copy 2"
+  }
+}

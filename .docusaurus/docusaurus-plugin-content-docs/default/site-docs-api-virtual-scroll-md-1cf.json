@@ -7,7 +7,7 @@
   "source": "@site/docs/api/virtual-scroll.md",
   "sourceDirName": "api",
   "slug": "/api/virtual-scroll",
-  "permalink": "/developer/docs/api/virtual-scroll",
+  "permalink": "/docs/api/virtual-scroll",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/virtual-scroll.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "api",
   "previous": {
     "title": "ion-list-header",
-    "permalink": "/developer/docs/api/list-header"
+    "permalink": "/docs/api/list-header"
   },
   "next": {
     "title": "ion-avatar",
-    "permalink": "/developer/docs/api/avatar"
+    "permalink": "/docs/api/avatar"
   }
 }

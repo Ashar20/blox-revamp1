@@ -7,7 +7,7 @@
   "source": "@site/docs/native/native-storage.md",
   "sourceDirName": "native",
   "slug": "/native/native-storage",
-  "permalink": "/developer/docs/native/native-storage",
+  "permalink": "/docs/native/native-storage",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/native-storage/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Native Page Transitions",
-    "permalink": "/developer/docs/native/native-page-transitions"
+    "permalink": "/docs/native/native-page-transitions"
   },
   "next": {
     "title": "Network Interface",
-    "permalink": "/developer/docs/native/network-interface"
+    "permalink": "/docs/native/network-interface"
   }
 }

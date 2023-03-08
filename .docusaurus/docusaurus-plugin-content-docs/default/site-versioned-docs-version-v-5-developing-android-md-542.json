@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/developing/android.md",
   "sourceDirName": "developing",
   "slug": "/developing/android",
-  "permalink": "/developer/docs/v5/developing/android",
+  "permalink": "/docs/v5/developing/android",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/android.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Developing for iOS",
-    "permalink": "/developer/docs/v5/developing/ios"
+    "permalink": "/docs/v5/developing/ios"
   },
   "next": {
     "title": "Development Tips",
-    "permalink": "/developer/docs/v5/developing/tips"
+    "permalink": "/docs/v5/developing/tips"
   }
 }

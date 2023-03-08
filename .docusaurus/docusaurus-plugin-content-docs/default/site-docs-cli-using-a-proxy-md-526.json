@@ -7,7 +7,7 @@
   "source": "@site/docs/cli/using-a-proxy.md",
   "sourceDirName": "cli",
   "slug": "/cli/using-a-proxy",
-  "permalink": "/developer/docs/cli/using-a-proxy",
+  "permalink": "/docs/cli/using-a-proxy",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/cli/using-a-proxy.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cli",
   "previous": {
     "title": "Live Reload",
-    "permalink": "/developer/docs/cli/livereload"
+    "permalink": "/docs/cli/livereload"
   },
   "next": {
     "title": "build",
-    "permalink": "/developer/docs/cli/commands/build"
+    "permalink": "/docs/cli/commands/build"
   }
 }

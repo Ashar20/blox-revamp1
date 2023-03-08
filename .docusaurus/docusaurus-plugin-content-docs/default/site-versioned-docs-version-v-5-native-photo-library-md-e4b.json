@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/photo-library.md",
   "sourceDirName": "native",
   "slug": "/native/photo-library",
-  "permalink": "/developer/docs/v5/native/photo-library",
+  "permalink": "/docs/v5/native/photo-library",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/photo-library/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "PDFGenerator",
-    "permalink": "/developer/docs/v5/native/pdf-generator"
+    "permalink": "/docs/v5/native/pdf-generator"
   },
   "next": {
     "title": "Photo Viewer",
-    "permalink": "/developer/docs/v5/native/photo-viewer"
+    "permalink": "/docs/v5/native/photo-viewer"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/image-picker.md",
   "sourceDirName": "native",
   "slug": "/native/image-picker",
-  "permalink": "/developer/docs/v5/native/image-picker",
+  "permalink": "/docs/v5/native/image-picker",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/image-picker/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "IBeacon",
-    "permalink": "/developer/docs/v5/native/ibeacon"
+    "permalink": "/docs/v5/native/ibeacon"
   },
   "next": {
     "title": "Imap",
-    "permalink": "/developer/docs/v5/native/imap"
+    "permalink": "/docs/v5/native/imap"
   }
 }

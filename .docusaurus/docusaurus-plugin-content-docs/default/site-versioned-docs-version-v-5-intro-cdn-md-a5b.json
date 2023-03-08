@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/intro/cdn.md",
   "sourceDirName": "intro",
   "slug": "/intro/cdn",
-  "permalink": "/developer/docs/v5/intro/cdn",
+  "permalink": "/docs/v5/intro/cdn",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/intro/cdn.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "CLI Installation",
-    "permalink": "/developer/docs/v5/intro/cli"
+    "permalink": "/docs/v5/intro/cli"
   },
   "next": {
     "title": "Next Steps",
-    "permalink": "/developer/docs/v5/intro/next"
+    "permalink": "/docs/v5/intro/next"
   }
 }

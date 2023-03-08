@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/document-scanner.md",
   "sourceDirName": "native",
   "slug": "/native/document-scanner",
-  "permalink": "/developer/docs/v5/native/document-scanner",
+  "permalink": "/docs/v5/native/document-scanner",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/document-scanner/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "iOS DocumentPicker",
-    "permalink": "/developer/docs/v5/native/document-picker"
+    "permalink": "/docs/v5/native/document-picker"
   },
   "next": {
     "title": "Document Viewer",
-    "permalink": "/developer/docs/v5/native/document-viewer"
+    "permalink": "/docs/v5/native/document-viewer"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/troubleshooting/native.md",
   "sourceDirName": "troubleshooting",
   "slug": "/troubleshooting/native",
-  "permalink": "/developer/docs/v5/troubleshooting/native",
+  "permalink": "/docs/v5/troubleshooting/native",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/troubleshooting/native.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Runtime Issues",
-    "permalink": "/developer/docs/v5/troubleshooting/runtime"
+    "permalink": "/docs/v5/troubleshooting/runtime"
   },
   "next": {
     "title": "CORS Errors",
-    "permalink": "/developer/docs/v5/troubleshooting/cors"
+    "permalink": "/docs/v5/troubleshooting/cors"
   }
 }

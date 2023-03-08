@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/background-geolocation.md",
   "sourceDirName": "native",
   "slug": "/native/background-geolocation",
-  "permalink": "/developer/docs/v5/native/background-geolocation",
+  "permalink": "/docs/v5/native/background-geolocation",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/background-geolocation/index.ts",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Background Fetch",
-    "permalink": "/developer/docs/v5/native/background-fetch"
+    "permalink": "/docs/v5/native/background-fetch"
   },
   "next": {
     "title": "Background Mode",
-    "permalink": "/developer/docs/v5/native/background-mode"
+    "permalink": "/docs/v5/native/background-mode"
   }
 }

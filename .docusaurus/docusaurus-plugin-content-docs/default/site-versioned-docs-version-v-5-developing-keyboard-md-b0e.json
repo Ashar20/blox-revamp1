@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/developing/keyboard.md",
   "sourceDirName": "developing",
   "slug": "/developing/keyboard",
-  "permalink": "/developer/docs/v5/developing/keyboard",
+  "permalink": "/docs/v5/developing/keyboard",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/developing/keyboard.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Hardware Back Button",
-    "permalink": "/developer/docs/v5/developing/hardware-back-button"
+    "permalink": "/docs/v5/developing/hardware-back-button"
   },
   "next": {
     "title": "Structure",
-    "permalink": "/developer/docs/v5/layout/structure"
+    "permalink": "/docs/v5/layout/structure"
   }
 }

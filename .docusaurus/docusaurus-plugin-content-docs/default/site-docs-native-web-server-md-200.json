@@ -7,7 +7,7 @@
   "source": "@site/docs/native/web-server.md",
   "sourceDirName": "native",
   "slug": "/native/web-server",
-  "permalink": "/developer/docs/native/web-server",
+  "permalink": "/docs/native/web-server",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/web-server/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Web Intent",
-    "permalink": "/developer/docs/native/web-intent"
+    "permalink": "/docs/native/web-intent"
   },
   "next": {
     "title": "WebSocket Server",
-    "permalink": "/developer/docs/native/web-socket-server"
+    "permalink": "/docs/native/web-socket-server"
   }
 }

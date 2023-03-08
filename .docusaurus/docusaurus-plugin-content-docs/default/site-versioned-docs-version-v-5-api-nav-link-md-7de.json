@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/nav-link.md",
   "sourceDirName": "api",
   "slug": "/api/nav-link",
-  "permalink": "/developer/docs/v5/api/nav-link",
+  "permalink": "/docs/v5/api/nav-link",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/nav-link.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-nav",
-    "permalink": "/developer/docs/v5/api/nav"
+    "permalink": "/docs/v5/api/nav"
   },
   "next": {
     "title": "ion-popover",
-    "permalink": "/developer/docs/v5/api/popover"
+    "permalink": "/docs/v5/api/popover"
   }
 }

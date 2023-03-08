@@ -7,7 +7,7 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/developer/docs/",
+  "permalink": "/docs/",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/index.md",
   "tags": [],
   "version": "current",
@@ -22,6 +22,6 @@
   "sidebar": "docs",
   "next": {
     "title": "Blox integration",
-    "permalink": "/developer/docs/intro/upgrading-to-ionic-6"
+    "permalink": "/docs/intro/upgrading-to-ionic-6"
   }
 }

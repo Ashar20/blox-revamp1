@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/developer/docs/v5/",
+  "permalink": "/docs/v5/",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/index.md",
   "tags": [],
   "version": "v5",
@@ -23,6 +23,6 @@
   "sidebar": "version-v5/docs",
   "next": {
     "title": "Environment Setup",
-    "permalink": "/developer/docs/v5/intro/environment"
+    "permalink": "/docs/v5/intro/environment"
   }
 }

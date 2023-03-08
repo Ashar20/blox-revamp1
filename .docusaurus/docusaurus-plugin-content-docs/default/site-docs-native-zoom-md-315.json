@@ -7,7 +7,7 @@
   "source": "@site/docs/native/zoom.md",
   "sourceDirName": "native",
   "slug": "/native/zoom",
-  "permalink": "/developer/docs/native/zoom",
+  "permalink": "/docs/native/zoom",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/zoom/index.ts",
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "native",
   "previous": {
     "title": "Zeroconf",
-    "permalink": "/developer/docs/native/zeroconf"
+    "permalink": "/docs/native/zeroconf"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/reference/versioning.md",
   "sourceDirName": "reference",
   "slug": "/reference/versioning",
-  "permalink": "/developer/docs/v5/reference/versioning",
+  "permalink": "/docs/v5/reference/versioning",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/reference/versioning.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Glossary",
-    "permalink": "/developer/docs/v5/reference/glossary"
+    "permalink": "/docs/v5/reference/glossary"
   },
   "next": {
     "title": "Release Notes",
-    "permalink": "/developer/docs/v5/reference/release-notes"
+    "permalink": "/docs/v5/reference/release-notes"
   }
 }

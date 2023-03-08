@@ -7,7 +7,7 @@
   "source": "@site/docs/cli/commands/cordova-emulate.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/cordova-emulate",
-  "permalink": "/developer/docs/cli/commands/cordova-emulate",
+  "permalink": "/docs/cli/commands/cordova-emulate",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/cordova/emulate.ts",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "cli",
   "previous": {
     "title": "cordova compile",
-    "permalink": "/developer/docs/cli/commands/cordova-compile"
+    "permalink": "/docs/cli/commands/cordova-compile"
   },
   "next": {
     "title": "cordova platform",
-    "permalink": "/developer/docs/cli/commands/cordova-platform"
+    "permalink": "/docs/cli/commands/cordova-platform"
   }
 }

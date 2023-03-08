@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/core-concepts/webview.md",
   "sourceDirName": "core-concepts",
   "slug": "/core-concepts/webview",
-  "permalink": "/developer/docs/v5/core-concepts/webview",
+  "permalink": "/docs/v5/core-concepts/webview",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/core-concepts/webview.md",
   "tags": [],
   "version": "v5",
@@ -15,10 +15,10 @@
   "sidebar": "version-v5/docs",
   "previous": {
     "title": "Cross Platform",
-    "permalink": "/developer/docs/v5/core-concepts/cross-platform"
+    "permalink": "/docs/v5/core-concepts/cross-platform"
   },
   "next": {
     "title": "What are PWAs?",
-    "permalink": "/developer/docs/v5/core-concepts/what-are-progressive-web-apps"
+    "permalink": "/docs/v5/core-concepts/what-are-progressive-web-apps"
   }
 }

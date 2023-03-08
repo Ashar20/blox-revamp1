@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/app-preferences.md",
   "sourceDirName": "native",
   "slug": "/native/app-preferences",
-  "permalink": "/developer/docs/v5/native/app-preferences",
+  "permalink": "/docs/v5/native/app-preferences",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/app-preferences/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "App Center Push",
-    "permalink": "/developer/docs/v5/native/app-center-push"
+    "permalink": "/docs/v5/native/app-center-push"
   },
   "next": {
     "title": "App Rate",
-    "permalink": "/developer/docs/v5/native/app-rate"
+    "permalink": "/docs/v5/native/app-rate"
   }
 }

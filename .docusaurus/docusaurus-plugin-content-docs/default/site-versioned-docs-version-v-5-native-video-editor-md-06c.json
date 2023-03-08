@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/video-editor.md",
   "sourceDirName": "native",
   "slug": "/native/video-editor",
-  "permalink": "/developer/docs/v5/native/video-editor",
+  "permalink": "/docs/v5/native/video-editor",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/video-editor/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Vibration",
-    "permalink": "/developer/docs/v5/native/vibration"
+    "permalink": "/docs/v5/native/vibration"
   },
   "next": {
     "title": "Video Player",
-    "permalink": "/developer/docs/v5/native/video-player"
+    "permalink": "/docs/v5/native/video-player"
   }
 }

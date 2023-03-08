@@ -7,7 +7,7 @@
   "source": "@site/docs/native/ibeacon.md",
   "sourceDirName": "native",
   "slug": "/native/ibeacon",
-  "permalink": "/developer/docs/native/ibeacon",
+  "permalink": "/docs/native/ibeacon",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/ibeacon/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Iamport Cordova",
-    "permalink": "/developer/docs/native/iamport-cordova"
+    "permalink": "/docs/native/iamport-cordova"
   },
   "next": {
     "title": "Image Picker",
-    "permalink": "/developer/docs/native/image-picker"
+    "permalink": "/docs/native/image-picker"
   }
 }

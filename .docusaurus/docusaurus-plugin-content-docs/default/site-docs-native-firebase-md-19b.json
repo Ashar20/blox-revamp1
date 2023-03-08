@@ -7,7 +7,7 @@
   "source": "@site/docs/native/firebase.md",
   "sourceDirName": "native",
   "slug": "/native/firebase",
-  "permalink": "/developer/docs/native/firebase",
+  "permalink": "/docs/native/firebase",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/firebase/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Firebase X",
-    "permalink": "/developer/docs/native/firebase-x"
+    "permalink": "/docs/native/firebase-x"
   },
   "next": {
     "title": "Flashlight",
-    "permalink": "/developer/docs/native/flashlight"
+    "permalink": "/docs/native/flashlight"
   }
 }

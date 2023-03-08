@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/action-sheet.md",
   "sourceDirName": "api",
   "slug": "/api/action-sheet",
-  "permalink": "/developer/docs/v5/api/action-sheet",
+  "permalink": "/docs/v5/api/action-sheet",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet.md",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "UI Components",
-    "permalink": "/developer/docs/v5/components"
+    "permalink": "/docs/v5/components"
   },
   "next": {
     "title": "ion-alert",
-    "permalink": "/developer/docs/v5/api/alert"
+    "permalink": "/docs/v5/api/alert"
   }
 }

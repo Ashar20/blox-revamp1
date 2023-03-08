@@ -7,7 +7,7 @@
   "source": "@site/docs/native/barcode-scanner.md",
   "sourceDirName": "native",
   "slug": "/native/barcode-scanner",
-  "permalink": "/developer/docs/native/barcode-scanner",
+  "permalink": "/docs/native/barcode-scanner",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/barcode-scanner/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Badge",
-    "permalink": "/developer/docs/native/badge"
+    "permalink": "/docs/native/badge"
   },
   "next": {
     "title": "Battery Status",
-    "permalink": "/developer/docs/native/battery-status"
+    "permalink": "/docs/native/battery-status"
   }
 }

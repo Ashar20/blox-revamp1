@@ -7,7 +7,7 @@
   "source": "@site/docs/native/bluetooth-classic-serial-port.md",
   "sourceDirName": "native",
   "slug": "/native/bluetooth-classic-serial-port",
-  "permalink": "/developer/docs/native/bluetooth-classic-serial-port",
+  "permalink": "/docs/native/bluetooth-classic-serial-port",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/bluetooth-classic-serial-port/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "BlinkId",
-    "permalink": "/developer/docs/native/blinkid"
+    "permalink": "/docs/native/blinkid"
   },
   "next": {
     "title": "BluetoothLE",
-    "permalink": "/developer/docs/native/bluetooth-le"
+    "permalink": "/docs/native/bluetooth-le"
   }
 }

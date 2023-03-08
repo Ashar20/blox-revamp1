@@ -7,7 +7,7 @@
   "source": "@site/docs/native/bluetooth-le.md",
   "sourceDirName": "native",
   "slug": "/native/bluetooth-le",
-  "permalink": "/developer/docs/native/bluetooth-le",
+  "permalink": "/docs/native/bluetooth-le",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/bluetooth-le/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Bluetooth Classic Serial Port",
-    "permalink": "/developer/docs/native/bluetooth-classic-serial-port"
+    "permalink": "/docs/native/bluetooth-classic-serial-port"
   },
   "next": {
     "title": "Bluetooth Serial",
-    "permalink": "/developer/docs/native/bluetooth-serial"
+    "permalink": "/docs/native/bluetooth-serial"
   }
 }

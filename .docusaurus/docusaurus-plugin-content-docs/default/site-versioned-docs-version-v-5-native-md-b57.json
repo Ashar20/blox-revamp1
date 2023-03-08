@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native.md",
   "sourceDirName": ".",
   "slug": "/native",
-  "permalink": "/developer/docs/v5/native",
+  "permalink": "/docs/v5/native",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/versioned_docs/version-v5/native.md",
   "tags": [],
   "version": "v5",
@@ -18,6 +18,6 @@
   "sidebar": "version-v5/native",
   "next": {
     "title": "Setup",
-    "permalink": "/developer/docs/v5/native/community"
+    "permalink": "/docs/v5/native/community"
   }
 }

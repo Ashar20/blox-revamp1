@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/clevertap.md",
   "sourceDirName": "native",
   "slug": "/native/clevertap",
-  "permalink": "/developer/docs/v5/native/clevertap",
+  "permalink": "/docs/v5/native/clevertap",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/clevertap/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Chooser",
-    "permalink": "/developer/docs/v5/native/chooser"
+    "permalink": "/docs/v5/native/chooser"
   },
   "next": {
     "title": "Clipboard",
-    "permalink": "/developer/docs/v5/native/clipboard"
+    "permalink": "/docs/v5/native/clipboard"
   }
 }

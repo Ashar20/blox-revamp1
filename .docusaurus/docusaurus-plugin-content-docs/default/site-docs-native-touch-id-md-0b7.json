@@ -7,7 +7,7 @@
   "source": "@site/docs/native/touch-id.md",
   "sourceDirName": "native",
   "slug": "/native/touch-id",
-  "permalink": "/developer/docs/native/touch-id",
+  "permalink": "/docs/native/touch-id",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/touch-id/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "Toast",
-    "permalink": "/developer/docs/native/toast"
+    "permalink": "/docs/native/toast"
   },
   "next": {
     "title": "Unvired Cordova SDK",
-    "permalink": "/developer/docs/native/unvired-cordova-sdk"
+    "permalink": "/docs/native/unvired-cordova-sdk"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/reorder-group.md",
   "sourceDirName": "api",
   "slug": "/api/reorder-group",
-  "permalink": "/developer/docs/v5/api/reorder-group",
+  "permalink": "/docs/v5/api/reorder-group",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/reorder-group.md",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-reorder",
-    "permalink": "/developer/docs/v5/api/reorder"
+    "permalink": "/docs/v5/api/reorder"
   },
   "next": {
     "title": "ion-router",
-    "permalink": "/developer/docs/v5/api/router"
+    "permalink": "/docs/v5/api/router"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/wechat.md",
   "sourceDirName": "native",
   "slug": "/native/wechat",
-  "permalink": "/developer/docs/v5/native/wechat",
+  "permalink": "/docs/v5/native/wechat",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/wechat/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "Webengage",
-    "permalink": "/developer/docs/v5/native/webengage"
+    "permalink": "/docs/v5/native/webengage"
   },
   "next": {
     "title": "WheelSelector Plugin",
-    "permalink": "/developer/docs/v5/native/wheel-selector"
+    "permalink": "/docs/v5/native/wheel-selector"
   }
 }

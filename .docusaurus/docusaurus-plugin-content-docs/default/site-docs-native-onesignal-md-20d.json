@@ -7,7 +7,7 @@
   "source": "@site/docs/native/onesignal.md",
   "sourceDirName": "native",
   "slug": "/native/onesignal",
-  "permalink": "/developer/docs/native/onesignal",
+  "permalink": "/docs/native/onesignal",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/onesignal/index.ts",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "native",
   "previous": {
     "title": "OCR",
-    "permalink": "/developer/docs/native/ocr"
+    "permalink": "/docs/native/ocr"
   },
   "next": {
     "title": "Open Native Settings",
-    "permalink": "/developer/docs/native/open-native-settings"
+    "permalink": "/docs/native/open-native-settings"
   }
 }

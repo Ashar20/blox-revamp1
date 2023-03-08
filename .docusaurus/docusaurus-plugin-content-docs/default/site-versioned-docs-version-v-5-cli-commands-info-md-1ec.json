@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/cli/commands/info.md",
   "sourceDirName": "cli/commands",
   "slug": "/cli/commands/info",
-  "permalink": "/developer/docs/v5/cli/commands/info",
+  "permalink": "/docs/v5/cli/commands/info",
   "editUrl": "https://github.com/ionic-team/ionic-cli/edit/develop/packages/@ionic/cli/src/commands/info.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/cli",
   "previous": {
     "title": "git remote",
-    "permalink": "/developer/docs/v5/cli/commands/git-remote"
+    "permalink": "/docs/v5/cli/commands/git-remote"
   },
   "next": {
     "title": "init",
-    "permalink": "/developer/docs/v5/cli/commands/init"
+    "permalink": "/docs/v5/cli/commands/init"
   }
 }

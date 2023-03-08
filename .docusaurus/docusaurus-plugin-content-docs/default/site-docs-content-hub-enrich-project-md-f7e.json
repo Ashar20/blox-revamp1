@@ -7,7 +7,7 @@
   "source": "@site/docs/Content Hub/Enrich/project.md",
   "sourceDirName": "Content Hub/Enrich",
   "slug": "/Content Hub/Enrich/project",
-  "permalink": "/developer/docs/Content Hub/Enrich/project",
+  "permalink": "/docs/Content Hub/Enrich/project",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/Enrich/project.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Data organization",
-    "permalink": "/developer/docs/Content Hub/Enrich/dataorg"
+    "permalink": "/docs/Content Hub/Enrich/dataorg"
   },
   "next": {
     "title": "Catalog Listing",
-    "permalink": "/developer/docs/Content Hub/performance"
+    "permalink": "/docs/Content Hub/performance"
   }
 }

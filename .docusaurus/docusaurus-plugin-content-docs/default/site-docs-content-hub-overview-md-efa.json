@@ -7,7 +7,7 @@
   "source": "@site/docs/Content Hub/overview.md",
   "sourceDirName": "Content Hub",
   "slug": "/Content Hub/overview",
-  "permalink": "/developer/docs/Content Hub/overview",
+  "permalink": "/docs/Content Hub/overview",
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/Content Hub/overview.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Blox integration",
-    "permalink": "/developer/docs/intro/upgrading-to-ionic-6"
+    "permalink": "/docs/intro/upgrading-to-ionic-6"
   },
   "next": {
     "title": "Update a catalog",
-    "permalink": "/developer/docs/Content Hub/update-a-catalog"
+    "permalink": "/docs/Content Hub/update-a-catalog"
   }
 }

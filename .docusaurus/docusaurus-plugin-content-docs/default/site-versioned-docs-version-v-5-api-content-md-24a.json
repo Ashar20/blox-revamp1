@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/api/content.md",
   "sourceDirName": "api",
   "slug": "/api/content",
-  "permalink": "/developer/docs/v5/api/content",
+  "permalink": "/docs/v5/api/content",
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/content.md",
   "tags": [],
   "version": "v5",
@@ -19,10 +19,10 @@
   "sidebar": "version-v5/api",
   "previous": {
     "title": "ion-app",
-    "permalink": "/developer/docs/v5/api/app"
+    "permalink": "/docs/v5/api/app"
   },
   "next": {
     "title": "ion-datetime",
-    "permalink": "/developer/docs/v5/api/datetime"
+    "permalink": "/docs/v5/api/datetime"
   }
 }

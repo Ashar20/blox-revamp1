@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/gao-de-location.md",
   "sourceDirName": "native",
   "slug": "/native/gao-de-location",
-  "permalink": "/developer/docs/v5/native/gao-de-location",
+  "permalink": "/docs/v5/native/gao-de-location",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/gao-de-location/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "FTP",
-    "permalink": "/developer/docs/v5/native/ftp"
+    "permalink": "/docs/v5/native/ftp"
   },
   "next": {
     "title": "Ge Tui Sdk Plugin",
-    "permalink": "/developer/docs/v5/native/ge-tui-sdk-plugin"
+    "permalink": "/docs/v5/native/ge-tui-sdk-plugin"
   }
 }

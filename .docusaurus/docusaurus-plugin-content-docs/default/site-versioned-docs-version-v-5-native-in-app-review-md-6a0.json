@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-v5/native/in-app-review.md",
   "sourceDirName": "native",
   "slug": "/native/in-app-review",
-  "permalink": "/developer/docs/v5/native/in-app-review",
+  "permalink": "/docs/v5/native/in-app-review",
   "editUrl": "https://github.com/ionic-team/ionic-native/edit/master/src/@awesome-cordova-plugins/plugins/in-app-review/index.ts",
   "tags": [],
   "version": "v5",
@@ -17,10 +17,10 @@
   "sidebar": "version-v5/native",
   "previous": {
     "title": "In App Purchase 2",
-    "permalink": "/developer/docs/v5/native/in-app-purchase-2"
+    "permalink": "/docs/v5/native/in-app-purchase-2"
   },
   "next": {
     "title": "Insomnia",
-    "permalink": "/developer/docs/v5/native/insomnia"
+    "permalink": "/docs/v5/native/insomnia"
   }
 }
