@@ -1,245 +1,132 @@
 ---
-title: Progressive Web Apps in Angular
+title: Content Hub - FAQ
 sidebar_label: FAQ's
 ---
 
-<head>
+<details>
+    <summary> What is Content Hub? What does it do? </summary>
+   Content Hub enables you to create Catalogs by uploading data from different datasources, manage Catalog content, and enrich Catalog content.
+</details>
+<details>
+    <summary>How do I create a Catalog?</summary>
+    You can create a Catalog by clicking on ‘Create New’ in the Explore screen. Click here, to find detailed instructions on how to create a Catalog.
+</details>
+<details>
+    <summary>How can I access a Catalog’s Content?</summary>
+   In the Catalog listing table, either click on the Catalog Name or on the ‘info’ icon. Click here, to find detailed instructions on how to access & manage Catalog content.
+</details>
+<details>
+    <summary>What are the types of data sources supported?</summary>
+   We currently support 
+Amazon s3
+SFTP
+Kafka
+Manual File upload
 
-  <title>Make Progressive Web Apps (PWA) in Angular - Ionic Tutorial</title>
-  <meta
-    name="description"
-    content="When Making an Angular app a Progressive Web App, the two main requirements are a Service Worker and a Web Manifest. Read to learn more in Ionic's PWA tutorial."
-  />
-</head>
+</details>
+<details>
+    <summary>Can I upload data from shopify feed?</summary>
+   No, we currently don’t support Shopify feed as a data source. Please check our list of currently supported here.
+</details>
+<details>
+    <summary>What is a schema?</summary>
+   A schema represents how the Catalog data is organized in the database; the relationship between entities like table name, field, attribute, field type etc.
+</details>
+<details>
+    <summary>What is a feed?</summary>
+   A feed is a collection of data.
+</details>
+<details>
+    <summary>Can I edit a Catalog after ‘Submit’?</summary>
+   Yes, click on the ‘edit’ icon next to each Catalog name in the listing table or click on the ‘Update Catalog settings’ CTA from the Catalog Explore screen.
+</details>
+<details>
+    <summary>What are the types of Catalog supported?</summary>
+   We currently support four types of Catalog
+Product Catalog
+Document Catalog
+Banner Catalog
+Offer Catalog
 
-var MyClass = React.createClass({
-  render: function() {
-    return (
+</details>
+<details>
+    <summary>What are the segments supported?</summary>
+   We currently support a host of segments. Please find the list here
+</details>
+<details>
+    <summary>What does ‘Test Connection’ do?</summary>
+   Test Connection verifies if all the details provided as part of the Catalog creation process are valid. Test connection must be successful in order to proceed to finish configuring the Catalog.
+</details>
+<details>
+    <summary>Can I change the Primary Key after a Catalog has been Submitted?</summary>
+   No, it’s not possible to change the Primary key after the Catalog has been submitted.
+</details>
+<details>
+    <summary>What are the data types supported for Primary Key?</summary>
+   Currently, we only support “String” data type for primary key.
+</details>
+<details>
+    <summary>When will the catalog sync during initial setup? Is it based on the sync schedule?</summary>
+   Initial sync happens immediately, Following ones happen according to schedule.
+</details>
+<details>
+    <summary>What are the sync options available for a Catalog?</summary>
+   We support a variety of sync & schedule options as part of the Catalog. Please click here to learn more about sync.
+</details>
+<details>
+    <summary>If a data file from a customer has duplicate column headers, what is the default behavior in handling it?
+    </summary>
+   If they are mapped to different fields, then they will be treated as different
+</details>
+<details>
+    <summary>How can I update the mapping after a Catalog has been Submitted?</summary>
+   Yes, click on the ‘edit’ icon next to each Catalog name in the listing table or click on the ‘Update Catalog settings’ CTA from the Catalog Explore screen. And update mapping as required.
+</details>
+<details>
+    <summary>How can I enrich a Catalog Content?</summary>
+   In the Enrich screen, click on ‘Create New’ to create a Project for a Catalog & enrich the content.
+</details>
+<details>
+    <summary>Can I create a Project without a Catalog?</summary>
+   No, it’s not possible to create a Project without a Catalog
+</details>
+<details>
+    <summary>Can I use multiple Catalogs in the same Project?</summary>
+   No, a Project can be created for only one Catalog.
+If a Catalog is used in multiple Projects & Strategies, What happens to all the entities if 
 
-      <div className="accordion" id="accordionExample">
-        <div className="accordion-item">
-          <h2 className="accordion-header" id="headingOne">
-            <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              Accordion Item #1
-            </button>
-          </h2>
-          <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-            <div className="accordion-body">
-              <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-          </div>
-        </div>
-        <div className="accordion-item">
-          <h2 className="accordion-header" id="headingTwo">
-            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              Accordion Item #2
-            </button>
-          </h2>
-          <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-            <div className="accordion-body">
-              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-          </div>
-        </div>
-        <div className="accordion-item">
-          <h2 className="accordion-header" id="headingThree">
-            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              Accordion Item #3
-            </button>
-          </h2>
-          <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-            <div className="accordion-body">
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-          </div>
-        </div>
-      </div>
-    );
-  }
-});
-
-## Making your Angular app a PWA
-
-The two main requirements of a PWA are a <a href="https://developers.google.com/web/fundamentals/primers/service-workers/" target="_blank">Service Worker</a> and a <a href="https://developers.google.com/web/fundamentals/web-app-manifest/" target="_blank">Web Manifest</a>. While it's possible to add both of these to an app manually, the Angular team has an `@angular/pwa` package that can be used to automate this.
-
-The `@angular/pwa` package will automatically add a service worker and an app manifest to the app.
-To add this package to the app, run:
-
-```shell
-ng add @angular/pwa
-```
-
-Once this package has been added run `ionic build --prod` and the `www` directory will be ready to deploy as a PWA.
-
-:::note
-By default, the `@angular/pwa` package comes with the Angular logo for the app icons. Be sure to update the manifest to use the correct app name and also replace the icons.
-:::
-
-:::note
-Features like Service Workers and many JavaScript APIs (such as geolocation) require the app be hosted in a secure context. When deploying an app through a hosting service, be aware that HTTPS will be required to take full advantage of Service Workers.
-:::
-
-## Service Worker configuration
-
-After `@angular/pwa` has been added, a new `ngsw-config.json` file will be created at the root of the project. This file is responsible for configuring how Angular's service worker mechanism will handle caching assets. By default, the following will be provided:
-
-```json
-{
-  "$schema": "./node_modules/@angular/service-worker/config/schema.json",
-  "index": "/index.html",
-  "assetGroups": [
-    {
-      "name": "app",
-      "installMode": "prefetch",
-      "resources": {
-        "files": ["/favicon.ico", "/index.html", "/*.css", "/*.js"]
-      }
-    },
-    {
-      "name": "assets",
-      "installMode": "lazy",
-      "updateMode": "prefetch",
-      "resources": {
-        "files": ["/assets/**", "/*.(eot|svg|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani)"]
-      }
-    }
-  ]
-}
-```
-
-There are two sections in here, one for app specific resources (JS, CSS, HTML) and assets the app will load on demand. Depending on your app, these options can be customized. For a more detailed guide, read [the official guide from the Angular Team.](https://angular.io/guide/service-worker-config)
-
-## Deploying
-
-### Firebase
-
-Firebase hosting provides many benefits for Progressive Web Apps, including fast response times thanks to CDNs, HTTPS enabled by default, and support for [HTTP2 push](https://firebase.googleblog.com/2016/09/http2-comes-to-firebase-hosting.html).
-
-First, if not already available, [create the project](https://console.firebase.google.com) in Firebase.
-
-Next, in a Terminal, install the Firebase CLI:
-
-```shell
-npm install -g firebase-tools
-```
-
-:::note
-If it's the first time you use firebase-tools, login to your Google account with `firebase login` command.
-:::
-
-With the Firebase CLI installed, run `firebase init` within your Ionic project. The CLI prompts:
-
-**"Which Firebase CLI features do you want to set up for this folder?"** Choose "Hosting: Configure and deploy Firebase Hosting sites."
-
-**"Select a default Firebase project for this directory:"** Choose the project you created on the Firebase website.
-
-**"What do you want to use as your public directory?"** Enter "www".
-
-:::note
-Answering these next two questions will ensure that routing, hard reload, and deep linking work in the app:
-:::
-
-**Configure as a single-page app (rewrite all urls to /index.html)?"** Enter "Yes".
-
-**"File www/index.html already exists. Overwrite?"** Enter "No".
-
-A `firebase.json` config file is generated, configuring the app for deployment.
-
-The last thing needed is to make sure caching headers are being set correctly. To do this, add a `headers` snippet to the `firebase.json` file. The complete `firebase.json` looks like:
-
-```json
-{
-  "hosting": {
-    "public": "www",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ],
-    "headers": [
-      {
-        "source": "/build/app/**",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "public, max-age=31536000"
-          }
-        ]
-      },
-      {
-        "source": "ngsw-worker.js",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "no-cache"
-          }
-        ]
-      }
-    ]
-  }
-}
-```
-
-var MyClass = React.createClass({
-  render: function() {
-    return (
-
-      <div className="accordion" id="accordionExample">
-        <div className="accordion-item">
-          <h2 className="accordion-header" id="headingOne">
-            <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              Accordion Item #1
-            </button>
-          </h2>
-          <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-            <div className="accordion-body">
-              <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-          </div>
-        </div>
-        <div className="accordion-item">
-          <h2 className="accordion-header" id="headingTwo">
-            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              Accordion Item #2
-            </button>
-          </h2>
-          <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-            <div className="accordion-body">
-              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-          </div>
-        </div>
-        <div className="accordion-item">
-          <h2 className="accordion-header" id="headingThree">
-            <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              Accordion Item #3
-            </button>
-          </h2>
-          <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-            <div className="accordion-body">
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-          </div>
-        </div>
-      </div>
-    );
-  }
-});
-
-For more information about the `firebase.json` properties, see the [Firebase documentation](https://firebase.google.com/docs/hosting/full-config#section-firebase-json).
-
-Next, build an optimized version of the app by running:
-
-```shell
-ionic build --prod
-```
-
-Last, deploy the app by running:
-
-```shell
-firebase deploy
-```
-
-After this completes, the app will be live.
+</details>
+<details>
+    <summary>If a Catalog is used in multiple Projects & Strategies, What happens to all the entities if the Catalog is deleted?
+</summary>
+   Only the Catalog is deleted, Projects & Strategies are unaffected. However the Project cannot be used to further enrich new content, already enriched content is still available for access.
+</details>
+<details>
+    <summary>What does Index in catalog creation do? Where is it used in the tool?</summary>
+   Index means that the fields will be indexed in the database & filtering operations are enabled. Fields will be available for querying (to retrieve metadata)
+</details>
+<details>
+    <summary>What does Facet in catalog creation do? Where is it used in the tool?</summary>
+   Facet enables grouping and sorting operations on the field. Any field that is faceted will show up on the list of facets (typically found on the left side of a search result page) that people can use to narrow down the search results.
+</details>
+<details>
+    <summary>What does Search in catalog creation do? Where is it used in the tool?</summary>
+   The data in this field will show up in search results.
+</details>
+<details>
+    <summary>What does Personalize in catalog creation do? Where is it used in the tool?</summary>
+   These fields can be used for personalization strategies
+</details>
+<details>
+    <summary>What is a Taxonomy?</summary>
+   A Taxonomy is a hierarchical structure of attributes to tag the data against. The taxonomy provides a structure and flow to organize your data from root to leaf nodes. For example, ‘color’ is an attribute, while the actual colors ‘red’, ‘blue’, etc are possible values for the color attribute. Depending on your choice of segment, a preset taxonomy is recommended by default.
+</details>
+<details>
+    <summary>What is Feed Sampling?</summary>
+   Every time a feed is imported into a Project, only a random sample of 3000 items are digested for enrichment.
+</details>
+<details>
+    <summary>What is short term learning (STL)?
+</summary>
+   After labeling a few data points, clicking on the STL icon will apply the learnings to all data points in the taxonomy.
+</details>
