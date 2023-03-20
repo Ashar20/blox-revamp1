@@ -3,7 +3,7 @@
   "id": "api/action-sheet",
   "isDocsHomePage": false,
   "title": "action-sheet",
-  "description": "",
+  "description": "Ion-Accordion Components: How to Build & Examples | Ionic",
   "source": "@site/docs/api/action-sheet.md",
   "sourceDirName": "api",
   "slug": "/api/action-sheet",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "api",
   "previous": {
-    "title": "UI Components",
+    "title": "SDK documentation",
     "permalink": "/docs/components"
   },
   "next": {
-    "title": "ion-accordion",
-    "permalink": "/docs/api/accordion"
+    "title": "ion-accordion-group",
+    "permalink": "/docs/api/accordion-group"
   }
 }

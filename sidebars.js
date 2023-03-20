@@ -85,7 +85,7 @@ module.exports = {
       type: "category",
       label: "Accordion",
       collapsed: false,
-      items: ["api/accordion", "api/accordion-group"],
+      items: [ "api/accordion-group"],
     },
     {
       type: "category",

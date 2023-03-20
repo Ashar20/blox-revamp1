@@ -46,32 +46,6 @@
               }
             },
             {
-              "unversionedId": "api/accordion",
-              "id": "api/accordion",
-              "isDocsHomePage": false,
-              "title": "ion-accordion",
-              "description": "Ion-Accordion Components: How to Build & Examples | Ionic",
-              "source": "@site/docs/api/accordion.md",
-              "sourceDirName": "api",
-              "slug": "/api/accordion",
-              "permalink": "/docs/api/accordion",
-              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/accordion.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "ion-accordion"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "action-sheet",
-                "permalink": "/docs/api/action-sheet"
-              },
-              "next": {
-                "title": "ion-accordion-group",
-                "permalink": "/docs/api/accordion-group"
-              }
-            },
-            {
               "unversionedId": "api/accordion-group",
               "id": "api/accordion-group",
               "isDocsHomePage": false,
@@ -89,8 +63,8 @@
               },
               "sidebar": "api",
               "previous": {
-                "title": "ion-accordion",
-                "permalink": "/docs/api/accordion"
+                "title": "action-sheet",
+                "permalink": "/docs/api/action-sheet"
               },
               "next": {
                 "title": "ion-alert",
@@ -102,7 +76,7 @@
               "id": "api/action-sheet",
               "isDocsHomePage": false,
               "title": "action-sheet",
-              "description": "",
+              "description": "Ion-Accordion Components: How to Build & Examples | Ionic",
               "source": "@site/docs/api/action-sheet.md",
               "sourceDirName": "api",
               "slug": "/api/action-sheet",
@@ -113,66 +87,12 @@
               "frontMatter": {},
               "sidebar": "api",
               "previous": {
-                "title": "UI Components",
+                "title": "SDK documentation",
                 "permalink": "/docs/components"
               },
               "next": {
-                "title": "ion-accordion",
-                "permalink": "/docs/api/accordion"
-              }
-            },
-            {
-              "unversionedId": "api/action-sheet copy",
-              "id": "api/action-sheet copy",
-              "isDocsHomePage": false,
-              "title": "  Catalog",
-              "description": "Catalog(",
-              "source": "@site/docs/api/action-sheet copy.md",
-              "sourceDirName": "api",
-              "slug": "/api/action-sheet copy",
-              "permalink": "/docs/api/action-sheet copy",
-              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "  Catalog",
-                "sidebar_label": "Catalog"
-              }
-            },
-            {
-              "unversionedId": "api/action-sheet copy 2",
-              "id": "api/action-sheet copy 2",
-              "isDocsHomePage": false,
-              "title": "  Catalog",
-              "description": "Click me",
-              "source": "@site/docs/api/action-sheet copy 2.md",
-              "sourceDirName": "api",
-              "slug": "/api/action-sheet copy 2",
-              "permalink": "/docs/api/action-sheet copy 2",
-              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy 2.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "  Catalog",
-                "sidebar_label": "Catalog Manager"
-              }
-            },
-            {
-              "unversionedId": "api/action-sheet copy 3",
-              "id": "api/action-sheet copy 3",
-              "isDocsHomePage": false,
-              "title": "  Catalog",
-              "description": "class Schema(blox.base.base.Blox)",
-              "source": "@site/docs/api/action-sheet copy 3.md",
-              "sourceDirName": "api",
-              "slug": "/api/action-sheet copy 3",
-              "permalink": "/docs/api/action-sheet copy 3",
-              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet copy 3.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "  Catalog",
-                "sidebar_label": "Schema"
+                "title": "ion-accordion-group",
+                "permalink": "/docs/api/accordion-group"
               }
             },
             {
@@ -4178,8 +4098,8 @@
               "unversionedId": "components",
               "id": "components",
               "isDocsHomePage": false,
-              "title": "UI Components",
-              "description": "What is Blox Python Client?",
+              "title": "SDK documentation",
+              "description": "UI Components | User Interface Application Building Components",
               "source": "@site/docs/components.md",
               "sourceDirName": ".",
               "slug": "/components",
@@ -4188,9 +4108,8 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "UI Components",
-                "hide_table_of_contents": true,
-                "allow_different_nesting": true
+                "title": "SDK documentation",
+                "hide_table_of_contents": true
               },
               "sidebar": "api",
               "next": {
@@ -4397,8 +4316,8 @@
               "unversionedId": "Content Hub/pwa",
               "id": "Content Hub/pwa",
               "isDocsHomePage": false,
-              "title": "Progressive Web Apps in Angular",
-              "description": "Make Progressive Web Apps (PWA) in Angular - Ionic Tutorial",
+              "title": "Content Hub - FAQ",
+              "description": "What is Content Hub? What does it do?",
               "source": "@site/docs/Content Hub/pwa.md",
               "sourceDirName": "Content Hub",
               "slug": "/Content Hub/pwa",
@@ -4407,7 +4326,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Progressive Web Apps in Angular",
+                "title": "Content Hub - FAQ",
                 "sidebar_label": "FAQ's"
               },
               "sidebar": "docs",
@@ -10858,10 +10777,6 @@
                 "label": "Accordion",
                 "collapsed": false,
                 "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/accordion"
-                  },
                   {
                     "type": "doc",
                     "id": "api/accordion-group"
@@ -27387,7 +27302,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZAeNyxEAACIA3zET&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZA9ZThEAACMA7ajE&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2022-07-11T19:50:16+0000",
           "last_publication_date": "2022-07-11T19:50:16+0000",
@@ -27438,7 +27353,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZAeNyxEAACIA3zET&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZA9ZThEAACMA7ajE&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2021-03-01T17:28:35+0000",
           "last_publication_date": "2022-05-31T17:25:35+0000",

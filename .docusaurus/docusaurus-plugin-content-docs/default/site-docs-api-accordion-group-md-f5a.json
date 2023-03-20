@@ -16,8 +16,8 @@
   },
   "sidebar": "api",
   "previous": {
-    "title": "ion-accordion",
-    "permalink": "/docs/api/accordion"
+    "title": "action-sheet",
+    "permalink": "/docs/api/action-sheet"
   },
   "next": {
     "title": "ion-alert",

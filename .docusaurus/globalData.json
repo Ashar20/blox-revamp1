@@ -7,7 +7,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZAeNyxEAACIA3zET&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZA9ZThEAACMA7ajE&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2022-07-11T19:50:16+0000",
           "last_publication_date": "2022-07-11T19:50:16+0000",
@@ -58,7 +58,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZAeNyxEAACIA3zET&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZA9ZThEAACMA7ajE&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2021-03-01T17:28:35+0000",
           "last_publication_date": "2022-05-31T17:25:35+0000",
@@ -123,11 +123,6 @@
               "sidebar": "api"
             },
             {
-              "id": "api/accordion",
-              "path": "/docs/api/accordion",
-              "sidebar": "api"
-            },
-            {
               "id": "api/accordion-group",
               "path": "/docs/api/accordion-group",
               "sidebar": "api"
@@ -136,18 +131,6 @@
               "id": "api/action-sheet",
               "path": "/docs/api/action-sheet",
               "sidebar": "api"
-            },
-            {
-              "id": "api/action-sheet copy",
-              "path": "/docs/api/action-sheet copy"
-            },
-            {
-              "id": "api/action-sheet copy 2",
-              "path": "/docs/api/action-sheet copy 2"
-            },
-            {
-              "id": "api/action-sheet copy 3",
-              "path": "/docs/api/action-sheet copy 3"
             },
             {
               "id": "api/alert",

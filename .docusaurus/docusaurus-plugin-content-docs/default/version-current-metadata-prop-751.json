@@ -162,7 +162,7 @@
         "items": [
           {
             "type": "link",
-            "label": "UI Components",
+            "label": "SDK documentation",
             "href": "/docs/components"
           }
         ],
@@ -186,11 +186,6 @@
         "label": "Accordion",
         "collapsed": false,
         "items": [
-          {
-            "type": "link",
-            "label": "ion-accordion",
-            "href": "/docs/api/accordion"
-          },
           {
             "type": "link",
             "label": "ion-accordion-group",

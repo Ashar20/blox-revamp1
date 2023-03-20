@@ -2,8 +2,8 @@
   "unversionedId": "Content Hub/pwa",
   "id": "Content Hub/pwa",
   "isDocsHomePage": false,
-  "title": "Progressive Web Apps in Angular",
-  "description": "Make Progressive Web Apps (PWA) in Angular - Ionic Tutorial",
+  "title": "Content Hub - FAQ",
+  "description": "What is Content Hub? What does it do?",
   "source": "@site/docs/Content Hub/pwa.md",
   "sourceDirName": "Content Hub",
   "slug": "/Content Hub/pwa",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Progressive Web Apps in Angular",
+    "title": "Content Hub - FAQ",
     "sidebar_label": "FAQ's"
   },
   "sidebar": "docs",

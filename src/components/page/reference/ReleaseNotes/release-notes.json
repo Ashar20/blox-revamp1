@@ -1,5 +1,15 @@
 [
   {
+    "body": "<h2><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.6.0...v6.6.1\">6.6.1</a> (2023-03-08)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li><strong>angular:</strong> keepContentsMounted modal is sized correctly (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26917\">#26917</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/8d184c8c1b91dba9d6d5bbaf1b4a8480b75a3572\">8d184c8</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26916\">#26916</a></li>\n<li><strong>button:</strong> show correct activated state for ios (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26900\">#26900</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/67815ccbf4650ecbbc6c79d5063ab5ba50cb358c\">67815cc</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/22468\">#22468</a></li>\n<li><strong>datetime-button:</strong> time-only values are parsed (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26852\">#26852</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/f54fc188843af52e723e06402e01ef92717e541f\">f54fc18</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26851\">#26851</a></li>\n<li><strong>datetime:</strong> resolve import error in stencil apps (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26909\">#26909</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/48c45afdb6ca7dad0a1f2a6d3ece6df8ba23eb69\">48c45af</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26908\">#26908</a></li>\n<li><strong>menu, split-pane:</strong> ssr does not fail on null customElements check (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26854\">#26854</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/451d2204e79a4a10c1eb829ab0bd75c137b02475\">451d220</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/24714\">#24714</a></li>\n<li><strong>modal:</strong> avoid chrome memory leak bug (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26911\">#26911</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/a3f8e281721f6ef8c9479f5870198b7a009daabd\">a3f8e28</a>)</li>\n<li><strong>react:</strong> inline overlays dismiss when parent component unmounts (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26245\">#26245</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/c0e1bf92c4487c2ec8a117957cf84a2ce00f5fd8\">c0e1bf9</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/25775\">#25775</a> <a href=\"https://github.com/ionic-team/ionic-framework/issues/26185\">#26185</a></li>\n</ul>\n",
+    "element": "Unobtainium",
+    "name": "v6.6.1",
+    "published_at": "March 8 2023",
+    "symbol": "Uo",
+    "tag_name": "v6.6.1",
+    "type": "patch",
+    "version": "6.6.1"
+  },
+  {
     "body": "<h1><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.5.7...v6.6.0\">6.6.0</a> (2023-03-01)</h1>\n<h3>Bug Fixes</h3>\n<ul>\n<li><strong>modal:</strong> dialog styles work on old chrome versions (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26746\">#26746</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/00d10f5f6ad53850505bdad94b659b8801a3309d\">00d10f5</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26745\">#26745</a></li>\n</ul>\n<h3>Features</h3>\n<ul>\n<li><strong>datetime:</strong> add ability to specify custom colors for specific dates (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26775\">#26775</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/2a761afd5a0e6d4e6f54096fdeb97b8bad1293de\">2a761af</a>)</li>\n<li><strong>picker-column:</strong> assign custom aria-labels to column options (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26749\">#26749</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/daa89a26ac8fa655c56c9447a8635e7c436e4f63\">daa89a2</a>)</li>\n<li><strong>toast:</strong> add stacked buttons functionality (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26790\">#26790</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/fc5fcc064dec5256836e9622125b5e499ef00975\">fc5fcc0</a>)</li>\n</ul>\n",
     "element": "Unobtainium",
     "name": "v6.6.0",
@@ -38,15 +48,5 @@
     "tag_name": "v6.5.5",
     "type": "patch",
     "version": "6.5.5"
-  },
-  {
-    "body": "<h2><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.5.3...v6.5.4\">6.5.4</a> (2023-02-15)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li><strong>content:</strong> fullscreen works when rotating device (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26782\">#26782</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/7b879fec3d30b61c00faad035698ff643afaa78e\">7b879fe</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26743\">#26743</a></li>\n<li><strong>deps:</strong> update ionicons usage to v6.1.2 (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26752\">#26752</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/c07933cb69b0c31d3e44263769a7a26ee81223f8\">c07933c</a>)</li>\n<li><strong>deps:</strong> update ionicons usage to v6.1.3 (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26772\">#26772</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/1c719833292d4cfbdecadf9838d8c783785222ad\">1c71983</a>)</li>\n<li><strong>tap-click:</strong> instant activate does not use a setTimeout (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26748\">#26748</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/21c0806bbd1417b1e6239bc56272e18b3ff38f2e\">21c0806</a>)</li>\n</ul>\n",
-    "element": "Unobtainium",
-    "name": "v6.5.4",
-    "published_at": "February 15 2023",
-    "symbol": "Uo",
-    "tag_name": "v6.5.4",
-    "type": "patch",
-    "version": "6.5.4"
   }
 ]

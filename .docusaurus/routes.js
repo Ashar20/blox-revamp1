@@ -2871,7 +2871,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/','05e'),
+    component: ComponentCreator('/docs/','5c9'),
     routes: [
       {
         path: '/docs/',
@@ -2886,12 +2886,6 @@ export default [
         'sidebar': "api"
       },
       {
-        path: '/docs/api/accordion',
-        component: ComponentCreator('/docs/api/accordion','632'),
-        exact: true,
-        'sidebar': "api"
-      },
-      {
         path: '/docs/api/accordion-group',
         component: ComponentCreator('/docs/api/accordion-group','9d7'),
         exact: true,
@@ -2902,21 +2896,6 @@ export default [
         component: ComponentCreator('/docs/api/action-sheet','c2b'),
         exact: true,
         'sidebar': "api"
-      },
-      {
-        path: '/docs/api/action-sheet copy',
-        component: ComponentCreator('/docs/api/action-sheet copy','c06'),
-        exact: true
-      },
-      {
-        path: '/docs/api/action-sheet copy 2',
-        component: ComponentCreator('/docs/api/action-sheet copy 2','482'),
-        exact: true
-      },
-      {
-        path: '/docs/api/action-sheet copy 3',
-        component: ComponentCreator('/docs/api/action-sheet copy 3','20b'),
-        exact: true
       },
       {
         path: '/docs/api/alert',
