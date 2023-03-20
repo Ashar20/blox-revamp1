@@ -2,8 +2,8 @@
   "unversionedId": "api/button",
   "id": "api/button",
   "isDocsHomePage": false,
-  "title": "ion-button",
-  "description": "ion-button: Design and Style Buttons with Custom CSS Properties",
+  "title": "Installation",
+  "description": "What is Blox Python Client?",
   "source": "@site/docs/api/button.md",
   "sourceDirName": "api",
   "slug": "/api/button",
@@ -12,7 +12,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ion-button"
+    "title": "Installation",
+    "sidebar_label": "Installation"
   },
   "sidebar": "api",
   "previous": {

@@ -67,7 +67,7 @@
                 "permalink": "/docs/api/action-sheet"
               },
               "next": {
-                "title": "ion-alert",
+                "title": "Catalog Manager",
                 "permalink": "/docs/api/alert"
               }
             },
@@ -99,8 +99,8 @@
               "unversionedId": "api/alert",
               "id": "api/alert",
               "isDocsHomePage": false,
-              "title": "ion-alert",
-              "description": "ion-alert: Ionic API Alert Buttons with Custom Message Prompts",
+              "title": "  Catalog",
+              "description": "Click me",
               "source": "@site/docs/api/alert.md",
               "sourceDirName": "api",
               "slug": "/api/alert",
@@ -109,7 +109,8 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "ion-alert"
+                "title": "  Catalog",
+                "sidebar_label": "Catalog Manager"
               },
               "sidebar": "api",
               "previous": {
@@ -117,7 +118,7 @@
                 "permalink": "/docs/api/accordion-group"
               },
               "next": {
-                "title": "ion-badge",
+                "title": "Schema",
                 "permalink": "/docs/api/badge"
               }
             },
@@ -232,8 +233,8 @@
               "unversionedId": "api/badge",
               "id": "api/badge",
               "isDocsHomePage": false,
-              "title": "ion-badge",
-              "description": "Badges | ion-badge: iOS & Android App Notification Badge Icons",
+              "title": "  Catalog",
+              "description": "class Schema(blox.base.base.Blox)",
               "source": "@site/docs/api/badge.md",
               "sourceDirName": "api",
               "slug": "/api/badge",
@@ -242,11 +243,12 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "ion-badge"
+                "title": "  Catalog",
+                "sidebar_label": "Schema"
               },
               "sidebar": "api",
               "previous": {
-                "title": "ion-alert",
+                "title": "Catalog Manager",
                 "permalink": "/docs/api/alert"
               },
               "next": {
@@ -272,7 +274,7 @@
               },
               "sidebar": "api",
               "previous": {
-                "title": "ion-badge",
+                "title": "Schema",
                 "permalink": "/docs/api/badge"
               },
               "next": {
@@ -302,7 +304,7 @@
                 "permalink": "/docs/api/breadcrumb"
               },
               "next": {
-                "title": "ion-button",
+                "title": "Installation",
                 "permalink": "/docs/api/button"
               }
             },
@@ -310,8 +312,8 @@
               "unversionedId": "api/button",
               "id": "api/button",
               "isDocsHomePage": false,
-              "title": "ion-button",
-              "description": "ion-button: Design and Style Buttons with Custom CSS Properties",
+              "title": "Installation",
+              "description": "What is Blox Python Client?",
               "source": "@site/docs/api/button.md",
               "sourceDirName": "api",
               "slug": "/api/button",
@@ -320,7 +322,8 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "ion-button"
+                "title": "Installation",
+                "sidebar_label": "Installation"
               },
               "sidebar": "api",
               "previous": {
@@ -1624,7 +1627,7 @@
               },
               "sidebar": "api",
               "previous": {
-                "title": "ion-button",
+                "title": "Installation",
                 "permalink": "/docs/api/button"
               },
               "next": {
@@ -27302,7 +27305,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZA9ZThEAACMA7ajE&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBI07xEAACUAc6ly&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2022-07-11T19:50:16+0000",
           "last_publication_date": "2022-07-11T19:50:16+0000",
@@ -27353,7 +27356,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZA9ZThEAACMA7ajE&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBI07xEAACUAc6ly&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2021-03-01T17:28:35+0000",
           "last_publication_date": "2022-05-31T17:25:35+0000",

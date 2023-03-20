@@ -1,58 +1,88 @@
 ---
-title: "ion-badge"
+title: "  Catalog"
+sidebar_label: 'Schema'
 ---
-import Props from '@site/static/auto-generated/badge/props.md';
-import Events from '@site/static/auto-generated/badge/events.md';
-import Methods from '@site/static/auto-generated/badge/methods.md';
-import Parts from '@site/static/auto-generated/badge/parts.md';
-import CustomProps from '@site/static/auto-generated/badge/custom-props.md';
-import Slots from '@site/static/auto-generated/badge/slots.md';
 
-<head>
-  <title>Badges | ion-badge: iOS & Android App Notification Badge Icons</title>
-  <meta name="description" content="Badges are inline block elements that appear near other elements on iOS & Android apps—use ion-badges as notifications that indicate how many items there are." />
-</head>
+### class Schema(blox.base.base.Blox)
 
-import EncapsulationPill from '@components/page/api/EncapsulationPill';
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema)
 
-<EncapsulationPill type="shadow" />
+### Schema(catalog_id, fields=[], **kwargs)
+ 
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.__init__)
 
-Badges are inline block elements that usually appear near another element. Typically they contain a number or other characters. They can be used as a notification that there are additional items associated with an element and indicate how many items there are.
+### def initalize(self, schema_payload)
 
-## Basic Usage
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.initalize)
 
-import Basic from '@site/static/usage/badge/basic/index.md';
+Sets the fields sent in the form of list of dicts to the schema table
 
-<Basic />
+**Parameters**
 
-## Theming
+- `schema_payload`  - List of fields to be added to schema
 
-### Colors
+def  initialize(self, schema_payload):
 
-import Colors from '@site/static/usage/badge/theming/colors/index.md';
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.initialize)
 
-<Colors />
+Sets the fields sent in the form of list of dicts to the schema table
 
-### CSS Properties
+**Parameters**
 
-import CSSProps from '@site/static/usage/badge/theming/css-properties/index.md';
+- `schema_payload`  - List of fields to be added to schema
 
-<CSSProps />
+def  edit(self, add: list = None, delete: list = None, update: list = None):
 
-## Properties
-<Props />
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.edit)
 
-## Events
-<Events />
+Method to add,delete and update fields to schema
 
-## Methods
-<Methods />
+**Parameters**  -  `add`  (list): list of fields to be added -  `delete`  (list): list of field names to be deleted -  `update`  (list): list of fields to be updated
 
-## CSS Shadow Parts
-<Parts />
+**Returns**  -  `data`  (dict): Dict containing information of job pointing to the update job
 
-## CSS Custom Properties
-<CustomProps />
+def  add_fields(self, fields: list):
 
-## Slots
-<Slots />
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.add_fields)
+
+Method to add fields to schema
+
+**Parameters**  -  `fields`  (list): List of field dicts to be added
+
+**Returns**  -  `data`  (dict): Dict containing information of job pointing to the update job
+
+def  update_fields(self, fields):
+
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.update_fields)
+
+Method to update fields in schema
+
+**Parameters**  -  `fields`  (list): List of field dicts to be updated.
+
+**Returns**  -  `data`  (dict): Dict containing information of job pointing to the update job
+
+def  remove_fields(self, fields: list):
+
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.remove_fields)
+
+Method to delete fields in schema
+
+**Parameters**  -  `fields`  (list): List of field names (str) to be deleted
+
+**Returns**  -  `data`  (dict): Dict containing information of job pointing to the update job
+
+def  filter_fields( self, facet=None, index=None, search=None, meta=None, blox_generated=None, boost=None):
+
+[](https://d16mhahokhyjuk.cloudfront.net/staging/blox/catalog/schema.html#Schema.filter_fields)
+
+Method to filter fields of a schema based on the field attributes
+
+**Parameters**  `facet`  (bool, optional): Filter for field if facet=True. Defaults to None.  `index`  (bool, optional): Filter for field if index=True. Defaults to None.  `search`  (bool, optional): Filter for field if search=True. Defaults to None.  `meta`  (bool, optional): Filter for field if meta=True. Defaults to None.  `blox_generated`  (bool, optional): Filter for field if blox_generated=True (internal fields). Defaults to None.  `boost`  (bool, optional): Filter for field if boost=True. Defaults to None.
+
+**Returns**  filtered_fields (list): list of filtered fields
+
+### Inherited Members
+
+blox.base.base.Blox
+
+get

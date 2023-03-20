@@ -2,8 +2,8 @@
   "unversionedId": "api/badge",
   "id": "api/badge",
   "isDocsHomePage": false,
-  "title": "ion-badge",
-  "description": "Badges | ion-badge: iOS & Android App Notification Badge Icons",
+  "title": "  Catalog",
+  "description": "class Schema(blox.base.base.Blox)",
   "source": "@site/docs/api/badge.md",
   "sourceDirName": "api",
   "slug": "/api/badge",
@@ -12,11 +12,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ion-badge"
+    "title": "  Catalog",
+    "sidebar_label": "Schema"
   },
   "sidebar": "api",
   "previous": {
-    "title": "ion-alert",
+    "title": "Catalog Manager",
     "permalink": "/docs/api/alert"
   },
   "next": {

@@ -2,8 +2,8 @@
   "unversionedId": "api/alert",
   "id": "api/alert",
   "isDocsHomePage": false,
-  "title": "ion-alert",
-  "description": "ion-alert: Ionic API Alert Buttons with Custom Message Prompts",
+  "title": "  Catalog",
+  "description": "Click me",
   "source": "@site/docs/api/alert.md",
   "sourceDirName": "api",
   "slug": "/api/alert",
@@ -12,7 +12,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ion-alert"
+    "title": "  Catalog",
+    "sidebar_label": "Catalog Manager"
   },
   "sidebar": "api",
   "previous": {
@@ -20,7 +21,7 @@
     "permalink": "/docs/api/accordion-group"
   },
   "next": {
-    "title": "ion-badge",
+    "title": "Schema",
     "permalink": "/docs/api/badge"
   }
 }

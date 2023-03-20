@@ -201,7 +201,7 @@
         "items": [
           {
             "type": "link",
-            "label": "ion-alert",
+            "label": "Catalog Manager",
             "href": "/docs/api/alert"
           }
         ],
@@ -214,7 +214,7 @@
         "items": [
           {
             "type": "link",
-            "label": "ion-badge",
+            "label": "Schema",
             "href": "/docs/api/badge"
           }
         ],
@@ -245,7 +245,7 @@
         "items": [
           {
             "type": "link",
-            "label": "ion-button",
+            "label": "Installation",
             "href": "/docs/api/button"
           },
           {
