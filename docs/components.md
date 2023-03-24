@@ -23,12 +23,12 @@ import DocsCards from '@components/global/DocsCards';
 <DocsCards>
   
 <DocsCard header="Installation" href="api/button" icon="/icons/component-alert-icon.png">
-  <p>Alerts are a great way to offer the user the ability to choose a specific action or list of actions.</p>
+  
 </DocsCard>
 <DocsCard header="Catalog" href="api/badge" icon="/icons/component-badge-icon.png">
-  <p>Badges are a small component that typically communicate a numerical value to the user.</p>
+ 
 </DocsCard>
 <DocsCard header="Schema" href="api/alert" icon="/icons/component-button-icon.png">
-  <p>Buttons let your users take action. They're an essential way to interact with and navigate through an app.</p>
+ 
 </DocsCard>
 </DocsCards>
