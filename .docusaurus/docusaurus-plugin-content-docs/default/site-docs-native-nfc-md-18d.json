@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "NFC"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Network",
-    "permalink": "/docs/native/network"
-  },
-  "next": {
-    "title": "OCR",
-    "permalink": "/docs/native/ocr"
   }
 }

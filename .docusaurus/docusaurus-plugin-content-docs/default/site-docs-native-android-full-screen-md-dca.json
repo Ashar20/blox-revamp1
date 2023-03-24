@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Android Full Screen"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Android ExoPlayer",
-    "permalink": "/docs/native/android-exoplayer"
-  },
-  "next": {
-    "title": "Android Notch",
-    "permalink": "/docs/native/android-notch"
   }
 }

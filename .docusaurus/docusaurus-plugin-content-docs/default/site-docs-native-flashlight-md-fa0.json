@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Flashlight"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase",
-    "permalink": "/docs/native/firebase"
-  },
-  "next": {
-    "title": "Foreground Service",
-    "permalink": "/docs/native/foreground-service"
   }
 }

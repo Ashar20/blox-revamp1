@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Appsflyer"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Apple Wallet",
-    "permalink": "/docs/native/apple-wallet"
-  },
-  "next": {
-    "title": "Background Fetch",
-    "permalink": "/docs/native/background-fetch"
   }
 }

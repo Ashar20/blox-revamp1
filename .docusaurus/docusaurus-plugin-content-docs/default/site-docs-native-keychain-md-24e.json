@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Keychain"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Keyboard",
-    "permalink": "/docs/native/keyboard"
-  },
-  "next": {
-    "title": "Kommunicate",
-    "permalink": "/docs/native/kommunicate"
   }
 }

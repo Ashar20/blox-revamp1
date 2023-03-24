@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Health Kit"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Header Color",
-    "permalink": "/docs/native/header-color"
-  },
-  "next": {
-    "title": "Health",
-    "permalink": "/docs/native/health"
   }
 }

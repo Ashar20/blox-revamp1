@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic init",
     "sidebar_label": "init"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "info",
-    "permalink": "/docs/cli/commands/info"
-  },
-  "next": {
-    "title": "integrations disable",
-    "permalink": "/docs/cli/commands/integrations-disable"
   }
 }

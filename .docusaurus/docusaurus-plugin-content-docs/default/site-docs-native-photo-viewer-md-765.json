@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Photo Viewer"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Photo Library",
-    "permalink": "/docs/native/photo-library"
-  },
-  "next": {
-    "title": "Pollfish",
-    "permalink": "/docs/native/pollfish"
   }
 }

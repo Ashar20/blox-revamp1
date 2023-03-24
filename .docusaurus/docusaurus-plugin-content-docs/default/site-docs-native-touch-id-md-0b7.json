@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Touch ID"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Toast",
-    "permalink": "/docs/native/toast"
-  },
-  "next": {
-    "title": "Unvired Cordova SDK",
-    "permalink": "/docs/native/unvired-cordova-sdk"
   }
 }

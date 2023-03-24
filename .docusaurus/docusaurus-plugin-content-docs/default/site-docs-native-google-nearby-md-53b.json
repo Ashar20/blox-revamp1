@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Google Nearby"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Google Analytics",
-    "permalink": "/docs/native/google-analytics"
-  },
-  "next": {
-    "title": "Google Plus",
-    "permalink": "/docs/native/google-plus"
   }
 }

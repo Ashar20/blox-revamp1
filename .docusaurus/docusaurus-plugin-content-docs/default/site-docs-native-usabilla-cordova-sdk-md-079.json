@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Usabilla"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "UrbanAirShip",
-    "permalink": "/docs/native/urbanairship"
-  },
-  "next": {
-    "title": "Vibes",
-    "permalink": "/docs/native/vibes"
   }
 }

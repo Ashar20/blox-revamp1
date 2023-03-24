@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Ionic Webview"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Intercom",
-    "permalink": "/docs/native/intercom"
-  },
-  "next": {
-    "title": "ios-aswebauthenticationsession-api",
-    "permalink": "/docs/native/ios-aswebauthenticationsession-api"
   }
 }

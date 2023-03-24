@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Sms Retriever"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Smartlook",
-    "permalink": "/docs/native/smartlook"
-  },
-  "next": {
-    "title": "SMS",
-    "permalink": "/docs/native/sms"
   }
 }

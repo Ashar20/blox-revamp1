@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "App Version"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "App Rate",
-    "permalink": "/docs/native/app-rate"
-  },
-  "next": {
-    "title": "Apple Wallet",
-    "permalink": "/docs/native/apple-wallet"
   }
 }

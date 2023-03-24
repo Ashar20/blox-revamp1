@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "App Center Push"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "App Center Low Memory",
-    "permalink": "/docs/native/app-center-low-memory"
-  },
-  "next": {
-    "title": "App Preferences",
-    "permalink": "/docs/native/app-preferences"
   }
 }

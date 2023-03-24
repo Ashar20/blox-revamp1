@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Keyboard"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Is Debug",
-    "permalink": "/docs/native/is-debug"
-  },
-  "next": {
-    "title": "Keychain",
-    "permalink": "/docs/native/keychain"
   }
 }

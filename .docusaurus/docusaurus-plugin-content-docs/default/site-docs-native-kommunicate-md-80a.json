@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Kommunicate"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Keychain",
-    "permalink": "/docs/native/keychain"
-  },
-  "next": {
-    "title": "Launch Navigator",
-    "permalink": "/docs/native/launch-navigator"
   }
 }

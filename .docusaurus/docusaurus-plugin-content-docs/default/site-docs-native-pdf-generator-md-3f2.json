@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "PDFGenerator"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "PayTabs",
-    "permalink": "/docs/native/paytabs"
-  },
-  "next": {
-    "title": "Photo Library",
-    "permalink": "/docs/native/photo-library"
   }
 }

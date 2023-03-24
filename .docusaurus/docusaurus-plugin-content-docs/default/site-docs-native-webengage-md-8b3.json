@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Webengage"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "WebSocket Server",
-    "permalink": "/docs/native/web-socket-server"
-  },
-  "next": {
-    "title": "Wechat",
-    "permalink": "/docs/native/wechat"
   }
 }

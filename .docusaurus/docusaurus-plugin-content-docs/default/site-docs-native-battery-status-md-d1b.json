@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Battery Status"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Barcode Scanner",
-    "permalink": "/docs/native/barcode-scanner"
-  },
-  "next": {
-    "title": "BioCatch",
-    "permalink": "/docs/native/biocatch"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "In App Review"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "In App Purchase 2",
-    "permalink": "/docs/native/in-app-purchase-2"
-  },
-  "next": {
-    "title": "Insomnia",
-    "permalink": "/docs/native/insomnia"
   }
 }

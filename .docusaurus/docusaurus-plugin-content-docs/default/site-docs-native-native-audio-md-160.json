@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Native Audio"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Music Controls",
-    "permalink": "/docs/native/music-controls"
-  },
-  "next": {
-    "title": "Native Geocoder",
-    "permalink": "/docs/native/native-geocoder"
   }
 }

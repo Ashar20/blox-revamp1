@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Camera Preview"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Call Number",
-    "permalink": "/docs/native/call-number"
-  },
-  "next": {
-    "title": "Camera",
-    "permalink": "/docs/native/camera"
   }
 }

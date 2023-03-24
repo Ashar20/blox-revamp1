@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "LocalBackup"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Line Login",
-    "permalink": "/docs/native/line-login"
-  },
-  "next": {
-    "title": "Local Notifications",
-    "permalink": "/docs/native/local-notifications"
   }
 }

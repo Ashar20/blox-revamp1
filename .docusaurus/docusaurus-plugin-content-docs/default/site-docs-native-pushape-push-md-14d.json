@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "PushapePush"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Push",
-    "permalink": "/docs/native/push"
-  },
-  "next": {
-    "title": "Safari View Controller",
-    "permalink": "/docs/native/safari-view-controller"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Native Storage"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Native Page Transitions",
-    "permalink": "/docs/native/native-page-transitions"
-  },
-  "next": {
-    "title": "Network Interface",
-    "permalink": "/docs/native/network-interface"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Clipboard"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "CleverTap",
-    "permalink": "/docs/native/clevertap"
-  },
-  "next": {
-    "title": "Cloud Settings",
-    "permalink": "/docs/native/cloud-settings"
   }
 }

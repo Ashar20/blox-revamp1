@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "App Preferences"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "App Center Push",
-    "permalink": "/docs/native/app-center-push"
-  },
-  "next": {
-    "title": "App Rate",
-    "permalink": "/docs/native/app-rate"
   }
 }

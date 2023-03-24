@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Is Debug"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "ios-aswebauthenticationsession-api",
-    "permalink": "/docs/native/ios-aswebauthenticationsession-api"
-  },
-  "next": {
-    "title": "Keyboard",
-    "permalink": "/docs/native/keyboard"
   }
 }

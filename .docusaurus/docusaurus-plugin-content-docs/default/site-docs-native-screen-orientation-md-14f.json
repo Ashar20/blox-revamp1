@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Screen Orientation"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Safari View Controller",
-    "permalink": "/docs/native/safari-view-controller"
-  },
-  "next": {
-    "title": "ServiceDiscovery",
-    "permalink": "/docs/native/service-discovery"
   }
 }

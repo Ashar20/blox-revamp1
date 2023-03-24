@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic ssh add",
     "sidebar_label": "ssh add"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "signup",
-    "permalink": "/docs/cli/commands/signup"
-  },
-  "next": {
-    "title": "ssh delete",
-    "permalink": "/docs/cli/commands/ssh-delete"
   }
 }

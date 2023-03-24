@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Sign In With Apple"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Shake",
-    "permalink": "/docs/native/shake"
-  },
-  "next": {
-    "title": "Smartlook",
-    "permalink": "/docs/native/smartlook"
   }
 }

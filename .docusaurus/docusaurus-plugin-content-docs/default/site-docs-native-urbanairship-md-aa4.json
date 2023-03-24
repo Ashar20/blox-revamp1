@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "UrbanAirShip"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Uptime",
-    "permalink": "/docs/native/uptime"
-  },
-  "next": {
-    "title": "Usabilla",
-    "permalink": "/docs/native/usabilla-cordova-sdk"
   }
 }

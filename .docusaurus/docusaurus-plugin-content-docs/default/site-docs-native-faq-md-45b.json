@@ -14,14 +14,5 @@
   "frontMatter": {
     "sidebar_label": "FAQ",
     "slug": "/native/faq"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Setup",
-    "permalink": "/docs/native/community"
-  },
-  "next": {
-    "title": "ABBYY Real-Time Recognition",
-    "permalink": "/docs/native/abbyy-rtr"
   }
 }

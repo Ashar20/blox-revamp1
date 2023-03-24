@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "OpenALPR"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Open Native Settings",
-    "permalink": "/docs/native/open-native-settings"
-  },
-  "next": {
-    "title": "PayTabs",
-    "permalink": "/docs/native/paytabs"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Launch Review"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Launch Navigator",
-    "permalink": "/docs/native/launch-navigator"
-  },
-  "next": {
-    "title": "Line Login",
-    "permalink": "/docs/native/line-login"
   }
 }

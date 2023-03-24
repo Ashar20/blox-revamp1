@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "3D Touch"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Theme Detection",
-    "permalink": "/docs/native/theme-detection"
-  },
-  "next": {
-    "title": "Toast",
-    "permalink": "/docs/native/toast"
   }
 }

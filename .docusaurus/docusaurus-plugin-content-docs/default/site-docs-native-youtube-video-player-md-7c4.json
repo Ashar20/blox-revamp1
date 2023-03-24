@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Youtube Video Player"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Push Notifications - WonderPush",
-    "permalink": "/docs/native/wonderpush"
-  },
-  "next": {
-    "title": "ZBar",
-    "permalink": "/docs/native/zbar"
   }
 }

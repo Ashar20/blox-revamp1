@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Document Viewer"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Document Scanner",
-    "permalink": "/docs/native/document-scanner"
-  },
-  "next": {
-    "title": "Email Composer",
-    "permalink": "/docs/native/email-composer"
   }
 }

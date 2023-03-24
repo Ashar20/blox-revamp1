@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Zeroconf"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "ZBar",
-    "permalink": "/docs/native/zbar"
-  },
-  "next": {
-    "title": "Zoom",
-    "permalink": "/docs/native/zoom"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "BLE"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "BiometricWrapper",
-    "permalink": "/docs/native/biometric-wrapper"
-  },
-  "next": {
-    "title": "BlinkId",
-    "permalink": "/docs/native/blinkid"
   }
 }

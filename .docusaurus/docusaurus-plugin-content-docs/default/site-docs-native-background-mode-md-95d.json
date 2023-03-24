@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Background Mode"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Background Geolocation",
-    "permalink": "/docs/native/background-geolocation"
-  },
-  "next": {
-    "title": "BackgroundUpload",
-    "permalink": "/docs/native/background-upload"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Media"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Media Capture",
-    "permalink": "/docs/native/media-capture"
-  },
-  "next": {
-    "title": "Metrix",
-    "permalink": "/docs/native/metrix"
   }
 }

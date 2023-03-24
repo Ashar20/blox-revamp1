@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Camera"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Camera Preview",
-    "permalink": "/docs/native/camera-preview"
-  },
-  "next": {
-    "title": "Chooser",
-    "permalink": "/docs/native/chooser"
   }
 }

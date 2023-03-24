@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Stripe"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Streaming Media",
-    "permalink": "/docs/native/streaming-media"
-  },
-  "next": {
-    "title": "SumUp",
-    "permalink": "/docs/native/sum-up"
   }
 }

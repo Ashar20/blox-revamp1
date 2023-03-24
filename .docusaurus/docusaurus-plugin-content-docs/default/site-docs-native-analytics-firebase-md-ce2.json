@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Analytics Firebase"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "AllInOneSDK",
-    "permalink": "/docs/native/all-in-one-sdk"
-  },
-  "next": {
-    "title": "Android ExoPlayer",
-    "permalink": "/docs/native/android-exoplayer"
   }
 }

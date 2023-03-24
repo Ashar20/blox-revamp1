@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "BiometricWrapper"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "BioCatch",
-    "permalink": "/docs/native/biocatch"
-  },
-  "next": {
-    "title": "BLE",
-    "permalink": "/docs/native/ble"
   }
 }

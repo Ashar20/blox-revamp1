@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Geolocation"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Ge Tui Sdk Plugin",
-    "permalink": "/docs/native/ge-tui-sdk-plugin"
-  },
-  "next": {
-    "title": "Globalization",
-    "permalink": "/docs/native/globalization"
   }
 }

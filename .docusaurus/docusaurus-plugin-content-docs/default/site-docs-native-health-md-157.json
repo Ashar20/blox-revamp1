@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Health"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Health Kit",
-    "permalink": "/docs/native/health-kit"
-  },
-  "next": {
-    "title": "HTTP",
-    "permalink": "/docs/native/http"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Call Number"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Call Directory",
-    "permalink": "/docs/native/call-directory"
-  },
-  "next": {
-    "title": "Camera Preview",
-    "permalink": "/docs/native/camera-preview"
   }
 }

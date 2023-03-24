@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Photo Library"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "PDFGenerator",
-    "permalink": "/docs/native/pdf-generator"
-  },
-  "next": {
-    "title": "Photo Viewer",
-    "permalink": "/docs/native/photo-viewer"
   }
 }

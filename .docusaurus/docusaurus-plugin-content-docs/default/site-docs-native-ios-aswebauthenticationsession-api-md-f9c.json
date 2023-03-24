@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ios-aswebauthenticationsession-api"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Ionic Webview",
-    "permalink": "/docs/native/ionic-webview"
-  },
-  "next": {
-    "title": "Is Debug",
-    "permalink": "/docs/native/is-debug"
   }
 }

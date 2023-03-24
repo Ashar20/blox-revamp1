@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic doctor check",
     "sidebar_label": "doctor check"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "docs",
-    "permalink": "/docs/cli/commands/docs"
-  },
-  "next": {
-    "title": "doctor list",
-    "permalink": "/docs/cli/commands/doctor-list"
   }
 }

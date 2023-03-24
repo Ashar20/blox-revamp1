@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Mobile Messaging"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "MLKitTranslate",
-    "permalink": "/docs/native/mlkit-translate"
-  },
-  "next": {
-    "title": "Multiple Documents Picker",
-    "permalink": "/docs/native/multiple-document-picker"
   }
 }

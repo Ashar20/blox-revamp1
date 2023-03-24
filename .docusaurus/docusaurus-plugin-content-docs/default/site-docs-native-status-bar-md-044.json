@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Status Bar"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "StarPRNT",
-    "permalink": "/docs/native/star-prnt"
-  },
-  "next": {
-    "title": "Streaming Media",
-    "permalink": "/docs/native/streaming-media"
   }
 }

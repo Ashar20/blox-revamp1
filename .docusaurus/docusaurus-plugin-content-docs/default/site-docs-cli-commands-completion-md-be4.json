@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic completion",
     "sidebar_label": "completion"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "capacitor update",
-    "permalink": "/docs/cli/commands/capacitor-update"
-  },
-  "next": {
-    "title": "config get",
-    "permalink": "/docs/cli/commands/config-get"
   }
 }

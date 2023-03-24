@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Badge"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "BackgroundUpload",
-    "permalink": "/docs/native/background-upload"
-  },
-  "next": {
-    "title": "Barcode Scanner",
-    "permalink": "/docs/native/barcode-scanner"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Text To Speech Advanced"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Tealium",
-    "permalink": "/docs/native/tealium"
-  },
-  "next": {
-    "title": "Theme Detection",
-    "permalink": "/docs/native/theme-detection"
   }
 }

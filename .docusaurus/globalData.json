@@ -532,283 +532,227 @@
             },
             {
               "id": "cli/commands/build",
-              "path": "/docs/cli/commands/build",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/build"
             },
             {
               "id": "cli/commands/capacitor-add",
-              "path": "/docs/cli/commands/capacitor-add",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/capacitor-add"
             },
             {
               "id": "cli/commands/capacitor-build",
-              "path": "/docs/cli/commands/capacitor-build",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/capacitor-build"
             },
             {
               "id": "cli/commands/capacitor-copy",
-              "path": "/docs/cli/commands/capacitor-copy",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/capacitor-copy"
             },
             {
               "id": "cli/commands/capacitor-open",
-              "path": "/docs/cli/commands/capacitor-open",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/capacitor-open"
             },
             {
               "id": "cli/commands/capacitor-run",
-              "path": "/docs/cli/commands/capacitor-run",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/capacitor-run"
             },
             {
               "id": "cli/commands/capacitor-sync",
-              "path": "/docs/cli/commands/capacitor-sync",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/capacitor-sync"
             },
             {
               "id": "cli/commands/capacitor-update",
-              "path": "/docs/cli/commands/capacitor-update",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/capacitor-update"
             },
             {
               "id": "cli/commands/completion",
-              "path": "/docs/cli/commands/completion",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/completion"
             },
             {
               "id": "cli/commands/config-get",
-              "path": "/docs/cli/commands/config-get",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/config-get"
             },
             {
               "id": "cli/commands/config-set",
-              "path": "/docs/cli/commands/config-set",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/config-set"
             },
             {
               "id": "cli/commands/config-unset",
-              "path": "/docs/cli/commands/config-unset",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/config-unset"
             },
             {
               "id": "cli/commands/cordova-build",
-              "path": "/docs/cli/commands/cordova-build",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-build"
             },
             {
               "id": "cli/commands/cordova-compile",
-              "path": "/docs/cli/commands/cordova-compile",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-compile"
             },
             {
               "id": "cli/commands/cordova-emulate",
-              "path": "/docs/cli/commands/cordova-emulate",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-emulate"
             },
             {
               "id": "cli/commands/cordova-platform",
-              "path": "/docs/cli/commands/cordova-platform",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-platform"
             },
             {
               "id": "cli/commands/cordova-plugin",
-              "path": "/docs/cli/commands/cordova-plugin",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-plugin"
             },
             {
               "id": "cli/commands/cordova-prepare",
-              "path": "/docs/cli/commands/cordova-prepare",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-prepare"
             },
             {
               "id": "cli/commands/cordova-requirements",
-              "path": "/docs/cli/commands/cordova-requirements",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-requirements"
             },
             {
               "id": "cli/commands/cordova-resources",
-              "path": "/docs/cli/commands/cordova-resources",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-resources"
             },
             {
               "id": "cli/commands/cordova-run",
-              "path": "/docs/cli/commands/cordova-run",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/cordova-run"
             },
             {
               "id": "cli/commands/deploy-add",
-              "path": "/docs/cli/commands/deploy-add",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/deploy-add"
             },
             {
               "id": "cli/commands/deploy-build",
-              "path": "/docs/cli/commands/deploy-build",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/deploy-build"
             },
             {
               "id": "cli/commands/deploy-configure",
-              "path": "/docs/cli/commands/deploy-configure",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/deploy-configure"
             },
             {
               "id": "cli/commands/deploy-manifest",
-              "path": "/docs/cli/commands/deploy-manifest",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/deploy-manifest"
             },
             {
               "id": "cli/commands/docs",
-              "path": "/docs/cli/commands/docs",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/docs"
             },
             {
               "id": "cli/commands/doctor-check",
-              "path": "/docs/cli/commands/doctor-check",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/doctor-check"
             },
             {
               "id": "cli/commands/doctor-list",
-              "path": "/docs/cli/commands/doctor-list",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/doctor-list"
             },
             {
               "id": "cli/commands/doctor-treat",
-              "path": "/docs/cli/commands/doctor-treat",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/doctor-treat"
             },
             {
               "id": "cli/commands/enterprise-register",
-              "path": "/docs/cli/commands/enterprise-register",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/enterprise-register"
             },
             {
               "id": "cli/commands/generate",
-              "path": "/docs/cli/commands/generate",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/generate"
             },
             {
               "id": "cli/commands/git-remote",
-              "path": "/docs/cli/commands/git-remote",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/git-remote"
             },
             {
               "id": "cli/commands/info",
-              "path": "/docs/cli/commands/info",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/info"
             },
             {
               "id": "cli/commands/init",
-              "path": "/docs/cli/commands/init",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/init"
             },
             {
               "id": "cli/commands/integrations-disable",
-              "path": "/docs/cli/commands/integrations-disable",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/integrations-disable"
             },
             {
               "id": "cli/commands/integrations-enable",
-              "path": "/docs/cli/commands/integrations-enable",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/integrations-enable"
             },
             {
               "id": "cli/commands/integrations-list",
-              "path": "/docs/cli/commands/integrations-list",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/integrations-list"
             },
             {
               "id": "cli/commands/link",
-              "path": "/docs/cli/commands/link",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/link"
             },
             {
               "id": "cli/commands/login",
-              "path": "/docs/cli/commands/login",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/login"
             },
             {
               "id": "cli/commands/logout",
-              "path": "/docs/cli/commands/logout",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/logout"
             },
             {
               "id": "cli/commands/package-build",
-              "path": "/docs/cli/commands/package-build",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/package-build"
             },
             {
               "id": "cli/commands/package-deploy",
-              "path": "/docs/cli/commands/package-deploy",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/package-deploy"
             },
             {
               "id": "cli/commands/repair",
-              "path": "/docs/cli/commands/repair",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/repair"
             },
             {
               "id": "cli/commands/serve",
-              "path": "/docs/cli/commands/serve",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/serve"
             },
             {
               "id": "cli/commands/signup",
-              "path": "/docs/cli/commands/signup",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/signup"
             },
             {
               "id": "cli/commands/ssh-add",
-              "path": "/docs/cli/commands/ssh-add",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/ssh-add"
             },
             {
               "id": "cli/commands/ssh-delete",
-              "path": "/docs/cli/commands/ssh-delete",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/ssh-delete"
             },
             {
               "id": "cli/commands/ssh-generate",
-              "path": "/docs/cli/commands/ssh-generate",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/ssh-generate"
             },
             {
               "id": "cli/commands/ssh-list",
-              "path": "/docs/cli/commands/ssh-list",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/ssh-list"
             },
             {
               "id": "cli/commands/ssh-setup",
-              "path": "/docs/cli/commands/ssh-setup",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/ssh-setup"
             },
             {
               "id": "cli/commands/ssh-use",
-              "path": "/docs/cli/commands/ssh-use",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/ssh-use"
             },
             {
               "id": "cli/commands/ssl-generate",
-              "path": "/docs/cli/commands/ssl-generate",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/ssl-generate"
             },
             {
               "id": "cli/commands/start",
-              "path": "/docs/cli/commands/start",
-              "sidebar": "cli"
+              "path": "/docs/cli/commands/start"
             },
             {
               "id": "cli/configuration",
-              "path": "/docs/cli/configuration",
-              "sidebar": "cli"
+              "path": "/docs/cli/configuration"
             },
             {
               "id": "cli/livereload",
-              "path": "/docs/cli/livereload",
-              "sidebar": "cli"
+              "path": "/docs/cli/livereload"
             },
             {
               "id": "cli/using-a-proxy",
-              "path": "/docs/cli/using-a-proxy",
-              "sidebar": "cli"
+              "path": "/docs/cli/using-a-proxy"
             },
             {
               "id": "components",
@@ -1031,1013 +975,811 @@
             },
             {
               "id": "native-community",
-              "path": "/docs/native/community",
-              "sidebar": "native"
+              "path": "/docs/native/community"
             },
             {
               "id": "native-faq",
-              "path": "/docs/native/faq",
-              "sidebar": "native"
+              "path": "/docs/native/faq"
             },
             {
               "id": "native/abbyy-rtr",
-              "path": "/docs/native/abbyy-rtr",
-              "sidebar": "native"
+              "path": "/docs/native/abbyy-rtr"
             },
             {
               "id": "native/action-sheet",
-              "path": "/docs/native/action-sheet",
-              "sidebar": "native"
+              "path": "/docs/native/action-sheet"
             },
             {
               "id": "native/adjust",
-              "path": "/docs/native/adjust",
-              "sidebar": "native"
+              "path": "/docs/native/adjust"
             },
             {
               "id": "native/admob",
-              "path": "/docs/native/admob",
-              "sidebar": "native"
+              "path": "/docs/native/admob"
             },
             {
               "id": "native/admob-plus",
-              "path": "/docs/native/admob-plus",
-              "sidebar": "native"
+              "path": "/docs/native/admob-plus"
             },
             {
               "id": "native/aes-256",
-              "path": "/docs/native/aes-256",
-              "sidebar": "native"
+              "path": "/docs/native/aes-256"
             },
             {
               "id": "native/all-in-one-sdk",
-              "path": "/docs/native/all-in-one-sdk",
-              "sidebar": "native"
+              "path": "/docs/native/all-in-one-sdk"
             },
             {
               "id": "native/analytics-firebase",
-              "path": "/docs/native/analytics-firebase",
-              "sidebar": "native"
+              "path": "/docs/native/analytics-firebase"
             },
             {
               "id": "native/android-exoplayer",
-              "path": "/docs/native/android-exoplayer",
-              "sidebar": "native"
+              "path": "/docs/native/android-exoplayer"
             },
             {
               "id": "native/android-full-screen",
-              "path": "/docs/native/android-full-screen",
-              "sidebar": "native"
+              "path": "/docs/native/android-full-screen"
             },
             {
               "id": "native/android-notch",
-              "path": "/docs/native/android-notch",
-              "sidebar": "native"
+              "path": "/docs/native/android-notch"
             },
             {
               "id": "native/android-permissions",
-              "path": "/docs/native/android-permissions",
-              "sidebar": "native"
+              "path": "/docs/native/android-permissions"
             },
             {
               "id": "native/anyline",
-              "path": "/docs/native/anyline",
-              "sidebar": "native"
+              "path": "/docs/native/anyline"
             },
             {
               "id": "native/app-availability",
-              "path": "/docs/native/app-availability",
-              "sidebar": "native"
+              "path": "/docs/native/app-availability"
             },
             {
               "id": "native/app-center-analytics",
-              "path": "/docs/native/app-center-analytics",
-              "sidebar": "native"
+              "path": "/docs/native/app-center-analytics"
             },
             {
               "id": "native/app-center-crashes",
-              "path": "/docs/native/app-center-crashes",
-              "sidebar": "native"
+              "path": "/docs/native/app-center-crashes"
             },
             {
               "id": "native/app-center-low-memory",
-              "path": "/docs/native/app-center-low-memory",
-              "sidebar": "native"
+              "path": "/docs/native/app-center-low-memory"
             },
             {
               "id": "native/app-center-push",
-              "path": "/docs/native/app-center-push",
-              "sidebar": "native"
+              "path": "/docs/native/app-center-push"
             },
             {
               "id": "native/app-preferences",
-              "path": "/docs/native/app-preferences",
-              "sidebar": "native"
+              "path": "/docs/native/app-preferences"
             },
             {
               "id": "native/app-rate",
-              "path": "/docs/native/app-rate",
-              "sidebar": "native"
+              "path": "/docs/native/app-rate"
             },
             {
               "id": "native/app-version",
-              "path": "/docs/native/app-version",
-              "sidebar": "native"
+              "path": "/docs/native/app-version"
             },
             {
               "id": "native/apple-wallet",
-              "path": "/docs/native/apple-wallet",
-              "sidebar": "native"
+              "path": "/docs/native/apple-wallet"
             },
             {
               "id": "native/appsflyer",
-              "path": "/docs/native/appsflyer",
-              "sidebar": "native"
+              "path": "/docs/native/appsflyer"
             },
             {
               "id": "native/background-fetch",
-              "path": "/docs/native/background-fetch",
-              "sidebar": "native"
+              "path": "/docs/native/background-fetch"
             },
             {
               "id": "native/background-geolocation",
-              "path": "/docs/native/background-geolocation",
-              "sidebar": "native"
+              "path": "/docs/native/background-geolocation"
             },
             {
               "id": "native/background-mode",
-              "path": "/docs/native/background-mode",
-              "sidebar": "native"
+              "path": "/docs/native/background-mode"
             },
             {
               "id": "native/background-upload",
-              "path": "/docs/native/background-upload",
-              "sidebar": "native"
+              "path": "/docs/native/background-upload"
             },
             {
               "id": "native/badge",
-              "path": "/docs/native/badge",
-              "sidebar": "native"
+              "path": "/docs/native/badge"
             },
             {
               "id": "native/barcode-scanner",
-              "path": "/docs/native/barcode-scanner",
-              "sidebar": "native"
+              "path": "/docs/native/barcode-scanner"
             },
             {
               "id": "native/battery-status",
-              "path": "/docs/native/battery-status",
-              "sidebar": "native"
+              "path": "/docs/native/battery-status"
             },
             {
               "id": "native/biocatch",
-              "path": "/docs/native/biocatch",
-              "sidebar": "native"
+              "path": "/docs/native/biocatch"
             },
             {
               "id": "native/biometric-wrapper",
-              "path": "/docs/native/biometric-wrapper",
-              "sidebar": "native"
+              "path": "/docs/native/biometric-wrapper"
             },
             {
               "id": "native/ble",
-              "path": "/docs/native/ble",
-              "sidebar": "native"
+              "path": "/docs/native/ble"
             },
             {
               "id": "native/blinkid",
-              "path": "/docs/native/blinkid",
-              "sidebar": "native"
+              "path": "/docs/native/blinkid"
             },
             {
               "id": "native/bluetooth-classic-serial-port",
-              "path": "/docs/native/bluetooth-classic-serial-port",
-              "sidebar": "native"
+              "path": "/docs/native/bluetooth-classic-serial-port"
             },
             {
               "id": "native/bluetooth-le",
-              "path": "/docs/native/bluetooth-le",
-              "sidebar": "native"
+              "path": "/docs/native/bluetooth-le"
             },
             {
               "id": "native/bluetooth-serial",
-              "path": "/docs/native/bluetooth-serial",
-              "sidebar": "native"
+              "path": "/docs/native/bluetooth-serial"
             },
             {
               "id": "native/branch-io",
-              "path": "/docs/native/branch-io",
-              "sidebar": "native"
+              "path": "/docs/native/branch-io"
             },
             {
               "id": "native/broadcaster",
-              "path": "/docs/native/broadcaster",
-              "sidebar": "native"
+              "path": "/docs/native/broadcaster"
             },
             {
               "id": "native/build-info",
-              "path": "/docs/native/build-info",
-              "sidebar": "native"
+              "path": "/docs/native/build-info"
             },
             {
               "id": "native/calendar",
-              "path": "/docs/native/calendar",
-              "sidebar": "native"
+              "path": "/docs/native/calendar"
             },
             {
               "id": "native/call-directory",
-              "path": "/docs/native/call-directory",
-              "sidebar": "native"
+              "path": "/docs/native/call-directory"
             },
             {
               "id": "native/call-number",
-              "path": "/docs/native/call-number",
-              "sidebar": "native"
+              "path": "/docs/native/call-number"
             },
             {
               "id": "native/camera",
-              "path": "/docs/native/camera",
-              "sidebar": "native"
+              "path": "/docs/native/camera"
             },
             {
               "id": "native/camera-preview",
-              "path": "/docs/native/camera-preview",
-              "sidebar": "native"
+              "path": "/docs/native/camera-preview"
             },
             {
               "id": "native/chooser",
-              "path": "/docs/native/chooser",
-              "sidebar": "native"
+              "path": "/docs/native/chooser"
             },
             {
               "id": "native/clevertap",
-              "path": "/docs/native/clevertap",
-              "sidebar": "native"
+              "path": "/docs/native/clevertap"
             },
             {
               "id": "native/clipboard",
-              "path": "/docs/native/clipboard",
-              "sidebar": "native"
+              "path": "/docs/native/clipboard"
             },
             {
               "id": "native/cloud-settings",
-              "path": "/docs/native/cloud-settings",
-              "sidebar": "native"
+              "path": "/docs/native/cloud-settings"
             },
             {
               "id": "native/code-push",
-              "path": "/docs/native/code-push",
-              "sidebar": "native"
+              "path": "/docs/native/code-push"
             },
             {
               "id": "native/custom-uisdk",
-              "path": "/docs/native/custom-uisdk",
-              "sidebar": "native"
+              "path": "/docs/native/custom-uisdk"
             },
             {
               "id": "native/deeplinks",
-              "path": "/docs/native/deeplinks",
-              "sidebar": "native"
+              "path": "/docs/native/deeplinks"
             },
             {
               "id": "native/device",
-              "path": "/docs/native/device",
-              "sidebar": "native"
+              "path": "/docs/native/device"
             },
             {
               "id": "native/device-accounts",
-              "path": "/docs/native/device-accounts",
-              "sidebar": "native"
+              "path": "/docs/native/device-accounts"
             },
             {
               "id": "native/device-motion",
-              "path": "/docs/native/device-motion",
-              "sidebar": "native"
+              "path": "/docs/native/device-motion"
             },
             {
               "id": "native/device-orientation",
-              "path": "/docs/native/device-orientation",
-              "sidebar": "native"
+              "path": "/docs/native/device-orientation"
             },
             {
               "id": "native/dfu-update",
-              "path": "/docs/native/dfu-update",
-              "sidebar": "native"
+              "path": "/docs/native/dfu-update"
             },
             {
               "id": "native/diagnostic",
-              "path": "/docs/native/diagnostic",
-              "sidebar": "native"
+              "path": "/docs/native/diagnostic"
             },
             {
               "id": "native/dialogs",
-              "path": "/docs/native/dialogs",
-              "sidebar": "native"
+              "path": "/docs/native/dialogs"
             },
             {
               "id": "native/dns",
-              "path": "/docs/native/dns",
-              "sidebar": "native"
+              "path": "/docs/native/dns"
             },
             {
               "id": "native/document-picker",
-              "path": "/docs/native/document-picker",
-              "sidebar": "native"
+              "path": "/docs/native/document-picker"
             },
             {
               "id": "native/document-scanner",
-              "path": "/docs/native/document-scanner",
-              "sidebar": "native"
+              "path": "/docs/native/document-scanner"
             },
             {
               "id": "native/document-viewer",
-              "path": "/docs/native/document-viewer",
-              "sidebar": "native"
+              "path": "/docs/native/document-viewer"
             },
             {
               "id": "native/email-composer",
-              "path": "/docs/native/email-composer",
-              "sidebar": "native"
+              "path": "/docs/native/email-composer"
             },
             {
               "id": "native/fabric",
-              "path": "/docs/native/fabric",
-              "sidebar": "native"
+              "path": "/docs/native/fabric"
             },
             {
               "id": "native/facebook",
-              "path": "/docs/native/facebook",
-              "sidebar": "native"
+              "path": "/docs/native/facebook"
             },
             {
               "id": "native/fcm",
-              "path": "/docs/native/fcm",
-              "sidebar": "native"
+              "path": "/docs/native/fcm"
             },
             {
               "id": "native/file",
-              "path": "/docs/native/file",
-              "sidebar": "native"
+              "path": "/docs/native/file"
             },
             {
               "id": "native/file-opener",
-              "path": "/docs/native/file-opener",
-              "sidebar": "native"
+              "path": "/docs/native/file-opener"
             },
             {
               "id": "native/file-path",
-              "path": "/docs/native/file-path",
-              "sidebar": "native"
+              "path": "/docs/native/file-path"
             },
             {
               "id": "native/file-transfer",
-              "path": "/docs/native/file-transfer",
-              "sidebar": "native"
+              "path": "/docs/native/file-transfer"
             },
             {
               "id": "native/firebase",
-              "path": "/docs/native/firebase",
-              "sidebar": "native"
+              "path": "/docs/native/firebase"
             },
             {
               "id": "native/firebase-analytics",
-              "path": "/docs/native/firebase-analytics",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-analytics"
             },
             {
               "id": "native/firebase-authentication",
-              "path": "/docs/native/firebase-authentication",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-authentication"
             },
             {
               "id": "native/firebase-config",
-              "path": "/docs/native/firebase-config",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-config"
             },
             {
               "id": "native/firebase-crash",
-              "path": "/docs/native/firebase-crash",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-crash"
             },
             {
               "id": "native/firebase-crashlytics",
-              "path": "/docs/native/firebase-crashlytics",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-crashlytics"
             },
             {
               "id": "native/firebase-dynamic-links",
-              "path": "/docs/native/firebase-dynamic-links",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-dynamic-links"
             },
             {
               "id": "native/firebase-messaging",
-              "path": "/docs/native/firebase-messaging",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-messaging"
             },
             {
               "id": "native/firebase-vision",
-              "path": "/docs/native/firebase-vision",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-vision"
             },
             {
               "id": "native/firebase-x",
-              "path": "/docs/native/firebase-x",
-              "sidebar": "native"
+              "path": "/docs/native/firebase-x"
             },
             {
               "id": "native/flashlight",
-              "path": "/docs/native/flashlight",
-              "sidebar": "native"
+              "path": "/docs/native/flashlight"
             },
             {
               "id": "native/foreground-service",
-              "path": "/docs/native/foreground-service",
-              "sidebar": "native"
+              "path": "/docs/native/foreground-service"
             },
             {
               "id": "native/ftp",
-              "path": "/docs/native/ftp",
-              "sidebar": "native"
+              "path": "/docs/native/ftp"
             },
             {
               "id": "native/gao-de-location",
-              "path": "/docs/native/gao-de-location",
-              "sidebar": "native"
+              "path": "/docs/native/gao-de-location"
             },
             {
               "id": "native/ge-tui-sdk-plugin",
-              "path": "/docs/native/ge-tui-sdk-plugin",
-              "sidebar": "native"
+              "path": "/docs/native/ge-tui-sdk-plugin"
             },
             {
               "id": "native/geolocation",
-              "path": "/docs/native/geolocation",
-              "sidebar": "native"
+              "path": "/docs/native/geolocation"
             },
             {
               "id": "native/globalization",
-              "path": "/docs/native/globalization",
-              "sidebar": "native"
+              "path": "/docs/native/globalization"
             },
             {
               "id": "native/google-analytics",
-              "path": "/docs/native/google-analytics",
-              "sidebar": "native"
+              "path": "/docs/native/google-analytics"
             },
             {
               "id": "native/google-nearby",
-              "path": "/docs/native/google-nearby",
-              "sidebar": "native"
+              "path": "/docs/native/google-nearby"
             },
             {
               "id": "native/google-plus",
-              "path": "/docs/native/google-plus",
-              "sidebar": "native"
+              "path": "/docs/native/google-plus"
             },
             {
               "id": "native/header-color",
-              "path": "/docs/native/header-color",
-              "sidebar": "native"
+              "path": "/docs/native/header-color"
             },
             {
               "id": "native/health",
-              "path": "/docs/native/health",
-              "sidebar": "native"
+              "path": "/docs/native/health"
             },
             {
               "id": "native/health-kit",
-              "path": "/docs/native/health-kit",
-              "sidebar": "native"
+              "path": "/docs/native/health-kit"
             },
             {
               "id": "native/http",
-              "path": "/docs/native/http",
-              "sidebar": "native"
+              "path": "/docs/native/http"
             },
             {
               "id": "native/iamport-cordova",
-              "path": "/docs/native/iamport-cordova",
-              "sidebar": "native"
+              "path": "/docs/native/iamport-cordova"
             },
             {
               "id": "native/ibeacon",
-              "path": "/docs/native/ibeacon",
-              "sidebar": "native"
+              "path": "/docs/native/ibeacon"
             },
             {
               "id": "native/image-picker",
-              "path": "/docs/native/image-picker",
-              "sidebar": "native"
+              "path": "/docs/native/image-picker"
             },
             {
               "id": "native/imap",
-              "path": "/docs/native/imap",
-              "sidebar": "native"
+              "path": "/docs/native/imap"
             },
             {
               "id": "native/in-app-browser",
-              "path": "/docs/native/in-app-browser",
-              "sidebar": "native"
+              "path": "/docs/native/in-app-browser"
             },
             {
               "id": "native/in-app-purchase-2",
-              "path": "/docs/native/in-app-purchase-2",
-              "sidebar": "native"
+              "path": "/docs/native/in-app-purchase-2"
             },
             {
               "id": "native/in-app-review",
-              "path": "/docs/native/in-app-review",
-              "sidebar": "native"
+              "path": "/docs/native/in-app-review"
             },
             {
               "id": "native/insomnia",
-              "path": "/docs/native/insomnia",
-              "sidebar": "native"
+              "path": "/docs/native/insomnia"
             },
             {
               "id": "native/instagram",
-              "path": "/docs/native/instagram",
-              "sidebar": "native"
+              "path": "/docs/native/instagram"
             },
             {
               "id": "native/intercom",
-              "path": "/docs/native/intercom",
-              "sidebar": "native"
+              "path": "/docs/native/intercom"
             },
             {
               "id": "native/ionic-webview",
-              "path": "/docs/native/ionic-webview",
-              "sidebar": "native"
+              "path": "/docs/native/ionic-webview"
             },
             {
               "id": "native/ios-aswebauthenticationsession-api",
-              "path": "/docs/native/ios-aswebauthenticationsession-api",
-              "sidebar": "native"
+              "path": "/docs/native/ios-aswebauthenticationsession-api"
             },
             {
               "id": "native/is-debug",
-              "path": "/docs/native/is-debug",
-              "sidebar": "native"
+              "path": "/docs/native/is-debug"
             },
             {
               "id": "native/keyboard",
-              "path": "/docs/native/keyboard",
-              "sidebar": "native"
+              "path": "/docs/native/keyboard"
             },
             {
               "id": "native/keychain",
-              "path": "/docs/native/keychain",
-              "sidebar": "native"
+              "path": "/docs/native/keychain"
             },
             {
               "id": "native/kommunicate",
-              "path": "/docs/native/kommunicate",
-              "sidebar": "native"
+              "path": "/docs/native/kommunicate"
             },
             {
               "id": "native/launch-navigator",
-              "path": "/docs/native/launch-navigator",
-              "sidebar": "native"
+              "path": "/docs/native/launch-navigator"
             },
             {
               "id": "native/launch-review",
-              "path": "/docs/native/launch-review",
-              "sidebar": "native"
+              "path": "/docs/native/launch-review"
             },
             {
               "id": "native/line-login",
-              "path": "/docs/native/line-login",
-              "sidebar": "native"
+              "path": "/docs/native/line-login"
             },
             {
               "id": "native/local-backup",
-              "path": "/docs/native/local-backup",
-              "sidebar": "native"
+              "path": "/docs/native/local-backup"
             },
             {
               "id": "native/local-notifications",
-              "path": "/docs/native/local-notifications",
-              "sidebar": "native"
+              "path": "/docs/native/local-notifications"
             },
             {
               "id": "native/location-accuracy",
-              "path": "/docs/native/location-accuracy",
-              "sidebar": "native"
+              "path": "/docs/native/location-accuracy"
             },
             {
               "id": "native/lottie-splash-screen",
-              "path": "/docs/native/lottie-splash-screen",
-              "sidebar": "native"
+              "path": "/docs/native/lottie-splash-screen"
             },
             {
               "id": "native/media",
-              "path": "/docs/native/media",
-              "sidebar": "native"
+              "path": "/docs/native/media"
             },
             {
               "id": "native/media-capture",
-              "path": "/docs/native/media-capture",
-              "sidebar": "native"
+              "path": "/docs/native/media-capture"
             },
             {
               "id": "native/metrix",
-              "path": "/docs/native/metrix",
-              "sidebar": "native"
+              "path": "/docs/native/metrix"
             },
             {
               "id": "native/mixpanel",
-              "path": "/docs/native/mixpanel",
-              "sidebar": "native"
+              "path": "/docs/native/mixpanel"
             },
             {
               "id": "native/mlkit-translate",
-              "path": "/docs/native/mlkit-translate",
-              "sidebar": "native"
+              "path": "/docs/native/mlkit-translate"
             },
             {
               "id": "native/mobile-messaging",
-              "path": "/docs/native/mobile-messaging",
-              "sidebar": "native"
+              "path": "/docs/native/mobile-messaging"
             },
             {
               "id": "native/multiple-document-picker",
-              "path": "/docs/native/multiple-document-picker",
-              "sidebar": "native"
+              "path": "/docs/native/multiple-document-picker"
             },
             {
               "id": "native/music-controls",
-              "path": "/docs/native/music-controls",
-              "sidebar": "native"
+              "path": "/docs/native/music-controls"
             },
             {
               "id": "native/native-audio",
-              "path": "/docs/native/native-audio",
-              "sidebar": "native"
+              "path": "/docs/native/native-audio"
             },
             {
               "id": "native/native-geocoder",
-              "path": "/docs/native/native-geocoder",
-              "sidebar": "native"
+              "path": "/docs/native/native-geocoder"
             },
             {
               "id": "native/native-keyboard",
-              "path": "/docs/native/native-keyboard",
-              "sidebar": "native"
+              "path": "/docs/native/native-keyboard"
             },
             {
               "id": "native/native-page-transitions",
-              "path": "/docs/native/native-page-transitions",
-              "sidebar": "native"
+              "path": "/docs/native/native-page-transitions"
             },
             {
               "id": "native/native-storage",
-              "path": "/docs/native/native-storage",
-              "sidebar": "native"
+              "path": "/docs/native/native-storage"
             },
             {
               "id": "native/network",
-              "path": "/docs/native/network",
-              "sidebar": "native"
+              "path": "/docs/native/network"
             },
             {
               "id": "native/network-interface",
-              "path": "/docs/native/network-interface",
-              "sidebar": "native"
+              "path": "/docs/native/network-interface"
             },
             {
               "id": "native/nfc",
-              "path": "/docs/native/nfc",
-              "sidebar": "native"
+              "path": "/docs/native/nfc"
             },
             {
               "id": "native/ocr",
-              "path": "/docs/native/ocr",
-              "sidebar": "native"
+              "path": "/docs/native/ocr"
             },
             {
               "id": "native/onesignal",
-              "path": "/docs/native/onesignal",
-              "sidebar": "native"
+              "path": "/docs/native/onesignal"
             },
             {
               "id": "native/open-native-settings",
-              "path": "/docs/native/open-native-settings",
-              "sidebar": "native"
+              "path": "/docs/native/open-native-settings"
             },
             {
               "id": "native/openalpr",
-              "path": "/docs/native/openalpr",
-              "sidebar": "native"
+              "path": "/docs/native/openalpr"
             },
             {
               "id": "native/paytabs",
-              "path": "/docs/native/paytabs",
-              "sidebar": "native"
+              "path": "/docs/native/paytabs"
             },
             {
               "id": "native/pdf-generator",
-              "path": "/docs/native/pdf-generator",
-              "sidebar": "native"
+              "path": "/docs/native/pdf-generator"
             },
             {
               "id": "native/photo-library",
-              "path": "/docs/native/photo-library",
-              "sidebar": "native"
+              "path": "/docs/native/photo-library"
             },
             {
               "id": "native/photo-viewer",
-              "path": "/docs/native/photo-viewer",
-              "sidebar": "native"
+              "path": "/docs/native/photo-viewer"
             },
             {
               "id": "native/pollfish",
-              "path": "/docs/native/pollfish",
-              "sidebar": "native"
+              "path": "/docs/native/pollfish"
             },
             {
               "id": "native/power-optimization",
-              "path": "/docs/native/power-optimization",
-              "sidebar": "native"
+              "path": "/docs/native/power-optimization"
             },
             {
               "id": "native/printer",
-              "path": "/docs/native/printer",
-              "sidebar": "native"
+              "path": "/docs/native/printer"
             },
             {
               "id": "native/pspdfkit-cordova",
-              "path": "/docs/native/pspdfkit-cordova",
-              "sidebar": "native"
+              "path": "/docs/native/pspdfkit-cordova"
             },
             {
               "id": "native/purchases",
-              "path": "/docs/native/purchases",
-              "sidebar": "native"
+              "path": "/docs/native/purchases"
             },
             {
               "id": "native/push",
-              "path": "/docs/native/push",
-              "sidebar": "native"
+              "path": "/docs/native/push"
             },
             {
               "id": "native/pushape-push",
-              "path": "/docs/native/pushape-push",
-              "sidebar": "native"
+              "path": "/docs/native/pushape-push"
             },
             {
               "id": "native/safari-view-controller",
-              "path": "/docs/native/safari-view-controller",
-              "sidebar": "native"
+              "path": "/docs/native/safari-view-controller"
             },
             {
               "id": "native/screen-orientation",
-              "path": "/docs/native/screen-orientation",
-              "sidebar": "native"
+              "path": "/docs/native/screen-orientation"
             },
             {
               "id": "native/service-discovery",
-              "path": "/docs/native/service-discovery",
-              "sidebar": "native"
+              "path": "/docs/native/service-discovery"
             },
             {
               "id": "native/shake",
-              "path": "/docs/native/shake",
-              "sidebar": "native"
+              "path": "/docs/native/shake"
             },
             {
               "id": "native/sign-in-with-apple",
-              "path": "/docs/native/sign-in-with-apple",
-              "sidebar": "native"
+              "path": "/docs/native/sign-in-with-apple"
             },
             {
               "id": "native/smartlook",
-              "path": "/docs/native/smartlook",
-              "sidebar": "native"
+              "path": "/docs/native/smartlook"
             },
             {
               "id": "native/sms",
-              "path": "/docs/native/sms",
-              "sidebar": "native"
+              "path": "/docs/native/sms"
             },
             {
               "id": "native/sms-retriever",
-              "path": "/docs/native/sms-retriever",
-              "sidebar": "native"
+              "path": "/docs/native/sms-retriever"
             },
             {
               "id": "native/social-sharing",
-              "path": "/docs/native/social-sharing",
-              "sidebar": "native"
+              "path": "/docs/native/social-sharing"
             },
             {
               "id": "native/speech-recognition",
-              "path": "/docs/native/speech-recognition",
-              "sidebar": "native"
+              "path": "/docs/native/speech-recognition"
             },
             {
               "id": "native/spinner-dialog",
-              "path": "/docs/native/spinner-dialog",
-              "sidebar": "native"
+              "path": "/docs/native/spinner-dialog"
             },
             {
               "id": "native/splash-screen",
-              "path": "/docs/native/splash-screen",
-              "sidebar": "native"
+              "path": "/docs/native/splash-screen"
             },
             {
               "id": "native/spotify-auth",
-              "path": "/docs/native/spotify-auth",
-              "sidebar": "native"
+              "path": "/docs/native/spotify-auth"
             },
             {
               "id": "native/sqlite",
-              "path": "/docs/native/sqlite",
-              "sidebar": "native"
+              "path": "/docs/native/sqlite"
             },
             {
               "id": "native/sqlite-db-copy",
-              "path": "/docs/native/sqlite-db-copy",
-              "sidebar": "native"
+              "path": "/docs/native/sqlite-db-copy"
             },
             {
               "id": "native/sqlite-porter",
-              "path": "/docs/native/sqlite-porter",
-              "sidebar": "native"
+              "path": "/docs/native/sqlite-porter"
             },
             {
               "id": "native/star-prnt",
-              "path": "/docs/native/star-prnt",
-              "sidebar": "native"
+              "path": "/docs/native/star-prnt"
             },
             {
               "id": "native/status-bar",
-              "path": "/docs/native/status-bar",
-              "sidebar": "native"
+              "path": "/docs/native/status-bar"
             },
             {
               "id": "native/streaming-media",
-              "path": "/docs/native/streaming-media",
-              "sidebar": "native"
+              "path": "/docs/native/streaming-media"
             },
             {
               "id": "native/stripe",
-              "path": "/docs/native/stripe",
-              "sidebar": "native"
+              "path": "/docs/native/stripe"
             },
             {
               "id": "native/sum-up",
-              "path": "/docs/native/sum-up",
-              "sidebar": "native"
+              "path": "/docs/native/sum-up"
             },
             {
               "id": "native/system-alert-window-permission",
-              "path": "/docs/native/system-alert-window-permission",
-              "sidebar": "native"
+              "path": "/docs/native/system-alert-window-permission"
             },
             {
               "id": "native/taptic-engine",
-              "path": "/docs/native/taptic-engine",
-              "sidebar": "native"
+              "path": "/docs/native/taptic-engine"
             },
             {
               "id": "native/tealium",
-              "path": "/docs/native/tealium",
-              "sidebar": "native"
+              "path": "/docs/native/tealium"
             },
             {
               "id": "native/tealium-adidentifier",
-              "path": "/docs/native/tealium-adidentifier",
-              "sidebar": "native"
+              "path": "/docs/native/tealium-adidentifier"
             },
             {
               "id": "native/tealium-installreferrer",
-              "path": "/docs/native/tealium-installreferrer",
-              "sidebar": "native"
+              "path": "/docs/native/tealium-installreferrer"
             },
             {
               "id": "native/text-to-speech-advanced",
-              "path": "/docs/native/text-to-speech-advanced",
-              "sidebar": "native"
+              "path": "/docs/native/text-to-speech-advanced"
             },
             {
               "id": "native/theme-detection",
-              "path": "/docs/native/theme-detection",
-              "sidebar": "native"
+              "path": "/docs/native/theme-detection"
             },
             {
               "id": "native/three-dee-touch",
-              "path": "/docs/native/three-dee-touch",
-              "sidebar": "native"
+              "path": "/docs/native/three-dee-touch"
             },
             {
               "id": "native/toast",
-              "path": "/docs/native/toast",
-              "sidebar": "native"
+              "path": "/docs/native/toast"
             },
             {
               "id": "native/touch-id",
-              "path": "/docs/native/touch-id",
-              "sidebar": "native"
+              "path": "/docs/native/touch-id"
             },
             {
               "id": "native/unvired-cordova-sdk",
-              "path": "/docs/native/unvired-cordova-sdk",
-              "sidebar": "native"
+              "path": "/docs/native/unvired-cordova-sdk"
             },
             {
               "id": "native/uptime",
-              "path": "/docs/native/uptime",
-              "sidebar": "native"
+              "path": "/docs/native/uptime"
             },
             {
               "id": "native/urbanairship",
-              "path": "/docs/native/urbanairship",
-              "sidebar": "native"
+              "path": "/docs/native/urbanairship"
             },
             {
               "id": "native/usabilla-cordova-sdk",
-              "path": "/docs/native/usabilla-cordova-sdk",
-              "sidebar": "native"
+              "path": "/docs/native/usabilla-cordova-sdk"
             },
             {
               "id": "native/vibes",
-              "path": "/docs/native/vibes",
-              "sidebar": "native"
+              "path": "/docs/native/vibes"
             },
             {
               "id": "native/vibration",
-              "path": "/docs/native/vibration",
-              "sidebar": "native"
+              "path": "/docs/native/vibration"
             },
             {
               "id": "native/video-editor",
-              "path": "/docs/native/video-editor",
-              "sidebar": "native"
+              "path": "/docs/native/video-editor"
             },
             {
               "id": "native/video-player",
-              "path": "/docs/native/video-player",
-              "sidebar": "native"
+              "path": "/docs/native/video-player"
             },
             {
               "id": "native/web-intent",
-              "path": "/docs/native/web-intent",
-              "sidebar": "native"
+              "path": "/docs/native/web-intent"
             },
             {
               "id": "native/web-server",
-              "path": "/docs/native/web-server",
-              "sidebar": "native"
+              "path": "/docs/native/web-server"
             },
             {
               "id": "native/web-socket-server",
-              "path": "/docs/native/web-socket-server",
-              "sidebar": "native"
+              "path": "/docs/native/web-socket-server"
             },
             {
               "id": "native/webengage",
-              "path": "/docs/native/webengage",
-              "sidebar": "native"
+              "path": "/docs/native/webengage"
             },
             {
               "id": "native/wechat",
-              "path": "/docs/native/wechat",
-              "sidebar": "native"
+              "path": "/docs/native/wechat"
             },
             {
               "id": "native/wheel-selector",
-              "path": "/docs/native/wheel-selector",
-              "sidebar": "native"
+              "path": "/docs/native/wheel-selector"
             },
             {
               "id": "native/wifi-wizard-2",
-              "path": "/docs/native/wifi-wizard-2",
-              "sidebar": "native"
+              "path": "/docs/native/wifi-wizard-2"
             },
             {
               "id": "native/wonderpush",
-              "path": "/docs/native/wonderpush",
-              "sidebar": "native"
+              "path": "/docs/native/wonderpush"
             },
             {
               "id": "native/youtube-video-player",
-              "path": "/docs/native/youtube-video-player",
-              "sidebar": "native"
+              "path": "/docs/native/youtube-video-player"
             },
             {
               "id": "native/zbar",
-              "path": "/docs/native/zbar",
-              "sidebar": "native"
+              "path": "/docs/native/zbar"
             },
             {
               "id": "native/zeroconf",
-              "path": "/docs/native/zeroconf",
-              "sidebar": "native"
+              "path": "/docs/native/zeroconf"
             },
             {
               "id": "native/zoom",
-              "path": "/docs/native/zoom",
-              "sidebar": "native"
+              "path": "/docs/native/zoom"
             },
             {
               "id": "react",

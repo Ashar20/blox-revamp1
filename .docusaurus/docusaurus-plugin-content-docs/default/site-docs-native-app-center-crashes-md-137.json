@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "App Center Crashes"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "App Center Analytics",
-    "permalink": "/docs/native/app-center-analytics"
-  },
-  "next": {
-    "title": "App Center Low Memory",
-    "permalink": "/docs/native/app-center-low-memory"
   }
 }

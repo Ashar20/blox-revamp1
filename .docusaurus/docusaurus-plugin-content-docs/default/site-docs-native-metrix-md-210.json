@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Metrix"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Media",
-    "permalink": "/docs/native/media"
-  },
-  "next": {
-    "title": "Mixpanel",
-    "permalink": "/docs/native/mixpanel"
   }
 }

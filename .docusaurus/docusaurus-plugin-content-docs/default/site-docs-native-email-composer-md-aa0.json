@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Email Composer"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Document Viewer",
-    "permalink": "/docs/native/document-viewer"
-  },
-  "next": {
-    "title": "Answers",
-    "permalink": "/docs/native/fabric"
   }
 }

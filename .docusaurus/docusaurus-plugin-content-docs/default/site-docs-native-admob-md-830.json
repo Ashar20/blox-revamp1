@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "AdMob"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "AdMob Plus",
-    "permalink": "/docs/native/admob-plus"
-  },
-  "next": {
-    "title": "AES256",
-    "permalink": "/docs/native/aes-256"
   }
 }

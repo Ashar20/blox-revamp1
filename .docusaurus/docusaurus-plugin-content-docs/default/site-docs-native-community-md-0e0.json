@@ -16,14 +16,5 @@
     "sidebar_label": "Setup",
     "hide_table_of_contents": true,
     "slug": "/native/community"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Native APIs",
-    "permalink": "/docs/native"
-  },
-  "next": {
-    "title": "FAQ",
-    "permalink": "/docs/native/faq"
   }
 }

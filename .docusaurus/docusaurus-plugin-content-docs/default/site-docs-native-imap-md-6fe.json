@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Imap"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Image Picker",
-    "permalink": "/docs/native/image-picker"
-  },
-  "next": {
-    "title": "In App Browser",
-    "permalink": "/docs/native/in-app-browser"
   }
 }

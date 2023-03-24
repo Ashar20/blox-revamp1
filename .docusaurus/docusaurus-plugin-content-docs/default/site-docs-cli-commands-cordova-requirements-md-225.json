@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic cordova requirements",
     "sidebar_label": "cordova requirements"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "cordova prepare",
-    "permalink": "/docs/cli/commands/cordova-prepare"
-  },
-  "next": {
-    "title": "cordova resources",
-    "permalink": "/docs/cli/commands/cordova-resources"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "In App Browser"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Imap",
-    "permalink": "/docs/native/imap"
-  },
-  "next": {
-    "title": "In App Purchase 2",
-    "permalink": "/docs/native/in-app-purchase-2"
   }
 }

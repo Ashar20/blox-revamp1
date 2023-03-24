@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Action Sheet"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "ABBYY Real-Time Recognition",
-    "permalink": "/docs/native/abbyy-rtr"
-  },
-  "next": {
-    "title": "Adjust",
-    "permalink": "/docs/native/adjust"
   }
 }

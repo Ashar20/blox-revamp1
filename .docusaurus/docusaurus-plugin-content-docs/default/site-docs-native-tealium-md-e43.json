@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Tealium"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "TealiumInstallReferrer",
-    "permalink": "/docs/native/tealium-installreferrer"
-  },
-  "next": {
-    "title": "Text To Speech Advanced",
-    "permalink": "/docs/native/text-to-speech-advanced"
   }
 }

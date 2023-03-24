@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "OneSignal"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "OCR",
-    "permalink": "/docs/native/ocr"
-  },
-  "next": {
-    "title": "Open Native Settings",
-    "permalink": "/docs/native/open-native-settings"
   }
 }

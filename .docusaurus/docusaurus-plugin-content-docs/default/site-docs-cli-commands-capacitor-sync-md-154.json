@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic capacitor sync",
     "sidebar_label": "capacitor sync"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "capacitor run",
-    "permalink": "/docs/cli/commands/capacitor-run"
-  },
-  "next": {
-    "title": "capacitor update",
-    "permalink": "/docs/cli/commands/capacitor-update"
   }
 }

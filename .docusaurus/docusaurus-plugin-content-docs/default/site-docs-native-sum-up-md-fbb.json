@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "SumUp"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Stripe",
-    "permalink": "/docs/native/stripe"
-  },
-  "next": {
-    "title": "System Alert Window Permission",
-    "permalink": "/docs/native/system-alert-window-permission"
   }
 }

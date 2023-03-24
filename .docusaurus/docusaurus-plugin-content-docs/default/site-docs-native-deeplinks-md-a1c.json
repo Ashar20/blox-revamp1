@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Deeplinks"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "CustomUISDK",
-    "permalink": "/docs/native/custom-uisdk"
-  },
-  "next": {
-    "title": "Device Accounts",
-    "permalink": "/docs/native/device-accounts"
   }
 }

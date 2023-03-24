@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic generate",
     "sidebar_label": "generate"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "enterprise register",
-    "permalink": "/docs/cli/commands/enterprise-register"
-  },
-  "next": {
-    "title": "git remote",
-    "permalink": "/docs/cli/commands/git-remote"
   }
 }

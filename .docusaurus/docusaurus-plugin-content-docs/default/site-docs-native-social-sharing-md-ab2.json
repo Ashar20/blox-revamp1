@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Social Sharing"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "SMS",
-    "permalink": "/docs/native/sms"
-  },
-  "next": {
-    "title": "Speech Recognition",
-    "permalink": "/docs/native/speech-recognition"
   }
 }

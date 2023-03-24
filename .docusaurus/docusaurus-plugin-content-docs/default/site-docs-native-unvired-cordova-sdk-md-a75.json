@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Unvired Cordova SDK"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Touch ID",
-    "permalink": "/docs/native/touch-id"
-  },
-  "next": {
-    "title": "Uptime",
-    "permalink": "/docs/native/uptime"
   }
 }

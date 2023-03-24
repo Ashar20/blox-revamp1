@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Local Notifications"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "LocalBackup",
-    "permalink": "/docs/native/local-backup"
-  },
-  "next": {
-    "title": "Location Accuracy",
-    "permalink": "/docs/native/location-accuracy"
   }
 }

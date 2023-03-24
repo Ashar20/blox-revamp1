@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Shake"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "ServiceDiscovery",
-    "permalink": "/docs/native/service-discovery"
-  },
-  "next": {
-    "title": "Sign In With Apple",
-    "permalink": "/docs/native/sign-in-with-apple"
   }
 }

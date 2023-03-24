@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ABBYY Real-Time Recognition"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "FAQ",
-    "permalink": "/docs/native/faq"
-  },
-  "next": {
-    "title": "Action Sheet",
-    "permalink": "/docs/native/action-sheet"
   }
 }

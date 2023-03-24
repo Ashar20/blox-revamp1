@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "OCR"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "NFC",
-    "permalink": "/docs/native/nfc"
-  },
-  "next": {
-    "title": "OneSignal",
-    "permalink": "/docs/native/onesignal"
   }
 }

@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic deploy manifest",
     "sidebar_label": "deploy manifest"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "deploy configure",
-    "permalink": "/docs/cli/commands/deploy-configure"
-  },
-  "next": {
-    "title": "docs",
-    "permalink": "/docs/cli/commands/docs"
   }
 }

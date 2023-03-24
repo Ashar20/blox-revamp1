@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic git remote",
     "sidebar_label": "git remote"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "generate",
-    "permalink": "/docs/cli/commands/generate"
-  },
-  "next": {
-    "title": "info",
-    "permalink": "/docs/cli/commands/info"
   }
 }

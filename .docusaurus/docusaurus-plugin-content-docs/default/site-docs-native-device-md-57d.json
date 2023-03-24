@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Device"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Device Orientation",
-    "permalink": "/docs/native/device-orientation"
-  },
-  "next": {
-    "title": "Dfu Update",
-    "permalink": "/docs/native/dfu-update"
   }
 }

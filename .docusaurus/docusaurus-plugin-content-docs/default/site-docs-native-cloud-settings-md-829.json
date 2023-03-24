@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Cloud Settings"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Clipboard",
-    "permalink": "/docs/native/clipboard"
-  },
-  "next": {
-    "title": "Code Push",
-    "permalink": "/docs/native/code-push"
   }
 }

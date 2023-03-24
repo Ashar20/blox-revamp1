@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Header Color"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Google Plus",
-    "permalink": "/docs/native/google-plus"
-  },
-  "next": {
-    "title": "Health Kit",
-    "permalink": "/docs/native/health-kit"
   }
 }

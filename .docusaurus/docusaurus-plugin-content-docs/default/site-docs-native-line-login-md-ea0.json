@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Line Login"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Launch Review",
-    "permalink": "/docs/native/launch-review"
-  },
-  "next": {
-    "title": "LocalBackup",
-    "permalink": "/docs/native/local-backup"
   }
 }

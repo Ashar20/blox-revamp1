@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Device Accounts"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Deeplinks",
-    "permalink": "/docs/native/deeplinks"
-  },
-  "next": {
-    "title": "Device Motion",
-    "permalink": "/docs/native/device-motion"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "FirebaseCrash"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase Config",
-    "permalink": "/docs/native/firebase-config"
-  },
-  "next": {
-    "title": "Firebase Crashlytics",
-    "permalink": "/docs/native/firebase-crashlytics"
   }
 }

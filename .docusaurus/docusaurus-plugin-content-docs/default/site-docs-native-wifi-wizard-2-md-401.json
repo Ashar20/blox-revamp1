@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "WifiWizard2"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "WheelSelector Plugin",
-    "permalink": "/docs/native/wheel-selector"
-  },
-  "next": {
-    "title": "Push Notifications - WonderPush",
-    "permalink": "/docs/native/wonderpush"
   }
 }

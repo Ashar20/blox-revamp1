@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Speech Recognition"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Social Sharing",
-    "permalink": "/docs/native/social-sharing"
-  },
-  "next": {
-    "title": "Spinner Dialog",
-    "permalink": "/docs/native/spinner-dialog"
   }
 }

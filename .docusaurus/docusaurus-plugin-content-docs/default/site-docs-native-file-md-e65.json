@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "File"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "File Transfer ",
-    "permalink": "/docs/native/file-transfer"
-  },
-  "next": {
-    "title": "Firebase Analytics",
-    "permalink": "/docs/native/firebase-analytics"
   }
 }

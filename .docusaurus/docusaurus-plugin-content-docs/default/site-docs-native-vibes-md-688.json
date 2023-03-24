@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Vibes"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Usabilla",
-    "permalink": "/docs/native/usabilla-cordova-sdk"
-  },
-  "next": {
-    "title": "Vibration",
-    "permalink": "/docs/native/vibration"
   }
 }

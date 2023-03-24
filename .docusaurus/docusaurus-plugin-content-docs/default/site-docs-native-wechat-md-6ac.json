@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Wechat"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Webengage",
-    "permalink": "/docs/native/webengage"
-  },
-  "next": {
-    "title": "WheelSelector Plugin",
-    "permalink": "/docs/native/wheel-selector"
   }
 }

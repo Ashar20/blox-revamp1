@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic cordova platform",
     "sidebar_label": "cordova platform"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "cordova emulate",
-    "permalink": "/docs/cli/commands/cordova-emulate"
-  },
-  "next": {
-    "title": "cordova plugin",
-    "permalink": "/docs/cli/commands/cordova-plugin"
   }
 }

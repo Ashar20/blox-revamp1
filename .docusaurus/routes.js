@@ -2871,7 +2871,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/','a28'),
+    component: ComponentCreator('/docs/','eb1'),
     routes: [
       {
         path: '/docs/',
@@ -3395,339 +3395,283 @@ export default [
       },
       {
         path: '/docs/cli/commands/build',
-        component: ComponentCreator('/docs/cli/commands/build','c9c'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/build','ee9'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/capacitor-add',
-        component: ComponentCreator('/docs/cli/commands/capacitor-add','069'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/capacitor-add','ebd'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/capacitor-build',
-        component: ComponentCreator('/docs/cli/commands/capacitor-build','760'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/capacitor-build','ed9'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/capacitor-copy',
-        component: ComponentCreator('/docs/cli/commands/capacitor-copy','a20'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/capacitor-copy','8a4'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/capacitor-open',
-        component: ComponentCreator('/docs/cli/commands/capacitor-open','b53'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/capacitor-open','3f5'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/capacitor-run',
-        component: ComponentCreator('/docs/cli/commands/capacitor-run','467'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/capacitor-run','19b'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/capacitor-sync',
-        component: ComponentCreator('/docs/cli/commands/capacitor-sync','4b4'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/capacitor-sync','7cd'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/capacitor-update',
-        component: ComponentCreator('/docs/cli/commands/capacitor-update','19b'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/capacitor-update','c64'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/completion',
-        component: ComponentCreator('/docs/cli/commands/completion','01b'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/completion','52a'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/config-get',
-        component: ComponentCreator('/docs/cli/commands/config-get','66e'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/config-get','36a'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/config-set',
-        component: ComponentCreator('/docs/cli/commands/config-set','c87'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/config-set','ee6'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/config-unset',
-        component: ComponentCreator('/docs/cli/commands/config-unset','bee'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/config-unset','bb5'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-build',
-        component: ComponentCreator('/docs/cli/commands/cordova-build','0f7'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-build','f00'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-compile',
-        component: ComponentCreator('/docs/cli/commands/cordova-compile','dcc'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-compile','671'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-emulate',
-        component: ComponentCreator('/docs/cli/commands/cordova-emulate','a4b'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-emulate','1a6'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-platform',
-        component: ComponentCreator('/docs/cli/commands/cordova-platform','b3d'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-platform','4f9'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-plugin',
-        component: ComponentCreator('/docs/cli/commands/cordova-plugin','7c4'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-plugin','0d6'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-prepare',
-        component: ComponentCreator('/docs/cli/commands/cordova-prepare','6f8'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-prepare','ffa'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-requirements',
-        component: ComponentCreator('/docs/cli/commands/cordova-requirements','e51'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-requirements','738'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-resources',
-        component: ComponentCreator('/docs/cli/commands/cordova-resources','4cd'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-resources','f7b'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/cordova-run',
-        component: ComponentCreator('/docs/cli/commands/cordova-run','92d'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/cordova-run','785'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/deploy-add',
-        component: ComponentCreator('/docs/cli/commands/deploy-add','b0d'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/deploy-add','863'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/deploy-build',
-        component: ComponentCreator('/docs/cli/commands/deploy-build','199'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/deploy-build','42e'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/deploy-configure',
-        component: ComponentCreator('/docs/cli/commands/deploy-configure','57c'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/deploy-configure','176'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/deploy-manifest',
-        component: ComponentCreator('/docs/cli/commands/deploy-manifest','28a'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/deploy-manifest','80c'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/docs',
-        component: ComponentCreator('/docs/cli/commands/docs','002'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/docs','fd3'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/doctor-check',
-        component: ComponentCreator('/docs/cli/commands/doctor-check','378'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/doctor-check','dd2'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/doctor-list',
-        component: ComponentCreator('/docs/cli/commands/doctor-list','238'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/doctor-list','5b6'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/doctor-treat',
-        component: ComponentCreator('/docs/cli/commands/doctor-treat','eb0'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/doctor-treat','315'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/enterprise-register',
-        component: ComponentCreator('/docs/cli/commands/enterprise-register','3d0'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/enterprise-register','8cf'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/generate',
-        component: ComponentCreator('/docs/cli/commands/generate','e24'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/generate','343'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/git-remote',
-        component: ComponentCreator('/docs/cli/commands/git-remote','8aa'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/git-remote','ed9'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/info',
-        component: ComponentCreator('/docs/cli/commands/info','017'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/info','de9'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/init',
-        component: ComponentCreator('/docs/cli/commands/init','347'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/init','7d7'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/integrations-disable',
-        component: ComponentCreator('/docs/cli/commands/integrations-disable','106'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/integrations-disable','aa0'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/integrations-enable',
-        component: ComponentCreator('/docs/cli/commands/integrations-enable','032'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/integrations-enable','8dd'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/integrations-list',
-        component: ComponentCreator('/docs/cli/commands/integrations-list','597'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/integrations-list','733'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/link',
-        component: ComponentCreator('/docs/cli/commands/link','193'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/link','d59'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/login',
-        component: ComponentCreator('/docs/cli/commands/login','36b'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/login','98a'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/logout',
-        component: ComponentCreator('/docs/cli/commands/logout','8e0'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/logout','f61'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/package-build',
-        component: ComponentCreator('/docs/cli/commands/package-build','f5a'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/package-build','f75'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/package-deploy',
-        component: ComponentCreator('/docs/cli/commands/package-deploy','ac8'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/package-deploy','011'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/repair',
-        component: ComponentCreator('/docs/cli/commands/repair','1bf'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/repair','4eb'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/serve',
-        component: ComponentCreator('/docs/cli/commands/serve','abd'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/serve','8a9'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/signup',
-        component: ComponentCreator('/docs/cli/commands/signup','d31'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/signup','5a0'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/ssh-add',
-        component: ComponentCreator('/docs/cli/commands/ssh-add','938'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/ssh-add','38a'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/ssh-delete',
-        component: ComponentCreator('/docs/cli/commands/ssh-delete','5c6'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/ssh-delete','a08'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/ssh-generate',
-        component: ComponentCreator('/docs/cli/commands/ssh-generate','fc9'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/ssh-generate','8b6'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/ssh-list',
-        component: ComponentCreator('/docs/cli/commands/ssh-list','6aa'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/ssh-list','f67'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/ssh-setup',
-        component: ComponentCreator('/docs/cli/commands/ssh-setup','836'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/ssh-setup','511'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/ssh-use',
-        component: ComponentCreator('/docs/cli/commands/ssh-use','a90'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/ssh-use','ec2'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/ssl-generate',
-        component: ComponentCreator('/docs/cli/commands/ssl-generate','02b'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/ssl-generate','b98'),
+        exact: true
       },
       {
         path: '/docs/cli/commands/start',
-        component: ComponentCreator('/docs/cli/commands/start','fdb'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/commands/start','d19'),
+        exact: true
       },
       {
         path: '/docs/cli/configuration',
-        component: ComponentCreator('/docs/cli/configuration','401'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/configuration','84c'),
+        exact: true
       },
       {
         path: '/docs/cli/livereload',
-        component: ComponentCreator('/docs/cli/livereload','39c'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/livereload','426'),
+        exact: true
       },
       {
         path: '/docs/cli/using-a-proxy',
-        component: ComponentCreator('/docs/cli/using-a-proxy','2b6'),
-        exact: true,
-        'sidebar': "cli"
+        component: ComponentCreator('/docs/cli/using-a-proxy','6f0'),
+        exact: true
       },
       {
         path: '/docs/components',
@@ -3994,1215 +3938,1013 @@ export default [
       },
       {
         path: '/docs/native/abbyy-rtr',
-        component: ComponentCreator('/docs/native/abbyy-rtr','265'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/abbyy-rtr','082'),
+        exact: true
       },
       {
         path: '/docs/native/action-sheet',
-        component: ComponentCreator('/docs/native/action-sheet','881'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/action-sheet','fd4'),
+        exact: true
       },
       {
         path: '/docs/native/adjust',
-        component: ComponentCreator('/docs/native/adjust','0c7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/adjust','69f'),
+        exact: true
       },
       {
         path: '/docs/native/admob',
-        component: ComponentCreator('/docs/native/admob','795'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/admob','693'),
+        exact: true
       },
       {
         path: '/docs/native/admob-plus',
-        component: ComponentCreator('/docs/native/admob-plus','3d8'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/admob-plus','d88'),
+        exact: true
       },
       {
         path: '/docs/native/aes-256',
-        component: ComponentCreator('/docs/native/aes-256','41a'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/aes-256','9a2'),
+        exact: true
       },
       {
         path: '/docs/native/all-in-one-sdk',
-        component: ComponentCreator('/docs/native/all-in-one-sdk','012'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/all-in-one-sdk','20c'),
+        exact: true
       },
       {
         path: '/docs/native/analytics-firebase',
-        component: ComponentCreator('/docs/native/analytics-firebase','165'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/analytics-firebase','53b'),
+        exact: true
       },
       {
         path: '/docs/native/android-exoplayer',
-        component: ComponentCreator('/docs/native/android-exoplayer','aaa'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/android-exoplayer','c04'),
+        exact: true
       },
       {
         path: '/docs/native/android-full-screen',
-        component: ComponentCreator('/docs/native/android-full-screen','814'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/android-full-screen','f58'),
+        exact: true
       },
       {
         path: '/docs/native/android-notch',
-        component: ComponentCreator('/docs/native/android-notch','e21'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/android-notch','713'),
+        exact: true
       },
       {
         path: '/docs/native/android-permissions',
-        component: ComponentCreator('/docs/native/android-permissions','d1f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/android-permissions','dc0'),
+        exact: true
       },
       {
         path: '/docs/native/anyline',
-        component: ComponentCreator('/docs/native/anyline','7b5'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/anyline','90e'),
+        exact: true
       },
       {
         path: '/docs/native/app-availability',
-        component: ComponentCreator('/docs/native/app-availability','920'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-availability','107'),
+        exact: true
       },
       {
         path: '/docs/native/app-center-analytics',
-        component: ComponentCreator('/docs/native/app-center-analytics','138'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-center-analytics','35c'),
+        exact: true
       },
       {
         path: '/docs/native/app-center-crashes',
-        component: ComponentCreator('/docs/native/app-center-crashes','3f0'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-center-crashes','623'),
+        exact: true
       },
       {
         path: '/docs/native/app-center-low-memory',
-        component: ComponentCreator('/docs/native/app-center-low-memory','f68'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-center-low-memory','d39'),
+        exact: true
       },
       {
         path: '/docs/native/app-center-push',
-        component: ComponentCreator('/docs/native/app-center-push','5c7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-center-push','e29'),
+        exact: true
       },
       {
         path: '/docs/native/app-preferences',
-        component: ComponentCreator('/docs/native/app-preferences','76f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-preferences','d3d'),
+        exact: true
       },
       {
         path: '/docs/native/app-rate',
-        component: ComponentCreator('/docs/native/app-rate','75e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-rate','ad7'),
+        exact: true
       },
       {
         path: '/docs/native/app-version',
-        component: ComponentCreator('/docs/native/app-version','c56'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/app-version','4c7'),
+        exact: true
       },
       {
         path: '/docs/native/apple-wallet',
-        component: ComponentCreator('/docs/native/apple-wallet','212'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/apple-wallet','55d'),
+        exact: true
       },
       {
         path: '/docs/native/appsflyer',
-        component: ComponentCreator('/docs/native/appsflyer','a6b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/appsflyer','3c4'),
+        exact: true
       },
       {
         path: '/docs/native/background-fetch',
-        component: ComponentCreator('/docs/native/background-fetch','2e9'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/background-fetch','c7b'),
+        exact: true
       },
       {
         path: '/docs/native/background-geolocation',
-        component: ComponentCreator('/docs/native/background-geolocation','376'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/background-geolocation','48c'),
+        exact: true
       },
       {
         path: '/docs/native/background-mode',
-        component: ComponentCreator('/docs/native/background-mode','26f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/background-mode','981'),
+        exact: true
       },
       {
         path: '/docs/native/background-upload',
-        component: ComponentCreator('/docs/native/background-upload','ae0'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/background-upload','363'),
+        exact: true
       },
       {
         path: '/docs/native/badge',
-        component: ComponentCreator('/docs/native/badge','351'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/badge','f95'),
+        exact: true
       },
       {
         path: '/docs/native/barcode-scanner',
-        component: ComponentCreator('/docs/native/barcode-scanner','72b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/barcode-scanner','43c'),
+        exact: true
       },
       {
         path: '/docs/native/battery-status',
-        component: ComponentCreator('/docs/native/battery-status','80f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/battery-status','755'),
+        exact: true
       },
       {
         path: '/docs/native/biocatch',
-        component: ComponentCreator('/docs/native/biocatch','5e1'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/biocatch','908'),
+        exact: true
       },
       {
         path: '/docs/native/biometric-wrapper',
-        component: ComponentCreator('/docs/native/biometric-wrapper','47c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/biometric-wrapper','d6d'),
+        exact: true
       },
       {
         path: '/docs/native/ble',
-        component: ComponentCreator('/docs/native/ble','f37'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/ble','f89'),
+        exact: true
       },
       {
         path: '/docs/native/blinkid',
-        component: ComponentCreator('/docs/native/blinkid','7d6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/blinkid','bc1'),
+        exact: true
       },
       {
         path: '/docs/native/bluetooth-classic-serial-port',
-        component: ComponentCreator('/docs/native/bluetooth-classic-serial-port','f16'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/bluetooth-classic-serial-port','ea9'),
+        exact: true
       },
       {
         path: '/docs/native/bluetooth-le',
-        component: ComponentCreator('/docs/native/bluetooth-le','849'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/bluetooth-le','cfa'),
+        exact: true
       },
       {
         path: '/docs/native/bluetooth-serial',
-        component: ComponentCreator('/docs/native/bluetooth-serial','8c3'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/bluetooth-serial','881'),
+        exact: true
       },
       {
         path: '/docs/native/branch-io',
-        component: ComponentCreator('/docs/native/branch-io','66c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/branch-io','eb2'),
+        exact: true
       },
       {
         path: '/docs/native/broadcaster',
-        component: ComponentCreator('/docs/native/broadcaster','7a8'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/broadcaster','804'),
+        exact: true
       },
       {
         path: '/docs/native/build-info',
-        component: ComponentCreator('/docs/native/build-info','cca'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/build-info','ae8'),
+        exact: true
       },
       {
         path: '/docs/native/calendar',
-        component: ComponentCreator('/docs/native/calendar','9c7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/calendar','627'),
+        exact: true
       },
       {
         path: '/docs/native/call-directory',
-        component: ComponentCreator('/docs/native/call-directory','a82'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/call-directory','4c4'),
+        exact: true
       },
       {
         path: '/docs/native/call-number',
-        component: ComponentCreator('/docs/native/call-number','88a'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/call-number','b0e'),
+        exact: true
       },
       {
         path: '/docs/native/camera',
-        component: ComponentCreator('/docs/native/camera','eaf'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/camera','0fc'),
+        exact: true
       },
       {
         path: '/docs/native/camera-preview',
-        component: ComponentCreator('/docs/native/camera-preview','c97'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/camera-preview','aee'),
+        exact: true
       },
       {
         path: '/docs/native/chooser',
-        component: ComponentCreator('/docs/native/chooser','8d4'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/chooser','1a9'),
+        exact: true
       },
       {
         path: '/docs/native/clevertap',
-        component: ComponentCreator('/docs/native/clevertap','6a7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/clevertap','b04'),
+        exact: true
       },
       {
         path: '/docs/native/clipboard',
-        component: ComponentCreator('/docs/native/clipboard','2d9'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/clipboard','97b'),
+        exact: true
       },
       {
         path: '/docs/native/cloud-settings',
-        component: ComponentCreator('/docs/native/cloud-settings','88c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/cloud-settings','281'),
+        exact: true
       },
       {
         path: '/docs/native/code-push',
-        component: ComponentCreator('/docs/native/code-push','165'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/code-push','c6c'),
+        exact: true
       },
       {
         path: '/docs/native/community',
-        component: ComponentCreator('/docs/native/community','8b1'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/community','979'),
+        exact: true
       },
       {
         path: '/docs/native/custom-uisdk',
-        component: ComponentCreator('/docs/native/custom-uisdk','d23'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/custom-uisdk','056'),
+        exact: true
       },
       {
         path: '/docs/native/deeplinks',
-        component: ComponentCreator('/docs/native/deeplinks','4b2'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/deeplinks','46f'),
+        exact: true
       },
       {
         path: '/docs/native/device',
-        component: ComponentCreator('/docs/native/device','a70'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/device','636'),
+        exact: true
       },
       {
         path: '/docs/native/device-accounts',
-        component: ComponentCreator('/docs/native/device-accounts','8ab'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/device-accounts','2e9'),
+        exact: true
       },
       {
         path: '/docs/native/device-motion',
-        component: ComponentCreator('/docs/native/device-motion','32a'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/device-motion','1c3'),
+        exact: true
       },
       {
         path: '/docs/native/device-orientation',
-        component: ComponentCreator('/docs/native/device-orientation','1d7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/device-orientation','eb3'),
+        exact: true
       },
       {
         path: '/docs/native/dfu-update',
-        component: ComponentCreator('/docs/native/dfu-update','057'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/dfu-update','c11'),
+        exact: true
       },
       {
         path: '/docs/native/diagnostic',
-        component: ComponentCreator('/docs/native/diagnostic','6a6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/diagnostic','932'),
+        exact: true
       },
       {
         path: '/docs/native/dialogs',
-        component: ComponentCreator('/docs/native/dialogs','803'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/dialogs','452'),
+        exact: true
       },
       {
         path: '/docs/native/dns',
-        component: ComponentCreator('/docs/native/dns','83d'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/dns','57b'),
+        exact: true
       },
       {
         path: '/docs/native/document-picker',
-        component: ComponentCreator('/docs/native/document-picker','856'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/document-picker','bd6'),
+        exact: true
       },
       {
         path: '/docs/native/document-scanner',
-        component: ComponentCreator('/docs/native/document-scanner','2cc'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/document-scanner','e39'),
+        exact: true
       },
       {
         path: '/docs/native/document-viewer',
-        component: ComponentCreator('/docs/native/document-viewer','c13'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/document-viewer','a35'),
+        exact: true
       },
       {
         path: '/docs/native/email-composer',
-        component: ComponentCreator('/docs/native/email-composer','83e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/email-composer','10c'),
+        exact: true
       },
       {
         path: '/docs/native/fabric',
-        component: ComponentCreator('/docs/native/fabric','3f7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/fabric','ef2'),
+        exact: true
       },
       {
         path: '/docs/native/facebook',
-        component: ComponentCreator('/docs/native/facebook','f4c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/facebook','cfe'),
+        exact: true
       },
       {
         path: '/docs/native/faq',
-        component: ComponentCreator('/docs/native/faq','08e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/faq','877'),
+        exact: true
       },
       {
         path: '/docs/native/fcm',
-        component: ComponentCreator('/docs/native/fcm','e1b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/fcm','acd'),
+        exact: true
       },
       {
         path: '/docs/native/file',
-        component: ComponentCreator('/docs/native/file','441'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/file','1db'),
+        exact: true
       },
       {
         path: '/docs/native/file-opener',
-        component: ComponentCreator('/docs/native/file-opener','97d'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/file-opener','385'),
+        exact: true
       },
       {
         path: '/docs/native/file-path',
-        component: ComponentCreator('/docs/native/file-path','177'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/file-path','95d'),
+        exact: true
       },
       {
         path: '/docs/native/file-transfer',
-        component: ComponentCreator('/docs/native/file-transfer','b6c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/file-transfer','1f7'),
+        exact: true
       },
       {
         path: '/docs/native/firebase',
-        component: ComponentCreator('/docs/native/firebase','eb6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase','cf0'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-analytics',
-        component: ComponentCreator('/docs/native/firebase-analytics','083'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-analytics','854'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-authentication',
-        component: ComponentCreator('/docs/native/firebase-authentication','946'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-authentication','7e8'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-config',
-        component: ComponentCreator('/docs/native/firebase-config','bbb'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-config','104'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-crash',
-        component: ComponentCreator('/docs/native/firebase-crash','7ed'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-crash','d2f'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-crashlytics',
-        component: ComponentCreator('/docs/native/firebase-crashlytics','4a4'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-crashlytics','557'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-dynamic-links',
-        component: ComponentCreator('/docs/native/firebase-dynamic-links','fae'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-dynamic-links','852'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-messaging',
-        component: ComponentCreator('/docs/native/firebase-messaging','613'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-messaging','5b9'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-vision',
-        component: ComponentCreator('/docs/native/firebase-vision','eba'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-vision','b90'),
+        exact: true
       },
       {
         path: '/docs/native/firebase-x',
-        component: ComponentCreator('/docs/native/firebase-x','db0'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/firebase-x','886'),
+        exact: true
       },
       {
         path: '/docs/native/flashlight',
-        component: ComponentCreator('/docs/native/flashlight','9b7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/flashlight','7ff'),
+        exact: true
       },
       {
         path: '/docs/native/foreground-service',
-        component: ComponentCreator('/docs/native/foreground-service','8c9'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/foreground-service','671'),
+        exact: true
       },
       {
         path: '/docs/native/ftp',
-        component: ComponentCreator('/docs/native/ftp','cd4'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/ftp','efb'),
+        exact: true
       },
       {
         path: '/docs/native/gao-de-location',
-        component: ComponentCreator('/docs/native/gao-de-location','def'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/gao-de-location','40b'),
+        exact: true
       },
       {
         path: '/docs/native/ge-tui-sdk-plugin',
-        component: ComponentCreator('/docs/native/ge-tui-sdk-plugin','0c3'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/ge-tui-sdk-plugin','020'),
+        exact: true
       },
       {
         path: '/docs/native/geolocation',
-        component: ComponentCreator('/docs/native/geolocation','adc'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/geolocation','e2e'),
+        exact: true
       },
       {
         path: '/docs/native/globalization',
-        component: ComponentCreator('/docs/native/globalization','903'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/globalization','a90'),
+        exact: true
       },
       {
         path: '/docs/native/google-analytics',
-        component: ComponentCreator('/docs/native/google-analytics','c4e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/google-analytics','95f'),
+        exact: true
       },
       {
         path: '/docs/native/google-nearby',
-        component: ComponentCreator('/docs/native/google-nearby','7b9'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/google-nearby','b98'),
+        exact: true
       },
       {
         path: '/docs/native/google-plus',
-        component: ComponentCreator('/docs/native/google-plus','0bb'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/google-plus','fa9'),
+        exact: true
       },
       {
         path: '/docs/native/header-color',
-        component: ComponentCreator('/docs/native/header-color','fef'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/header-color','d7e'),
+        exact: true
       },
       {
         path: '/docs/native/health',
-        component: ComponentCreator('/docs/native/health','56c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/health','6c2'),
+        exact: true
       },
       {
         path: '/docs/native/health-kit',
-        component: ComponentCreator('/docs/native/health-kit','f38'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/health-kit','c81'),
+        exact: true
       },
       {
         path: '/docs/native/http',
-        component: ComponentCreator('/docs/native/http','7b9'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/http','0ff'),
+        exact: true
       },
       {
         path: '/docs/native/iamport-cordova',
-        component: ComponentCreator('/docs/native/iamport-cordova','bcb'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/iamport-cordova','291'),
+        exact: true
       },
       {
         path: '/docs/native/ibeacon',
-        component: ComponentCreator('/docs/native/ibeacon','eb8'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/ibeacon','77c'),
+        exact: true
       },
       {
         path: '/docs/native/image-picker',
-        component: ComponentCreator('/docs/native/image-picker','577'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/image-picker','3ad'),
+        exact: true
       },
       {
         path: '/docs/native/imap',
-        component: ComponentCreator('/docs/native/imap','e6b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/imap','0f0'),
+        exact: true
       },
       {
         path: '/docs/native/in-app-browser',
-        component: ComponentCreator('/docs/native/in-app-browser','ee6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/in-app-browser','89f'),
+        exact: true
       },
       {
         path: '/docs/native/in-app-purchase-2',
-        component: ComponentCreator('/docs/native/in-app-purchase-2','096'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/in-app-purchase-2','2f1'),
+        exact: true
       },
       {
         path: '/docs/native/in-app-review',
-        component: ComponentCreator('/docs/native/in-app-review','f69'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/in-app-review','1bb'),
+        exact: true
       },
       {
         path: '/docs/native/insomnia',
-        component: ComponentCreator('/docs/native/insomnia','7e3'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/insomnia','6be'),
+        exact: true
       },
       {
         path: '/docs/native/instagram',
-        component: ComponentCreator('/docs/native/instagram','d08'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/instagram','fa2'),
+        exact: true
       },
       {
         path: '/docs/native/intercom',
-        component: ComponentCreator('/docs/native/intercom','59d'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/intercom','b00'),
+        exact: true
       },
       {
         path: '/docs/native/ionic-webview',
-        component: ComponentCreator('/docs/native/ionic-webview','dda'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/ionic-webview','017'),
+        exact: true
       },
       {
         path: '/docs/native/ios-aswebauthenticationsession-api',
-        component: ComponentCreator('/docs/native/ios-aswebauthenticationsession-api','847'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/ios-aswebauthenticationsession-api','308'),
+        exact: true
       },
       {
         path: '/docs/native/is-debug',
-        component: ComponentCreator('/docs/native/is-debug','40b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/is-debug','380'),
+        exact: true
       },
       {
         path: '/docs/native/keyboard',
-        component: ComponentCreator('/docs/native/keyboard','3b5'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/keyboard','a5f'),
+        exact: true
       },
       {
         path: '/docs/native/keychain',
-        component: ComponentCreator('/docs/native/keychain','96f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/keychain','c39'),
+        exact: true
       },
       {
         path: '/docs/native/kommunicate',
-        component: ComponentCreator('/docs/native/kommunicate','136'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/kommunicate','bf7'),
+        exact: true
       },
       {
         path: '/docs/native/launch-navigator',
-        component: ComponentCreator('/docs/native/launch-navigator','c92'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/launch-navigator','271'),
+        exact: true
       },
       {
         path: '/docs/native/launch-review',
-        component: ComponentCreator('/docs/native/launch-review','546'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/launch-review','5e9'),
+        exact: true
       },
       {
         path: '/docs/native/line-login',
-        component: ComponentCreator('/docs/native/line-login','80a'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/line-login','49d'),
+        exact: true
       },
       {
         path: '/docs/native/local-backup',
-        component: ComponentCreator('/docs/native/local-backup','6ee'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/local-backup','c8d'),
+        exact: true
       },
       {
         path: '/docs/native/local-notifications',
-        component: ComponentCreator('/docs/native/local-notifications','7c6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/local-notifications','32d'),
+        exact: true
       },
       {
         path: '/docs/native/location-accuracy',
-        component: ComponentCreator('/docs/native/location-accuracy','299'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/location-accuracy','363'),
+        exact: true
       },
       {
         path: '/docs/native/lottie-splash-screen',
-        component: ComponentCreator('/docs/native/lottie-splash-screen','19c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/lottie-splash-screen','02d'),
+        exact: true
       },
       {
         path: '/docs/native/media',
-        component: ComponentCreator('/docs/native/media','32b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/media','b5f'),
+        exact: true
       },
       {
         path: '/docs/native/media-capture',
-        component: ComponentCreator('/docs/native/media-capture','28b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/media-capture','238'),
+        exact: true
       },
       {
         path: '/docs/native/metrix',
-        component: ComponentCreator('/docs/native/metrix','8d9'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/metrix','c5f'),
+        exact: true
       },
       {
         path: '/docs/native/mixpanel',
-        component: ComponentCreator('/docs/native/mixpanel','6c2'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/mixpanel','97f'),
+        exact: true
       },
       {
         path: '/docs/native/mlkit-translate',
-        component: ComponentCreator('/docs/native/mlkit-translate','230'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/mlkit-translate','b70'),
+        exact: true
       },
       {
         path: '/docs/native/mobile-messaging',
-        component: ComponentCreator('/docs/native/mobile-messaging','6d3'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/mobile-messaging','53a'),
+        exact: true
       },
       {
         path: '/docs/native/multiple-document-picker',
-        component: ComponentCreator('/docs/native/multiple-document-picker','d61'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/multiple-document-picker','ea6'),
+        exact: true
       },
       {
         path: '/docs/native/music-controls',
-        component: ComponentCreator('/docs/native/music-controls','862'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/music-controls','3b5'),
+        exact: true
       },
       {
         path: '/docs/native/native-audio',
-        component: ComponentCreator('/docs/native/native-audio','e0f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/native-audio','3ff'),
+        exact: true
       },
       {
         path: '/docs/native/native-geocoder',
-        component: ComponentCreator('/docs/native/native-geocoder','fdd'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/native-geocoder','6fa'),
+        exact: true
       },
       {
         path: '/docs/native/native-keyboard',
-        component: ComponentCreator('/docs/native/native-keyboard','2d6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/native-keyboard','60f'),
+        exact: true
       },
       {
         path: '/docs/native/native-page-transitions',
-        component: ComponentCreator('/docs/native/native-page-transitions','678'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/native-page-transitions','3c4'),
+        exact: true
       },
       {
         path: '/docs/native/native-storage',
-        component: ComponentCreator('/docs/native/native-storage','228'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/native-storage','95f'),
+        exact: true
       },
       {
         path: '/docs/native/network',
-        component: ComponentCreator('/docs/native/network','ae0'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/network','ba5'),
+        exact: true
       },
       {
         path: '/docs/native/network-interface',
-        component: ComponentCreator('/docs/native/network-interface','31f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/network-interface','ed1'),
+        exact: true
       },
       {
         path: '/docs/native/nfc',
-        component: ComponentCreator('/docs/native/nfc','a1b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/nfc','665'),
+        exact: true
       },
       {
         path: '/docs/native/ocr',
-        component: ComponentCreator('/docs/native/ocr','a52'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/ocr','cd3'),
+        exact: true
       },
       {
         path: '/docs/native/onesignal',
-        component: ComponentCreator('/docs/native/onesignal','171'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/onesignal','4a3'),
+        exact: true
       },
       {
         path: '/docs/native/open-native-settings',
-        component: ComponentCreator('/docs/native/open-native-settings','b4e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/open-native-settings','58b'),
+        exact: true
       },
       {
         path: '/docs/native/openalpr',
-        component: ComponentCreator('/docs/native/openalpr','86b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/openalpr','a4a'),
+        exact: true
       },
       {
         path: '/docs/native/paytabs',
-        component: ComponentCreator('/docs/native/paytabs','70d'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/paytabs','fa7'),
+        exact: true
       },
       {
         path: '/docs/native/pdf-generator',
-        component: ComponentCreator('/docs/native/pdf-generator','533'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/pdf-generator','a13'),
+        exact: true
       },
       {
         path: '/docs/native/photo-library',
-        component: ComponentCreator('/docs/native/photo-library','3bc'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/photo-library','224'),
+        exact: true
       },
       {
         path: '/docs/native/photo-viewer',
-        component: ComponentCreator('/docs/native/photo-viewer','274'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/photo-viewer','4a4'),
+        exact: true
       },
       {
         path: '/docs/native/pollfish',
-        component: ComponentCreator('/docs/native/pollfish','dfc'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/pollfish','0dc'),
+        exact: true
       },
       {
         path: '/docs/native/power-optimization',
-        component: ComponentCreator('/docs/native/power-optimization','a56'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/power-optimization','742'),
+        exact: true
       },
       {
         path: '/docs/native/printer',
-        component: ComponentCreator('/docs/native/printer','5f6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/printer','401'),
+        exact: true
       },
       {
         path: '/docs/native/pspdfkit-cordova',
-        component: ComponentCreator('/docs/native/pspdfkit-cordova','382'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/pspdfkit-cordova','2f8'),
+        exact: true
       },
       {
         path: '/docs/native/purchases',
-        component: ComponentCreator('/docs/native/purchases','0bb'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/purchases','b4a'),
+        exact: true
       },
       {
         path: '/docs/native/push',
-        component: ComponentCreator('/docs/native/push','396'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/push','578'),
+        exact: true
       },
       {
         path: '/docs/native/pushape-push',
-        component: ComponentCreator('/docs/native/pushape-push','a43'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/pushape-push','de0'),
+        exact: true
       },
       {
         path: '/docs/native/safari-view-controller',
-        component: ComponentCreator('/docs/native/safari-view-controller','273'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/safari-view-controller','084'),
+        exact: true
       },
       {
         path: '/docs/native/screen-orientation',
-        component: ComponentCreator('/docs/native/screen-orientation','456'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/screen-orientation','1f3'),
+        exact: true
       },
       {
         path: '/docs/native/service-discovery',
-        component: ComponentCreator('/docs/native/service-discovery','e14'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/service-discovery','39f'),
+        exact: true
       },
       {
         path: '/docs/native/shake',
-        component: ComponentCreator('/docs/native/shake','efa'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/shake','c41'),
+        exact: true
       },
       {
         path: '/docs/native/sign-in-with-apple',
-        component: ComponentCreator('/docs/native/sign-in-with-apple','2b8'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/sign-in-with-apple','335'),
+        exact: true
       },
       {
         path: '/docs/native/smartlook',
-        component: ComponentCreator('/docs/native/smartlook','074'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/smartlook','7b6'),
+        exact: true
       },
       {
         path: '/docs/native/sms',
-        component: ComponentCreator('/docs/native/sms','6b3'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/sms','7cd'),
+        exact: true
       },
       {
         path: '/docs/native/sms-retriever',
-        component: ComponentCreator('/docs/native/sms-retriever','447'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/sms-retriever','6c3'),
+        exact: true
       },
       {
         path: '/docs/native/social-sharing',
-        component: ComponentCreator('/docs/native/social-sharing','997'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/social-sharing','fdd'),
+        exact: true
       },
       {
         path: '/docs/native/speech-recognition',
-        component: ComponentCreator('/docs/native/speech-recognition','8f0'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/speech-recognition','d26'),
+        exact: true
       },
       {
         path: '/docs/native/spinner-dialog',
-        component: ComponentCreator('/docs/native/spinner-dialog','652'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/spinner-dialog','ccd'),
+        exact: true
       },
       {
         path: '/docs/native/splash-screen',
-        component: ComponentCreator('/docs/native/splash-screen','107'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/splash-screen','ce6'),
+        exact: true
       },
       {
         path: '/docs/native/spotify-auth',
-        component: ComponentCreator('/docs/native/spotify-auth','63c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/spotify-auth','397'),
+        exact: true
       },
       {
         path: '/docs/native/sqlite',
-        component: ComponentCreator('/docs/native/sqlite','808'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/sqlite','e61'),
+        exact: true
       },
       {
         path: '/docs/native/sqlite-db-copy',
-        component: ComponentCreator('/docs/native/sqlite-db-copy','4ce'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/sqlite-db-copy','7ea'),
+        exact: true
       },
       {
         path: '/docs/native/sqlite-porter',
-        component: ComponentCreator('/docs/native/sqlite-porter','a6e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/sqlite-porter','001'),
+        exact: true
       },
       {
         path: '/docs/native/star-prnt',
-        component: ComponentCreator('/docs/native/star-prnt','f40'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/star-prnt','f25'),
+        exact: true
       },
       {
         path: '/docs/native/status-bar',
-        component: ComponentCreator('/docs/native/status-bar','428'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/status-bar','dc8'),
+        exact: true
       },
       {
         path: '/docs/native/streaming-media',
-        component: ComponentCreator('/docs/native/streaming-media','084'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/streaming-media','474'),
+        exact: true
       },
       {
         path: '/docs/native/stripe',
-        component: ComponentCreator('/docs/native/stripe','ab7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/stripe','5d0'),
+        exact: true
       },
       {
         path: '/docs/native/sum-up',
-        component: ComponentCreator('/docs/native/sum-up','4ae'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/sum-up','e72'),
+        exact: true
       },
       {
         path: '/docs/native/system-alert-window-permission',
-        component: ComponentCreator('/docs/native/system-alert-window-permission','d77'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/system-alert-window-permission','b7e'),
+        exact: true
       },
       {
         path: '/docs/native/taptic-engine',
-        component: ComponentCreator('/docs/native/taptic-engine','ba8'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/taptic-engine','df3'),
+        exact: true
       },
       {
         path: '/docs/native/tealium',
-        component: ComponentCreator('/docs/native/tealium','540'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/tealium','8f5'),
+        exact: true
       },
       {
         path: '/docs/native/tealium-adidentifier',
-        component: ComponentCreator('/docs/native/tealium-adidentifier','47d'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/tealium-adidentifier','057'),
+        exact: true
       },
       {
         path: '/docs/native/tealium-installreferrer',
-        component: ComponentCreator('/docs/native/tealium-installreferrer','f1e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/tealium-installreferrer','e02'),
+        exact: true
       },
       {
         path: '/docs/native/text-to-speech-advanced',
-        component: ComponentCreator('/docs/native/text-to-speech-advanced','051'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/text-to-speech-advanced','733'),
+        exact: true
       },
       {
         path: '/docs/native/theme-detection',
-        component: ComponentCreator('/docs/native/theme-detection','50a'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/theme-detection','ed8'),
+        exact: true
       },
       {
         path: '/docs/native/three-dee-touch',
-        component: ComponentCreator('/docs/native/three-dee-touch','a10'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/three-dee-touch','fdf'),
+        exact: true
       },
       {
         path: '/docs/native/toast',
-        component: ComponentCreator('/docs/native/toast','eac'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/toast','979'),
+        exact: true
       },
       {
         path: '/docs/native/touch-id',
-        component: ComponentCreator('/docs/native/touch-id','84f'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/touch-id','773'),
+        exact: true
       },
       {
         path: '/docs/native/unvired-cordova-sdk',
-        component: ComponentCreator('/docs/native/unvired-cordova-sdk','d8e'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/unvired-cordova-sdk','f04'),
+        exact: true
       },
       {
         path: '/docs/native/uptime',
-        component: ComponentCreator('/docs/native/uptime','760'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/uptime','8a4'),
+        exact: true
       },
       {
         path: '/docs/native/urbanairship',
-        component: ComponentCreator('/docs/native/urbanairship','854'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/urbanairship','5e5'),
+        exact: true
       },
       {
         path: '/docs/native/usabilla-cordova-sdk',
-        component: ComponentCreator('/docs/native/usabilla-cordova-sdk','262'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/usabilla-cordova-sdk','81d'),
+        exact: true
       },
       {
         path: '/docs/native/vibes',
-        component: ComponentCreator('/docs/native/vibes','e4c'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/vibes','27d'),
+        exact: true
       },
       {
         path: '/docs/native/vibration',
-        component: ComponentCreator('/docs/native/vibration','e62'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/vibration','5f8'),
+        exact: true
       },
       {
         path: '/docs/native/video-editor',
-        component: ComponentCreator('/docs/native/video-editor','37d'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/video-editor','175'),
+        exact: true
       },
       {
         path: '/docs/native/video-player',
-        component: ComponentCreator('/docs/native/video-player','28b'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/video-player','d07'),
+        exact: true
       },
       {
         path: '/docs/native/web-intent',
-        component: ComponentCreator('/docs/native/web-intent','ac7'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/web-intent','165'),
+        exact: true
       },
       {
         path: '/docs/native/web-server',
-        component: ComponentCreator('/docs/native/web-server','8a3'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/web-server','01d'),
+        exact: true
       },
       {
         path: '/docs/native/web-socket-server',
-        component: ComponentCreator('/docs/native/web-socket-server','f40'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/web-socket-server','5db'),
+        exact: true
       },
       {
         path: '/docs/native/webengage',
-        component: ComponentCreator('/docs/native/webengage','fa6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/webengage','3e6'),
+        exact: true
       },
       {
         path: '/docs/native/wechat',
-        component: ComponentCreator('/docs/native/wechat','ffa'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/wechat','d5a'),
+        exact: true
       },
       {
         path: '/docs/native/wheel-selector',
-        component: ComponentCreator('/docs/native/wheel-selector','3cd'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/wheel-selector','6a7'),
+        exact: true
       },
       {
         path: '/docs/native/wifi-wizard-2',
-        component: ComponentCreator('/docs/native/wifi-wizard-2','8a6'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/wifi-wizard-2','731'),
+        exact: true
       },
       {
         path: '/docs/native/wonderpush',
-        component: ComponentCreator('/docs/native/wonderpush','280'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/wonderpush','f8a'),
+        exact: true
       },
       {
         path: '/docs/native/youtube-video-player',
-        component: ComponentCreator('/docs/native/youtube-video-player','5da'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/youtube-video-player','90d'),
+        exact: true
       },
       {
         path: '/docs/native/zbar',
-        component: ComponentCreator('/docs/native/zbar','b13'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/zbar','ed0'),
+        exact: true
       },
       {
         path: '/docs/native/zeroconf',
-        component: ComponentCreator('/docs/native/zeroconf','2c8'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/zeroconf','4e4'),
+        exact: true
       },
       {
         path: '/docs/native/zoom',
-        component: ComponentCreator('/docs/native/zoom','fe4'),
-        exact: true,
-        'sidebar': "native"
+        component: ComponentCreator('/docs/native/zoom','b43'),
+        exact: true
       },
       {
         path: '/docs/react',

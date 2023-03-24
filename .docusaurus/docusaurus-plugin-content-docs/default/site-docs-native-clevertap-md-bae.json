@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "CleverTap"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Chooser",
-    "permalink": "/docs/native/chooser"
-  },
-  "next": {
-    "title": "Clipboard",
-    "permalink": "/docs/native/clipboard"
   }
 }

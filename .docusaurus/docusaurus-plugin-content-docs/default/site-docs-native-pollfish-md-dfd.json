@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Pollfish"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Photo Viewer",
-    "permalink": "/docs/native/photo-viewer"
-  },
-  "next": {
-    "title": "Power Optimization",
-    "permalink": "/docs/native/power-optimization"
   }
 }

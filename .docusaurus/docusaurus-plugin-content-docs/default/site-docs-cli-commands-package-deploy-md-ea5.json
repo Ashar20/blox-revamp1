@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic package deploy",
     "sidebar_label": "package deploy"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "package build",
-    "permalink": "/docs/cli/commands/package-build"
-  },
-  "next": {
-    "title": "repair",
-    "permalink": "/docs/cli/commands/repair"
   }
 }

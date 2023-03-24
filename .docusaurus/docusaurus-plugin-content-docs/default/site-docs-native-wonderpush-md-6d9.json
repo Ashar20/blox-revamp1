@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Push Notifications - WonderPush"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "WifiWizard2",
-    "permalink": "/docs/native/wifi-wizard-2"
-  },
-  "next": {
-    "title": "Youtube Video Player",
-    "permalink": "/docs/native/youtube-video-player"
   }
 }

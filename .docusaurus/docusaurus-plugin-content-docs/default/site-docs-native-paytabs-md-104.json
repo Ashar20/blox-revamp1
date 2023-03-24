@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "PayTabs"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "OpenALPR",
-    "permalink": "/docs/native/openalpr"
-  },
-  "next": {
-    "title": "PDFGenerator",
-    "permalink": "/docs/native/pdf-generator"
   }
 }

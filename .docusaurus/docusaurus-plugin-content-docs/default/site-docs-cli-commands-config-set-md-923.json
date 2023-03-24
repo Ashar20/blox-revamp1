@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic config set",
     "sidebar_label": "config set"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "config get",
-    "permalink": "/docs/cli/commands/config-get"
-  },
-  "next": {
-    "title": "config unset",
-    "permalink": "/docs/cli/commands/config-unset"
   }
 }

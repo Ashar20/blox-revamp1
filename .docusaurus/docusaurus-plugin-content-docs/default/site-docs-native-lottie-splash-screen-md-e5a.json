@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Lottie Splash Screen"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Location Accuracy",
-    "permalink": "/docs/native/location-accuracy"
-  },
-  "next": {
-    "title": "Media Capture",
-    "permalink": "/docs/native/media-capture"
   }
 }

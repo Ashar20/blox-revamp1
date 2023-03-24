@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Android ExoPlayer"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Analytics Firebase",
-    "permalink": "/docs/native/analytics-firebase"
-  },
-  "next": {
-    "title": "Android Full Screen",
-    "permalink": "/docs/native/android-full-screen"
   }
 }

@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic ssl generate",
     "sidebar_label": "ssl generate"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "ssh use",
-    "permalink": "/docs/cli/commands/ssh-use"
-  },
-  "next": {
-    "title": "start",
-    "permalink": "/docs/cli/commands/start"
   }
 }

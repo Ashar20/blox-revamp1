@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Facebook"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Answers",
-    "permalink": "/docs/native/fabric"
-  },
-  "next": {
-    "title": "FCM",
-    "permalink": "/docs/native/fcm"
   }
 }

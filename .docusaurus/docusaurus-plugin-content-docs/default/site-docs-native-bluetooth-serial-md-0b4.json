@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Bluetooth Serial"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "BluetoothLE",
-    "permalink": "/docs/native/bluetooth-le"
-  },
-  "next": {
-    "title": "BranchIo",
-    "permalink": "/docs/native/branch-io"
   }
 }

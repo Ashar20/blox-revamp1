@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Media Capture"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Lottie Splash Screen",
-    "permalink": "/docs/native/lottie-splash-screen"
-  },
-  "next": {
-    "title": "Media",
-    "permalink": "/docs/native/media"
   }
 }

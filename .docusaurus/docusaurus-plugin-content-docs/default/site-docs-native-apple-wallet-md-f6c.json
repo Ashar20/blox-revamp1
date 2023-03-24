@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Apple Wallet"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "App Version",
-    "permalink": "/docs/native/app-version"
-  },
-  "next": {
-    "title": "Appsflyer",
-    "permalink": "/docs/native/appsflyer"
   }
 }

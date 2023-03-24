@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "TealiumInstallReferrer"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "TealiumAdIdentifier",
-    "permalink": "/docs/native/tealium-adidentifier"
-  },
-  "next": {
-    "title": "Tealium",
-    "permalink": "/docs/native/tealium"
   }
 }

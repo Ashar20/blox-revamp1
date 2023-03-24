@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Instagram"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Insomnia",
-    "permalink": "/docs/native/insomnia"
-  },
-  "next": {
-    "title": "Intercom",
-    "permalink": "/docs/native/intercom"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Chooser"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Camera",
-    "permalink": "/docs/native/camera"
-  },
-  "next": {
-    "title": "CleverTap",
-    "permalink": "/docs/native/clevertap"
   }
 }

@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic capacitor copy",
     "sidebar_label": "capacitor copy"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "capacitor build",
-    "permalink": "/docs/cli/commands/capacitor-build"
-  },
-  "next": {
-    "title": "capacitor open",
-    "permalink": "/docs/cli/commands/capacitor-open"
   }
 }

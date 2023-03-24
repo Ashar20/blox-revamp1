@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Native Geocoder"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Native Audio",
-    "permalink": "/docs/native/native-audio"
-  },
-  "next": {
-    "title": "Native Keyboard",
-    "permalink": "/docs/native/native-keyboard"
   }
 }

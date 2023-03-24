@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Safari View Controller"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "PushapePush",
-    "permalink": "/docs/native/pushape-push"
-  },
-  "next": {
-    "title": "Screen Orientation",
-    "permalink": "/docs/native/screen-orientation"
   }
 }

@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic link",
     "sidebar_label": "link"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "integrations list",
-    "permalink": "/docs/cli/commands/integrations-list"
-  },
-  "next": {
-    "title": "login",
-    "permalink": "/docs/cli/commands/login"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Anyline"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Android Permissions",
-    "permalink": "/docs/native/android-permissions"
-  },
-  "next": {
-    "title": "App Availability",
-    "permalink": "/docs/native/app-availability"
   }
 }

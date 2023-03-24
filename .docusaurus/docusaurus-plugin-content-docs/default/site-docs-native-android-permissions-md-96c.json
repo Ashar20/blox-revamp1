@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Android Permissions"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Android Notch",
-    "permalink": "/docs/native/android-notch"
-  },
-  "next": {
-    "title": "Anyline",
-    "permalink": "/docs/native/anyline"
   }
 }

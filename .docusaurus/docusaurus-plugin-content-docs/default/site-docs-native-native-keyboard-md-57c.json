@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Native Keyboard"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Native Geocoder",
-    "permalink": "/docs/native/native-geocoder"
-  },
-  "next": {
-    "title": "Native Page Transitions",
-    "permalink": "/docs/native/native-page-transitions"
   }
 }

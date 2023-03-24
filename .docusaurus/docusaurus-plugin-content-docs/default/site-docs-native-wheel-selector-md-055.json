@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "WheelSelector Plugin"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Wechat",
-    "permalink": "/docs/native/wechat"
-  },
-  "next": {
-    "title": "WifiWizard2",
-    "permalink": "/docs/native/wifi-wizard-2"
   }
 }

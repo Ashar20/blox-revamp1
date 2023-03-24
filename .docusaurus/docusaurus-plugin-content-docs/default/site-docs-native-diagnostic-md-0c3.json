@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Diagnostic"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Dfu Update",
-    "permalink": "/docs/native/dfu-update"
-  },
-  "next": {
-    "title": "Dialogs",
-    "permalink": "/docs/native/dialogs"
   }
 }

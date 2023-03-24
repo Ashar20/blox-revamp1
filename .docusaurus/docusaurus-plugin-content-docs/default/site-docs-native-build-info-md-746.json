@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Build Info"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Broadcaster",
-    "permalink": "/docs/native/broadcaster"
-  },
-  "next": {
-    "title": "Calendar",
-    "permalink": "/docs/native/calendar"
   }
 }

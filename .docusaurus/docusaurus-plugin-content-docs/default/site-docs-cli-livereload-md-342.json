@@ -11,14 +11,5 @@
   "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/cli/livereload.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "cli",
-  "previous": {
-    "title": "Configuration",
-    "permalink": "/docs/cli/configuration"
-  },
-  "next": {
-    "title": "Using a Proxy",
-    "permalink": "/docs/cli/using-a-proxy"
-  }
+  "frontMatter": {}
 }

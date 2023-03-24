@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Uptime"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Unvired Cordova SDK",
-    "permalink": "/docs/native/unvired-cordova-sdk"
-  },
-  "next": {
-    "title": "UrbanAirShip",
-    "permalink": "/docs/native/urbanairship"
   }
 }

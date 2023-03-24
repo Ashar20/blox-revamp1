@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "CustomUISDK"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Code Push",
-    "permalink": "/docs/native/code-push"
-  },
-  "next": {
-    "title": "Deeplinks",
-    "permalink": "/docs/native/deeplinks"
   }
 }

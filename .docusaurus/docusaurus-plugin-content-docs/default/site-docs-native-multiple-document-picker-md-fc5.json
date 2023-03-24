@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Multiple Documents Picker"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Mobile Messaging",
-    "permalink": "/docs/native/mobile-messaging"
-  },
-  "next": {
-    "title": "Music Controls",
-    "permalink": "/docs/native/music-controls"
   }
 }

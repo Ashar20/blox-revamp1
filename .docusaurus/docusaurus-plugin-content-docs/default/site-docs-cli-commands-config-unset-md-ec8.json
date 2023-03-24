@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic config unset",
     "sidebar_label": "config unset"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "config set",
-    "permalink": "/docs/cli/commands/config-set"
-  },
-  "next": {
-    "title": "cordova build",
-    "permalink": "/docs/cli/commands/cordova-build"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "StarPRNT"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "SQLite ",
-    "permalink": "/docs/native/sqlite"
-  },
-  "next": {
-    "title": "Status Bar",
-    "permalink": "/docs/native/status-bar"
   }
 }

@@ -2,8 +2,8 @@
   "unversionedId": "native",
   "id": "native",
   "isDocsHomePage": false,
-  "title": "Native APIs",
-  "description": "Native APIs: Open-Source Native Device Plugins and Integrations",
+  "title": "Concepts",
+  "description": "",
   "source": "@site/docs/native.md",
   "sourceDirName": ".",
   "slug": "/native",
@@ -12,12 +12,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Native APIs",
+    "title": "Concepts",
     "hide_table_of_contents": true
   },
-  "sidebar": "native",
-  "next": {
-    "title": "Setup",
-    "permalink": "/docs/native/community"
-  }
+  "sidebar": "native"
 }

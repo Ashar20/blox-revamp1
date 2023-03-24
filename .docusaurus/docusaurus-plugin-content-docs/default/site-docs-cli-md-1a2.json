@@ -2,8 +2,8 @@
   "unversionedId": "cli",
   "id": "cli",
   "isDocsHomePage": false,
-  "title": "Ionic CLI",
-  "description": "Ionic CLI Framework: Command-Line Interface to Develop Apps",
+  "title": "Concepts",
+  "description": "",
   "source": "@site/docs/cli.md",
   "sourceDirName": ".",
   "slug": "/cli",
@@ -12,12 +12,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Ionic CLI",
+    "title": "Concepts",
     "sidebar_label": "Overview"
   },
-  "sidebar": "cli",
-  "next": {
-    "title": "Configuration",
-    "permalink": "/docs/cli/configuration"
-  }
+  "sidebar": "cli"
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "File Transfer "
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "File Path",
-    "permalink": "/docs/native/file-path"
-  },
-  "next": {
-    "title": "File",
-    "permalink": "/docs/native/file"
   }
 }

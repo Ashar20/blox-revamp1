@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Device Motion"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Device Accounts",
-    "permalink": "/docs/native/device-accounts"
-  },
-  "next": {
-    "title": "Device Orientation",
-    "permalink": "/docs/native/device-orientation"
   }
 }

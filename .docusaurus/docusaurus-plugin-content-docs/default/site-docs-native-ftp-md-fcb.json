@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "FTP"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Foreground Service",
-    "permalink": "/docs/native/foreground-service"
-  },
-  "next": {
-    "title": "Gao De Location",
-    "permalink": "/docs/native/gao-de-location"
   }
 }

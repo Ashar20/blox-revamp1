@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Device Orientation"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Device Motion",
-    "permalink": "/docs/native/device-motion"
-  },
-  "next": {
-    "title": "Device",
-    "permalink": "/docs/native/device"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "App Availability"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Anyline",
-    "permalink": "/docs/native/anyline"
-  },
-  "next": {
-    "title": "App Center Analytics",
-    "permalink": "/docs/native/app-center-analytics"
   }
 }

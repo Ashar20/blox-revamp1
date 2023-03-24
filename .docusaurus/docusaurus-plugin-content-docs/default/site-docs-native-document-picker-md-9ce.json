@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "iOS DocumentPicker"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "DNS",
-    "permalink": "/docs/native/dns"
-  },
-  "next": {
-    "title": "Document Scanner",
-    "permalink": "/docs/native/document-scanner"
   }
 }

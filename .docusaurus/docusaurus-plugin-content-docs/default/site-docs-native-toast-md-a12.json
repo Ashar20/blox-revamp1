@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Toast"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "3D Touch",
-    "permalink": "/docs/native/three-dee-touch"
-  },
-  "next": {
-    "title": "Touch ID",
-    "permalink": "/docs/native/touch-id"
   }
 }

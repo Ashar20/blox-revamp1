@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Dfu Update"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Device",
-    "permalink": "/docs/native/device"
-  },
-  "next": {
-    "title": "Diagnostic",
-    "permalink": "/docs/native/diagnostic"
   }
 }

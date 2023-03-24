@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Network"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Network Interface",
-    "permalink": "/docs/native/network-interface"
-  },
-  "next": {
-    "title": "NFC",
-    "permalink": "/docs/native/nfc"
   }
 }

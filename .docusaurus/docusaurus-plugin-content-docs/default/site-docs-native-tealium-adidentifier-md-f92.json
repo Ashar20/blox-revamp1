@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "TealiumAdIdentifier"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Taptic Engine",
-    "permalink": "/docs/native/taptic-engine"
-  },
-  "next": {
-    "title": "TealiumInstallReferrer",
-    "permalink": "/docs/native/tealium-installreferrer"
   }
 }

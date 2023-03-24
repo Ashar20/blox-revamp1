@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Adjust"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Action Sheet",
-    "permalink": "/docs/native/action-sheet"
-  },
-  "next": {
-    "title": "AdMob Plus",
-    "permalink": "/docs/native/admob-plus"
   }
 }

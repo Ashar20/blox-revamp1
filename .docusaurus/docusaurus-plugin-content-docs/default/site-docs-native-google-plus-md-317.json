@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Google Plus"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Google Nearby",
-    "permalink": "/docs/native/google-nearby"
-  },
-  "next": {
-    "title": "Header Color",
-    "permalink": "/docs/native/header-color"
   }
 }

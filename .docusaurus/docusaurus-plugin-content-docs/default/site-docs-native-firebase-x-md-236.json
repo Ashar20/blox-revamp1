@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Firebase X"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase Vision",
-    "permalink": "/docs/native/firebase-vision"
-  },
-  "next": {
-    "title": "Firebase",
-    "permalink": "/docs/native/firebase"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "BranchIo"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Bluetooth Serial",
-    "permalink": "/docs/native/bluetooth-serial"
-  },
-  "next": {
-    "title": "Broadcaster",
-    "permalink": "/docs/native/broadcaster"
   }
 }

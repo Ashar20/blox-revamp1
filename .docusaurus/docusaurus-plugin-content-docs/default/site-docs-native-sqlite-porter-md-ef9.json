@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "SQLite Porter"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Sqlite Db Copy",
-    "permalink": "/docs/native/sqlite-db-copy"
-  },
-  "next": {
-    "title": "SQLite ",
-    "permalink": "/docs/native/sqlite"
   }
 }

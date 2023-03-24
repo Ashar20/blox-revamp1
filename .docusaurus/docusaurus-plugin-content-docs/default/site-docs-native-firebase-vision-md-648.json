@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Firebase Vision"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase Messaging",
-    "permalink": "/docs/native/firebase-messaging"
-  },
-  "next": {
-    "title": "Firebase X",
-    "permalink": "/docs/native/firebase-x"
   }
 }

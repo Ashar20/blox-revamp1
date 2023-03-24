@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "PSPDFKit-Cordova"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Printer",
-    "permalink": "/docs/native/printer"
-  },
-  "next": {
-    "title": "Purchases",
-    "permalink": "/docs/native/purchases"
   }
 }

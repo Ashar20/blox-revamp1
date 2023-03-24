@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Firebase Analytics"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "File",
-    "permalink": "/docs/native/file"
-  },
-  "next": {
-    "title": "Firebase Authentication",
-    "permalink": "/docs/native/firebase-authentication"
   }
 }

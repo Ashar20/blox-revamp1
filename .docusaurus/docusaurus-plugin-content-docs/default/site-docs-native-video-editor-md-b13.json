@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Video Editor"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Vibration",
-    "permalink": "/docs/native/vibration"
-  },
-  "next": {
-    "title": "Video Player",
-    "permalink": "/docs/native/video-player"
   }
 }

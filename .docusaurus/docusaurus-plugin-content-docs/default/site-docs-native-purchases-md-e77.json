@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Purchases"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "PSPDFKit-Cordova",
-    "permalink": "/docs/native/pspdfkit-cordova"
-  },
-  "next": {
-    "title": "Push",
-    "permalink": "/docs/native/push"
   }
 }

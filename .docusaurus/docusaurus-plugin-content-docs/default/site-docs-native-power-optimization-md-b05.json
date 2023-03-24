@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Power Optimization"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Pollfish",
-    "permalink": "/docs/native/pollfish"
-  },
-  "next": {
-    "title": "Printer",
-    "permalink": "/docs/native/printer"
   }
 }

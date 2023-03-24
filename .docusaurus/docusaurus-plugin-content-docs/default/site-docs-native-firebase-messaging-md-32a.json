@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Firebase Messaging"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase Dynamic Links",
-    "permalink": "/docs/native/firebase-dynamic-links"
-  },
-  "next": {
-    "title": "Firebase Vision",
-    "permalink": "/docs/native/firebase-vision"
   }
 }

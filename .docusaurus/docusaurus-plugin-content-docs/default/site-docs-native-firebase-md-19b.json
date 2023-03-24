@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Firebase"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase X",
-    "permalink": "/docs/native/firebase-x"
-  },
-  "next": {
-    "title": "Flashlight",
-    "permalink": "/docs/native/flashlight"
   }
 }

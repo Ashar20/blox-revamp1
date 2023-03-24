@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Sqlite Db Copy"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Spotify Auth",
-    "permalink": "/docs/native/spotify-auth"
-  },
-  "next": {
-    "title": "SQLite Porter",
-    "permalink": "/docs/native/sqlite-porter"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "MLKitTranslate"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Mixpanel",
-    "permalink": "/docs/native/mixpanel"
-  },
-  "next": {
-    "title": "Mobile Messaging",
-    "permalink": "/docs/native/mobile-messaging"
   }
 }

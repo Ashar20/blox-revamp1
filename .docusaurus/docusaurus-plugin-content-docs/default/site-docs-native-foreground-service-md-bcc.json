@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Foreground Service"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Flashlight",
-    "permalink": "/docs/native/flashlight"
-  },
-  "next": {
-    "title": "FTP",
-    "permalink": "/docs/native/ftp"
   }
 }

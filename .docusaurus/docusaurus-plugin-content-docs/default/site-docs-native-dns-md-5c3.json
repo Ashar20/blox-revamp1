@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "DNS"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Dialogs",
-    "permalink": "/docs/native/dialogs"
-  },
-  "next": {
-    "title": "iOS DocumentPicker",
-    "permalink": "/docs/native/document-picker"
   }
 }

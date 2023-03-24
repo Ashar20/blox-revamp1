@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "SMS"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Sms Retriever",
-    "permalink": "/docs/native/sms-retriever"
-  },
-  "next": {
-    "title": "Social Sharing",
-    "permalink": "/docs/native/social-sharing"
   }
 }

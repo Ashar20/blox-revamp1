@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Theme Detection"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Text To Speech Advanced",
-    "permalink": "/docs/native/text-to-speech-advanced"
-  },
-  "next": {
-    "title": "3D Touch",
-    "permalink": "/docs/native/three-dee-touch"
   }
 }

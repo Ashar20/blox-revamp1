@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ServiceDiscovery"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Screen Orientation",
-    "permalink": "/docs/native/screen-orientation"
-  },
-  "next": {
-    "title": "Shake",
-    "permalink": "/docs/native/shake"
   }
 }

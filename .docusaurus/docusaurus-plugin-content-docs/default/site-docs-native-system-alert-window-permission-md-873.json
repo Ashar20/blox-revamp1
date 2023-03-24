@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "System Alert Window Permission"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "SumUp",
-    "permalink": "/docs/native/sum-up"
-  },
-  "next": {
-    "title": "Taptic Engine",
-    "permalink": "/docs/native/taptic-engine"
   }
 }

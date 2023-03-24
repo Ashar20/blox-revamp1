@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Vibration"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Vibes",
-    "permalink": "/docs/native/vibes"
-  },
-  "next": {
-    "title": "Video Editor",
-    "permalink": "/docs/native/video-editor"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Firebase Dynamic Links"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase Crashlytics",
-    "permalink": "/docs/native/firebase-crashlytics"
-  },
-  "next": {
-    "title": "Firebase Messaging",
-    "permalink": "/docs/native/firebase-messaging"
   }
 }

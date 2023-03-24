@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Background Fetch"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Appsflyer",
-    "permalink": "/docs/native/appsflyer"
-  },
-  "next": {
-    "title": "Background Geolocation",
-    "permalink": "/docs/native/background-geolocation"
   }
 }

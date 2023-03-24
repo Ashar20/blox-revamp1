@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic capacitor build",
     "sidebar_label": "capacitor build"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "capacitor add",
-    "permalink": "/docs/cli/commands/capacitor-add"
-  },
-  "next": {
-    "title": "capacitor copy",
-    "permalink": "/docs/cli/commands/capacitor-copy"
   }
 }

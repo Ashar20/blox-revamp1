@@ -14,10 +14,5 @@
   "frontMatter": {
     "title": "ionic start",
     "sidebar_label": "start"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "ssl generate",
-    "permalink": "/docs/cli/commands/ssl-generate"
   }
 }

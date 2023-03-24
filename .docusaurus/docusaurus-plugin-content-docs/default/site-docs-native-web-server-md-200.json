@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Web Server"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Web Intent",
-    "permalink": "/docs/native/web-intent"
-  },
-  "next": {
-    "title": "WebSocket Server",
-    "permalink": "/docs/native/web-socket-server"
   }
 }

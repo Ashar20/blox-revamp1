@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Taptic Engine"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "System Alert Window Permission",
-    "permalink": "/docs/native/system-alert-window-permission"
-  },
-  "next": {
-    "title": "TealiumAdIdentifier",
-    "permalink": "/docs/native/tealium-adidentifier"
   }
 }

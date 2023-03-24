@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Web Intent"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Video Player",
-    "permalink": "/docs/native/video-player"
-  },
-  "next": {
-    "title": "Web Server",
-    "permalink": "/docs/native/web-server"
   }
 }

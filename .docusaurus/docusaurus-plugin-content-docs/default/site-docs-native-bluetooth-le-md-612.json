@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "BluetoothLE"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Bluetooth Classic Serial Port",
-    "permalink": "/docs/native/bluetooth-classic-serial-port"
-  },
-  "next": {
-    "title": "Bluetooth Serial",
-    "permalink": "/docs/native/bluetooth-serial"
   }
 }

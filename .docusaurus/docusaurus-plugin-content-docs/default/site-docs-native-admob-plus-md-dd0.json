@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "AdMob Plus"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Adjust",
-    "permalink": "/docs/native/adjust"
-  },
-  "next": {
-    "title": "AdMob",
-    "permalink": "/docs/native/admob"
   }
 }

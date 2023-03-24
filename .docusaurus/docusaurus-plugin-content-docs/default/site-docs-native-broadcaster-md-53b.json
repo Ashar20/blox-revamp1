@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Broadcaster"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "BranchIo",
-    "permalink": "/docs/native/branch-io"
-  },
-  "next": {
-    "title": "Build Info",
-    "permalink": "/docs/native/build-info"
   }
 }

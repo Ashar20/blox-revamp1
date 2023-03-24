@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Spotify Auth"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Splash Screen",
-    "permalink": "/docs/native/splash-screen"
-  },
-  "next": {
-    "title": "Sqlite Db Copy",
-    "permalink": "/docs/native/sqlite-db-copy"
   }
 }

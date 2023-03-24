@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "App Rate"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "App Preferences",
-    "permalink": "/docs/native/app-preferences"
-  },
-  "next": {
-    "title": "App Version",
-    "permalink": "/docs/native/app-version"
   }
 }

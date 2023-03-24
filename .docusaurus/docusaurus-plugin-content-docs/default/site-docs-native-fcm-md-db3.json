@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "FCM"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Facebook",
-    "permalink": "/docs/native/facebook"
-  },
-  "next": {
-    "title": "File Opener",
-    "permalink": "/docs/native/file-opener"
   }
 }

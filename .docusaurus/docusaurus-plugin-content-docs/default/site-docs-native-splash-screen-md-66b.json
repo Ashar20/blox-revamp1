@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Splash Screen"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Spinner Dialog",
-    "permalink": "/docs/native/spinner-dialog"
-  },
-  "next": {
-    "title": "Spotify Auth",
-    "permalink": "/docs/native/spotify-auth"
   }
 }

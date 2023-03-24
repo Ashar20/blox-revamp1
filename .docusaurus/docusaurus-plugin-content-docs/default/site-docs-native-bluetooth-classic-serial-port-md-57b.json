@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Bluetooth Classic Serial Port"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "BlinkId",
-    "permalink": "/docs/native/blinkid"
-  },
-  "next": {
-    "title": "BluetoothLE",
-    "permalink": "/docs/native/bluetooth-le"
   }
 }

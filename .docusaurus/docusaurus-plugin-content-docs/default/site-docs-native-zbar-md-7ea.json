@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ZBar"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Youtube Video Player",
-    "permalink": "/docs/native/youtube-video-player"
-  },
-  "next": {
-    "title": "Zeroconf",
-    "permalink": "/docs/native/zeroconf"
   }
 }

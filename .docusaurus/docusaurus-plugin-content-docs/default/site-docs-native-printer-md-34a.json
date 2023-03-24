@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Printer"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Power Optimization",
-    "permalink": "/docs/native/power-optimization"
-  },
-  "next": {
-    "title": "PSPDFKit-Cordova",
-    "permalink": "/docs/native/pspdfkit-cordova"
   }
 }

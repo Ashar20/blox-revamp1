@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Android Notch"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Android Full Screen",
-    "permalink": "/docs/native/android-full-screen"
-  },
-  "next": {
-    "title": "Android Permissions",
-    "permalink": "/docs/native/android-permissions"
   }
 }

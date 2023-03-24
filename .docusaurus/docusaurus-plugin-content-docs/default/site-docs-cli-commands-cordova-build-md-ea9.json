@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic cordova build",
     "sidebar_label": "cordova build"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "config unset",
-    "permalink": "/docs/cli/commands/config-unset"
-  },
-  "next": {
-    "title": "cordova compile",
-    "permalink": "/docs/cli/commands/cordova-compile"
   }
 }

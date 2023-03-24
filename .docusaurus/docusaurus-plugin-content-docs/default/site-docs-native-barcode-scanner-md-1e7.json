@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Barcode Scanner"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Badge",
-    "permalink": "/docs/native/badge"
-  },
-  "next": {
-    "title": "Battery Status",
-    "permalink": "/docs/native/battery-status"
   }
 }

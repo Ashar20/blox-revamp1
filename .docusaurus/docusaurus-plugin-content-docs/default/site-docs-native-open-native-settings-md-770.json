@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Open Native Settings"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "OneSignal",
-    "permalink": "/docs/native/onesignal"
-  },
-  "next": {
-    "title": "OpenALPR",
-    "permalink": "/docs/native/openalpr"
   }
 }

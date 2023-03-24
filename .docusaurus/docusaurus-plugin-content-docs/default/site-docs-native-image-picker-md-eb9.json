@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Image Picker"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "IBeacon",
-    "permalink": "/docs/native/ibeacon"
-  },
-  "next": {
-    "title": "Imap",
-    "permalink": "/docs/native/imap"
   }
 }

@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic build",
     "sidebar_label": "build"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "Using a Proxy",
-    "permalink": "/docs/cli/using-a-proxy"
-  },
-  "next": {
-    "title": "capacitor add",
-    "permalink": "/docs/cli/commands/capacitor-add"
   }
 }

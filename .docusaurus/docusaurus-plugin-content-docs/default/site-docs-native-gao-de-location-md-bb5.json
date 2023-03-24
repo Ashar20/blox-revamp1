@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Gao De Location"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "FTP",
-    "permalink": "/docs/native/ftp"
-  },
-  "next": {
-    "title": "Ge Tui Sdk Plugin",
-    "permalink": "/docs/native/ge-tui-sdk-plugin"
   }
 }

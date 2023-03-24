@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Call Directory"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Calendar",
-    "permalink": "/docs/native/calendar"
-  },
-  "next": {
-    "title": "Call Number",
-    "permalink": "/docs/native/call-number"
   }
 }

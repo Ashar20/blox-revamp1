@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic cordova compile",
     "sidebar_label": "cordova compile"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "cordova build",
-    "permalink": "/docs/cli/commands/cordova-build"
-  },
-  "next": {
-    "title": "cordova emulate",
-    "permalink": "/docs/cli/commands/cordova-emulate"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Launch Navigator"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Kommunicate",
-    "permalink": "/docs/native/kommunicate"
-  },
-  "next": {
-    "title": "Launch Review",
-    "permalink": "/docs/native/launch-review"
   }
 }

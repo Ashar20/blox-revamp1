@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Network Interface"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Native Storage",
-    "permalink": "/docs/native/native-storage"
-  },
-  "next": {
-    "title": "Network",
-    "permalink": "/docs/native/network"
   }
 }

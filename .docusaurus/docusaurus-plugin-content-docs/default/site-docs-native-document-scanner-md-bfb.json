@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Document Scanner"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "iOS DocumentPicker",
-    "permalink": "/docs/native/document-picker"
-  },
-  "next": {
-    "title": "Document Viewer",
-    "permalink": "/docs/native/document-viewer"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Iamport Cordova"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "HTTP",
-    "permalink": "/docs/native/http"
-  },
-  "next": {
-    "title": "IBeacon",
-    "permalink": "/docs/native/ibeacon"
   }
 }

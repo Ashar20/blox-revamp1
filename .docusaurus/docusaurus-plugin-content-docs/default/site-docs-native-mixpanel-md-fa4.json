@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Mixpanel"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Metrix",
-    "permalink": "/docs/native/metrix"
-  },
-  "next": {
-    "title": "MLKitTranslate",
-    "permalink": "/docs/native/mlkit-translate"
   }
 }

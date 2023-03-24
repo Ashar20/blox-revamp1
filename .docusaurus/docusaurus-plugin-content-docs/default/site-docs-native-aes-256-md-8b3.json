@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "AES256"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "AdMob",
-    "permalink": "/docs/native/admob"
-  },
-  "next": {
-    "title": "AllInOneSDK",
-    "permalink": "/docs/native/all-in-one-sdk"
   }
 }

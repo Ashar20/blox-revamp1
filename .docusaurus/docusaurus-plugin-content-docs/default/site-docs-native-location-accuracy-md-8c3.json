@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Location Accuracy"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Local Notifications",
-    "permalink": "/docs/native/local-notifications"
-  },
-  "next": {
-    "title": "Lottie Splash Screen",
-    "permalink": "/docs/native/lottie-splash-screen"
   }
 }

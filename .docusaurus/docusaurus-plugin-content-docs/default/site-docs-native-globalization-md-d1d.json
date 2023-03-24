@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Globalization"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Geolocation",
-    "permalink": "/docs/native/geolocation"
-  },
-  "next": {
-    "title": "Google Analytics",
-    "permalink": "/docs/native/google-analytics"
   }
 }

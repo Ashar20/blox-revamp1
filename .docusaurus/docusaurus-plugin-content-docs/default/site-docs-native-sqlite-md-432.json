@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "SQLite "
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "SQLite Porter",
-    "permalink": "/docs/native/sqlite-porter"
-  },
-  "next": {
-    "title": "StarPRNT",
-    "permalink": "/docs/native/star-prnt"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Dialogs"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Diagnostic",
-    "permalink": "/docs/native/diagnostic"
-  },
-  "next": {
-    "title": "DNS",
-    "permalink": "/docs/native/dns"
   }
 }

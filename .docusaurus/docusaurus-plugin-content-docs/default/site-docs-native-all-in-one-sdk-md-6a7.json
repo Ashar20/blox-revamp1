@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "AllInOneSDK"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "AES256",
-    "permalink": "/docs/native/aes-256"
-  },
-  "next": {
-    "title": "Analytics Firebase",
-    "permalink": "/docs/native/analytics-firebase"
   }
 }

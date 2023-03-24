@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Code Push"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Cloud Settings",
-    "permalink": "/docs/native/cloud-settings"
-  },
-  "next": {
-    "title": "CustomUISDK",
-    "permalink": "/docs/native/custom-uisdk"
   }
 }

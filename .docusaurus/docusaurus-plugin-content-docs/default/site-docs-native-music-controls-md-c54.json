@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Music Controls"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Multiple Documents Picker",
-    "permalink": "/docs/native/multiple-document-picker"
-  },
-  "next": {
-    "title": "Native Audio",
-    "permalink": "/docs/native/native-audio"
   }
 }

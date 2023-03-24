@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Smartlook"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Sign In With Apple",
-    "permalink": "/docs/native/sign-in-with-apple"
-  },
-  "next": {
-    "title": "Sms Retriever",
-    "permalink": "/docs/native/sms-retriever"
   }
 }

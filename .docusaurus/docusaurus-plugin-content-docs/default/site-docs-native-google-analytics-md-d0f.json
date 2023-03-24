@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Google Analytics"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Globalization",
-    "permalink": "/docs/native/globalization"
-  },
-  "next": {
-    "title": "Google Nearby",
-    "permalink": "/docs/native/google-nearby"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "WebSocket Server"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Web Server",
-    "permalink": "/docs/native/web-server"
-  },
-  "next": {
-    "title": "Webengage",
-    "permalink": "/docs/native/webengage"
   }
 }

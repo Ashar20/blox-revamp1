@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "File Opener"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "FCM",
-    "permalink": "/docs/native/fcm"
-  },
-  "next": {
-    "title": "File Path",
-    "permalink": "/docs/native/file-path"
   }
 }

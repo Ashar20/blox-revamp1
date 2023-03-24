@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "HTTP"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Health",
-    "permalink": "/docs/native/health"
-  },
-  "next": {
-    "title": "Iamport Cordova",
-    "permalink": "/docs/native/iamport-cordova"
   }
 }

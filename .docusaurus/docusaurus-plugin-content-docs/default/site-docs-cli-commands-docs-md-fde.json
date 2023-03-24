@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic docs",
     "sidebar_label": "docs"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "deploy manifest",
-    "permalink": "/docs/cli/commands/deploy-manifest"
-  },
-  "next": {
-    "title": "doctor check",
-    "permalink": "/docs/cli/commands/doctor-check"
   }
 }

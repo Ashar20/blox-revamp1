@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Streaming Media"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Status Bar",
-    "permalink": "/docs/native/status-bar"
-  },
-  "next": {
-    "title": "Stripe",
-    "permalink": "/docs/native/stripe"
   }
 }

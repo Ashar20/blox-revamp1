@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Firebase Config"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Firebase Authentication",
-    "permalink": "/docs/native/firebase-authentication"
-  },
-  "next": {
-    "title": "FirebaseCrash",
-    "permalink": "/docs/native/firebase-crash"
   }
 }

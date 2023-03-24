@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Insomnia"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "In App Review",
-    "permalink": "/docs/native/in-app-review"
-  },
-  "next": {
-    "title": "Instagram",
-    "permalink": "/docs/native/instagram"
   }
 }

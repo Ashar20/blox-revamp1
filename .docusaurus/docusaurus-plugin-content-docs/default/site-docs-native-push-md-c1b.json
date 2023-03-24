@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Push"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Purchases",
-    "permalink": "/docs/native/purchases"
-  },
-  "next": {
-    "title": "PushapePush",
-    "permalink": "/docs/native/pushape-push"
   }
 }

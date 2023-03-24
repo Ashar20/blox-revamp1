@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ionic integrations enable",
     "sidebar_label": "integrations enable"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "integrations disable",
-    "permalink": "/docs/cli/commands/integrations-disable"
-  },
-  "next": {
-    "title": "integrations list",
-    "permalink": "/docs/cli/commands/integrations-list"
   }
 }

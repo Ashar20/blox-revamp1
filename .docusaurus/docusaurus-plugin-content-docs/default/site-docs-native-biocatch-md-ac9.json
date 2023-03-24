@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "BioCatch"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Battery Status",
-    "permalink": "/docs/native/battery-status"
-  },
-  "next": {
-    "title": "BiometricWrapper",
-    "permalink": "/docs/native/biometric-wrapper"
   }
 }

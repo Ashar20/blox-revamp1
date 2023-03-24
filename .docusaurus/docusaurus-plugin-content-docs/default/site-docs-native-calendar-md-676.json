@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Calendar"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Build Info",
-    "permalink": "/docs/native/build-info"
-  },
-  "next": {
-    "title": "Call Directory",
-    "permalink": "/docs/native/call-directory"
   }
 }

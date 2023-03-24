@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "BackgroundUpload"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Background Mode",
-    "permalink": "/docs/native/background-mode"
-  },
-  "next": {
-    "title": "Badge",
-    "permalink": "/docs/native/badge"
   }
 }

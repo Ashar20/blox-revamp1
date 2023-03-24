@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Spinner Dialog"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Speech Recognition",
-    "permalink": "/docs/native/speech-recognition"
-  },
-  "next": {
-    "title": "Splash Screen",
-    "permalink": "/docs/native/splash-screen"
   }
 }

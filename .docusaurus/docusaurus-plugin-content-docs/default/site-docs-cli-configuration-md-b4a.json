@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Configuration"
-  },
-  "sidebar": "cli",
-  "previous": {
-    "title": "Overview",
-    "permalink": "/docs/cli"
-  },
-  "next": {
-    "title": "Live Reload",
-    "permalink": "/docs/cli/livereload"
   }
 }

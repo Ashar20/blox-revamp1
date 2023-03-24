@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Intercom"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Instagram",
-    "permalink": "/docs/native/instagram"
-  },
-  "next": {
-    "title": "Ionic Webview",
-    "permalink": "/docs/native/ionic-webview"
   }
 }

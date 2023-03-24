@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Native Page Transitions"
-  },
-  "sidebar": "native",
-  "previous": {
-    "title": "Native Keyboard",
-    "permalink": "/docs/native/native-keyboard"
-  },
-  "next": {
-    "title": "Native Storage",
-    "permalink": "/docs/native/native-storage"
   }
 }
