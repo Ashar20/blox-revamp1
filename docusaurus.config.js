@@ -53,7 +53,7 @@ module.exports = {
       },
       {
         name: 'og:site_name',
-        content: 'Ionic Framework Docs',
+        content: 'Blox support site',
       },
     ],
     colorMode: {
