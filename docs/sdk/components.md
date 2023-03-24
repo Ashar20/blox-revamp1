@@ -27,7 +27,7 @@ import DocsCards from '@components/global/DocsCards';
 </DocsCard>
 
 <DocsCard header="Catalog" href="api/badge" icon="/icons/component-badge-icon.png">
-  <p>Badges are a small component that typically communicate a numerical value to the user.</p>
+ 
 </DocsCard>
 <DocsCard header="Schema" href="api/alert" icon="/icons/component-button-icon.png">
   <p>Buttons let your users take action. They're an essential way to interact with and navigate through an app.</p>
