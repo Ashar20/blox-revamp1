@@ -1,7 +1,7 @@
 export default {
   "title": "Blox support",
   "tagline": "Welcome to Blox",
-  "url": "https://ionicframework.com",
+  "url": "https://getblox.ai/",
   "baseUrl": "/docs/",
   "i18n": {
     "defaultLocale": "en",
@@ -18,8 +18,8 @@ export default {
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/meta/blox box (1).svg",
-  "organizationName": "ionic-team",
-  "projectName": "ionic-docs",
+  "organizationName": "support",
+  "projectName": "Blox-support",
   "themeConfig": {
     "metadata": [
       {

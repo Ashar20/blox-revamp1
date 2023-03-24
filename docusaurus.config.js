@@ -8,7 +8,7 @@ module.exports = {
   title: 'Blox support',
   tagline:
     'Welcome to Blox',
-  url: 'https://ionicframework.com',
+  url: 'https://getblox.ai/',
   baseUrl: `${BASE_URL}/`,
   i18n: {
     defaultLocale: 'en',
@@ -21,8 +21,8 @@ module.exports = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/meta/blox box (1).svg',
-  organizationName: 'ionic-team',
-  projectName: 'ionic-docs',
+  organizationName: 'support',
+  projectName: 'Blox-support',
   themeConfig: {
     metadata: [
       { name: 'og:image', content: 'https://d1r1e7xjkfj7nz.cloudfront.net/bloxlight.png' },
