@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-accordion-group"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "action-sheet",
-    "permalink": "/docs/api/action-sheet"
-  },
-  "next": {
-    "title": "Catalog Manager",
-    "permalink": "/docs/api/alert"
   }
 }

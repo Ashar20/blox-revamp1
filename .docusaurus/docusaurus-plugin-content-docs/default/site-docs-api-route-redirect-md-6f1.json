@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ion-route-redirect",
     "hide_table_of_contents": true
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-route",
-    "permalink": "/docs/api/route"
-  },
-  "next": {
-    "title": "ion-searchbar",
-    "permalink": "/docs/api/searchbar"
   }
 }

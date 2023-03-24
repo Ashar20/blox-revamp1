@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-fab-list"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-fab-button",
-    "permalink": "/docs/api/fab-button"
-  },
-  "next": {
-    "title": "ion-grid",
-    "permalink": "/docs/api/grid"
   }
 }

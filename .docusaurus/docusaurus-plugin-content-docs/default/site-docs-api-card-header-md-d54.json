@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-card-header"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-card-content",
-    "permalink": "/docs/api/card-content"
-  },
-  "next": {
-    "title": "ion-card-subtitle",
-    "permalink": "/docs/api/card-subtitle"
   }
 }

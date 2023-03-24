@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-breadcrumbs"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-breadcrumb",
-    "permalink": "/docs/api/breadcrumb"
-  },
-  "next": {
-    "title": "Installation",
-    "permalink": "/docs/api/button"
   }
 }

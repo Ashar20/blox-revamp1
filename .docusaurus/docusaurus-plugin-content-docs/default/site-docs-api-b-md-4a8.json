@@ -1,0 +1,15 @@
+{
+  "unversionedId": "api/b",
+  "id": "api/b",
+  "isDocsHomePage": false,
+  "title": "b",
+  "description": "Ion-Accordion Components: How to Build & Examples | Ionic",
+  "source": "@site/docs/api/b.md",
+  "sourceDirName": "api",
+  "slug": "/api/b",
+  "permalink": "/docs/api/b",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/b.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

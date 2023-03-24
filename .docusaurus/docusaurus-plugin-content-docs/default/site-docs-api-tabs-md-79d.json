@@ -16,14 +16,5 @@
     "hide_table_of_contents": true,
     "demoUrl": "/docs/demos/api/tabs/index.html",
     "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/tabs/index.html"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-slide",
-    "permalink": "/docs/api/slide"
-  },
-  "next": {
-    "title": "ion-tab",
-    "permalink": "/docs/api/tab"
   }
 }

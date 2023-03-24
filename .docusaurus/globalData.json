@@ -7,7 +7,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBI07xEAACUAc6ly&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBjMnxEAACQAfUyy&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2022-07-11T19:50:16+0000",
           "last_publication_date": "2022-07-11T19:50:16+0000",
@@ -58,7 +58,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBI07xEAACUAc6ly&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBjMnxEAACQAfUyy&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2021-03-01T17:28:35+0000",
           "last_publication_date": "2022-05-31T17:25:35+0000",
@@ -119,18 +119,15 @@
           "docs": [
             {
               "id": "api",
-              "path": "/docs/api",
-              "sidebar": "api"
+              "path": "/docs/api"
             },
             {
               "id": "api/accordion-group",
-              "path": "/docs/api/accordion-group",
-              "sidebar": "api"
+              "path": "/docs/api/accordion-group"
             },
             {
               "id": "api/action-sheet",
-              "path": "/docs/api/action-sheet",
-              "sidebar": "api"
+              "path": "/docs/api/action-sheet"
             },
             {
               "id": "api/alert",
@@ -139,23 +136,23 @@
             },
             {
               "id": "api/app",
-              "path": "/docs/api/app",
-              "sidebar": "api"
+              "path": "/docs/api/app"
             },
             {
               "id": "api/avatar",
-              "path": "/docs/api/avatar",
-              "sidebar": "api"
+              "path": "/docs/api/avatar"
+            },
+            {
+              "id": "api/b",
+              "path": "/docs/api/b"
             },
             {
               "id": "api/back-button",
-              "path": "/docs/api/back-button",
-              "sidebar": "api"
+              "path": "/docs/api/back-button"
             },
             {
               "id": "api/backdrop",
-              "path": "/docs/api/backdrop",
-              "sidebar": "api"
+              "path": "/docs/api/backdrop"
             },
             {
               "id": "api/badge",
@@ -164,13 +161,11 @@
             },
             {
               "id": "api/breadcrumb",
-              "path": "/docs/api/breadcrumb",
-              "sidebar": "api"
+              "path": "/docs/api/breadcrumb"
             },
             {
               "id": "api/breadcrumbs",
-              "path": "/docs/api/breadcrumbs",
-              "sidebar": "api"
+              "path": "/docs/api/breadcrumbs"
             },
             {
               "id": "api/button",
@@ -179,248 +174,199 @@
             },
             {
               "id": "api/buttons",
-              "path": "/docs/api/buttons",
-              "sidebar": "api"
+              "path": "/docs/api/buttons"
             },
             {
               "id": "api/card",
-              "path": "/docs/api/card",
-              "sidebar": "api"
+              "path": "/docs/api/card"
             },
             {
               "id": "api/card-content",
-              "path": "/docs/api/card-content",
-              "sidebar": "api"
+              "path": "/docs/api/card-content"
             },
             {
               "id": "api/card-header",
-              "path": "/docs/api/card-header",
-              "sidebar": "api"
+              "path": "/docs/api/card-header"
             },
             {
               "id": "api/card-subtitle",
-              "path": "/docs/api/card-subtitle",
-              "sidebar": "api"
+              "path": "/docs/api/card-subtitle"
             },
             {
               "id": "api/card-title",
-              "path": "/docs/api/card-title",
-              "sidebar": "api"
+              "path": "/docs/api/card-title"
             },
             {
               "id": "api/checkbox",
-              "path": "/docs/api/checkbox",
-              "sidebar": "api"
+              "path": "/docs/api/checkbox"
             },
             {
               "id": "api/chip",
-              "path": "/docs/api/chip",
-              "sidebar": "api"
+              "path": "/docs/api/chip"
             },
             {
               "id": "api/col",
-              "path": "/docs/api/col",
-              "sidebar": "api"
+              "path": "/docs/api/col"
             },
             {
               "id": "api/content",
-              "path": "/docs/api/content",
-              "sidebar": "api"
+              "path": "/docs/api/content"
             },
             {
               "id": "api/datetime",
-              "path": "/docs/api/datetime",
-              "sidebar": "api"
+              "path": "/docs/api/datetime"
             },
             {
               "id": "api/datetime-button",
-              "path": "/docs/api/datetime-button",
-              "sidebar": "api"
+              "path": "/docs/api/datetime-button"
             },
             {
               "id": "api/fab",
-              "path": "/docs/api/fab",
-              "sidebar": "api"
+              "path": "/docs/api/fab"
             },
             {
               "id": "api/fab-button",
-              "path": "/docs/api/fab-button",
-              "sidebar": "api"
+              "path": "/docs/api/fab-button"
             },
             {
               "id": "api/fab-list",
-              "path": "/docs/api/fab-list",
-              "sidebar": "api"
+              "path": "/docs/api/fab-list"
             },
             {
               "id": "api/footer",
-              "path": "/docs/api/footer",
-              "sidebar": "api"
+              "path": "/docs/api/footer"
             },
             {
               "id": "api/grid",
-              "path": "/docs/api/grid",
-              "sidebar": "api"
+              "path": "/docs/api/grid"
             },
             {
               "id": "api/header",
-              "path": "/docs/api/header",
-              "sidebar": "api"
+              "path": "/docs/api/header"
             },
             {
               "id": "api/img",
-              "path": "/docs/api/img",
-              "sidebar": "api"
+              "path": "/docs/api/img"
             },
             {
               "id": "api/infinite-scroll",
-              "path": "/docs/api/infinite-scroll",
-              "sidebar": "api"
+              "path": "/docs/api/infinite-scroll"
             },
             {
               "id": "api/infinite-scroll-content",
-              "path": "/docs/api/infinite-scroll-content",
-              "sidebar": "api"
+              "path": "/docs/api/infinite-scroll-content"
             },
             {
               "id": "api/input",
-              "path": "/docs/api/input",
-              "sidebar": "api"
+              "path": "/docs/api/input"
             },
             {
               "id": "api/item",
-              "path": "/docs/api/item",
-              "sidebar": "api"
+              "path": "/docs/api/item"
             },
             {
               "id": "api/item-divider",
-              "path": "/docs/api/item-divider",
-              "sidebar": "api"
+              "path": "/docs/api/item-divider"
             },
             {
               "id": "api/item-group",
-              "path": "/docs/api/item-group",
-              "sidebar": "api"
+              "path": "/docs/api/item-group"
             },
             {
               "id": "api/item-option",
-              "path": "/docs/api/item-option",
-              "sidebar": "api"
+              "path": "/docs/api/item-option"
             },
             {
               "id": "api/item-options",
-              "path": "/docs/api/item-options",
-              "sidebar": "api"
+              "path": "/docs/api/item-options"
             },
             {
               "id": "api/item-sliding",
-              "path": "/docs/api/item-sliding",
-              "sidebar": "api"
+              "path": "/docs/api/item-sliding"
             },
             {
               "id": "api/label",
-              "path": "/docs/api/label",
-              "sidebar": "api"
+              "path": "/docs/api/label"
             },
             {
               "id": "api/list",
-              "path": "/docs/api/list",
-              "sidebar": "api"
+              "path": "/docs/api/list"
             },
             {
               "id": "api/list-header",
-              "path": "/docs/api/list-header",
-              "sidebar": "api"
+              "path": "/docs/api/list-header"
             },
             {
               "id": "api/loading",
-              "path": "/docs/api/loading",
-              "sidebar": "api"
+              "path": "/docs/api/loading"
             },
             {
               "id": "api/menu",
-              "path": "/docs/api/menu",
-              "sidebar": "api"
+              "path": "/docs/api/menu"
             },
             {
               "id": "api/menu-button",
-              "path": "/docs/api/menu-button",
-              "sidebar": "api"
+              "path": "/docs/api/menu-button"
             },
             {
               "id": "api/menu-toggle",
-              "path": "/docs/api/menu-toggle",
-              "sidebar": "api"
+              "path": "/docs/api/menu-toggle"
             },
             {
               "id": "api/modal",
-              "path": "/docs/api/modal",
-              "sidebar": "api"
+              "path": "/docs/api/modal"
             },
             {
               "id": "api/nav",
-              "path": "/docs/api/nav",
-              "sidebar": "api"
+              "path": "/docs/api/nav"
             },
             {
               "id": "api/nav-link",
-              "path": "/docs/api/nav-link",
-              "sidebar": "api"
+              "path": "/docs/api/nav-link"
             },
             {
               "id": "api/note",
-              "path": "/docs/api/note",
-              "sidebar": "api"
+              "path": "/docs/api/note"
             },
             {
               "id": "api/picker",
-              "path": "/docs/api/picker",
-              "sidebar": "api"
+              "path": "/docs/api/picker"
             },
             {
               "id": "api/popover",
-              "path": "/docs/api/popover",
-              "sidebar": "api"
+              "path": "/docs/api/popover"
             },
             {
               "id": "api/progress-bar",
-              "path": "/docs/api/progress-bar",
-              "sidebar": "api"
+              "path": "/docs/api/progress-bar"
             },
             {
               "id": "api/radio",
-              "path": "/docs/api/radio",
-              "sidebar": "api"
+              "path": "/docs/api/radio"
             },
             {
               "id": "api/radio-group",
-              "path": "/docs/api/radio-group",
-              "sidebar": "api"
+              "path": "/docs/api/radio-group"
             },
             {
               "id": "api/range",
-              "path": "/docs/api/range",
-              "sidebar": "api"
+              "path": "/docs/api/range"
             },
             {
               "id": "api/refresher",
-              "path": "/docs/api/refresher",
-              "sidebar": "api"
+              "path": "/docs/api/refresher"
             },
             {
               "id": "api/refresher-content",
-              "path": "/docs/api/refresher-content",
-              "sidebar": "api"
+              "path": "/docs/api/refresher-content"
             },
             {
               "id": "api/reorder",
-              "path": "/docs/api/reorder",
-              "sidebar": "api"
+              "path": "/docs/api/reorder"
             },
             {
               "id": "api/reorder-group",
-              "path": "/docs/api/reorder-group",
-              "sidebar": "api"
+              "path": "/docs/api/reorder-group"
             },
             {
               "id": "api/ripple-effect",
@@ -429,143 +375,115 @@
             },
             {
               "id": "api/route",
-              "path": "/docs/api/route",
-              "sidebar": "api"
+              "path": "/docs/api/route"
             },
             {
               "id": "api/route-redirect",
-              "path": "/docs/api/route-redirect",
-              "sidebar": "api"
+              "path": "/docs/api/route-redirect"
             },
             {
               "id": "api/router",
-              "path": "/docs/api/router",
-              "sidebar": "api"
+              "path": "/docs/api/router"
             },
             {
               "id": "api/router-link",
-              "path": "/docs/api/router-link",
-              "sidebar": "api"
+              "path": "/docs/api/router-link"
             },
             {
               "id": "api/router-outlet",
-              "path": "/docs/api/router-outlet",
-              "sidebar": "api"
+              "path": "/docs/api/router-outlet"
             },
             {
               "id": "api/row",
-              "path": "/docs/api/row",
-              "sidebar": "api"
+              "path": "/docs/api/row"
             },
             {
               "id": "api/searchbar",
-              "path": "/docs/api/searchbar",
-              "sidebar": "api"
+              "path": "/docs/api/searchbar"
             },
             {
               "id": "api/segment",
-              "path": "/docs/api/segment",
-              "sidebar": "api"
+              "path": "/docs/api/segment"
             },
             {
               "id": "api/segment-button",
-              "path": "/docs/api/segment-button",
-              "sidebar": "api"
+              "path": "/docs/api/segment-button"
             },
             {
               "id": "api/select",
-              "path": "/docs/api/select",
-              "sidebar": "api"
+              "path": "/docs/api/select"
             },
             {
               "id": "api/select-option",
-              "path": "/docs/api/select-option",
-              "sidebar": "api"
+              "path": "/docs/api/select-option"
             },
             {
               "id": "api/skeleton-text",
-              "path": "/docs/api/skeleton-text",
-              "sidebar": "api"
+              "path": "/docs/api/skeleton-text"
             },
             {
               "id": "api/slide",
-              "path": "/docs/api/slide",
-              "sidebar": "api"
+              "path": "/docs/api/slide"
             },
             {
               "id": "api/slides",
-              "path": "/docs/api/slides",
-              "sidebar": "api"
+              "path": "/docs/api/slides"
             },
             {
               "id": "api/spinner",
-              "path": "/docs/api/spinner",
-              "sidebar": "api"
+              "path": "/docs/api/spinner"
             },
             {
               "id": "api/split-pane",
-              "path": "/docs/api/split-pane",
-              "sidebar": "api"
+              "path": "/docs/api/split-pane"
             },
             {
               "id": "api/tab",
-              "path": "/docs/api/tab",
-              "sidebar": "api"
+              "path": "/docs/api/tab"
             },
             {
               "id": "api/tab-bar",
-              "path": "/docs/api/tab-bar",
-              "sidebar": "api"
+              "path": "/docs/api/tab-bar"
             },
             {
               "id": "api/tab-button",
-              "path": "/docs/api/tab-button",
-              "sidebar": "api"
+              "path": "/docs/api/tab-button"
             },
             {
               "id": "api/tabs",
-              "path": "/docs/api/tabs",
-              "sidebar": "api"
+              "path": "/docs/api/tabs"
             },
             {
               "id": "api/text",
-              "path": "/docs/api/text",
-              "sidebar": "api"
+              "path": "/docs/api/text"
             },
             {
               "id": "api/textarea",
-              "path": "/docs/api/textarea",
-              "sidebar": "api"
+              "path": "/docs/api/textarea"
             },
             {
               "id": "api/thumbnail",
-              "path": "/docs/api/thumbnail",
-              "sidebar": "api"
+              "path": "/docs/api/thumbnail"
             },
             {
               "id": "api/title",
-              "path": "/docs/api/title",
-              "sidebar": "api"
+              "path": "/docs/api/title"
             },
             {
               "id": "api/toast",
-              "path": "/docs/api/toast",
-              "sidebar": "api"
+              "path": "/docs/api/toast"
             },
             {
               "id": "api/toggle",
-              "path": "/docs/api/toggle",
-              "sidebar": "api"
+              "path": "/docs/api/toggle"
             },
             {
               "id": "api/toolbar",
-              "path": "/docs/api/toolbar",
-              "sidebar": "api"
+              "path": "/docs/api/toolbar"
             },
             {
               "id": "api/virtual-scroll",
-              "path": "/docs/api/virtual-scroll",
-              "sidebar": "api"
+              "path": "/docs/api/virtual-scroll"
             },
             {
               "id": "Audience Hub/android",
@@ -895,7 +813,7 @@
             {
               "id": "components",
               "path": "/docs/components",
-              "sidebar": "api"
+              "sidebar": "sdk"
             },
             {
               "id": "Content Hub/Enrich/dataorg",
@@ -2124,6 +2042,10 @@
             {
               "id": "react",
               "path": "/docs/react"
+            },
+            {
+              "id": "sdk/components",
+              "path": "/docs/sdk/components"
             },
             {
               "id": "studio",

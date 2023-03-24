@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-item-divider"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-item",
-    "permalink": "/docs/api/item"
-  },
-  "next": {
-    "title": "ion-item-group",
-    "permalink": "/docs/api/item-group"
   }
 }

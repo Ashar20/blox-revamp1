@@ -11,14 +11,5 @@
   "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "api",
-  "previous": {
-    "title": "SDK documentation",
-    "permalink": "/docs/components"
-  },
-  "next": {
-    "title": "ion-accordion-group",
-    "permalink": "/docs/api/accordion-group"
-  }
+  "frontMatter": {}
 }

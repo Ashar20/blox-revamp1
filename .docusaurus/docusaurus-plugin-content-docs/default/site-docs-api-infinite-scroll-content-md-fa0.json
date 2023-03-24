@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-infinite-scroll-content"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-infinite-scroll",
-    "permalink": "/docs/api/infinite-scroll"
-  },
-  "next": {
-    "title": "ion-input",
-    "permalink": "/docs/api/input"
   }
 }

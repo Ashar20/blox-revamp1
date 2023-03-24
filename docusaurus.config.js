@@ -7,7 +7,7 @@ const BASE_URL = '/docs';
 module.exports = {
   title: 'Blox support',
   tagline:
-    'Ionic is the app platform for web developers. Build amazing mobile, web, and desktop apps all with one shared code base and open web standards',
+    'Welcome to Blox',
   url: 'https://ionicframework.com',
   baseUrl: `${BASE_URL}/`,
   i18n: {
@@ -25,8 +25,8 @@ module.exports = {
   projectName: 'ionic-docs',
   themeConfig: {
     metadata: [
-      { name: 'og:image', content: 'https://ionicframework.com/docs/img/meta/open-graph.png' },
-      { name: 'twitter:image', content: 'https://ionicframework.com/docs/img/meta/open-graph.png' },
+      { name: 'og:image', content: 'https://d1r1e7xjkfj7nz.cloudfront.net/bloxlight.png' },
+      { name: 'twitter:image', content: 'https://d1r1e7xjkfj7nz.cloudfront.net/bloxlight.png' },
       {
         name: 'twitter:card',
         content: 'summary_large_image',

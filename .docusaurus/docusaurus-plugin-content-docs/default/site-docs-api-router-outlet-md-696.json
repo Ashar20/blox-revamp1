@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ion-router-outlet",
     "hide_table_of_contents": true
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-router-link",
-    "permalink": "/docs/api/router-link"
-  },
-  "next": {
-    "title": "ion-route",
-    "permalink": "/docs/api/route"
   }
 }

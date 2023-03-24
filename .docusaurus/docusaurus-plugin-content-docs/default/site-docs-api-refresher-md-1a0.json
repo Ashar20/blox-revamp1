@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-refresher"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-range",
-    "permalink": "/docs/api/range"
-  },
-  "next": {
-    "title": "ion-refresher-content",
-    "permalink": "/docs/api/refresher-content"
   }
 }

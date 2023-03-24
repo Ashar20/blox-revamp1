@@ -1,0 +1,18 @@
+{
+  "unversionedId": "sdk/components",
+  "id": "sdk/components",
+  "isDocsHomePage": false,
+  "title": "SDK documentation",
+  "description": "UI Components | User Interface Application Building Components",
+  "source": "@site/docs/sdk/components.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/components",
+  "permalink": "/docs/sdk/components",
+  "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/sdk/components.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SDK documentation",
+    "hide_table_of_contents": true
+  }
+}

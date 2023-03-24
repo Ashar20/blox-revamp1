@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-spinner"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-skeleton-text",
-    "permalink": "/docs/api/skeleton-text"
-  },
-  "next": {
-    "title": "ion-radio",
-    "permalink": "/docs/api/radio"
   }
 }

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-buttons"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-title",
-    "permalink": "/docs/api/title"
-  },
-  "next": {
-    "title": "ion-back-button",
-    "permalink": "/docs/api/back-button"
   }
 }

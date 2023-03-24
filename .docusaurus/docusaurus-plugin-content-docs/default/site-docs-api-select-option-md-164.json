@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-select-option"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-select",
-    "permalink": "/docs/api/select"
-  },
-  "next": {
-    "title": "ion-slides",
-    "permalink": "/docs/api/slides"
   }
 }

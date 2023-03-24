@@ -15,9 +15,5 @@
     "title": "SDK documentation",
     "hide_table_of_contents": true
   },
-  "sidebar": "api",
-  "next": {
-    "title": "action-sheet",
-    "permalink": "/docs/api/action-sheet"
-  }
+  "sidebar": "sdk"
 }

@@ -1932,7 +1932,7 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-v-5-vue-your-first-app-taking-photos-52-d-0ce"
   },
-  "/docs/-5c9": {
+  "/docs/-a28": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-739"
   },
@@ -1940,15 +1940,15 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-c-37-4d0"
   },
-  "/docs/api-91e": {
+  "/docs/api-cba": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-5-fb-197"
   },
-  "/docs/api/accordion-group-9d7": {
+  "/docs/api/accordion-group-021": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-accordion-groupf-5-a-06a"
   },
-  "/docs/api/action-sheet-c2b": {
+  "/docs/api/action-sheet-d1e": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-action-sheet-997-140"
   },
@@ -1956,19 +1956,23 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-alert-291-210"
   },
-  "/docs/api/app-fdf": {
+  "/docs/api/app-c78": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-app-327-a00"
   },
-  "/docs/api/avatar-ec5": {
+  "/docs/api/avatar-ca3": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-avatarbd-4-dc9"
   },
-  "/docs/api/back-button-a5a": {
+  "/docs/api/b-71c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-b-4-a-8-566"
+  },
+  "/docs/api/back-button-f78": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-back-button-1-c-4-e44"
   },
-  "/docs/api/backdrop-36e": {
+  "/docs/api/backdrop-921": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-backdrop-039-d6c"
   },
@@ -1976,11 +1980,11 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-badge-8-d-1-a40"
   },
-  "/docs/api/breadcrumb-7e5": {
+  "/docs/api/breadcrumb-ec4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-breadcrumbc-82-73c"
   },
-  "/docs/api/breadcrumbs-736": {
+  "/docs/api/breadcrumbs-180": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-breadcrumbs-0-cd-fbd"
   },
@@ -1988,199 +1992,199 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-button-416-0a3"
   },
-  "/docs/api/buttons-22e": {
+  "/docs/api/buttons-68e": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-buttonsb-32-b2c"
   },
-  "/docs/api/card-753": {
+  "/docs/api/card-936": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-card-92-c-685"
   },
-  "/docs/api/card-content-37d": {
+  "/docs/api/card-content-e8d": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-card-content-52-c-1cb"
   },
-  "/docs/api/card-header-094": {
+  "/docs/api/card-header-4bd": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-card-headerd-54-f57"
   },
-  "/docs/api/card-subtitle-f4e": {
+  "/docs/api/card-subtitle-2a4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-card-subtitle-57-e-d92"
   },
-  "/docs/api/card-title-e74": {
+  "/docs/api/card-title-a19": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-card-titleac-9-d2d"
   },
-  "/docs/api/checkbox-575": {
+  "/docs/api/checkbox-6a8": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-checkbox-84-c-3b1"
   },
-  "/docs/api/chip-137": {
+  "/docs/api/chip-6fd": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-chip-4-fa-2a6"
   },
-  "/docs/api/col-31a": {
+  "/docs/api/col-8bb": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-col-956-971"
   },
-  "/docs/api/content-2b4": {
+  "/docs/api/content-f0f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-contentd-9-d-d12"
   },
-  "/docs/api/datetime-0a5": {
+  "/docs/api/datetime-4bc": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-datetime-3-fb-be1"
   },
-  "/docs/api/datetime-button-66e": {
+  "/docs/api/datetime-button-bed": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-datetime-button-346-d86"
   },
-  "/docs/api/fab-3f4": {
+  "/docs/api/fab-f5b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-fab-2-aa-cc4"
   },
-  "/docs/api/fab-button-7d8": {
+  "/docs/api/fab-button-848": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-fab-button-152-dba"
   },
-  "/docs/api/fab-list-1ba": {
+  "/docs/api/fab-list-e41": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-fab-list-489-bf0"
   },
-  "/docs/api/footer-467": {
+  "/docs/api/footer-98b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-footerf-96-b34"
   },
-  "/docs/api/grid-b99": {
+  "/docs/api/grid-50b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-grid-511-007"
   },
-  "/docs/api/header-e89": {
+  "/docs/api/header-828": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-headerc-33-6a9"
   },
-  "/docs/api/img-f12": {
+  "/docs/api/img-c0a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-img-9-ad-839"
   },
-  "/docs/api/infinite-scroll-f09": {
+  "/docs/api/infinite-scroll-6b8": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-infinite-scroll-3-e-1-226"
   },
-  "/docs/api/infinite-scroll-content-c52": {
+  "/docs/api/infinite-scroll-content-0d9": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-infinite-scroll-contentfa-0-ef2"
   },
-  "/docs/api/input-da7": {
+  "/docs/api/input-0cc": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-input-59-b-8f7"
   },
-  "/docs/api/item-dd0": {
+  "/docs/api/item-d53": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-itemc-60-4e4"
   },
-  "/docs/api/item-divider-5b9": {
+  "/docs/api/item-divider-0cb": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-item-divider-306-fe2"
   },
-  "/docs/api/item-group-9a6": {
+  "/docs/api/item-group-211": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-item-groupfa-8-2b0"
   },
-  "/docs/api/item-option-c23": {
+  "/docs/api/item-option-8be": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-item-optiondd-9-c2e"
   },
-  "/docs/api/item-options-67f": {
+  "/docs/api/item-options-131": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-item-optionsd-6-c-512"
   },
-  "/docs/api/item-sliding-a44": {
+  "/docs/api/item-sliding-887": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-item-sliding-2-e-8-3e8"
   },
-  "/docs/api/label-e87": {
+  "/docs/api/label-4f0": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-label-205-0d3"
   },
-  "/docs/api/list-ed1": {
+  "/docs/api/list-f85": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-liste-2-e-62e"
   },
-  "/docs/api/list-header-b0a": {
+  "/docs/api/list-header-4b1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-list-header-571-ced"
   },
-  "/docs/api/loading-2c6": {
+  "/docs/api/loading-50f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-loading-898-d5a"
   },
-  "/docs/api/menu-442": {
+  "/docs/api/menu-846": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-menu-242-706"
   },
-  "/docs/api/menu-button-117": {
+  "/docs/api/menu-button-0e3": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-menu-buttonf-78-c2b"
   },
-  "/docs/api/menu-toggle-dba": {
+  "/docs/api/menu-toggle-ed6": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-menu-toggle-42-e-4d1"
   },
-  "/docs/api/modal-b8c": {
+  "/docs/api/modal-d31": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-modal-64-d-115"
   },
-  "/docs/api/nav-000": {
+  "/docs/api/nav-f40": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-nav-044-2a0"
   },
-  "/docs/api/nav-link-2f4": {
+  "/docs/api/nav-link-a10": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-nav-link-9-e-5-0a3"
   },
-  "/docs/api/note-2ae": {
+  "/docs/api/note-675": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-note-1-f-8-f6b"
   },
-  "/docs/api/picker-1bd": {
+  "/docs/api/picker-f7d": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-picker-2-c-3-c3f"
   },
-  "/docs/api/popover-097": {
+  "/docs/api/popover-479": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-popoverb-9-f-6b4"
   },
-  "/docs/api/progress-bar-b97": {
+  "/docs/api/progress-bar-9a4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-progress-bar-80-e-b8d"
   },
-  "/docs/api/radio-435": {
+  "/docs/api/radio-0da": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-radio-244-e5f"
   },
-  "/docs/api/radio-group-632": {
+  "/docs/api/radio-group-70f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-radio-groupba-8-eca"
   },
-  "/docs/api/range-eab": {
+  "/docs/api/range-7ce": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-rangee-08-a79"
   },
-  "/docs/api/refresher-887": {
+  "/docs/api/refresher-17c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-refresher-1-a-0-cb8"
   },
-  "/docs/api/refresher-content-1c3": {
+  "/docs/api/refresher-content-49f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-refresher-content-451-b41"
   },
-  "/docs/api/reorder-b1d": {
+  "/docs/api/reorder-d86": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-reorder-5-a-4-723"
   },
-  "/docs/api/reorder-group-0ac": {
+  "/docs/api/reorder-group-033": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-reorder-group-025-21f"
   },
@@ -2188,115 +2192,115 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-ripple-effectc-86-f24"
   },
-  "/docs/api/route-e01": {
+  "/docs/api/route-294": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-route-968-694"
   },
-  "/docs/api/route-redirect-758": {
+  "/docs/api/route-redirect-cbe": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-route-redirect-6-f-1-340"
   },
-  "/docs/api/router-213": {
+  "/docs/api/router-d22": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-router-9-aa-0e9"
   },
-  "/docs/api/router-link-27b": {
+  "/docs/api/router-link-f44": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-router-linkc-31-b7e"
   },
-  "/docs/api/router-outlet-42d": {
+  "/docs/api/router-outlet-cef": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-router-outlet-696-c70"
   },
-  "/docs/api/row-109": {
+  "/docs/api/row-099": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-rowc-8-e-b2a"
   },
-  "/docs/api/searchbar-443": {
+  "/docs/api/searchbar-908": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-searchbar-55-e-e8c"
   },
-  "/docs/api/segment-0e0": {
+  "/docs/api/segment-1c1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-segment-4-c-4-168"
   },
-  "/docs/api/segment-button-51a": {
+  "/docs/api/segment-button-970": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-segment-button-1-eb-36e"
   },
-  "/docs/api/select-398": {
+  "/docs/api/select-a2b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-selectf-51-cf9"
   },
-  "/docs/api/select-option-cbf": {
+  "/docs/api/select-option-f45": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-select-option-164-451"
   },
-  "/docs/api/skeleton-text-f6e": {
+  "/docs/api/skeleton-text-cb2": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-skeleton-text-73-d-9ba"
   },
-  "/docs/api/slide-e53": {
+  "/docs/api/slide-c1c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-slide-1-f-3-ac0"
   },
-  "/docs/api/slides-b72": {
+  "/docs/api/slides-1e6": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-slides-8-a-0-1c1"
   },
-  "/docs/api/spinner-8ca": {
+  "/docs/api/spinner-8dd": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-spinner-494-e45"
   },
-  "/docs/api/split-pane-4ef": {
+  "/docs/api/split-pane-afb": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-split-pane-986-5aa"
   },
-  "/docs/api/tab-114": {
+  "/docs/api/tab-27c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-tab-808-9b0"
   },
-  "/docs/api/tab-bar-ade": {
+  "/docs/api/tab-bar-031": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-tab-bar-2-c-2-969"
   },
-  "/docs/api/tab-button-f4a": {
+  "/docs/api/tab-button-113": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-tab-button-579-818"
   },
-  "/docs/api/tabs-f18": {
+  "/docs/api/tabs-8da": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-tabs-79-d-be2"
   },
-  "/docs/api/text-167": {
+  "/docs/api/text-d63": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-text-3-ea-d02"
   },
-  "/docs/api/textarea-20e": {
+  "/docs/api/textarea-3b5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-textareaf-65-7e1"
   },
-  "/docs/api/thumbnail-ea3": {
+  "/docs/api/thumbnail-e62": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-thumbnailabc-9c9"
   },
-  "/docs/api/title-993": {
+  "/docs/api/title-924": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-title-8-ca-149"
   },
-  "/docs/api/toast-b44": {
+  "/docs/api/toast-6f4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-toastea-9-d2a"
   },
-  "/docs/api/toggle-8db": {
+  "/docs/api/toggle-173": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-toggle-48-d-7f9"
   },
-  "/docs/api/toolbar-01d": {
+  "/docs/api/toolbar-b26": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-toolbar-246-d96"
   },
-  "/docs/api/virtual-scroll-0d6": {
+  "/docs/api/virtual-scroll-c01": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-api-virtual-scroll-1-cf-8c1"
   },
@@ -2564,7 +2568,7 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-cli-using-a-proxy-526-47a"
   },
-  "/docs/components-e19": {
+  "/docs/components-940": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-components-1-f-7-307"
   },
@@ -3571,6 +3575,10 @@
   "/docs/react-4d5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-react-01-a-e81"
+  },
+  "/docs/sdk/components-c4c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-componentse-1-f-41f"
   },
   "/docs/studio-6a6": {
     "component": "component---theme-doc-item-178-a40",

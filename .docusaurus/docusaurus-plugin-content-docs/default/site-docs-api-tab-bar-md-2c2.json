@@ -14,14 +14,5 @@
   "frontMatter": {
     "title": "ion-tab-bar",
     "hide_table_of_contents": true
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-tab",
-    "permalink": "/docs/api/tab"
-  },
-  "next": {
-    "title": "ion-tab-button",
-    "permalink": "/docs/api/tab-button"
   }
 }

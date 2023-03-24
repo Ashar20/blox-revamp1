@@ -38,11 +38,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "API Index"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-text",
-                "permalink": "/docs/api/text"
               }
             },
             {
@@ -60,15 +55,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-accordion-group"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "action-sheet",
-                "permalink": "/docs/api/action-sheet"
-              },
-              "next": {
-                "title": "Catalog Manager",
-                "permalink": "/docs/api/alert"
               }
             },
             {
@@ -84,16 +70,7 @@
               "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/action-sheet.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
-              "sidebar": "api",
-              "previous": {
-                "title": "SDK documentation",
-                "permalink": "/docs/components"
-              },
-              "next": {
-                "title": "ion-accordion-group",
-                "permalink": "/docs/api/accordion-group"
-              }
+              "frontMatter": {}
             },
             {
               "unversionedId": "api/alert",
@@ -113,10 +90,6 @@
                 "sidebar_label": "Catalog Manager"
               },
               "sidebar": "api",
-              "previous": {
-                "title": "ion-accordion-group",
-                "permalink": "/docs/api/accordion-group"
-              },
               "next": {
                 "title": "Schema",
                 "permalink": "/docs/api/badge"
@@ -137,15 +110,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-app"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-chip",
-                "permalink": "/docs/api/chip"
-              },
-              "next": {
-                "title": "ion-content",
-                "permalink": "/docs/api/content"
               }
             },
             {
@@ -163,16 +127,22 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-avatar"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-virtual-scroll",
-                "permalink": "/docs/api/virtual-scroll"
-              },
-              "next": {
-                "title": "ion-img",
-                "permalink": "/docs/api/img"
               }
+            },
+            {
+              "unversionedId": "api/b",
+              "id": "api/b",
+              "isDocsHomePage": false,
+              "title": "b",
+              "description": "Ion-Accordion Components: How to Build & Examples | Ionic",
+              "source": "@site/docs/api/b.md",
+              "sourceDirName": "api",
+              "slug": "/api/b",
+              "permalink": "/docs/api/b",
+              "editUrl": "https://github.com/ionic-team/ionic-docs/tree/main/docs/api/b.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
             },
             {
               "unversionedId": "api/back-button",
@@ -192,15 +162,6 @@
                 "hide_table_of_contents": true,
                 "demoUrl": "/docs/demos/api/back-button/index.html",
                 "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/back-button/index.html"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-buttons",
-                "permalink": "/docs/api/buttons"
-              },
-              "next": {
-                "title": "ion-text",
-                "permalink": "/docs/api/text"
               }
             },
             {
@@ -218,15 +179,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-backdrop"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-modal",
-                "permalink": "/docs/api/modal"
-              },
-              "next": {
-                "title": "ion-nav",
-                "permalink": "/docs/api/nav"
               }
             },
             {
@@ -252,8 +204,8 @@
                 "permalink": "/docs/api/alert"
               },
               "next": {
-                "title": "ion-breadcrumb",
-                "permalink": "/docs/api/breadcrumb"
+                "title": "Installation",
+                "permalink": "/docs/api/button"
               }
             },
             {
@@ -271,15 +223,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-breadcrumb"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "Schema",
-                "permalink": "/docs/api/badge"
-              },
-              "next": {
-                "title": "ion-breadcrumbs",
-                "permalink": "/docs/api/breadcrumbs"
               }
             },
             {
@@ -297,15 +240,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-breadcrumbs"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-breadcrumb",
-                "permalink": "/docs/api/breadcrumb"
-              },
-              "next": {
-                "title": "Installation",
-                "permalink": "/docs/api/button"
               }
             },
             {
@@ -327,8 +261,8 @@
               },
               "sidebar": "api",
               "previous": {
-                "title": "ion-breadcrumbs",
-                "permalink": "/docs/api/breadcrumbs"
+                "title": "Schema",
+                "permalink": "/docs/api/badge"
               },
               "next": {
                 "title": "ion-ripple-effect",
@@ -350,15 +284,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-buttons"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-title",
-                "permalink": "/docs/api/title"
-              },
-              "next": {
-                "title": "ion-back-button",
-                "permalink": "/docs/api/back-button"
               }
             },
             {
@@ -376,15 +301,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-card"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-ripple-effect",
-                "permalink": "/docs/api/ripple-effect"
-              },
-              "next": {
-                "title": "ion-card-content",
-                "permalink": "/docs/api/card-content"
               }
             },
             {
@@ -402,15 +318,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-card-content"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-card",
-                "permalink": "/docs/api/card"
-              },
-              "next": {
-                "title": "ion-card-header",
-                "permalink": "/docs/api/card-header"
               }
             },
             {
@@ -428,15 +335,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-card-header"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-card-content",
-                "permalink": "/docs/api/card-content"
-              },
-              "next": {
-                "title": "ion-card-subtitle",
-                "permalink": "/docs/api/card-subtitle"
               }
             },
             {
@@ -454,15 +352,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-card-subtitle"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-card-header",
-                "permalink": "/docs/api/card-header"
-              },
-              "next": {
-                "title": "ion-card-title",
-                "permalink": "/docs/api/card-title"
               }
             },
             {
@@ -480,15 +369,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-card-title"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-card-subtitle",
-                "permalink": "/docs/api/card-subtitle"
-              },
-              "next": {
-                "title": "ion-checkbox",
-                "permalink": "/docs/api/checkbox"
               }
             },
             {
@@ -506,15 +386,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-checkbox"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-card-title",
-                "permalink": "/docs/api/card-title"
-              },
-              "next": {
-                "title": "ion-chip",
-                "permalink": "/docs/api/chip"
               }
             },
             {
@@ -532,15 +403,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-chip"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-checkbox",
-                "permalink": "/docs/api/checkbox"
-              },
-              "next": {
-                "title": "ion-app",
-                "permalink": "/docs/api/app"
               }
             },
             {
@@ -558,15 +420,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-col"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-grid",
-                "permalink": "/docs/api/grid"
-              },
-              "next": {
-                "title": "ion-row",
-                "permalink": "/docs/api/row"
               }
             },
             {
@@ -584,15 +437,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-content"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-app",
-                "permalink": "/docs/api/app"
-              },
-              "next": {
-                "title": "ion-datetime",
-                "permalink": "/docs/api/datetime"
               }
             },
             {
@@ -610,15 +454,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-datetime"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-content",
-                "permalink": "/docs/api/content"
-              },
-              "next": {
-                "title": "ion-datetime-button",
-                "permalink": "/docs/api/datetime-button"
               }
             },
             {
@@ -636,15 +471,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-datetime-button"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-datetime",
-                "permalink": "/docs/api/datetime"
-              },
-              "next": {
-                "title": "ion-picker",
-                "permalink": "/docs/api/picker"
               }
             },
             {
@@ -662,15 +488,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-fab"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-picker",
-                "permalink": "/docs/api/picker"
-              },
-              "next": {
-                "title": "ion-fab-button",
-                "permalink": "/docs/api/fab-button"
               }
             },
             {
@@ -688,15 +505,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-fab-button"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-fab",
-                "permalink": "/docs/api/fab"
-              },
-              "next": {
-                "title": "ion-fab-list",
-                "permalink": "/docs/api/fab-list"
               }
             },
             {
@@ -714,15 +522,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-fab-list"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-fab-button",
-                "permalink": "/docs/api/fab-button"
-              },
-              "next": {
-                "title": "ion-grid",
-                "permalink": "/docs/api/grid"
               }
             },
             {
@@ -740,15 +539,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-footer"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-header",
-                "permalink": "/docs/api/header"
-              },
-              "next": {
-                "title": "ion-title",
-                "permalink": "/docs/api/title"
               }
             },
             {
@@ -766,15 +556,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-grid"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-fab-list",
-                "permalink": "/docs/api/fab-list"
-              },
-              "next": {
-                "title": "ion-col",
-                "permalink": "/docs/api/col"
               }
             },
             {
@@ -792,15 +573,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-header"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-toolbar",
-                "permalink": "/docs/api/toolbar"
-              },
-              "next": {
-                "title": "ion-footer",
-                "permalink": "/docs/api/footer"
               }
             },
             {
@@ -818,15 +590,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-img"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-avatar",
-                "permalink": "/docs/api/avatar"
-              },
-              "next": {
-                "title": "ion-thumbnail",
-                "permalink": "/docs/api/thumbnail"
               }
             },
             {
@@ -844,15 +607,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-infinite-scroll"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-row",
-                "permalink": "/docs/api/row"
-              },
-              "next": {
-                "title": "ion-infinite-scroll-content",
-                "permalink": "/docs/api/infinite-scroll-content"
               }
             },
             {
@@ -870,15 +624,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-infinite-scroll-content"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-infinite-scroll",
-                "permalink": "/docs/api/infinite-scroll"
-              },
-              "next": {
-                "title": "ion-input",
-                "permalink": "/docs/api/input"
               }
             },
             {
@@ -896,15 +641,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-input"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-infinite-scroll-content",
-                "permalink": "/docs/api/infinite-scroll-content"
-              },
-              "next": {
-                "title": "ion-textarea",
-                "permalink": "/docs/api/textarea"
               }
             },
             {
@@ -922,15 +658,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-item"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-textarea",
-                "permalink": "/docs/api/textarea"
-              },
-              "next": {
-                "title": "ion-item-divider",
-                "permalink": "/docs/api/item-divider"
               }
             },
             {
@@ -948,15 +675,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-item-divider"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-item",
-                "permalink": "/docs/api/item"
-              },
-              "next": {
-                "title": "ion-item-group",
-                "permalink": "/docs/api/item-group"
               }
             },
             {
@@ -974,15 +692,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-item-group"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-item-divider",
-                "permalink": "/docs/api/item-divider"
-              },
-              "next": {
-                "title": "ion-item-sliding",
-                "permalink": "/docs/api/item-sliding"
               }
             },
             {
@@ -1000,15 +709,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-item-option"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-item-options",
-                "permalink": "/docs/api/item-options"
-              },
-              "next": {
-                "title": "ion-label",
-                "permalink": "/docs/api/label"
               }
             },
             {
@@ -1026,15 +726,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-item-options"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-item-sliding",
-                "permalink": "/docs/api/item-sliding"
-              },
-              "next": {
-                "title": "ion-item-option",
-                "permalink": "/docs/api/item-option"
               }
             },
             {
@@ -1052,15 +743,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-item-sliding"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-item-group",
-                "permalink": "/docs/api/item-group"
-              },
-              "next": {
-                "title": "ion-item-options",
-                "permalink": "/docs/api/item-options"
               }
             },
             {
@@ -1078,15 +760,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-label"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-item-option",
-                "permalink": "/docs/api/item-option"
-              },
-              "next": {
-                "title": "ion-note",
-                "permalink": "/docs/api/note"
               }
             },
             {
@@ -1104,15 +777,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-list"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-note",
-                "permalink": "/docs/api/note"
-              },
-              "next": {
-                "title": "ion-list-header",
-                "permalink": "/docs/api/list-header"
               }
             },
             {
@@ -1130,15 +794,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-list-header"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-list",
-                "permalink": "/docs/api/list"
-              },
-              "next": {
-                "title": "ion-virtual-scroll",
-                "permalink": "/docs/api/virtual-scroll"
               }
             },
             {
@@ -1156,15 +811,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-loading"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-popover",
-                "permalink": "/docs/api/popover"
-              },
-              "next": {
-                "title": "ion-progress-bar",
-                "permalink": "/docs/api/progress-bar"
               }
             },
             {
@@ -1182,15 +828,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-menu"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-thumbnail",
-                "permalink": "/docs/api/thumbnail"
-              },
-              "next": {
-                "title": "ion-menu-button",
-                "permalink": "/docs/api/menu-button"
               }
             },
             {
@@ -1208,15 +845,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-menu-button"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-menu",
-                "permalink": "/docs/api/menu"
-              },
-              "next": {
-                "title": "ion-menu-toggle",
-                "permalink": "/docs/api/menu-toggle"
               }
             },
             {
@@ -1234,15 +862,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-menu-toggle"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-menu-button",
-                "permalink": "/docs/api/menu-button"
-              },
-              "next": {
-                "title": "ion-split-pane",
-                "permalink": "/docs/api/split-pane"
               }
             },
             {
@@ -1260,15 +879,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-modal"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-split-pane",
-                "permalink": "/docs/api/split-pane"
-              },
-              "next": {
-                "title": "ion-backdrop",
-                "permalink": "/docs/api/backdrop"
               }
             },
             {
@@ -1286,15 +896,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-nav"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-backdrop",
-                "permalink": "/docs/api/backdrop"
-              },
-              "next": {
-                "title": "ion-nav-link",
-                "permalink": "/docs/api/nav-link"
               }
             },
             {
@@ -1312,15 +913,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-nav-link"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-nav",
-                "permalink": "/docs/api/nav"
-              },
-              "next": {
-                "title": "ion-popover",
-                "permalink": "/docs/api/popover"
               }
             },
             {
@@ -1338,15 +930,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-note"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-label",
-                "permalink": "/docs/api/label"
-              },
-              "next": {
-                "title": "ion-list",
-                "permalink": "/docs/api/list"
               }
             },
             {
@@ -1364,15 +947,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-picker"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-datetime-button",
-                "permalink": "/docs/api/datetime-button"
-              },
-              "next": {
-                "title": "ion-fab",
-                "permalink": "/docs/api/fab"
               }
             },
             {
@@ -1390,15 +964,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-popover"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-nav-link",
-                "permalink": "/docs/api/nav-link"
-              },
-              "next": {
-                "title": "ion-loading",
-                "permalink": "/docs/api/loading"
               }
             },
             {
@@ -1416,15 +981,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-progress-bar"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-loading",
-                "permalink": "/docs/api/loading"
-              },
-              "next": {
-                "title": "ion-skeleton-text",
-                "permalink": "/docs/api/skeleton-text"
               }
             },
             {
@@ -1442,15 +998,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-radio"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-spinner",
-                "permalink": "/docs/api/spinner"
-              },
-              "next": {
-                "title": "ion-radio-group",
-                "permalink": "/docs/api/radio-group"
               }
             },
             {
@@ -1468,15 +1015,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-radio-group"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-radio",
-                "permalink": "/docs/api/radio"
-              },
-              "next": {
-                "title": "ion-range",
-                "permalink": "/docs/api/range"
               }
             },
             {
@@ -1494,15 +1032,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-range"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-radio-group",
-                "permalink": "/docs/api/radio-group"
-              },
-              "next": {
-                "title": "ion-refresher",
-                "permalink": "/docs/api/refresher"
               }
             },
             {
@@ -1520,15 +1049,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-refresher"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-range",
-                "permalink": "/docs/api/range"
-              },
-              "next": {
-                "title": "ion-refresher-content",
-                "permalink": "/docs/api/refresher-content"
               }
             },
             {
@@ -1546,15 +1066,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-refresher-content"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-refresher",
-                "permalink": "/docs/api/refresher"
-              },
-              "next": {
-                "title": "ion-reorder",
-                "permalink": "/docs/api/reorder"
               }
             },
             {
@@ -1572,15 +1083,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-reorder"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-refresher-content",
-                "permalink": "/docs/api/refresher-content"
-              },
-              "next": {
-                "title": "ion-reorder-group",
-                "permalink": "/docs/api/reorder-group"
               }
             },
             {
@@ -1598,15 +1100,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-reorder-group"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-reorder",
-                "permalink": "/docs/api/reorder"
-              },
-              "next": {
-                "title": "ion-router",
-                "permalink": "/docs/api/router"
               }
             },
             {
@@ -1629,10 +1122,6 @@
               "previous": {
                 "title": "Installation",
                 "permalink": "/docs/api/button"
-              },
-              "next": {
-                "title": "ion-card",
-                "permalink": "/docs/api/card"
               }
             },
             {
@@ -1651,15 +1140,6 @@
               "frontMatter": {
                 "title": "ion-route",
                 "hide_table_of_contents": true
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-router-outlet",
-                "permalink": "/docs/api/router-outlet"
-              },
-              "next": {
-                "title": "ion-route-redirect",
-                "permalink": "/docs/api/route-redirect"
               }
             },
             {
@@ -1678,15 +1158,6 @@
               "frontMatter": {
                 "title": "ion-route-redirect",
                 "hide_table_of_contents": true
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-route",
-                "permalink": "/docs/api/route"
-              },
-              "next": {
-                "title": "ion-searchbar",
-                "permalink": "/docs/api/searchbar"
               }
             },
             {
@@ -1705,15 +1176,6 @@
               "frontMatter": {
                 "title": "ion-router",
                 "hide_table_of_contents": true
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-reorder-group",
-                "permalink": "/docs/api/reorder-group"
-              },
-              "next": {
-                "title": "ion-router-link",
-                "permalink": "/docs/api/router-link"
               }
             },
             {
@@ -1734,15 +1196,6 @@
                 "hide_table_of_contents": true,
                 "demoUrl": "/docs/demos/api/router-link/index.html",
                 "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/router-link/index.html"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-router",
-                "permalink": "/docs/api/router"
-              },
-              "next": {
-                "title": "ion-router-outlet",
-                "permalink": "/docs/api/router-outlet"
               }
             },
             {
@@ -1761,15 +1214,6 @@
               "frontMatter": {
                 "title": "ion-router-outlet",
                 "hide_table_of_contents": true
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-router-link",
-                "permalink": "/docs/api/router-link"
-              },
-              "next": {
-                "title": "ion-route",
-                "permalink": "/docs/api/route"
               }
             },
             {
@@ -1787,15 +1231,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-row"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-col",
-                "permalink": "/docs/api/col"
-              },
-              "next": {
-                "title": "ion-infinite-scroll",
-                "permalink": "/docs/api/infinite-scroll"
               }
             },
             {
@@ -1813,15 +1248,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-searchbar"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-route-redirect",
-                "permalink": "/docs/api/route-redirect"
-              },
-              "next": {
-                "title": "ion-segment",
-                "permalink": "/docs/api/segment"
               }
             },
             {
@@ -1839,15 +1265,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-segment"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-searchbar",
-                "permalink": "/docs/api/searchbar"
-              },
-              "next": {
-                "title": "ion-segment-button",
-                "permalink": "/docs/api/segment-button"
               }
             },
             {
@@ -1865,15 +1282,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-segment-button"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-segment",
-                "permalink": "/docs/api/segment"
-              },
-              "next": {
-                "title": "ion-select",
-                "permalink": "/docs/api/select"
               }
             },
             {
@@ -1891,15 +1299,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-select"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-segment-button",
-                "permalink": "/docs/api/segment-button"
-              },
-              "next": {
-                "title": "ion-select-option",
-                "permalink": "/docs/api/select-option"
               }
             },
             {
@@ -1917,15 +1316,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-select-option"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-select",
-                "permalink": "/docs/api/select"
-              },
-              "next": {
-                "title": "ion-slides",
-                "permalink": "/docs/api/slides"
               }
             },
             {
@@ -1943,15 +1333,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-skeleton-text"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-progress-bar",
-                "permalink": "/docs/api/progress-bar"
-              },
-              "next": {
-                "title": "ion-spinner",
-                "permalink": "/docs/api/spinner"
               }
             },
             {
@@ -1969,15 +1350,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-slide"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-slides",
-                "permalink": "/docs/api/slides"
-              },
-              "next": {
-                "title": "ion-tabs",
-                "permalink": "/docs/api/tabs"
               }
             },
             {
@@ -1998,15 +1370,6 @@
                 "hide_table_of_contents": true,
                 "demoUrl": "/docs/demos/api/slides/index.html",
                 "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/slides/index.html"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-select-option",
-                "permalink": "/docs/api/select-option"
-              },
-              "next": {
-                "title": "ion-slide",
-                "permalink": "/docs/api/slide"
               }
             },
             {
@@ -2024,15 +1387,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-spinner"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-skeleton-text",
-                "permalink": "/docs/api/skeleton-text"
-              },
-              "next": {
-                "title": "ion-radio",
-                "permalink": "/docs/api/radio"
               }
             },
             {
@@ -2050,15 +1404,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-split-pane"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-menu-toggle",
-                "permalink": "/docs/api/menu-toggle"
-              },
-              "next": {
-                "title": "ion-modal",
-                "permalink": "/docs/api/modal"
               }
             },
             {
@@ -2077,15 +1422,6 @@
               "frontMatter": {
                 "title": "ion-tab",
                 "hide_table_of_contents": true
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-tabs",
-                "permalink": "/docs/api/tabs"
-              },
-              "next": {
-                "title": "ion-tab-bar",
-                "permalink": "/docs/api/tab-bar"
               }
             },
             {
@@ -2104,15 +1440,6 @@
               "frontMatter": {
                 "title": "ion-tab-bar",
                 "hide_table_of_contents": true
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-tab",
-                "permalink": "/docs/api/tab"
-              },
-              "next": {
-                "title": "ion-tab-button",
-                "permalink": "/docs/api/tab-button"
               }
             },
             {
@@ -2131,15 +1458,6 @@
               "frontMatter": {
                 "title": "ion-tab-button",
                 "hide_table_of_contents": true
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-tab-bar",
-                "permalink": "/docs/api/tab-bar"
-              },
-              "next": {
-                "title": "ion-toast",
-                "permalink": "/docs/api/toast"
               }
             },
             {
@@ -2160,15 +1478,6 @@
                 "hide_table_of_contents": true,
                 "demoUrl": "/docs/demos/api/tabs/index.html",
                 "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/tabs/index.html"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-slide",
-                "permalink": "/docs/api/slide"
-              },
-              "next": {
-                "title": "ion-tab",
-                "permalink": "/docs/api/tab"
               }
             },
             {
@@ -2186,15 +1495,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-text"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-back-button",
-                "permalink": "/docs/api/back-button"
-              },
-              "next": {
-                "title": "API Index",
-                "permalink": "/docs/api"
               }
             },
             {
@@ -2212,15 +1512,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-textarea"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-input",
-                "permalink": "/docs/api/input"
-              },
-              "next": {
-                "title": "ion-item",
-                "permalink": "/docs/api/item"
               }
             },
             {
@@ -2238,15 +1529,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-thumbnail"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-img",
-                "permalink": "/docs/api/img"
-              },
-              "next": {
-                "title": "ion-menu",
-                "permalink": "/docs/api/menu"
               }
             },
             {
@@ -2264,15 +1546,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-title"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-footer",
-                "permalink": "/docs/api/footer"
-              },
-              "next": {
-                "title": "ion-buttons",
-                "permalink": "/docs/api/buttons"
               }
             },
             {
@@ -2290,15 +1563,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-toast"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-tab-button",
-                "permalink": "/docs/api/tab-button"
-              },
-              "next": {
-                "title": "ion-toggle",
-                "permalink": "/docs/api/toggle"
               }
             },
             {
@@ -2316,15 +1580,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-toggle"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-toast",
-                "permalink": "/docs/api/toast"
-              },
-              "next": {
-                "title": "ion-toolbar",
-                "permalink": "/docs/api/toolbar"
               }
             },
             {
@@ -2342,15 +1597,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-toolbar"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-toggle",
-                "permalink": "/docs/api/toggle"
-              },
-              "next": {
-                "title": "ion-header",
-                "permalink": "/docs/api/header"
               }
             },
             {
@@ -2368,15 +1614,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "ion-virtual-scroll"
-              },
-              "sidebar": "api",
-              "previous": {
-                "title": "ion-list-header",
-                "permalink": "/docs/api/list-header"
-              },
-              "next": {
-                "title": "ion-avatar",
-                "permalink": "/docs/api/avatar"
               }
             },
             {
@@ -4114,11 +3351,7 @@
                 "title": "SDK documentation",
                 "hide_table_of_contents": true
               },
-              "sidebar": "api",
-              "next": {
-                "title": "action-sheet",
-                "permalink": "/docs/api/action-sheet"
-              }
+              "sidebar": "sdk"
             },
             {
               "unversionedId": "Content Hub/Enrich/dataorg",
@@ -10366,6 +9599,24 @@
               }
             },
             {
+              "unversionedId": "sdk/components",
+              "id": "sdk/components",
+              "isDocsHomePage": false,
+              "title": "SDK documentation",
+              "description": "UI Components | User Interface Application Building Components",
+              "source": "@site/docs/sdk/components.md",
+              "sourceDirName": "sdk",
+              "slug": "/sdk/components",
+              "permalink": "/docs/sdk/components",
+              "editUrl": "https://github.com/ionic-team/ionic-docs/edit/main/docs/sdk/components.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "SDK documentation",
+                "hide_table_of_contents": true
+              }
+            },
+            {
               "unversionedId": "studio",
               "id": "studio",
               "isDocsHomePage": false,
@@ -10750,11 +10001,11 @@
                 "collapsible": true
               }
             ],
-            "api": [
+            "sdk": [
               {
                 "type": "category",
                 "label": "Getting Started",
-                "collapsed": false,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -10762,31 +10013,9 @@
                   }
                 ],
                 "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Action Sheet",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/action-sheet"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Accordion",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/accordion-group"
-                  }
-                ],
-                "collapsible": true
-              },
+              }
+            ],
+            "api": [
               {
                 "type": "category",
                 "label": "Alert",
@@ -10813,22 +10042,6 @@
               },
               {
                 "type": "category",
-                "label": "Breadcrumb",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/breadcrumb"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/breadcrumbs"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
                 "label": "Button",
                 "collapsed": false,
                 "items": [
@@ -10839,608 +10052,6 @@
                   {
                     "type": "doc",
                     "id": "api/ripple-effect"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Card",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/card"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/card-content"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/card-header"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/card-subtitle"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/card-title"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Checkbox",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/checkbox"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Chip",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/chip"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Content",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/app"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/content"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Date & Time Pickers",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/datetime"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/datetime-button"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/picker"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Floating Action Button",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/fab"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/fab-button"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/fab-list"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Grid",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/grid"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/col"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/row"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Infinite Scroll",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/infinite-scroll"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/infinite-scroll-content"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Icons",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "ion-icon",
-                    "href": "https://ionicons.com"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Input",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/input"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/textarea"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Item",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/item"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/item-divider"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/item-group"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/item-sliding"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/item-options"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/item-option"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/label"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/note"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "List",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/list"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/list-header"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/virtual-scroll"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Media",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/avatar"
-                  },
-                  {
-                    "type": "link",
-                    "label": "ion-icon",
-                    "href": "https://ionicons.com"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/img"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/thumbnail"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Menu",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/menu"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/menu-button"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/menu-toggle"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/split-pane"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Modal",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/modal"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/backdrop"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Navigation",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/nav"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/nav-link"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Popover",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/popover"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Progress Indicators",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/loading"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/progress-bar"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/skeleton-text"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/spinner"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Radio",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/radio"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/radio-group"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Range",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/range"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Refresher",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/refresher"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/refresher-content"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Reorder",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/reorder"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/reorder-group"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Routing",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/router"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/router-link"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/router-outlet"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/route"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/route-redirect"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Searchbar",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/searchbar"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Segment",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/segment"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/segment-button"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Select",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/select"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/select-option"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Slides",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/slides"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/slide"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Tabs",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/tabs"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/tab"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/tab-bar"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/tab-button"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Toast",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/toast"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Toggle",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/toggle"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Toolbar",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/toolbar"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/header"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/footer"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/title"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/buttons"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api/back-button"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Typography",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/text"
-                  }
-                ],
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Resources",
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api"
                   }
                 ],
                 "collapsible": true
@@ -27305,7 +25916,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBI07xEAACUAc6ly&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBjMnxEAACQAfUyy&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Ysx-PhAAACIA0CfG%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2022-07-11T19:50:16+0000",
           "last_publication_date": "2022-07-11T19:50:16+0000",
@@ -27356,7 +25967,7 @@
           "uid": null,
           "url": null,
           "type": "docs_ad",
-          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBI07xEAACUAc6ly&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
+          "href": "https://ionicframeworkcom.cdn.prismic.io/api/v2/documents/search?ref=ZBjMnxEAACQAfUyy&integrationFieldsRef=ionicframeworkcom%7E936bcf57-92c2-4464-8577-94806f5f3b15&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YD0kPhEAAB8AJDpT%22%29+%5D%5D",
           "tags": [],
           "first_publication_date": "2021-03-01T17:28:35+0000",
           "last_publication_date": "2022-05-31T17:25:35+0000",

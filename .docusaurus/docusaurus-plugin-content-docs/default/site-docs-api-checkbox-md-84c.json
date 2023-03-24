@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-checkbox"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-card-title",
-    "permalink": "/docs/api/card-title"
-  },
-  "next": {
-    "title": "ion-chip",
-    "permalink": "/docs/api/chip"
   }
 }

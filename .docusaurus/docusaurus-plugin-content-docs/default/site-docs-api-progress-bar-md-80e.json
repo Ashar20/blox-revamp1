@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-progress-bar"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-loading",
-    "permalink": "/docs/api/loading"
-  },
-  "next": {
-    "title": "ion-skeleton-text",
-    "permalink": "/docs/api/skeleton-text"
   }
 }

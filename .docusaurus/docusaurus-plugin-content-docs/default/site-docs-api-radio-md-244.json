@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-radio"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-spinner",
-    "permalink": "/docs/api/spinner"
-  },
-  "next": {
-    "title": "ion-radio-group",
-    "permalink": "/docs/api/radio-group"
   }
 }

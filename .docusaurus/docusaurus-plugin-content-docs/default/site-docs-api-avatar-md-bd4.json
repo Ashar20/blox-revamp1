@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-avatar"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-virtual-scroll",
-    "permalink": "/docs/api/virtual-scroll"
-  },
-  "next": {
-    "title": "ion-img",
-    "permalink": "/docs/api/img"
   }
 }

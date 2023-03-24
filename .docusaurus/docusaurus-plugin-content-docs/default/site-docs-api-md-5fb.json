@@ -13,10 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "API Index"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-text",
-    "permalink": "/docs/api/text"
   }
 }

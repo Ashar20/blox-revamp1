@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-row"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-col",
-    "permalink": "/docs/api/col"
-  },
-  "next": {
-    "title": "ion-infinite-scroll",
-    "permalink": "/docs/api/infinite-scroll"
   }
 }

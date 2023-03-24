@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-content"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-app",
-    "permalink": "/docs/api/app"
-  },
-  "next": {
-    "title": "ion-datetime",
-    "permalink": "/docs/api/datetime"
   }
 }

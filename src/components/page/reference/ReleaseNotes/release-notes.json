@@ -1,5 +1,25 @@
 [
   {
+    "body": "<h1><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.6.3...v6.7.0\">6.7.0</a> (2023-03-23)</h1>\n<h3>Features</h3>\n<ul>\n<li><strong>config:</strong> add option to disable custom html functionality (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26956\">#26956</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/3b0af7c55d4fa039be33d6605414761494d5af8f\">3b0af7c</a>)</li>\n</ul>\n",
+    "element": "Unobtainium",
+    "name": "v6.7.0",
+    "published_at": "March 23 2023",
+    "symbol": "Uo",
+    "tag_name": "v6.7.0",
+    "type": "minor",
+    "version": "6.7.0"
+  },
+  {
+    "body": "<h2><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.6.2...v6.6.3\">6.6.3</a> (2023-03-22)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li><strong>menu:</strong> main content is not scrollable while swiping (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26976\">#26976</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/88bd8a47c5e844d1d3a2b3b13621826faf776afb\">88bd8a4</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/21193\">#21193</a></li>\n</ul>\n",
+    "element": "Unobtainium",
+    "name": "v6.6.3",
+    "published_at": "March 22 2023",
+    "symbol": "Uo",
+    "tag_name": "v6.6.3",
+    "type": "patch",
+    "version": "6.6.3"
+  },
+  {
     "body": "<h2><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.6.1...v6.6.2\">6.6.2</a> (2023-03-15)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li><strong>accordion:</strong> include margins during expand animation (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26390\">#26390</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/f80991813ae8873d8ef6038b0aeb763d727f402e\">f809918</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26381\">#26381</a></li>\n<li><strong>IonicSlides:</strong> remove unnecessary autoplay option (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26935\">#26935</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/b8f893731471052df198824b7ece47606ffcc500\">b8f8937</a>)</li>\n<li><strong>radio:</strong> checked state is updated when value changes (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26936\">#26936</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/27a5356fa2b72073d565e9d6f527107869faa3ee\">27a5356</a>)</li>\n<li><strong>react/vue:</strong> properly switch ionicon based on the mode when ios/md is set (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26924\">#26924</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/1eb9a085b2d69dfcfc71ff49b25d33347dd54aae\">1eb9a08</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26207\">#26207</a></li>\n<li><strong>textarea:</strong> inherit tabindex to inner textarea (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26945\">#26945</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/2c68d01b898a2f879445b8b64014189afe1255d7\">2c68d01</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26944\">#26944</a></li>\n</ul>\n",
     "element": "Unobtainium",
     "name": "v6.6.2",
@@ -38,15 +58,5 @@
     "tag_name": "v6.5.7",
     "type": "patch",
     "version": "6.5.7"
-  },
-  {
-    "body": "<h2><a href=\"https://github.com/ionic-team/ionic-framework/compare/v6.5.5...v6.5.6\">6.5.6</a> (2023-02-22)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li><strong>card:</strong> border radius does not overflow on paint in Safari (<a href=\"https://github.com/ionic-team/ionic-framework/issues/26539\">#26539</a>) (<a href=\"https://github.com/ionic-team/ionic-framework/commit/df5c8e231825b5e5b6923f322c94224a00d3b309\">df5c8e2</a>), closes <a href=\"https://github.com/ionic-team/ionic-framework/issues/26529\">#26529</a></li>\n</ul>\n",
-    "element": "Unobtainium",
-    "name": "v6.5.6",
-    "published_at": "February 22 2023",
-    "symbol": "Uo",
-    "tag_name": "v6.5.6",
-    "type": "patch",
-    "version": "6.5.6"
   }
 ]

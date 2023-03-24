@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-toast"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-tab-button",
-    "permalink": "/docs/api/tab-button"
-  },
-  "next": {
-    "title": "ion-toggle",
-    "permalink": "/docs/api/toggle"
   }
 }

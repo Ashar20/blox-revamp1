@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-reorder"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-refresher-content",
-    "permalink": "/docs/api/refresher-content"
-  },
-  "next": {
-    "title": "ion-reorder-group",
-    "permalink": "/docs/api/reorder-group"
   }
 }

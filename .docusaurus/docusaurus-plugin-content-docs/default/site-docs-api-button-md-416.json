@@ -17,8 +17,8 @@
   },
   "sidebar": "api",
   "previous": {
-    "title": "ion-breadcrumbs",
-    "permalink": "/docs/api/breadcrumbs"
+    "title": "Schema",
+    "permalink": "/docs/api/badge"
   },
   "next": {
     "title": "ion-ripple-effect",

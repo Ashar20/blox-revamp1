@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-item-option"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-item-options",
-    "permalink": "/docs/api/item-options"
-  },
-  "next": {
-    "title": "ion-label",
-    "permalink": "/docs/api/label"
   }
 }

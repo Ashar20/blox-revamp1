@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-modal"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-split-pane",
-    "permalink": "/docs/api/split-pane"
-  },
-  "next": {
-    "title": "ion-backdrop",
-    "permalink": "/docs/api/backdrop"
   }
 }

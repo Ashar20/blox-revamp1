@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-textarea"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-input",
-    "permalink": "/docs/api/input"
-  },
-  "next": {
-    "title": "ion-item",
-    "permalink": "/docs/api/item"
   }
 }

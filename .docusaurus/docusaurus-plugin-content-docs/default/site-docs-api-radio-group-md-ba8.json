@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-radio-group"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-radio",
-    "permalink": "/docs/api/radio"
-  },
-  "next": {
-    "title": "ion-range",
-    "permalink": "/docs/api/range"
   }
 }

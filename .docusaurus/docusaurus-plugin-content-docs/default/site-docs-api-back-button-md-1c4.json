@@ -16,14 +16,5 @@
     "hide_table_of_contents": true,
     "demoUrl": "/docs/demos/api/back-button/index.html",
     "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/back-button/index.html"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-buttons",
-    "permalink": "/docs/api/buttons"
-  },
-  "next": {
-    "title": "ion-text",
-    "permalink": "/docs/api/text"
   }
 }

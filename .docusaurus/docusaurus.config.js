@@ -1,6 +1,6 @@
 export default {
   "title": "Blox support",
-  "tagline": "Ionic is the app platform for web developers. Build amazing mobile, web, and desktop apps all with one shared code base and open web standards",
+  "tagline": "Welcome to Blox",
   "url": "https://ionicframework.com",
   "baseUrl": "/docs/",
   "i18n": {
@@ -24,11 +24,11 @@ export default {
     "metadata": [
       {
         "name": "og:image",
-        "content": "https://ionicframework.com/docs/img/meta/open-graph.png"
+        "content": "https://d1r1e7xjkfj7nz.cloudfront.net/bloxlight.png"
       },
       {
         "name": "twitter:image",
-        "content": "https://ionicframework.com/docs/img/meta/open-graph.png"
+        "content": "https://d1r1e7xjkfj7nz.cloudfront.net/bloxlight.png"
       },
       {
         "name": "twitter:card",

@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-nav"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-backdrop",
-    "permalink": "/docs/api/backdrop"
-  },
-  "next": {
-    "title": "ion-nav-link",
-    "permalink": "/docs/api/nav-link"
   }
 }

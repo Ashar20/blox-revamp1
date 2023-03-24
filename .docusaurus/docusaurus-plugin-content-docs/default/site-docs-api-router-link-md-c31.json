@@ -16,14 +16,5 @@
     "hide_table_of_contents": true,
     "demoUrl": "/docs/demos/api/router-link/index.html",
     "demoSourceUrl": "https://github.com/ionic-team/ionic-docs/tree/main/static/demos/api/router-link/index.html"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-router",
-    "permalink": "/docs/api/router"
-  },
-  "next": {
-    "title": "ion-router-outlet",
-    "permalink": "/docs/api/router-outlet"
   }
 }

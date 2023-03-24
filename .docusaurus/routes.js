@@ -2871,7 +2871,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/','5c9'),
+    component: ComponentCreator('/docs/','a28'),
     routes: [
       {
         path: '/docs/',
@@ -2881,21 +2881,18 @@ export default [
       },
       {
         path: '/docs/api',
-        component: ComponentCreator('/docs/api','91e'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api','cba'),
+        exact: true
       },
       {
         path: '/docs/api/accordion-group',
-        component: ComponentCreator('/docs/api/accordion-group','9d7'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/accordion-group','021'),
+        exact: true
       },
       {
         path: '/docs/api/action-sheet',
-        component: ComponentCreator('/docs/api/action-sheet','c2b'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/action-sheet','d1e'),
+        exact: true
       },
       {
         path: '/docs/api/alert',
@@ -2905,27 +2902,28 @@ export default [
       },
       {
         path: '/docs/api/app',
-        component: ComponentCreator('/docs/api/app','fdf'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/app','c78'),
+        exact: true
       },
       {
         path: '/docs/api/avatar',
-        component: ComponentCreator('/docs/api/avatar','ec5'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/avatar','ca3'),
+        exact: true
+      },
+      {
+        path: '/docs/api/b',
+        component: ComponentCreator('/docs/api/b','71c'),
+        exact: true
       },
       {
         path: '/docs/api/back-button',
-        component: ComponentCreator('/docs/api/back-button','a5a'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/back-button','f78'),
+        exact: true
       },
       {
         path: '/docs/api/backdrop',
-        component: ComponentCreator('/docs/api/backdrop','36e'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/backdrop','921'),
+        exact: true
       },
       {
         path: '/docs/api/badge',
@@ -2935,15 +2933,13 @@ export default [
       },
       {
         path: '/docs/api/breadcrumb',
-        component: ComponentCreator('/docs/api/breadcrumb','7e5'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/breadcrumb','ec4'),
+        exact: true
       },
       {
         path: '/docs/api/breadcrumbs',
-        component: ComponentCreator('/docs/api/breadcrumbs','736'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/breadcrumbs','180'),
+        exact: true
       },
       {
         path: '/docs/api/button',
@@ -2953,297 +2949,248 @@ export default [
       },
       {
         path: '/docs/api/buttons',
-        component: ComponentCreator('/docs/api/buttons','22e'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/buttons','68e'),
+        exact: true
       },
       {
         path: '/docs/api/card',
-        component: ComponentCreator('/docs/api/card','753'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/card','936'),
+        exact: true
       },
       {
         path: '/docs/api/card-content',
-        component: ComponentCreator('/docs/api/card-content','37d'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/card-content','e8d'),
+        exact: true
       },
       {
         path: '/docs/api/card-header',
-        component: ComponentCreator('/docs/api/card-header','094'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/card-header','4bd'),
+        exact: true
       },
       {
         path: '/docs/api/card-subtitle',
-        component: ComponentCreator('/docs/api/card-subtitle','f4e'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/card-subtitle','2a4'),
+        exact: true
       },
       {
         path: '/docs/api/card-title',
-        component: ComponentCreator('/docs/api/card-title','e74'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/card-title','a19'),
+        exact: true
       },
       {
         path: '/docs/api/checkbox',
-        component: ComponentCreator('/docs/api/checkbox','575'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/checkbox','6a8'),
+        exact: true
       },
       {
         path: '/docs/api/chip',
-        component: ComponentCreator('/docs/api/chip','137'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/chip','6fd'),
+        exact: true
       },
       {
         path: '/docs/api/col',
-        component: ComponentCreator('/docs/api/col','31a'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/col','8bb'),
+        exact: true
       },
       {
         path: '/docs/api/content',
-        component: ComponentCreator('/docs/api/content','2b4'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/content','f0f'),
+        exact: true
       },
       {
         path: '/docs/api/datetime',
-        component: ComponentCreator('/docs/api/datetime','0a5'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/datetime','4bc'),
+        exact: true
       },
       {
         path: '/docs/api/datetime-button',
-        component: ComponentCreator('/docs/api/datetime-button','66e'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/datetime-button','bed'),
+        exact: true
       },
       {
         path: '/docs/api/fab',
-        component: ComponentCreator('/docs/api/fab','3f4'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/fab','f5b'),
+        exact: true
       },
       {
         path: '/docs/api/fab-button',
-        component: ComponentCreator('/docs/api/fab-button','7d8'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/fab-button','848'),
+        exact: true
       },
       {
         path: '/docs/api/fab-list',
-        component: ComponentCreator('/docs/api/fab-list','1ba'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/fab-list','e41'),
+        exact: true
       },
       {
         path: '/docs/api/footer',
-        component: ComponentCreator('/docs/api/footer','467'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/footer','98b'),
+        exact: true
       },
       {
         path: '/docs/api/grid',
-        component: ComponentCreator('/docs/api/grid','b99'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/grid','50b'),
+        exact: true
       },
       {
         path: '/docs/api/header',
-        component: ComponentCreator('/docs/api/header','e89'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/header','828'),
+        exact: true
       },
       {
         path: '/docs/api/img',
-        component: ComponentCreator('/docs/api/img','f12'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/img','c0a'),
+        exact: true
       },
       {
         path: '/docs/api/infinite-scroll',
-        component: ComponentCreator('/docs/api/infinite-scroll','f09'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/infinite-scroll','6b8'),
+        exact: true
       },
       {
         path: '/docs/api/infinite-scroll-content',
-        component: ComponentCreator('/docs/api/infinite-scroll-content','c52'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/infinite-scroll-content','0d9'),
+        exact: true
       },
       {
         path: '/docs/api/input',
-        component: ComponentCreator('/docs/api/input','da7'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/input','0cc'),
+        exact: true
       },
       {
         path: '/docs/api/item',
-        component: ComponentCreator('/docs/api/item','dd0'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/item','d53'),
+        exact: true
       },
       {
         path: '/docs/api/item-divider',
-        component: ComponentCreator('/docs/api/item-divider','5b9'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/item-divider','0cb'),
+        exact: true
       },
       {
         path: '/docs/api/item-group',
-        component: ComponentCreator('/docs/api/item-group','9a6'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/item-group','211'),
+        exact: true
       },
       {
         path: '/docs/api/item-option',
-        component: ComponentCreator('/docs/api/item-option','c23'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/item-option','8be'),
+        exact: true
       },
       {
         path: '/docs/api/item-options',
-        component: ComponentCreator('/docs/api/item-options','67f'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/item-options','131'),
+        exact: true
       },
       {
         path: '/docs/api/item-sliding',
-        component: ComponentCreator('/docs/api/item-sliding','a44'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/item-sliding','887'),
+        exact: true
       },
       {
         path: '/docs/api/label',
-        component: ComponentCreator('/docs/api/label','e87'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/label','4f0'),
+        exact: true
       },
       {
         path: '/docs/api/list',
-        component: ComponentCreator('/docs/api/list','ed1'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/list','f85'),
+        exact: true
       },
       {
         path: '/docs/api/list-header',
-        component: ComponentCreator('/docs/api/list-header','b0a'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/list-header','4b1'),
+        exact: true
       },
       {
         path: '/docs/api/loading',
-        component: ComponentCreator('/docs/api/loading','2c6'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/loading','50f'),
+        exact: true
       },
       {
         path: '/docs/api/menu',
-        component: ComponentCreator('/docs/api/menu','442'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/menu','846'),
+        exact: true
       },
       {
         path: '/docs/api/menu-button',
-        component: ComponentCreator('/docs/api/menu-button','117'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/menu-button','0e3'),
+        exact: true
       },
       {
         path: '/docs/api/menu-toggle',
-        component: ComponentCreator('/docs/api/menu-toggle','dba'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/menu-toggle','ed6'),
+        exact: true
       },
       {
         path: '/docs/api/modal',
-        component: ComponentCreator('/docs/api/modal','b8c'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/modal','d31'),
+        exact: true
       },
       {
         path: '/docs/api/nav',
-        component: ComponentCreator('/docs/api/nav','000'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/nav','f40'),
+        exact: true
       },
       {
         path: '/docs/api/nav-link',
-        component: ComponentCreator('/docs/api/nav-link','2f4'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/nav-link','a10'),
+        exact: true
       },
       {
         path: '/docs/api/note',
-        component: ComponentCreator('/docs/api/note','2ae'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/note','675'),
+        exact: true
       },
       {
         path: '/docs/api/picker',
-        component: ComponentCreator('/docs/api/picker','1bd'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/picker','f7d'),
+        exact: true
       },
       {
         path: '/docs/api/popover',
-        component: ComponentCreator('/docs/api/popover','097'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/popover','479'),
+        exact: true
       },
       {
         path: '/docs/api/progress-bar',
-        component: ComponentCreator('/docs/api/progress-bar','b97'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/progress-bar','9a4'),
+        exact: true
       },
       {
         path: '/docs/api/radio',
-        component: ComponentCreator('/docs/api/radio','435'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/radio','0da'),
+        exact: true
       },
       {
         path: '/docs/api/radio-group',
-        component: ComponentCreator('/docs/api/radio-group','632'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/radio-group','70f'),
+        exact: true
       },
       {
         path: '/docs/api/range',
-        component: ComponentCreator('/docs/api/range','eab'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/range','7ce'),
+        exact: true
       },
       {
         path: '/docs/api/refresher',
-        component: ComponentCreator('/docs/api/refresher','887'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/refresher','17c'),
+        exact: true
       },
       {
         path: '/docs/api/refresher-content',
-        component: ComponentCreator('/docs/api/refresher-content','1c3'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/refresher-content','49f'),
+        exact: true
       },
       {
         path: '/docs/api/reorder',
-        component: ComponentCreator('/docs/api/reorder','b1d'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/reorder','d86'),
+        exact: true
       },
       {
         path: '/docs/api/reorder-group',
-        component: ComponentCreator('/docs/api/reorder-group','0ac'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/reorder-group','033'),
+        exact: true
       },
       {
         path: '/docs/api/ripple-effect',
@@ -3253,171 +3200,143 @@ export default [
       },
       {
         path: '/docs/api/route',
-        component: ComponentCreator('/docs/api/route','e01'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/route','294'),
+        exact: true
       },
       {
         path: '/docs/api/route-redirect',
-        component: ComponentCreator('/docs/api/route-redirect','758'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/route-redirect','cbe'),
+        exact: true
       },
       {
         path: '/docs/api/router',
-        component: ComponentCreator('/docs/api/router','213'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/router','d22'),
+        exact: true
       },
       {
         path: '/docs/api/router-link',
-        component: ComponentCreator('/docs/api/router-link','27b'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/router-link','f44'),
+        exact: true
       },
       {
         path: '/docs/api/router-outlet',
-        component: ComponentCreator('/docs/api/router-outlet','42d'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/router-outlet','cef'),
+        exact: true
       },
       {
         path: '/docs/api/row',
-        component: ComponentCreator('/docs/api/row','109'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/row','099'),
+        exact: true
       },
       {
         path: '/docs/api/searchbar',
-        component: ComponentCreator('/docs/api/searchbar','443'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/searchbar','908'),
+        exact: true
       },
       {
         path: '/docs/api/segment',
-        component: ComponentCreator('/docs/api/segment','0e0'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/segment','1c1'),
+        exact: true
       },
       {
         path: '/docs/api/segment-button',
-        component: ComponentCreator('/docs/api/segment-button','51a'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/segment-button','970'),
+        exact: true
       },
       {
         path: '/docs/api/select',
-        component: ComponentCreator('/docs/api/select','398'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/select','a2b'),
+        exact: true
       },
       {
         path: '/docs/api/select-option',
-        component: ComponentCreator('/docs/api/select-option','cbf'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/select-option','f45'),
+        exact: true
       },
       {
         path: '/docs/api/skeleton-text',
-        component: ComponentCreator('/docs/api/skeleton-text','f6e'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/skeleton-text','cb2'),
+        exact: true
       },
       {
         path: '/docs/api/slide',
-        component: ComponentCreator('/docs/api/slide','e53'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/slide','c1c'),
+        exact: true
       },
       {
         path: '/docs/api/slides',
-        component: ComponentCreator('/docs/api/slides','b72'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/slides','1e6'),
+        exact: true
       },
       {
         path: '/docs/api/spinner',
-        component: ComponentCreator('/docs/api/spinner','8ca'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/spinner','8dd'),
+        exact: true
       },
       {
         path: '/docs/api/split-pane',
-        component: ComponentCreator('/docs/api/split-pane','4ef'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/split-pane','afb'),
+        exact: true
       },
       {
         path: '/docs/api/tab',
-        component: ComponentCreator('/docs/api/tab','114'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/tab','27c'),
+        exact: true
       },
       {
         path: '/docs/api/tab-bar',
-        component: ComponentCreator('/docs/api/tab-bar','ade'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/tab-bar','031'),
+        exact: true
       },
       {
         path: '/docs/api/tab-button',
-        component: ComponentCreator('/docs/api/tab-button','f4a'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/tab-button','113'),
+        exact: true
       },
       {
         path: '/docs/api/tabs',
-        component: ComponentCreator('/docs/api/tabs','f18'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/tabs','8da'),
+        exact: true
       },
       {
         path: '/docs/api/text',
-        component: ComponentCreator('/docs/api/text','167'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/text','d63'),
+        exact: true
       },
       {
         path: '/docs/api/textarea',
-        component: ComponentCreator('/docs/api/textarea','20e'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/textarea','3b5'),
+        exact: true
       },
       {
         path: '/docs/api/thumbnail',
-        component: ComponentCreator('/docs/api/thumbnail','ea3'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/thumbnail','e62'),
+        exact: true
       },
       {
         path: '/docs/api/title',
-        component: ComponentCreator('/docs/api/title','993'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/title','924'),
+        exact: true
       },
       {
         path: '/docs/api/toast',
-        component: ComponentCreator('/docs/api/toast','b44'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/toast','6f4'),
+        exact: true
       },
       {
         path: '/docs/api/toggle',
-        component: ComponentCreator('/docs/api/toggle','8db'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/toggle','173'),
+        exact: true
       },
       {
         path: '/docs/api/toolbar',
-        component: ComponentCreator('/docs/api/toolbar','01d'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/toolbar','b26'),
+        exact: true
       },
       {
         path: '/docs/api/virtual-scroll',
-        component: ComponentCreator('/docs/api/virtual-scroll','0d6'),
-        exact: true,
-        'sidebar': "api"
+        component: ComponentCreator('/docs/api/virtual-scroll','c01'),
+        exact: true
       },
       {
         path: '/docs/Audience Hub/android',
@@ -3812,9 +3731,9 @@ export default [
       },
       {
         path: '/docs/components',
-        component: ComponentCreator('/docs/components','e19'),
+        component: ComponentCreator('/docs/components','940'),
         exact: true,
-        'sidebar': "api"
+        'sidebar': "sdk"
       },
       {
         path: '/docs/Content Hub/Enrich/dataorg',
@@ -5288,6 +5207,11 @@ export default [
       {
         path: '/docs/react',
         component: ComponentCreator('/docs/react','4d5'),
+        exact: true
+      },
+      {
+        path: '/docs/sdk/components',
+        component: ComponentCreator('/docs/sdk/components','c4c'),
         exact: true
       },
       {

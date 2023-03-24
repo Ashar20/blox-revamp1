@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-grid"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-fab-list",
-    "permalink": "/docs/api/fab-list"
-  },
-  "next": {
-    "title": "ion-col",
-    "permalink": "/docs/api/col"
   }
 }

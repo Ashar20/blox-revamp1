@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-col"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-grid",
-    "permalink": "/docs/api/grid"
-  },
-  "next": {
-    "title": "ion-row",
-    "permalink": "/docs/api/row"
   }
 }

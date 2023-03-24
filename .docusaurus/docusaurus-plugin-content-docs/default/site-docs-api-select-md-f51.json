@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-select"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-segment-button",
-    "permalink": "/docs/api/segment-button"
-  },
-  "next": {
-    "title": "ion-select-option",
-    "permalink": "/docs/api/select-option"
   }
 }

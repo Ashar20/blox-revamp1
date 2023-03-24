@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-picker"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-datetime-button",
-    "permalink": "/docs/api/datetime-button"
-  },
-  "next": {
-    "title": "ion-fab",
-    "permalink": "/docs/api/fab"
   }
 }

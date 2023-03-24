@@ -13,14 +13,5 @@
   "version": "current",
   "frontMatter": {
     "title": "ion-chip"
-  },
-  "sidebar": "api",
-  "previous": {
-    "title": "ion-checkbox",
-    "permalink": "/docs/api/checkbox"
-  },
-  "next": {
-    "title": "ion-app",
-    "permalink": "/docs/api/app"
   }
 }

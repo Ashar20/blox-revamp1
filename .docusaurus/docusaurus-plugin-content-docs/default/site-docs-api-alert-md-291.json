@@ -16,10 +16,6 @@
     "sidebar_label": "Catalog Manager"
   },
   "sidebar": "api",
-  "previous": {
-    "title": "ion-accordion-group",
-    "permalink": "/docs/api/accordion-group"
-  },
   "next": {
     "title": "Schema",
     "permalink": "/docs/api/badge"
